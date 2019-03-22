@@ -1,0 +1,1045 @@
+Name,Dex,Dex_Suffix,Alt,Item,Class,LDex,LDex_Suffix,Type,Type2,Female,Male,Unbreedable,Egg Group 1,Egg Group 2,Cycles,Steps_Gen2,Steps_Gen3,Steps_Gen4,Steps_Gen5,Steps_Gen6,WeightLbs,WeightKg,Experience type,Body,Type1
+Blissey,242,,,,,223,,Normal,,1,0,,Fairy,,40,10240,10496,10455,10280,10240,103.2,46.8,Fast,"bipedal, tailless form",Normal
+Groudon,383,P,,Red Orb,Primal,199,,Ground,Fire,,,U,Undiscovered,,120,,30976,30855,30840,30720,2094.4,950,Slow,"bipedal, tailed form",Ground
+Noivern,715,,,,,114,Mo,Flying,Dragon,1,1,,Flying,,20,,,,5140,5120,187.4,85,Medium Fast,single pair of wings,Flying
+Gogoat,673,,,,,90,Ce,Grass,,1,1,,Field,,20,,,,5140,5120,200.6,91,Medium Fast,quadruped body,Grass
+Lunatone,337,,,,,125,,Rock,Psychic,,,,Mineral,,25,,6656,6630,6425,6400,370.4,168,Fast,head,Rock
+Huntail,367,,,,,177,,Water,,1,1,,Water 1,,20,,5376,5355,5140,5120,59.5,27,Erratic,serpentine bodies,Water
+Silvally,773,,,,Type: Ice,204,,Normal,,,,U,Undiscovered,,120,,,,,30720,221.6,100.5,Slow,quadruped body,Normal
+Eelektrik,603,,,,,109,,Electric,,1,1,,Amorphous,,20,,,,5140,5120,48.5,22,Slow,fins,Electric
+Talonflame,663,,,,,16,Ce,Fire,Flying,1,1,,Flying,,15,,,,3855,3840,54,24.5,Medium Slow,single pair of wings,Fire
+Flabébé,669,,,,Red Flower,68,Ce,Fairy,,1,0,,Fairy,,20,,,,5140,5120,0.2,0.1,Medium Fast,head and arms,Fairy
+Scatterbug,664,,,,,20,Ce,Bug,,1,1,,Bug,,15,,,,3855,3840,5.5,2.5,Medium Fast,insectoid body,Bug
+Petilil,548,,,,,54,,Grass,,1,0,,Grass,,20,,,,5140,5120,14.6,6.6,Medium Fast,head and a base,Grass
+Umbreon,197,,,,,189,,Dark,,1,7,,Field,,35,8960,9216,9180,8995,8960,59.5,27,Medium Fast,quadruped body,Dark
+Tynamo,602,,,,,108,,Electric,,1,1,,Amorphous,,20,,,,5140,5120,0.7,0.3,Slow,fins,Electric
+Shiftry,275,,,,,24,,Grass,Dark,1,1,,Field,Grass,15,,4096,4080,3855,3840,131.4,59.6,Medium Slow,"bipedal, tailless form",Grass
+Shiinotic,756,,,,,146,,Grass,Fairy,1,1,,Grass,,20,,,,,5120,25.4,11.5,Medium Fast,"bipedal, tailless form",Grass
+Simisage,512,,,,,18,,Grass,,1,7,,Field,,20,,,,5140,5120,67.2,30.5,Medium Fast,"bipedal, tailed form",Grass
+Cacturne,332,,,,,120,,Grass,Dark,1,1,,Grass,Human-Like,20,,5376,5355,5140,5120,170.6,77.4,Medium Slow,"bipedal, tailless form",Grass
+Slowbro,80,,,,,80,,Water,Psychic,1,1,,Monster,Water 1,20,5120,5376,5355,5140,5120,173.1,78.5,Medium Fast,"bipedal, tailed form",Water
+Froslass,478,,,,,208,,Ice,Ghost,1,0,,Fairy,Mineral,20,,,5355,5140,5120,58.6,26.6,Medium Fast,head and arms,Ice
+Krookodile,553,,,,,59,,Ground,Dark,1,1,,Field,,20,,,,5140,5120,212.3,96.3,Medium Slow,"bipedal, tailed form",Ground
+Buizel,418,,,,,56,,Water,,1,1,,Water 1,Field,20,,,5355,5140,5120,65,29.5,Medium Fast,quadruped body,Water
+Cherrim,421,,,,Sunshine Form,59,,Grass,,1,1,,Fairy,Grass,20,,,5355,5140,5120,20.5,9.3,Medium Fast,head and legs,Grass
+Sandile,551,,,,,57,,Ground,Dark,1,1,,Field,,20,,,,5140,5120,33.5,15.2,Medium Slow,quadruped body,Ground
+Axew,610,,,,,116,,Dragon,,1,1,,Monster,Dragon,40,,,,10280,10240,39.7,18,Slow,"bipedal, tailed form",Dragon
+Archen,566,,,,,72,,Rock,Flying,1,7,,Flying,Water 3,30,,,,7710,7680,20.9,9.5,Medium Fast,single pair of wings,Rock
+Shaymin,492,,,,Land Forme,,,Grass,,,,U,Undiscovered,,120,,,30855,30840,30720,4.6,2.1,Medium Slow,quadruped body,Grass
+Claydol,344,,,,,132,,Ground,Psychic,,,,Mineral,,20,,5376,5355,5140,5120,238,107.9,Medium Fast,head and arms,Ground
+Gothorita,575,,,,,81,,Psychic,,3,1,,Human-Like,,20,,,,5140,5120,39.7,18,Medium Slow,"bipedal, tailless form",Psychic
+Staryu,120,,,,,120,,Water,,,,,Water 3,,20,5120,5376,5355,5140,5120,76.1,34.5,Slow,head and a base,Water
+Gallade,475,M,,Galladite,Mega,160,,Psychic,Fighting,0,1,,Amorphous,,20,,,5355,5140,5120,114.6,52,Slow,"bipedal, tailless form",Psychic
+Kirlia,281,,,,,30,,Psychic,Fairy,1,1,,Amorphous,,20,,5376,5355,5140,5120,44.5,20.2,Slow,"bipedal, tailless form",Psychic
+Pangoro,675,,,,,92,Ce,Fighting,Dark,1,1,,Field,Human-Like,25,,,,6425,6400,299.8,136,Medium Fast,"bipedal, tailless form",Fighting
+Pignite,499,,,,,5,,Fire,Fighting,1,7,,Field,,20,,,,5140,5120,122.4,55.5,Medium Slow,"bipedal, tailed form",Fire
+Aron,304,,,,,70,,Steel,Rock,1,1,,Monster,,35,,9216,9180,8995,8960,132.3,60,Slow,quadruped body,Steel
+Dewgong,87,,,,,87,,Water,Ice,1,1,,Water 1,Field,20,5120,5376,5355,5140,5120,264.6,120,Medium Fast,fins,Water
+Hakamo-o,783,,,,,272,,Dragon,Fighting,1,1,,Dragon,,40,,,,,10240,103.6,47,Slow,"bipedal, tailed form",Dragon
+Mr. Mime,122,,,,,122,,Psychic,Fairy,1,1,,Human-Like,,25,6400,6656,6630,6425,6400,120.1,54.5,Medium Fast,"bipedal, tailless form",Psychic
+Passimian,766,,,,,177,,Fighting,,1,1,,Field,,20,,,,,5120,182.5,82.8,Slow,"bipedal, tailed form",Fighting
+Happiny,440,,,,,96,,Normal,,1,0,U,Undiscovered,,40,,,10455,10280,10240,53.8,24.4,Fast,"bipedal, tailless form",Normal
+Spinarak,167,,,,,32,,Bug,Poison,1,1,,Bug,,15,3840,4096,4080,3855,3840,18.7,8.5,Fast,insectoid body,Bug
+Regirock,377,,,,,193,,Rock,,,,U,Undiscovered,,80,,20736,20655,20560,20480,507.1,230,Slow,"bipedal, tailless form",Rock
+Pikachu,25,,,,Alola Cap,25,,Electric,,1,1,,Field,Fairy,10,2560,2816,2805,2570,2560,13.2,6,Medium Fast,quadruped body,Electric
+Arceus,493,,,,Type: Dragon,,,Normal,,,,U,Undiscovered,,120,,,30855,30840,30720,705.5,320,Slow,quadruped body,Normal
+Hypno,97,,,,,97,,Psychic,,1,1,,Human-Like,,20,5120,5376,5355,5140,5120,166.7,75.6,Medium Fast,"bipedal, tailless form",Psychic
+Durant,632,,,,,138,,Bug,Steel,1,1,,Bug,,20,,,,5140,5120,72.8,33,Medium Fast,insectoid body,Bug
+Meloetta,648,P,,,Pirouette Forme,154,,Normal,Fighting,,,U,Undiscovered,,120,,,,30840,30720,14.3,6.5,Slow,"bipedal, tailless form",Normal
+Raticate,20,,,,,20,,Normal,,1,1,,Field,,15,3840,4096,4080,3855,3840,40.8,18.5,Medium Fast,quadruped body,Normal
+Necrozma,800,,,,Dawn Wings,300,,Psychic,,,,U,Undiscovered,,120,,,,,30720,507.1,230,Slow,head and arms,Psychic
+Hawlucha,701,,,,,89,Co,Fighting,Flying,1,1,,Human-Like,,20,,,,5140,5120,47.4,21.5,Medium Fast,"bipedal, tailless form",Fighting
+Gallade,475,,,,,160,,Psychic,Fighting,0,1,,Amorphous,,20,,,5355,5140,5120,114.6,52,Slow,"bipedal, tailless form",Psychic
+Throh,538,,,,,44,,Fighting,,0,1,,Human-Like,,20,,,,5140,5120,122.4,55.5,Medium Fast,"bipedal, tailless form",Fighting
+Togepi,175,,,,,46,,Fairy,,1,7,U,Undiscovered,,10,2560,2816,2805,2570,2560,3.3,1.5,Fast,"bipedal, tailless form",Fairy
+Piloswine,221,,,,,196,,Ice,Ground,1,1,,Field,,20,5120,5376,5355,5140,5120,123,55.8,Slow,quadruped body,Ice
+Shuppet,353,,,,,146,,Ghost,,1,1,,Amorphous,,25,,6656,6630,6425,6400,5.1,2.3,Fast,head,Ghost
+Silvally,773,,,,Type: Dragon,204,,Normal,,,,U,Undiscovered,,120,,,,,30720,221.6,100.5,Slow,quadruped body,Normal
+Pumpkaboo,710,,,,Super Size,63,Mo,Ghost,Grass,1,1,,Amorphous,,20,,,,5140,5120,33.1,15,Medium Fast,head,Ghost
+Slowbro,80,M,,Slowbronite,Mega,80,,Water,Psychic,1,1,,Monster,Water 1,20,5120,5376,5355,5140,5120,173.1,78.5,Medium Fast,"bipedal, tailed form",Water
+Ponyta,77,,,,,77,,Fire,,1,1,,Field,,20,5120,5376,5355,5140,5120,66.1,30,Medium Fast,quadruped body,Fire
+Probopass,476,,,,,156,,Rock,Steel,1,1,,Mineral,,20,,,5355,5140,5120,749.6,340,Medium Fast,multiple bodies,Rock
+Marowak,105,,,,,105,,Ground,,1,1,,Monster,,20,5120,5376,5355,5140,5120,99.2,45,Medium Fast,"bipedal, tailed form",Ground
+Kyogre,382,,,,,198,,Water,,,,U,Undiscovered,,120,,30976,30855,30840,30720,776,352,Slow,fins,Water
+Honedge,679,,,,,117,Ce,Steel,Ghost,1,1,,Mineral,,20,,,,5140,5120,4.4,2,Medium Fast,head and a base,Steel
+Flabébé,669,,,,Orange Flower,68,Ce,Fairy,,1,0,,Fairy,,20,,,,5140,5120,0.2,0.1,Medium Fast,head and arms,Fairy
+Salamence,373,M,,Salamencite,Mega,189,,Dragon,Flying,1,1,,Dragon,,40,,10496,10455,10280,10240,226.2,102.6,Slow,quadruped body,Dragon
+Cinccino,573,,,,,79,,Normal,,3,1,,Field,,15,,,,3855,3840,16.5,7.5,Fast,quadruped body,Normal
+Arceus,493,,,,Type: Dark,,,Normal,,,,U,Undiscovered,,120,,,30855,30840,30720,705.5,320,Slow,quadruped body,Normal
+Silvally,773,,,,Type: Grass,204,,Normal,,,,U,Undiscovered,,120,,,,,30720,221.6,100.5,Slow,quadruped body,Normal
+Registeel,379,,,,,195,,Steel,,,,U,Undiscovered,,80,,20736,20655,20560,20480,451.9,205,Slow,"bipedal, tailless form",Steel
+Dewott,502,,,,,8,,Water,,1,7,,Field,,20,,,,5140,5120,54,24.5,Medium Slow,"bipedal, tailed form",Water
+Furret,162,,,,,20,,Normal,,1,1,,Field,,15,3840,4096,4080,3855,3840,71.6,32.5,Medium Fast,quadruped body,Normal
+Pikachu,25,,,,Libre,25,,Electric,,1,1,,Field,Fairy,10,2560,2816,2805,2570,2560,13.2,6,Medium Fast,quadruped body,Electric
+Drowzee,96,,,,,96,,Psychic,,1,1,,Human-Like,,20,5120,5376,5355,5140,5120,71.4,32.4,Medium Fast,"bipedal, tailless form",Psychic
+Slowking,199,,,,,82,,Water,Psychic,1,1,,Monster,Water 1,20,5120,5376,5355,5140,5120,175.3,79.5,Medium Fast,"bipedal, tailed form",Water
+Cresselia,488,,,,,,,Psychic,,1,0,U,Undiscovered,,120,,,30855,30840,30720,188.7,85.6,Slow,serpentine bodies,Psychic
+Drapion,452,,,,,128,,Poison,Dark,1,1,,Bug,Water 3,20,,,5355,5140,5120,135.6,61.5,Slow,insectoid body,Poison
+Eevee,133,,,,,133,,Normal,,1,7,,Field,,35,8960,9216,9180,8995,8960,14.3,6.5,Medium Fast,quadruped body,Normal
+Vigoroth,288,,,,,37,,Normal,,1,1,,Field,,15,,4096,4080,3855,3840,102.5,46.5,Slow,"bipedal, tailed form",Normal
+Silvally,773,,,,Type: Ground,204,,Normal,,,,U,Undiscovered,,120,,,,,30720,221.6,100.5,Slow,quadruped body,Normal
+Absol,359,M,,Absolite,Mega,152,,Dark,,1,1,,Field,,25,,6656,6630,6425,6400,103.6,47,Medium Slow,quadruped body,Dark
+Gigalith,526,,,,,32,,Rock,,1,1,,Mineral,,15,,,,3855,3840,573.2,260,Medium Slow,tentacles or a multiped body,Rock
+Scraggy,559,,,,,65,,Dark,Fighting,1,1,,Field,Dragon,15,,,,3855,3840,26,11.8,Medium Fast,"bipedal, tailed form",Dark
+Tentacool,72,,,,,72,,Water,Poison,1,1,,Water 3,,20,5120,5376,5355,5140,5120,100.3,45.5,Slow,tentacles or a multiped body,Water
+Charjabug,737,,,,,28,,Bug,Electric,1,1,,Bug,,15,,,,,3840,23.1,10.5,Medium Fast,serpentine bodies,Bug
+Dunsparce,206,,,,,52,,Normal,,1,1,,Field,,20,5120,5376,5355,5140,5120,30.9,14,Medium Fast,serpentine bodies,Normal
+Gourgeist,711,,,,Small Size,64,Mo,Ghost,Grass,1,1,,Amorphous,,20,,,,5140,5120,20.9,9.5,Medium Fast,head and a base,Ghost
+Deino,633,,,,,139,,Dark,Dragon,1,1,,Dragon,,40,,,,10280,10240,38.1,17.3,Slow,quadruped body,Dark
+Vivillon,666,,,,Meadow Pattern,22,Ce,Bug,Flying,1,1,,Bug,,15,,,,3855,3840,37.5,17,Medium Fast,two or more pairs of wings,Bug
+Trumbeak,732,,,,,11,,Normal,Flying,1,1,,Flying,,15,,,,,3840,32.6,14.8,Medium Fast,single pair of wings,Normal
+Doduo,84,,,,,84,,Normal,Flying,1,1,,Flying,,20,5120,5376,5355,5140,5120,86.4,39.2,Medium Fast,head and legs,Normal
+Ampharos,181,M,,Ampharosite,Mega,55,,Electric,Dragon,1,1,,Monster,Field,20,5120,5376,5355,5140,5120,135.6,61.5,Medium Slow,"bipedal, tailed form",Electric
+Hoopa,720,,,,Confined,152,Ce,Psychic,Ghost,,,U,Undiscovered,,120,,,,30840,30720,19.8,9,Slow,head and arms,Psychic
+Vibrava,329,,,,,117,,Ground,Dragon,1,1,,Bug,,20,,5376,5355,5140,5120,33.7,15.3,Medium Slow,two or more pairs of wings,Ground
+Mamoswine,473,,,,,205,,Ice,Ground,1,1,,Field,,20,,,5355,5140,5120,641.5,291,Slow,quadruped body,Ice
+Tropius,357,,,,,150,,Grass,Flying,1,1,,Monster,Grass,25,,6656,6630,6425,6400,220.5,100,Slow,quadruped body,Grass
+Palossand,770,,,,,187,,Ghost,Ground,1,1,,Amorphous,,15,,,,,3840,551.2,250,Medium Fast,serpentine bodies,Ghost
+Groudon,383,,,,,199,,Ground,,,,U,Undiscovered,,120,,30976,30855,30840,30720,2094.4,950,Slow,"bipedal, tailed form",Ground
+Aipom,190,,,,,123,,Normal,,1,1,,Field,,20,5120,5376,5355,5140,5120,25.4,11.5,Fast,"bipedal, tailed form",Normal
+Nuzleaf,274,,,,,23,,Grass,Dark,1,1,,Field,Grass,15,,4096,4080,3855,3840,61.7,28,Medium Slow,"bipedal, tailless form",Grass
+Deerling,585,,,,Summer Form,91,,Normal,Grass,1,1,,Field,,20,,,,5140,5120,43,19.5,Medium Fast,quadruped body,Normal
+Lugia,249,,,,,252,,Psychic,Flying,,,U,Undiscovered,,120,30720,30976,30855,30840,30720,476.2,216,Slow,single pair of wings,Psychic
+Sylveon,700,,,,,85,Co,Fairy,,1,7,,Field,,35,,,,8995,8960,51.8,23.5,Medium Fast,quadruped body,Fairy
+Eevee,133,Pa,,,Partner,133,,Normal,,1,7,,Field,,35,8960,9216,9180,8995,8960,14.3,6.5,Medium Fast,quadruped body,Normal
+Tyranitar,248,,,,,251,,Rock,Dark,1,1,,Monster,,40,10240,10496,10455,10280,10240,445.3,202,Slow,"bipedal, tailed form",Rock
+Hoothoot,163,,,,,15,,Normal,Flying,1,1,,Flying,,15,3840,4096,4080,3855,3840,46.7,21.2,Medium Fast,single pair of wings,Normal
+Deerling,585,,,,Autumn Form,91,,Normal,Grass,1,1,,Field,,20,,,,5140,5120,43,19.5,Medium Fast,quadruped body,Normal
+Castform,351,H,,,Snowy Form,142,,Ice,,1,1,,Fairy,Amorphous,25,,6656,6630,6425,6400,1.8,0.8,Medium Fast,head,Normal
+Silvally,773,,,,Type: Fighting,204,,Normal,,,,U,Undiscovered,,120,,,,,30720,221.6,100.5,Slow,quadruped body,Normal
+Smeargle,235,,,,,159,,Normal,,1,1,,Field,,20,5120,5376,5355,5140,5120,127.9,58,Fast,"bipedal, tailed form",Normal
+Lunala,792,,,,,292,,Psychic,Ghost,,,U,Undiscovered,,120,,,,,30720,264.6,120,Slow,single pair of wings,Psychic
+Milotic,350,,,,,141,,Water,,1,1,,Water 1,Dragon,20,,5376,5355,5140,5120,357.1,162,Erratic,serpentine bodies,Water
+Mewtwo,150,MY,Y,,Mega  Y,150,,Psychic,,,,U,Undiscovered,,120,30720,30976,30855,30840,30720,269,122,Slow,"bipedal, tailed form",Psychic
+Pidgeot,18,,,,,18,,Normal,Flying,1,1,,Flying,,15,3840,4096,4080,3855,3840,87.1,39.5,Medium Slow,single pair of wings,Normal
+Komala,775,,,,,222,,Normal,,1,1,,Field,,20,,,,,5120,43.9,19.9,Slow,"bipedal, tailless form",Normal
+Vanilluxe,584,,,,,90,,Ice,,1,1,,Mineral,,20,,,,5140,5120,126.8,57.5,Slow,multiple bodies,Ice
+Druddigon,621,,,,,127,,Dragon,,1,1,,Dragon,Monster,30,,,,7710,7680,306.4,139,Medium Fast,"bipedal, tailed form",Dragon
+Linoone,264,,,,,13,,Normal,,1,1,,Field,,15,,4096,4080,3855,3840,71.6,32.5,Medium Fast,quadruped body,Normal
+Totodile,158,,,,,7,,Water,,1,7,,Monster,Water 1,20,5120,5376,5355,5140,5120,20.9,9.5,Medium Slow,"bipedal, tailed form",Water
+Zekrom,644,,,,,150,,Dragon,Electric,,,U,Undiscovered,,120,,,,30840,30720,760.6,345,Slow,"bipedal, tailed form",Dragon
+Electrode,101,,,,,101,,Electric,,,,,Mineral,,20,5120,5376,5355,5140,5120,146.8,66.6,Medium Fast,head,Electric
+Regice,378,,,,,194,,Ice,,,,U,Undiscovered,,80,,20736,20655,20560,20480,385.8,175,Slow,"bipedal, tailless form",Ice
+Meloetta,648,,,,Aria Forme,154,,Normal,Psychic,,,U,Undiscovered,,120,,,,30840,30720,14.3,6.5,Slow,"bipedal, tailless form",Normal
+Purrloin,509,,,,,15,,Dark,,1,1,,Field,,20,,,,5140,5120,22.3,10.1,Medium Fast,quadruped body,Dark
+Cradily,346,,,,,134,,Rock,Grass,1,7,,Water 3,,30,,7936,7905,7710,7680,133.2,60.4,Erratic,head and a base,Rock
+Entei,244,,,,,244,,Fire,,,,U,Undiscovered,,80,20480,20736,20655,20560,20480,436.5,198,Slow,quadruped body,Fire
+Bayleef,153,,,,,2,,Grass,,1,7,,Monster,Grass,20,5120,5376,5355,5140,5120,34.8,15.8,Medium Slow,quadruped body,Grass
+Slugma,218,,,,,216,,Fire,,1,1,,Amorphous,,20,5120,5376,5355,5140,5120,77.2,35,Medium Fast,serpentine bodies,Fire
+Raichu,26,A,,,Alolan,,,Electric,Psychic,1,1,,Field,Fairy,10,2560,2816,2805,2570,2560,66.1,30,Medium Fast,"bipedal, tailed form",Electric
+Volcanion,721,,,,,153,Ce,Fire,Water,,,U,Undiscovered,,120,,,,30840,30720,429.9,195,Slow,quadruped body,Fire
+Vivillon,666,,,,Poké Ball Pattern,22,Ce,Bug,Flying,1,1,,Bug,,15,,,,3855,3840,37.5,17,Medium Fast,two or more pairs of wings,Bug
+Nosepass,299,,,,,60,,Rock,,1,1,,Mineral,,20,,5376,5355,5140,5120,213.8,97,Medium Fast,"bipedal, tailless form",Rock
+Mankey,56,,,,,56,,Fighting,,1,1,,Field,,20,5120,5376,5355,5140,5120,61.7,28,Medium Fast,"bipedal, tailed form",Fighting
+Reshiram,643,,,,Overdrive mode,149,,Dragon,Fire,,,U,Undiscovered,,120,,,,30840,30720,727.5,330,Slow,single pair of wings,Dragon
+Furfrou,676,,,,Heart Trim,93,Ce,Normal,,1,1,,Field,,20,,,,5140,5120,61.7,28,Medium Fast,quadruped body,Normal
+Toucannon,733,,,,,12,,Normal,Flying,1,1,,Flying,,15,,,,,3840,57.3,26,Medium Fast,single pair of wings,Normal
+Gastrodon,423,,,,West Sea,61,,Water,Ground,1,1,,Water 1,Amorphous,20,,,5355,5140,5120,65.9,29.9,Medium Fast,serpentine bodies,Water
+Lilligant,549,,,,,55,,Grass,,1,0,,Grass,,20,,,,5140,5120,35.9,16.3,Medium Fast,head and a base,Grass
+Munna,517,,,,,23,,Psychic,,1,1,,Field,,10,,,,2570,2560,51.4,23.3,Fast,quadruped body,Psychic
+Ninetales,38,A,,,Alolan,,,Ice,Fairy,3,1,,Field,,20,5120,5376,5355,5140,5120,43.9,19.9,Medium Fast,quadruped body,Fire
+Electivire,466,,,,,199,,Electric,,1,3,,Human-Like,,25,,,6630,6425,6400,305.6,138.6,Medium Fast,"bipedal, tailed form",Electric
+Giratina,487,O,,,Origin Forme,210,,Ghost,Dragon,,,U,Undiscovered,,120,,,30855,30840,30720,1433,650,Slow,tentacles or a multiped body,Ghost
+Sharpedo,319,,,,,98,,Water,Dark,1,1,,Water 2,,20,,5376,5355,5140,5120,195.8,88.8,Slow,fins,Water
+Jumpluff,189,,,,,69,,Grass,Flying,1,1,,Fairy,Grass,20,5120,5376,5355,5140,5120,6.6,3,Medium Slow,"bipedal, tailed form",Grass
+Palkia,484,,,,,150,,Water,Dragon,,,U,Undiscovered,,120,,,30855,30840,30720,740.8,336,Slow,"bipedal, tailed form",Water
+Sandshrew,27,A,,,Alolan,,,Ice,Steel,1,1,,Field,,20,5120,5376,5355,5140,5120,26.5,12,Medium Fast,"bipedal, tailed form",Ground
+Mawile,303,,,,,69,,Steel,Fairy,1,1,,Field,Fairy,20,,5376,5355,5140,5120,25.4,11.5,Fast,"bipedal, tailless form",Steel
+Kakuna,14,,,,,14,,Bug,Poison,1,1,,Bug,,15,3840,4096,4080,3855,3840,22,10,Medium Fast,serpentine bodies,Bug
+Porygon2,233,,,,,221,,Normal,,,,,Mineral,,20,5120,5376,5355,5140,5120,71.6,32.5,Medium Fast,head and legs,Normal
+Farfetch'd,83,,,,,83,,Normal,Flying,1,1,,Flying,Field,20,5120,5376,5355,5140,5120,33.1,15,Medium Fast,single pair of wings,Normal
+Rowlet,722,,,,,1,,Grass,Flying,1,7,,Flying,,15,,,,,3840,3.3,1.5,Medium Slow,single pair of wings,Grass
+Burmy,412,,,,Plant Cloak,45,,Bug,,1,1,,Bug,,15,,,4080,3855,3840,7.5,3.4,Medium Fast,head and a base,Bug
+Amaura,698,,,,,66,Co,Rock,Ice,1,7,,Monster,,30,,,,7710,7680,55.6,25.2,Medium Fast,quadruped body,Rock
+Onix,95,,,,,95,,Rock,Ground,1,1,,Mineral,,25,6400,6656,6630,6425,6400,463,210,Medium Fast,serpentine bodies,Rock
+Machop,66,,,,,66,,Fighting,,1,3,,Human-Like,,20,5120,5376,5355,5140,5120,43,19.5,Medium Slow,"bipedal, tailed form",Fighting
+Tapu Koko,785,,,,,285,,Electric,Fairy,,,U,Undiscovered,,15,,,,,3840,45.2,20.5,Slow,head and arms,Electric
+Squirtle,7,,,,,7,,Water,,1,7,,Monster,Water 1,20,5120,5376,5355,5140,5120,19.8,9,Medium Slow,"bipedal, tailed form",Water
+Gourgeist,711,,,,Super Size,64,Mo,Ghost,Grass,1,1,,Amorphous,,20,,,,5140,5120,86,39,Medium Fast,head and a base,Ghost
+Elekid,239,,,,,156,,Electric,,1,3,U,Undiscovered,,25,6400,6656,6630,6425,6400,51.8,23.5,Medium Fast,"bipedal, tailless form",Electric
+Weavile,461,,,,,145,,Dark,Ice,1,1,,Field,,20,,,5355,5140,5120,75,34,Medium Slow,"bipedal, tailed form",Dark
+Oricorio,741,Pa,,,Baile Style,82,,Psychic,Flying,3,1,,Flying,,20,,,,,5120,7.5,3.4,Medium Fast,single pair of wings,Fire
+Vanillite,582,,,,,88,,Ice,,1,1,,Mineral,,20,,,,5140,5120,12.6,5.7,Slow,head and a base,Ice
+Togedemaru,777,,,,,225,,Electric,Steel,1,1,,Field,Fairy,10,,,,,2560,7.3,3.3,Medium Fast,"bipedal, tailed form",Electric
+Flabébé,669,,,,White Flower,68,Ce,Fairy,,1,0,,Fairy,,20,,,,5140,5120,0.2,0.1,Medium Fast,head and arms,Fairy
+Cranidos,408,,,,,36,,Rock,,1,7,,Monster,,30,,,7905,7710,7680,69.4,31.5,Erratic,"bipedal, tailed form",Rock
+Quagsire,195,,,,,57,,Water,Ground,1,1,,Water 1,Field,20,5120,5376,5355,5140,5120,165.3,75,Medium Fast,"bipedal, tailed form",Water
+Regigigas,486,,,,,,,Normal,,,,U,Undiscovered,,120,,,30855,30840,30720,925.9,420,Slow,"bipedal, tailless form",Normal
+Spearow,21,,,,,21,,Normal,Flying,1,1,,Flying,,15,3840,4096,4080,3855,3840,4.4,2,Medium Fast,single pair of wings,Normal
+Combusken,256,,,,,5,,Fire,Fighting,1,7,,Field,,20,,5376,5355,5140,5120,43,19.5,Medium Slow,"bipedal, tailed form",Fire
+Xerneas,716,,,,Active Mode,148,Mo,Fairy,,,,U,Undiscovered,,120,,,,30840,30720,474,215,Slow,quadruped body,Fairy
+Blitzle,522,,,,,28,,Electric,,1,1,,Field,,20,,,,5140,5120,65.7,29.8,Medium Fast,quadruped body,Electric
+Beedrill,15,,,,,15,,Bug,Poison,1,1,,Bug,,15,3840,4096,4080,3855,3840,65,29.5,Medium Fast,two or more pairs of wings,Bug
+Surskit,283,,,,,32,,Bug,Water,1,1,,Water 1,Bug,15,,4096,4080,3855,3840,3.7,1.7,Medium Fast,insectoid body,Bug
+Geodude,74,,,,,74,,Rock,Ground,1,1,,Mineral,,15,3840,4096,4080,3855,3840,44.1,20,Medium Slow,head and arms,Rock
+Lycanroc,745,Mn,,,Midnight Form,104,,Rock,,1,1,,Field,,15,,,,,3840,55.1,25,Medium Fast,quadruped body,Rock
+Kyurem,646,B,,,Black,152,,Dragon,Ice,,,U,Undiscovered,,120,,,,30840,30720,716.5,325,Slow,"bipedal, tailed form",Dragon
+Oricorio,741,Se,,,Pom-Pom Style,82,,Ghost,Flying,3,1,,Flying,,20,,,,,5120,7.5,3.4,Medium Fast,single pair of wings,Fire
+Zygarde,718,C,,,Complete Forme,150,Mo,Dragon,Ground,,,U,Undiscovered,,120,,,,30840,30720,1344.8,610,Slow,"bipedal, tailed form",Dragon
+Zangoose,335,,,,,123,,Normal,,1,1,,Field,,20,,5376,5355,5140,5120,88.8,40.3,Erratic,"bipedal, tailed form",Normal
+Noctowl,164,,,,,16,,Normal,Flying,1,1,,Flying,,15,3840,4096,4080,3855,3840,89.9,40.8,Medium Fast,single pair of wings,Normal
+Silvally,773,,,,Type: Normal,204,,Normal,,,,U,Undiscovered,,120,,,,,30720,221.6,100.5,Slow,quadruped body,Normal
+Geodude,74,A,,,Alolan,,,Rock,Electric,1,1,,Mineral,,15,3840,4096,4080,3855,3840,44.1,20,Medium Slow,head and arms,Rock
+Landorus,645,,,,Incarnate Forme,151,,Ground,Flying,0,1,U,Undiscovered,,120,,,,30840,30720,149.9,68,Slow,head and arms,Ground
+Golbat,42,,,,,42,,Poison,Flying,1,1,,Flying,,15,3840,4096,4080,3855,3840,121.3,55,Medium Fast,single pair of wings,Poison
+Shelmet,616,,,,,122,,Bug,,1,1,,Bug,,15,,,,3855,3840,17,7.7,Medium Fast,head,Bug
+Cyndaquil,155,,,,,4,,Fire,,1,7,,Field,,20,5120,5376,5355,5140,5120,17.4,7.9,Medium Slow,"bipedal, tailless form",Fire
+Azelf,482,,,,,148,,Psychic,,,,U,Undiscovered,,80,,,20655,20560,20480,0.7,0.3,Slow,"bipedal, tailed form",Psychic
+Decidueye,724,,,,,3,,Grass,Ghost,1,7,,Flying,,15,,,,,3840,80.7,36.6,Medium Slow,single pair of wings,Grass
+Uxie,480,,,,,146,,Psychic,,,,U,Undiscovered,,80,,,20655,20560,20480,0.7,0.3,Slow,"bipedal, tailed form",Psychic
+Sawsbuck,586,,,,Summer Form,92,,Normal,Grass,1,1,,Field,,20,,,,5140,5120,203.9,92.5,Medium Fast,quadruped body,Normal
+Drifloon,425,,,,,65,,Ghost,Flying,1,1,,Amorphous,,30,,,7905,7710,7680,2.6,1.2,Fluctuating,head and arms,Ghost
+Aerodactyl,142,M,,Aerodactylite,Mega,142,,Rock,Flying,1,7,,Flying,,35,8960,9216,9180,8995,8960,130.1,59,Slow,single pair of wings,Rock
+Trapinch,328,,,,,116,,Ground,,1,1,,Bug,,20,,5376,5355,5140,5120,33.1,15,Medium Slow,insectoid body,Ground
+Gorebyss,368,,,,,178,,Water,,1,1,,Water 1,,20,,5376,5355,5140,5120,49.8,22.6,Erratic,serpentine bodies,Water
+Pikachu,25,,,,Sinnoh Cap,25,,Electric,,1,1,,Field,Fairy,10,2560,2816,2805,2570,2560,13.2,6,Medium Fast,quadruped body,Electric
+Sliggoo,705,,,,,20,Mo,Dragon,,1,1,,Dragon,,40,,,,10280,10240,38.6,17.5,Slow,serpentine bodies,Dragon
+Marowak,105,A,,,Alolan,,,Fire,Ghost,1,1,,Monster,,20,5120,5376,5355,5140,5120,99.2,45,Medium Fast,"bipedal, tailed form",Ground
+Minior,774,,,,Meteor Form,213,,Rock,Flying,,,,Mineral,,25,,,,,6400,88.2,40,Medium Slow,head,Rock
+Staravia,397,,,,,11,,Normal,Flying,1,1,,Flying,,15,,,4080,3855,3840,34.2,15.5,Medium Slow,single pair of wings,Normal
+Cherubi,420,,,,,58,,Grass,,1,1,,Fairy,Grass,20,,,5355,5140,5120,7.3,3.3,Medium Fast,multiple bodies,Grass
+Lumineon,457,,,,,135,,Water,,1,1,,Water 2,,20,,,5355,5140,5120,52.9,24,Erratic,fins,Water
+Slowpoke,79,,,,,79,,Water,Psychic,1,1,,Monster,Water 1,20,5120,5376,5355,5140,5120,79.4,36,Medium Fast,quadruped body,Water
+Swampert,260,,,,,9,,Water,Ground,1,7,,Monster,Water 1,20,,5376,5355,5140,5120,180.6,81.9,Medium Slow,"bipedal, tailed form",Water
+Karrablast,588,,,,,94,,Bug,,1,1,,Bug,,15,,,,3855,3840,13,5.9,Medium Fast,"bipedal, tailless form",Bug
+Nincada,290,,,,,42,,Bug,Ground,1,1,,Bug,,15,,4096,4080,3855,3840,12.1,5.5,Erratic,insectoid body,Bug
+Chinchou,170,,,,,176,,Water,Electric,1,1,,Water 2,,20,5120,5376,5355,5140,5120,26.5,12,Slow,fins,Water
+Bellossom,182,,,,,86,,Grass,,1,1,,Grass,,20,5120,5376,5355,5140,5120,12.8,5.8,Medium Slow,"bipedal, tailless form",Grass
+Vivillon,666,,,,Sun Pattern,22,Ce,Bug,Flying,1,1,,Bug,,15,,,,3855,3840,37.5,17,Medium Fast,two or more pairs of wings,Bug
+Exeggutor,103,,,,,103,,Grass,Psychic,1,1,,Grass,,20,5120,5376,5355,5140,5120,264.6,120,Slow,head and legs,Grass
+Audino,531,M,,Audinite,Mega,37,,Normal,Fairy,1,1,,Fairy,,20,,,,5140,5120,68.3,31,Fast,"bipedal, tailed form",Normal
+Gastrodon,423,E,,,East Sea,61,,Water,Ground,1,1,,Water 1,Amorphous,20,,,5355,5140,5120,65.9,29.9,Medium Fast,serpentine bodies,Water
+Simisear,514,,,,,20,,Fire,,1,7,,Field,,20,,,,5140,5120,61.7,28,Medium Fast,"bipedal, tailed form",Fire
+Primeape,57,,,,,57,,Fighting,,1,1,,Field,,20,5120,5376,5355,5140,5120,70.5,32,Medium Fast,"bipedal, tailed form",Fighting
+Mareep,179,,,,,53,,Electric,,1,1,,Monster,Field,20,5120,5376,5355,5140,5120,17.2,7.8,Medium Slow,quadruped body,Electric
+Teddiursa,216,,,,,198,,Normal,,1,1,,Field,,20,5120,5376,5355,5140,5120,19.4,8.8,Medium Fast,"bipedal, tailed form",Normal
+Tranquill,520,,,,,26,,Normal,Flying,1,1,,Flying,,15,,,,3855,3840,33.1,15,Medium Slow,single pair of wings,Normal
+Florges,671,,,,Yellow Flower,70,Ce,Fairy,,1,0,,Fairy,,20,,,,5140,5120,22,10,Medium Fast,head and arms,Fairy
+Timburr,532,,,,,38,,Fighting,,1,3,,Human-Like,,20,,,,5140,5120,27.6,12.5,Medium Slow,"bipedal, tailless form",Fighting
+Chimecho,358,,,,,151,,Psychic,,1,1,,Amorphous,,25,,6656,6630,6425,6400,2.2,1,Fast,head and arms,Psychic
+Blastoise,9,,,,,9,,Water,,1,7,,Monster,Water 1,20,5120,5376,5355,5140,5120,188.5,85.5,Medium Slow,"bipedal, tailed form",Water
+Machamp,68,,,,,68,,Fighting,,1,3,,Human-Like,,20,5120,5376,5355,5140,5120,286.6,130,Medium Slow,"bipedal, tailless form",Fighting
+Blaziken,257,,,,,6,,Fire,Fighting,1,7,,Field,,20,,5376,5355,5140,5120,114.6,52,Medium Slow,"bipedal, tailed form",Fire
+Keldeo,647,,,,Resolute Form,153,,Water,Fighting,,,U,Undiscovered,,80,,,,20560,20480,106.9,48.5,Slow,quadruped body,Water
+Garchomp,445,M,,Garchompite,Mega,111,,Dragon,Ground,1,1,,Monster,Dragon,40,,,10455,10280,10240,209.4,95,Slow,"bipedal, tailed form",Dragon
+Manaphy,490,,,,,151,,Water,,,,,Water 1,Fairy,10,,,2805,2570,2560,3.1,1.4,Slow,"bipedal, tailless form",Water
+Bellsprout,69,,,,,69,,Grass,Poison,1,1,,Grass,,20,5120,5376,5355,5140,5120,8.8,4,Medium Slow,"bipedal, tailless form",Grass
+Togetic,176,,,,,47,,Fairy,Flying,1,7,,Flying,Fairy,10,2560,2816,2805,2570,2560,7.1,3.2,Fast,"bipedal, tailless form",Fairy
+Rhyhorn,111,,,,,111,,Ground,Rock,1,1,,Monster,Field,20,5120,5376,5355,5140,5120,253.5,115,Slow,quadruped body,Ground
+Tentacruel,73,,,,,73,,Water,Poison,1,1,,Water 3,,20,5120,5376,5355,5140,5120,121.3,55,Slow,tentacles or a multiped body,Water
+Minccino,572,,,,,78,,Normal,,3,1,,Field,,15,,,,3855,3840,12.8,5.8,Fast,quadruped body,Normal
+Meditite,307,,,,,76,,Fighting,Psychic,1,1,,Human-Like,,20,,5376,5355,5140,5120,24.7,11.2,Medium Fast,"bipedal, tailless form",Fighting
+Manectric,310,M,,Manectite,Mega,79,,Electric,,1,1,,Field,,20,,5376,5355,5140,5120,88.6,40.2,Slow,quadruped body,Electric
+Vivillon,666,,,,Ocean Pattern,22,Ce,Bug,Flying,1,1,,Bug,,15,,,,3855,3840,37.5,17,Medium Fast,two or more pairs of wings,Bug
+Absol,359,,,,,152,,Dark,,1,1,,Field,,25,,6656,6630,6425,6400,103.6,47,Medium Slow,quadruped body,Dark
+Sawsbuck,586,,,,Winter Form,92,,Normal,Grass,1,1,,Field,,20,,,,5140,5120,203.9,92.5,Medium Fast,quadruped body,Normal
+Gardevoir,282,M,,Gardevoirite,Mega,31,,Psychic,Fairy,1,1,,Amorphous,,20,,5376,5355,5140,5120,106.7,48.4,Slow,"bipedal, tailless form",Psychic
+Silvally,773,,,,Type: Flying,204,,Normal,,,,U,Undiscovered,,120,,,,,30720,221.6,100.5,Slow,quadruped body,Normal
+Seadra,117,,,,,117,,Water,,1,1,,Water 1,Dragon,20,5120,5376,5355,5140,5120,55.1,25,Medium Fast,head and a base,Water
+Barbaracle,689,,,,,22,Co,Rock,Water,1,1,,Water 3,,20,,,,5140,5120,211.6,96,Medium Fast,multiple bodies,Rock
+Arceus,493,,,,Type: Fighting,,,Normal,,,,U,Undiscovered,,120,,,30855,30840,30720,705.5,320,Slow,quadruped body,Normal
+Grubbin,736,,,,,27,,Bug,,1,1,,Bug,,15,,,,,3840,9.7,4.4,Medium Fast,insectoid body,Bug
+Starmie,121,,,,,121,,Water,Psychic,,,,Water 3,,20,5120,5376,5355,5140,5120,176.4,80,Slow,head and a base,Water
+Meowth,52,,,,,52,,Normal,,1,1,,Field,,20,5120,5376,5355,5140,5120,9.3,4.2,Medium Fast,quadruped body,Normal
+Jirachi,385,,,,,201,,Steel,Psychic,,,U,Undiscovered,,120,,30976,30855,30840,30720,2.4,1.1,Slow,"bipedal, tailless form",Steel
+Tornadus,641,,,,Incarnate Forme,147,,Flying,,0,1,U,Undiscovered,,120,,,,30840,30720,138.9,63,Slow,head and arms,Flying
+Metang,375,,,,,191,,Steel,Psychic,,,,Mineral,,40,,10496,10455,10280,10240,446.4,202.5,Slow,head and arms,Steel
+Whismur,293,,,,,45,,Normal,,1,1,,Monster,Field,20,,5376,5355,5140,5120,35.9,16.3,Medium Slow,"bipedal, tailed form",Normal
+Jynx,124,,,,,124,,Ice,Psychic,1,0,,Human-Like,,25,6400,6656,6630,6425,6400,89.5,40.6,Medium Fast,"bipedal, tailless form",Ice
+Spoink,325,,,,,110,,Psychic,,1,1,,Field,,20,,5376,5355,5140,5120,67.5,30.6,Fast,head and arms,Psychic
+Marill,183,,,,,132,,Water,Fairy,1,1,,Water 1,Fairy,10,2560,2816,2805,2570,2560,18.7,8.5,Fast,"bipedal, tailed form",Water
+Arbok,24,,,,,24,,Poison,,1,1,,Field,Dragon,20,5120,5376,5355,5140,5120,143.3,65,Medium Fast,serpentine bodies,Poison
+Cloyster,91,,,,,91,,Water,Ice,1,1,,Water 3,,20,5120,5376,5355,5140,5120,292.1,132.5,Slow,head,Water
+Mudbray,749,,,,,132,,Ground,,1,1,,Field,,20,,,,,5120,242.5,110,Medium Fast,quadruped body,Ground
+Croconaw,159,,,,,8,,Water,,1,7,,Monster,Water 1,20,5120,5376,5355,5140,5120,55.1,25,Medium Slow,"bipedal, tailed form",Water
+Yveltal,717,,,,,149,Mo,Dark,Flying,,,U,Undiscovered,,120,,,,30840,30720,447.5,203,Slow,single pair of wings,Dark
+Hydreigon,635,,,,,141,,Dark,Dragon,1,1,,Dragon,,40,,,,10280,10240,352.7,160,Slow,"bipedal, tailed form",Dark
+Rayquaza,384,,,,,200,,Dragon,Flying,,,U,Undiscovered,,120,,30976,30855,30840,30720,455.2,206.5,Slow,serpentine bodies,Dragon
+Scrafty,560,,,,,66,,Dark,Fighting,1,1,,Field,Dragon,15,,,,3855,3840,66.1,30,Medium Fast,"bipedal, tailed form",Dark
+Brionne,729,,,,,8,,Water,,1,7,,Water 1,Field,15,,,,,3840,38.6,17.5,Medium Slow,fins,Water
+Snorunt,361,,,,,171,,Ice,,1,1,,Fairy,Mineral,20,,5376,5355,5140,5120,37,16.8,Medium Fast,"bipedal, tailless form",Ice
+Snubbull,209,,,,,125,,Fairy,,3,1,,Field,Fairy,20,5120,5376,5355,5140,5120,17.2,7.8,Fast,"bipedal, tailless form",Fairy
+Snover,459,,,,,142,,Grass,Ice,1,1,,Monster,Grass,20,,,5355,5140,5120,111.3,50.5,Slow,"bipedal, tailed form",Grass
+Swellow,277,,,,,26,,Normal,Flying,1,1,,Flying,,15,,4096,4080,3855,3840,43.7,19.8,Medium Slow,single pair of wings,Normal
+Kingler,99,,,,,99,,Water,,1,1,,Water 3,,20,5120,5376,5355,5140,5120,132.3,60,Medium Fast,insectoid body,Water
+Abomasnow,460,M,,Abomasite,Mega,143,,Grass,Ice,1,1,,Monster,Grass,20,,,5355,5140,5120,298.7,135.5,Slow,"bipedal, tailed form",Grass
+Ampharos,181,,,,,55,,Electric,,1,1,,Monster,Field,20,5120,5376,5355,5140,5120,135.6,61.5,Medium Slow,"bipedal, tailed form",Electric
+Seaking,119,,,,,119,,Water,,1,1,,Water 2,,20,5120,5376,5355,5140,5120,86,39,Medium Fast,fins,Water
+Wooper,194,,,,,56,,Water,Ground,1,1,,Water 1,Field,20,5120,5376,5355,5140,5120,18.7,8.5,Medium Fast,head and legs,Water
+Shuckle,213,,,,,168,,Bug,Rock,1,1,,Bug,,20,5120,5376,5355,5140,5120,45.2,20.5,Medium Slow,insectoid body,Bug
+Rotom,479,,,,Frost,152,,Electric,Ghost,,,,Amorphous,,20,,,5355,5140,5120,0.7,0.3,Medium Fast,head,Electric
+Baltoy,343,,,,,131,,Ground,Psychic,,,,Mineral,,20,,5376,5355,5140,5120,47.4,21.5,Medium Fast,head and arms,Ground
+Woobat,527,,,,,33,,Psychic,Flying,1,1,,Field,Flying,15,,,,3855,3840,4.6,2.1,Medium Fast,single pair of wings,Psychic
+Mewtwo,150,MX,X,,Mega  X,150,,Psychic,,,,U,Undiscovered,,120,30720,30976,30855,30840,30720,269,122,Slow,"bipedal, tailed form",Psychic
+Heracross,214,,,,,114,,Bug,Fighting,1,1,,Bug,,25,6400,6656,6630,6425,6400,119,54,Slow,"bipedal, tailless form",Bug
+Piplup,393,,,,,7,,Water,,1,7,,Water 1,Field,20,,,5355,5140,5120,11.5,5.2,Medium Slow,"bipedal, tailless form",Water
+Vulpix,37,,,,,37,,Fire,,3,1,,Field,,20,5120,5376,5355,5140,5120,21.8,9.9,Medium Fast,quadruped body,Fire
+Feraligatr,160,,,,,9,,Water,,1,7,,Monster,Water 1,20,5120,5376,5355,5140,5120,195.8,88.8,Medium Slow,"bipedal, tailed form",Water
+Murkrow,198,,,,,213,,Dark,Flying,1,1,,Flying,,20,5120,5376,5355,5140,5120,4.6,2.1,Medium Slow,single pair of wings,Dark
+Audino,531,,,,,37,,Normal,,1,1,,Fairy,,20,,,,5140,5120,68.3,31,Fast,"bipedal, tailed form",Normal
+Wynaut,360,,,,,160,,Psychic,,1,1,U,Undiscovered,,20,,5376,5355,5140,5120,30.9,14,Medium Fast,"bipedal, tailed form",Psychic
+Carnivine,455,,,,,131,,Grass,,1,1,,Grass,,25,,,6630,6425,6400,59.5,27,Slow,tentacles or a multiped body,Grass
+Florges,671,,,,Blue Flower,70,Ce,Fairy,,1,0,,Fairy,,20,,,,5140,5120,22,10,Medium Fast,head and arms,Fairy
+Zekrom,644,,,,Overdrive mode,150,,Dragon,Electric,,,U,Undiscovered,,120,,,,30840,30720,760.6,345,Slow,"bipedal, tailed form",Dragon
+Prinplup,394,,,,,8,,Water,,1,7,,Water 1,Field,20,,,5355,5140,5120,50.7,23,Medium Slow,"bipedal, tailed form",Water
+Oricorio,741,Po,,,Pa'u Style,82,,Electric,Flying,3,1,,Flying,,20,,,,,5120,7.5,3.4,Medium Fast,single pair of wings,Fire
+Camerupt,323,,,,,102,,Fire,Ground,1,1,,Field,,20,,5376,5355,5140,5120,485,220,Medium Fast,quadruped body,Fire
+Deoxys,386,A,,,Attack Forme,202,,Psychic,,,,U,Undiscovered,,120,,30976,30855,30840,30720,134,60.8,Slow,"bipedal, tailless form",Psychic
+Chingling,433,,,,,82,,Psychic,,1,1,U,Undiscovered,,25,,,6630,6425,6400,1.3,0.6,Fast,"bipedal, tailless form",Psychic
+Crawdaunt,342,,,,,130,,Water,Dark,1,1,,Water 1,Water 3,15,,4096,4080,3855,3840,72.3,32.8,Fluctuating,insectoid body,Water
+Diancie,719,M,,Diancite,Mega,151,Ce,Rock,Fairy,,,U,Undiscovered,,25,,,,6425,6400,19.4,8.8,Slow,head and arms,Rock
+Arceus,493,,,,Type: Ice,,,Normal,,,,U,Undiscovered,,120,,,30855,30840,30720,705.5,320,Slow,quadruped body,Normal
+Sceptile,254,M,,Sceptilite,Mega,3,,Grass,Dragon,1,7,,Monster,Dragon,20,,5376,5355,5140,5120,115.1,52.2,Medium Slow,"bipedal, tailed form",Grass
+Pikachu,25,,,,Partner Cap,25,,Electric,,1,1,,Field,Fairy,10,2560,2816,2805,2570,2560,13.2,6,Medium Fast,quadruped body,Electric
+Steelix,208,,,,,63,,Steel,Ground,1,1,,Mineral,,25,6400,6656,6630,6425,6400,881.8,400,Medium Fast,serpentine bodies,Steel
+Victini,494,,,,,0,,Psychic,Fire,,,U,Undiscovered,,120,,,,30840,30720,8.8,4,Slow,"bipedal, tailless form",Psychic
+Porygon,137,,,,,137,,Normal,,,,,Mineral,,20,5120,5376,5355,5140,5120,80.5,36.5,Medium Fast,head and legs,Normal
+Lairon,305,,,,,71,,Steel,Rock,1,1,,Monster,,35,,9216,9180,8995,8960,264.6,120,Slow,quadruped body,Steel
+Staraptor,398,,,,,12,,Normal,Flying,1,1,,Flying,,15,,,4080,3855,3840,54.9,24.9,Medium Slow,single pair of wings,Normal
+Crabominable,740,,,,,60,,Fighting,Ice,1,1,,Water 3,,20,,,,,5120,396.8,180,Medium Fast,insectoid body,Fighting
+Vivillon,666,,,,Marine Pattern,22,Ce,Bug,Flying,1,1,,Bug,,15,,,,3855,3840,37.5,17,Medium Fast,two or more pairs of wings,Bug
+Yanmega,469,,,,,184,,Bug,Flying,1,1,,Bug,,20,,,5355,5140,5120,113.5,51.5,Medium Fast,two or more pairs of wings,Bug
+Parasect,47,,,,,47,,Bug,Grass,1,1,,Bug,Grass,20,5120,5376,5355,5140,5120,65,29.5,Medium Fast,insectoid body,Bug
+Blacephalon,806,,,,,393,,Fire,Ghost,,,U,Undiscovered,,120,,,,,30720,28.7,13,Slow,"bipedal, tailless form",Fire
+Marshtomp,259,,,,,8,,Water,Ground,1,7,,Monster,Water 1,20,,5376,5355,5140,5120,61.7,28,Medium Slow,"bipedal, tailed form",Water
+Lurantis,754,,,,,144,,Grass,,1,1,,Grass,,20,,,,,5120,40.8,18.5,Medium Fast,"bipedal, tailless form",Grass
+Duskull,355,,,,,148,,Ghost,,1,1,,Amorphous,,25,,6656,6630,6425,6400,33.1,15,Fast,head and arms,Ghost
+Victreebel,71,,,,,71,,Grass,Poison,1,1,,Grass,,20,5120,5376,5355,5140,5120,34.2,15.5,Medium Slow,head and a base,Grass
+Lunala,792,,,,Full Moon phase,292,,Psychic,Ghost,,,U,Undiscovered,,120,,,,,30720,264.6,120,Slow,single pair of wings,Psychic
+Tirtouga,564,,,,,70,,Water,Rock,1,7,,Water 1,Water 3,30,,,,7710,7680,36.4,16.5,Medium Fast,quadruped body,Water
+Cottonee,546,,,,,52,,Grass,Fairy,1,1,,Grass,Fairy,20,,,,5140,5120,1.3,0.6,Medium Fast,head,Grass
+Gloom,44,,,,,44,,Grass,Poison,1,1,,Grass,,20,5120,5376,5355,5140,5120,19,8.6,Medium Slow,"bipedal, tailless form",Grass
+Bouffalant,626,,,,,132,,Normal,,1,1,,Field,,20,,,,5140,5120,208.3,94.5,Medium Fast,quadruped body,Normal
+Pheromosa,795,,,,,295,,Bug,Fighting,,,U,Undiscovered,,120,,,,,30720,55.1,25,Slow,"bipedal, tailless form",Bug
+Klinklang,601,,,,,107,,Steel,,,,,Mineral,,20,,,,5140,5120,178.6,81,Medium Slow,multiple bodies,Steel
+Camerupt,323,M,,Cameruptite,Mega,102,,Fire,Ground,1,1,,Field,,20,,5376,5355,5140,5120,485,220,Medium Fast,quadruped body,Fire
+Silvally,773,,,,Type: Bug,204,,Normal,,,,U,Undiscovered,,120,,,,,30720,221.6,100.5,Slow,quadruped body,Normal
+Vivillon,666,,,,Icy Snow Pattern,22,Ce,Bug,Flying,1,1,,Bug,,15,,,,3855,3840,37.5,17,Medium Fast,two or more pairs of wings,Bug
+Budew,406,,,,,25,,Grass,Poison,1,1,U,Undiscovered,,20,,,5355,5140,5120,2.6,1.2,Medium Slow,"bipedal, tailless form",Grass
+Growlithe,58,,,,,58,,Fire,,1,3,,Field,,20,5120,5376,5355,5140,5120,41.9,19,Slow,quadruped body,Fire
+Oshawott,501,,,,,7,,Water,,1,7,,Field,,20,,,,5140,5120,13,5.9,Medium Slow,"bipedal, tailed form",Water
+Glaceon,471,,,,,170,,Ice,,1,7,,Field,,35,,,9180,8995,8960,57.1,25.9,Medium Fast,quadruped body,Ice
+Nidoking,34,,,,,34,,Poison,Ground,0,1,,Monster,Field,20,5120,5376,5355,5140,5120,136.7,62,Medium Slow,"bipedal, tailed form",Poison
+Cofagrigus,563,,,,,69,,Ghost,,1,1,,Mineral,Amorphous,25,,,,6425,6400,168.7,76.5,Medium Fast,head and a base,Ghost
+Vivillon,666,,,,High Plains Pattern,22,Ce,Bug,Flying,1,1,,Bug,,15,,,,3855,3840,37.5,17,Medium Fast,two or more pairs of wings,Bug
+Whimsicott,547,,,,,53,,Grass,Fairy,1,1,,Grass,Fairy,20,,,,5140,5120,14.6,6.6,Medium Fast,"bipedal, tailless form",Grass
+Rotom,479,,,,Wash,152,,Electric,Ghost,,,,Amorphous,,20,,,5355,5140,5120,0.7,0.3,Medium Fast,head,Electric
+Sigilyph,561,,,,,67,,Psychic,Flying,1,1,,Flying,,20,,,,5140,5120,30.9,14,Medium Fast,single pair of wings,Psychic
+Butterfree,12,,,,,12,,Bug,Flying,1,1,,Bug,,15,3840,4096,4080,3855,3840,70.5,32,Medium Fast,two or more pairs of wings,Bug
+Pyukumuku,771,,,,,200,,Water,,1,1,,Water 1,,15,,,,,3840,2.6,1.2,Fast,serpentine bodies,Water
+Hitmontop,237,,,,,148,,Fighting,,0,1,,Human-Like,,25,6400,6656,6630,6425,6400,105.8,48,Medium Fast,"bipedal, tailed form",Fighting
+Scizor,212,,,,,112,,Bug,Steel,1,1,,Bug,,25,6400,6656,6630,6425,6400,260.1,118,Medium Fast,two or more pairs of wings,Bug
+Celebi,251,,,,,256,,Psychic,Grass,,,U,Undiscovered,,120,30720,30976,30855,30840,30720,11,5,Medium Slow,"bipedal, tailless form",Psychic
+Oricorio,741,Po,,,Baile Style,82,,Electric,Flying,3,1,,Flying,,20,,,,,5120,7.5,3.4,Medium Fast,single pair of wings,Fire
+Lopunny,428,,,,,68,,Normal,,1,1,,Field,Human-Like,20,,,5355,5140,5120,73.4,33.3,Medium Fast,"bipedal, tailed form",Normal
+Igglybuff,174,,,,,44,,Normal,Fairy,3,1,U,Undiscovered,,10,2560,2816,2805,2570,2560,2.2,1,Fast,"bipedal, tailless form",Normal
+Quilladin,651,,,,,2,Ce,Grass,,1,7,,Field,,20,,,,5140,5120,63.9,29,Medium Slow,"bipedal, tailed form",Grass
+Metagross,376,,,,,192,,Steel,Psychic,,,,Mineral,,40,,10496,10455,10280,10240,1212.5,550,Slow,multiple bodies,Steel
+Charmander,4,,,,,4,,Fire,,1,7,,Monster,Dragon,20,5120,5376,5355,5140,5120,18.7,8.5,Medium Slow,"bipedal, tailed form",Fire
+Shellos,422,,,,West Sea,60,,Water,,1,1,,Water 1,Amorphous,20,,,5355,5140,5120,13.9,6.3,Medium Fast,serpentine bodies,Water
+Rotom,479,,,,Heat,152,,Electric,Ghost,,,,Amorphous,,20,,,5355,5140,5120,0.7,0.3,Medium Fast,head,Electric
+Aggron,306,M,,Aggronite,Mega,72,,Steel,,1,1,,Monster,,35,,9216,9180,8995,8960,793.7,360,Slow,"bipedal, tailed form",Steel
+Arceus,493,,,,Type: Steel,,,Normal,,,,U,Undiscovered,,120,,,30855,30840,30720,705.5,320,Slow,quadruped body,Normal
+Gulpin,316,,,,,95,,Poison,,1,1,,Amorphous,,20,,5376,5355,5140,5120,22.7,10.3,Fluctuating,head and arms,Poison
+Persian,53,,,,,53,,Normal,,1,1,,Field,,20,5120,5376,5355,5140,5120,70.5,32,Medium Fast,quadruped body,Normal
+Oricorio,741,Se,,,Pa'u Style,82,,Ghost,Flying,3,1,,Flying,,20,,,,,5120,7.5,3.4,Medium Fast,single pair of wings,Fire
+Litten,725,,,,,4,,Fire,,1,7,,Field,,15,,,,,3840,9.5,4.3,Medium Slow,quadruped body,Fire
+Pikachu,25,,,,Kalos Cap,25,,Electric,,1,1,,Field,Fairy,10,2560,2816,2805,2570,2560,13.2,6,Medium Fast,quadruped body,Electric
+Aegislash,681,,,,Shield Forme,119,Ce,Steel,Ghost,1,1,,Mineral,,20,,,,5140,5120,116.8,53,Medium Fast,head and a base,Steel
+Conkeldurr,534,,,,,40,,Fighting,,1,3,U,Human-Like,,20,,,,5140,5120,191.8,87,Medium Slow,"bipedal, tailless form",Fighting
+Riolu,447,,,,,115,,Fighting,,1,7,U,Undiscovered,,25,,,6630,6425,6400,44.5,20.2,Medium Slow,"bipedal, tailed form",Fighting
+Metagross,376,M,,Metagrossite,Mega,192,,Steel,Psychic,,,,Mineral,,40,,10496,10455,10280,10240,1212.5,550,Slow,multiple bodies,Steel
+Lopunny,428,M,,Lopunnite,Mega,68,,Normal,Fighting,1,1,,Field,Human-Like,20,,,5355,5140,5120,73.4,33.3,Medium Fast,"bipedal, tailed form",Normal
+Clefable,36,,,,,36,,Fairy,,3,1,,Fairy,,10,2560,2816,2805,2570,2560,88.2,40,Fast,"bipedal, tailed form",Fairy
+Vileplume,45,,,,,45,,Grass,Poison,1,1,,Grass,,20,5120,5376,5355,5140,5120,41,18.6,Medium Slow,"bipedal, tailless form",Grass
+Kabutops,141,,,,,141,,Rock,Water,1,7,,Water 1,Water 3,30,7680,7936,7905,7710,7680,89.3,40.5,Medium Fast,"bipedal, tailed form",Rock
+Basculin,550,B,,,Blue-Striped Form,56,,Water,,1,1,,Water 2,,40,,,,10280,10240,39.7,18,Medium Fast,fins,Water
+Crustle,558,,,,,64,,Bug,Rock,1,1,,Bug,Mineral,20,,,,5140,5120,440.9,200,Medium Fast,insectoid body,Bug
+Necrozma,800,U,,,Ultra,300,,Psychic,,,,U,Undiscovered,,120,,,,,30720,507.1,230,Slow,two or more pairs of wings,Psychic
+Bidoof,399,,,,,13,,Normal,,1,1,,Water 1,Field,15,,,4080,3855,3840,44.1,20,Medium Fast,quadruped body,Normal
+Glalie,362,,,,,172,,Ice,,1,1,,Fairy,Mineral,20,,5376,5355,5140,5120,565.5,256.5,Medium Fast,head,Ice
+Lucario,448,M,,Lucarionite,Mega,116,,Fighting,Steel,1,7,,Field,Human-Like,25,,,6630,6425,6400,119,54,Medium Slow,"bipedal, tailed form",Fighting
+Salamence,373,,,,,189,,Dragon,Flying,1,1,,Dragon,,40,,10496,10455,10280,10240,226.2,102.6,Slow,quadruped body,Dragon
+Armaldo,348,,,,,136,,Rock,Bug,1,7,,Water 3,,30,,7936,7905,7710,7680,150.4,68.2,Erratic,"bipedal, tailed form",Rock
+Floette,670,,,,Orange Flower,69,Ce,Fairy,,1,0,,Fairy,,20,,,,5140,5120,2,0.9,Medium Fast,head and arms,Fairy
+Steenee,762,,,,,172,,Grass,,1,0,,Grass,,20,,,,,5120,18.1,8.2,Medium Slow,"bipedal, tailless form",Grass
+Aggron,306,,,,,72,,Steel,Rock,1,1,,Monster,,35,,9216,9180,8995,8960,793.7,360,Slow,"bipedal, tailed form",Steel
+Furfrou,676,,,,Kabuki Trim,93,Ce,Normal,,1,1,,Field,,20,,,,5140,5120,61.7,28,Medium Fast,quadruped body,Normal
+Swalot,317,,,,,96,,Poison,,1,1,,Amorphous,,20,,5376,5355,5140,5120,176.4,80,Fluctuating,head and arms,Poison
+Basculin,550,,,,Red-Striped Form,56,,Water,,1,1,,Water 2,,40,,,,10280,10240,39.7,18,Medium Fast,fins,Water
+Pancham,674,,,,,91,Ce,Fighting,,1,1,,Field,Human-Like,25,,,,6425,6400,17.6,8,Medium Fast,"bipedal, tailed form",Fighting
+Gligar,207,,,,,193,,Ground,Flying,1,1,,Bug,,20,5120,5376,5355,5140,5120,142.9,64.8,Medium Slow,single pair of wings,Ground
+Articuno,144,,,,,144,,Ice,Flying,,,U,Undiscovered,,80,20480,20736,20655,20560,20480,122.1,55.4,Slow,single pair of wings,Ice
+Clauncher,692,,,,,32,Co,Water,,1,1,,Water 1,Water 3,15,,,,3855,3840,18.3,8.3,Slow,insectoid body,Water
+Excadrill,530,,,,,36,,Ground,Steel,1,1,,Field,,20,,,,5140,5120,89.1,40.4,Medium Fast,"bipedal, tailless form",Ground
+Pikachu,25,,,,Hoenn Cap,25,,Electric,,1,1,,Field,Fairy,10,2560,2816,2805,2570,2560,13.2,6,Medium Fast,quadruped body,Electric
+Tornadus,641,T,,,Therian Forme,147,,Flying,,0,1,U,Undiscovered,,120,,,,30840,30720,138.9,63,Slow,single pair of wings,Flying
+Loudred,294,,,,,46,,Normal,,1,1,,Monster,Field,20,,5376,5355,5140,5120,89.3,40.5,Medium Slow,"bipedal, tailed form",Normal
+Kangaskhan,115,,,,,115,,Normal,,1,0,,Monster,,20,5120,5376,5355,5140,5120,176.4,80,Medium Fast,"bipedal, tailed form",Normal
+Vullaby,629,,,,,135,,Dark,Flying,1,0,,Flying,,20,,,,5140,5120,19.8,9,Slow,single pair of wings,Dark
+Delphox,655,,,,,6,Ce,Fire,Psychic,1,7,,Field,,20,,,,5140,5120,86,39,Medium Slow,"bipedal, tailed form",Fire
+Charizard,6,MY,Y,,Mega  Y,6,,Fire,Flying,1,7,,Monster,Dragon,20,5120,5376,5355,5140,5120,199.5,90.5,Medium Slow,"bipedal, tailed form",Fire
+Virizion,640,,,,,146,,Grass,Fighting,,,U,Undiscovered,,80,,,,20560,20480,440.9,200,Slow,quadruped body,Grass
+Mienfoo,619,,,,,125,,Fighting,,1,1,,Field,Human-Like,25,,,,6425,6400,44.1,20,Medium Slow,"bipedal, tailed form",Fighting
+Dialga,483,,,,,149,,Steel,Dragon,,,U,Undiscovered,,120,,,30855,30840,30720,1505.8,683,Slow,quadruped body,Steel
+Croagunk,453,,,,,129,,Poison,Fighting,1,1,,Human-Like,,10,,,2805,2570,2560,50.7,23,Medium Fast,"bipedal, tailless form",Poison
+Meganium,154,,,,,3,,Grass,,1,7,,Monster,Grass,20,5120,5376,5355,5140,5120,221.6,100.5,Medium Slow,quadruped body,Grass
+Furfrou,676,,,,Debutante Trim,93,Ce,Normal,,1,1,,Field,,20,,,,5140,5120,61.7,28,Medium Fast,quadruped body,Normal
+Dragonite,149,,,,,149,,Dragon,Flying,1,1,,Water 1,Dragon,40,10240,10496,10455,10280,10240,463,210,Slow,"bipedal, tailed form",Dragon
+Pidgeotto,17,,,,,17,,Normal,Flying,1,1,,Flying,,15,3840,4096,4080,3855,3840,66.1,30,Medium Slow,single pair of wings,Normal
+Ambipom,424,,,,,64,,Normal,,1,1,,Field,,20,,,5355,5140,5120,44.8,20.3,Fast,"bipedal, tailed form",Normal
+Tepig,498,,,,,4,,Fire,,1,7,,Field,,20,,,,5140,5120,21.8,9.9,Medium Slow,quadruped body,Fire
+Castform,351,S,,,Sunny Form,142,,Fire,,1,1,,Fairy,Amorphous,25,,6656,6630,6425,6400,1.8,0.8,Medium Fast,head,Normal
+Greninja,658,,,,Ash-Greninja,9,Ce,Water,Dark,1,7,,Water 1,,20,,,,5140,5120,88.2,40,Medium Slow,"bipedal, tailless form",Water
+Floette,670,,,,Yellow Flower,69,Ce,Fairy,,1,0,,Fairy,,20,,,,5140,5120,2,0.9,Medium Fast,head and arms,Fairy
+Omanyte,138,,,,,138,,Rock,Water,1,7,,Water 1,Water 3,30,7680,7936,7905,7710,7680,16.5,7.5,Medium Fast,tentacles or a multiped body,Rock
+Aurorus,699,,,,,67,Co,Rock,Ice,1,7,,Monster,,30,,,,7710,7680,496,225,Medium Fast,quadruped body,Rock
+Toxicroak,454,,,,,130,,Poison,Fighting,1,1,,Human-Like,,20,,,5355,5140,5120,97.9,44.4,Medium Fast,"bipedal, tailless form",Poison
+Pikachu,25,,,,Rock Star,25,,Electric,,1,1,,Field,Fairy,10,2560,2816,2805,2570,2560,13.2,6,Medium Fast,quadruped body,Electric
+Lapras,131,,,,,131,,Water,Ice,1,1,,Monster,Water 1,40,10240,10496,10455,10280,10240,485,220,Slow,fins,Water
+Meowth,52,A,,,Alolan,,,Dark,,1,1,,Field,,20,5120,5376,5355,5140,5120,9.3,4.2,Medium Fast,quadruped body,Normal
+Stakataka,805,,,,,392,,Rock,Steel,,,U,Undiscovered,,120,,,,,30720,1807.8,820,Slow,quadruped body,Rock
+Wurmple,265,,,,,14,,Bug,,1,1,,Bug,,15,,4096,4080,3855,3840,7.9,3.6,Medium Fast,insectoid body,Bug
+Shedinja,292,,,,,44,,Bug,Ghost,,,,Mineral,,15,,4096,4080,3855,3840,2.6,1.2,Erratic,head and a base,Bug
+Pikipek,731,,,,,10,,Normal,Flying,1,1,,Flying,,15,,,,,3840,2.6,1.2,Medium Fast,single pair of wings,Normal
+Lickitung,108,,,,,108,,Normal,,1,1,,Monster,,20,5120,5376,5355,5140,5120,144.4,65.5,Medium Fast,"bipedal, tailed form",Normal
+Furfrou,676,,,,Dandy Trim,93,Ce,Normal,,1,1,,Field,,20,,,,5140,5120,61.7,28,Medium Fast,quadruped body,Normal
+Weedle,13,,,,,13,,Bug,Poison,1,1,,Bug,,15,3840,4096,4080,3855,3840,7.1,3.2,Medium Fast,insectoid body,Bug
+Houndour,228,,,,,214,,Dark,Fire,1,1,,Field,,20,5120,5376,5355,5140,5120,23.8,10.8,Slow,quadruped body,Dark
+Froakie,656,,,,,7,Ce,Water,,1,7,,Water 1,,20,,,,5140,5120,15.4,7,Medium Slow,quadruped body,Water
+Fomantis,753,,,,,143,,Grass,,1,1,,Grass,,20,,,,,5120,3.3,1.5,Medium Fast,"bipedal, tailed form",Grass
+Togekiss,468,,,,,175,,Fairy,Flying,1,7,,Flying,Fairy,10,,,2805,2570,2560,83.8,38,Fast,single pair of wings,Fairy
+Exploud,295,,,,,47,,Normal,,1,1,,Monster,Field,20,,5376,5355,5140,5120,185.2,84,Medium Slow,"bipedal, tailed form",Normal
+Avalugg,713,,,,,80,Mo,Ice,,1,1,,Monster,,20,,,,5140,5120,1113.3,505,Medium Fast,quadruped body,Ice
+Pikachu,25,,,,Cosplay,25,,Electric,,1,1,,Field,Fairy,10,2560,2816,2805,2570,2560,13.2,6,Medium Fast,quadruped body,Electric
+Skitty,300,,,,,61,,Normal,,3,1,,Field,Fairy,15,,4096,4080,3855,3840,24.3,11,Fast,quadruped body,Normal
+Wishiwashi,746,Sc,,,School Form,110,,Water,,1,1,,Water 2,,15,,,,,3840,173.3,78.6,Fast,fins,Water
+Forretress,205,,,,,94,,Bug,Steel,1,1,,Bug,,20,5120,5376,5355,5140,5120,277.3,125.8,Medium Fast,head,Bug
+Phantump,708,,,,,61,Mo,Ghost,Grass,1,1,,Grass,Amorphous,20,,,,5140,5120,15.4,7,Medium Fast,head and arms,Ghost
+Illumise,314,,,,,87,,Bug,,1,0,,Bug,Human-Like,15,,4096,4080,3855,3840,39,17.7,Fluctuating,"bipedal, tailless form",Bug
+Mew,151,,,,,151,,Psychic,,,,U,Undiscovered,,120,30720,30976,30855,30840,30720,8.8,4,Medium Slow,"bipedal, tailed form",Psychic
+Muk,89,A,,,Alolan,,,Poison,Dark,1,1,,Amorphous,,20,5120,5376,5355,5140,5120,66.1,30,Medium Fast,head and arms,Poison
+Houndoom,229,,,,,215,,Dark,Fire,1,1,,Field,,20,5120,5376,5355,5140,5120,77.2,35,Slow,quadruped body,Dark
+Seviper,336,,,,,124,,Poison,,1,1,,Field,Dragon,20,,5376,5355,5140,5120,115.7,52.5,Fluctuating,serpentine bodies,Poison
+Thundurus,642,T,,,Therian Forme,148,,Electric,Flying,0,1,U,Undiscovered,,120,,,,30840,30720,134.5,61,Slow,"bipedal, tailed form",Electric
+Psyduck,54,,,,,54,,Water,,1,1,,Water 1,Field,20,5120,5376,5355,5140,5120,43.2,19.6,Medium Fast,"bipedal, tailed form",Water
+Alomomola,594,,,,,100,,Water,,1,1,,Water 1,Water 2,40,,,,10280,10240,69.7,31.6,Fast,fins,Water
+Rotom,479,,,,,152,,Electric,Ghost,,,,Amorphous,,20,,,5355,5140,5120,0.7,0.3,Medium Fast,head,Electric
+Maractus,556,,,,,62,,Grass,,1,1,,Grass,,20,,,,5140,5120,61.7,28,Medium Fast,head and a base,Grass
+Xerneas,716,,,,Neutral Mode,148,Mo,Fairy,,,,U,Undiscovered,,120,,,,30840,30720,474,215,Slow,quadruped body,Fairy
+Sealeo,364,,,,,174,,Ice,Water,1,1,,Water 1,Field,20,,5376,5355,5140,5120,193.1,87.6,Medium Slow,fins,Ice
+Reshiram,643,,,,,149,,Dragon,Fire,,,U,Undiscovered,,120,,,,30840,30720,727.5,330,Slow,single pair of wings,Dragon
+Unown,201,,,,,61,,Psychic,,,,U,Undiscovered,,40,10240,10496,10455,10280,10240,11,5,Medium Fast,head,Psychic
+Grimer,88,A,,,Alolan,,,Poison,Dark,1,1,,Amorphous,,20,5120,5376,5355,5140,5120,66.1,30,Medium Fast,head and arms,Poison
+Unfezant,521,F,,,,27,,Normal,Flying,1,1,,Flying,,15,,,,3855,3840,63.9,29,Medium Slow,single pair of wings,Normal
+Wigglytuff,40,,,,,40,,Normal,Fairy,3,1,,Fairy,,10,2560,2816,2805,2570,2560,26.5,12,Fast,"bipedal, tailless form",Normal
+Mightyena,262,,,,,11,,Dark,,1,1,,Field,,15,,4096,4080,3855,3840,81.6,37,Medium Fast,quadruped body,Dark
+Necrozma,800,U,,,Ultra,300,,Psychic,,,,U,Undiscovered,,120,,,,,30720,1014.1,460,Slow,two or more pairs of wings,Psychic
+Archeops,567,,,,,73,,Rock,Flying,1,7,,Flying,Water 3,30,,,,7710,7680,70.5,32,Medium Fast,single pair of wings,Rock
+Barboach,339,,,,,127,,Water,Ground,1,1,,Water 2,,20,,5376,5355,5140,5120,4.2,1.9,Medium Fast,fins,Water
+Noibat,714,,,,,113,Mo,Flying,Dragon,1,1,,Flying,,20,,,,5140,5120,17.6,8,Medium Fast,single pair of wings,Flying
+Turtwig,387,,,,,1,,Grass,,1,7,,Monster,Grass,20,,,5355,5140,5120,22.5,10.2,Medium Slow,quadruped body,Grass
+Mudkip,258,,,,,7,,Water,,1,7,,Monster,Water 1,20,,5376,5355,5140,5120,16.8,7.6,Medium Slow,quadruped body,Water
+Binacle,688,,,,,21,Co,Rock,Water,1,1,,Water 3,,20,,,,5140,5120,68.3,31,Medium Fast,multiple bodies,Rock
+Gourgeist,711,,,,Average Size,64,Mo,Ghost,Grass,1,1,,Amorphous,,20,,,,5140,5120,27.6,12.5,Medium Fast,head and a base,Ghost
+Bunnelby,659,,,,,10,Ce,Normal,,1,1,,Field,,15,,,,3855,3840,11,5,Medium Fast,"bipedal, tailed form",Normal
+Jellicent,593,F,,,,99,,Water,Ghost,1,1,,Amorphous,,20,,,,5140,5120,297.6,135,Medium Fast,tentacles or a multiped body,Water
+Spinda,327,,,,,114,,Normal,,1,1,,Field,Human-Like,15,,4096,4080,3855,3840,11,5,Fast,"bipedal, tailed form",Normal
+Gastly,92,,,,,92,,Ghost,Poison,1,1,,Amorphous,,20,5120,5376,5355,5140,5120,0.2,0.1,Medium Slow,head,Ghost
+Stoutland,508,,,,,14,,Normal,,1,1,,Field,,15,,,,3855,3840,134.5,61,Medium Slow,quadruped body,Normal
+Dusknoir,477,,,,,191,,Ghost,,1,1,,Amorphous,,25,,,6630,6425,6400,235,106.6,Fast,head and arms,Ghost
+Blastoise,9,M,,Blastoisinite,Mega,9,,Water,,1,7,,Monster,Water 1,20,5120,5376,5355,5140,5120,188.5,85.5,Medium Slow,"bipedal, tailed form",Water
+Kangaskhan,115,M,,Kangaskhanite,Mega,115,,Normal,,1,0,,Monster,,20,5120,5376,5355,5140,5120,176.4,80,Medium Fast,"bipedal, tailed form",Normal
+Zygarde,718,T,,,10% Forme,150,Mo,Dragon,Ground,,,U,Undiscovered,,120,,,,30840,30720,73.9,33.5,Slow,quadruped body,Dragon
+Cleffa,173,,,,,40,,Fairy,,3,1,U,Undiscovered,,10,2560,2816,2805,2570,2560,6.6,3,Fast,"bipedal, tailed form",Fairy
+Torkoal,324,,,,,105,,Fire,,1,1,,Field,,20,,5376,5355,5140,5120,177.2,80.4,Medium Fast,quadruped body,Fire
+Pupitar,247,,,,,250,,Rock,Ground,1,1,,Monster,,40,10240,10496,10455,10280,10240,335.1,152,Slow,serpentine bodies,Rock
+Pidove,519,,,,,25,,Normal,Flying,1,1,,Flying,,15,,,,3855,3840,4.6,2.1,Medium Slow,single pair of wings,Normal
+Tapu Fini,788,,,,,288,,Water,Fairy,,,U,Undiscovered,,15,,,,,3840,46.7,21.2,Slow,head and arms,Water
+Glameow,431,,,,,76,,Normal,,3,1,,Field,,20,,,5355,5140,5120,8.6,3.9,Fast,quadruped body,Normal
+Wailord,321,,,,,100,,Water,,1,1,,Field,Water 2,40,,10496,10455,10280,10240,877.4,398,Fluctuating,fins,Water
+Comfey,764,,,,,174,,Fairy,,3,1,,Grass,,20,,,,,5120,0.7,0.3,Fast,head,Fairy
+Golisopod,768,,,,,183,,Bug,Water,1,1,,Bug,Water 3,20,,,,,5120,238.1,108,Medium Fast,"bipedal, tailless form",Bug
+Panpour,515,,,,,21,,Water,,1,7,,Field,,20,,,,5140,5120,29.8,13.5,Medium Fast,"bipedal, tailed form",Water
+Naganadel,804,,,,,262,,Poison,Dragon,,,U,Undiscovered,,120,,,,,30720,330.7,150,Slow,single pair of wings,Poison
+Relicanth,369,,,,,179,,Water,Rock,1,7,,Water 1,Water 2,40,,10496,10455,10280,10240,51.6,23.4,Slow,fins,Water
+Sandshrew,27,,,,,27,,Ground,,1,1,,Field,,20,5120,5376,5355,5140,5120,26.5,12,Medium Fast,"bipedal, tailed form",Ground
+Flabébé,669,,,,Yellow Flower,68,Ce,Fairy,,1,0,,Fairy,,20,,,,5140,5120,0.2,0.1,Medium Fast,head and arms,Fairy
+Arceus,493,,,,Type: Electric,,,Normal,,,,U,Undiscovered,,120,,,30855,30840,30720,705.5,320,Slow,quadruped body,Normal
+Sableye,302,M,,Sablenite,Mega,68,,Dark,Ghost,1,1,,Human-Like,,25,,6656,6630,6425,6400,24.3,11,Medium Slow,"bipedal, tailless form",Dark
+Grovyle,253,,,,,2,,Grass,,1,7,,Monster,Dragon,20,,5376,5355,5140,5120,47.6,21.6,Medium Slow,"bipedal, tailed form",Grass
+Nidorino,33,,,,,33,,Poison,,0,1,,Monster,Field,20,5120,5376,5355,5140,5120,43,19.5,Medium Slow,quadruped body,Poison
+Hippopotas,449,,,,,122,,Ground,,1,1,,Field,,30,,,7905,7710,7680,109.1,49.5,Slow,quadruped body,Ground
+Simipour,516,,,,,22,,Water,,1,7,,Field,,20,,,,5140,5120,63.9,29,Medium Fast,"bipedal, tailed form",Water
+Omastar,139,,,,,139,,Rock,Water,1,7,,Water 1,Water 3,30,7680,7936,7905,7710,7680,77.2,35,Medium Fast,tentacles or a multiped body,Rock
+Stunfisk,618,,,,,124,,Ground,Electric,1,1,,Water 1,Amorphous,20,,,,5140,5120,24.3,11,Medium Fast,fins,Ground
+Arceus,493,,,,Type: Poison,,,Normal,,,,U,Undiscovered,,120,,,30855,30840,30720,705.5,320,Slow,quadruped body,Normal
+Muk,89,,,,,89,,Poison,,1,1,,Amorphous,,20,5120,5376,5355,5140,5120,66.1,30,Medium Fast,head and arms,Poison
+Krokorok,552,,,,,58,,Ground,Dark,1,1,,Field,,20,,,,5140,5120,73.6,33.4,Medium Slow,quadruped body,Ground
+Slaking,289,,,,,38,,Normal,,1,1,,Field,,15,,4096,4080,3855,3840,287.7,130.5,Slow,"bipedal, tailless form",Normal
+Caterpie,10,,,,,10,,Bug,,1,1,,Bug,,15,3840,4096,4080,3855,3840,6.4,2.9,Medium Fast,insectoid body,Bug
+Castform,351,,,,Normal,142,,Normal,,1,1,,Fairy,Amorphous,25,,6656,6630,6425,6400,1.8,0.8,Medium Fast,head,Normal
+Hoopa,720,U,,,Unbound,152,Ce,Psychic,Dark,,,U,Undiscovered,,120,,,,30840,30720,1080.3,490,Slow,"bipedal, tailed form",Psychic
+Magneton,82,,,,,82,,Electric,Steel,,,,Mineral,,20,5120,5376,5355,5140,5120,132.3,60,Medium Fast,multiple bodies,Electric
+Kingdra,230,,,,,192,,Water,Dragon,1,1,,Water 1,Dragon,20,5120,5376,5355,5140,5120,335.1,152,Medium Fast,head and a base,Water
+Golem,76,A,,,Alolan,,,Rock,Electric,1,1,,Mineral,,15,3840,4096,4080,3855,3840,661.4,300,Medium Slow,"bipedal, tailless form",Rock
+Azumarill,184,,,,,133,,Water,Fairy,1,1,,Water 1,Fairy,10,2560,2816,2805,2570,2560,62.8,28.5,Fast,"bipedal, tailed form",Water
+Vaporeon,134,,,,,134,,Water,,1,7,,Field,,35,8960,9216,9180,8995,8960,63.9,29,Medium Fast,quadruped body,Water
+Pyroar,668,,,,,58,Ce,Fire,Normal,7,1,,Field,,20,,,,5140,5120,179.7,81.5,Medium Slow,quadruped body,Fire
+Delibird,225,,,,,194,,Ice,Flying,1,1,,Water 1,Field,20,5120,5376,5355,5140,5120,35.3,16,Fast,single pair of wings,Ice
+Ditto,132,,,,,132,,Normal,,,,U*,Ditto,,20,5120,5376,5355,5140,5120,8.8,4,Medium Fast,head,Normal
+Wishiwashi,746,,,,Solo Form,110,,Water,,1,1,,Water 2,,15,,,,,3840,0.7,0.3,Fast,fins,Water
+Poipole,803,,,,,261,,Poison,,,,U,Undiscovered,,120,,,,,30720,4,1.8,Slow,"bipedal, tailed form",Poison
+Plusle,311,,,,,80,,Electric,,1,1,,Fairy,,20,,5376,5355,5140,5120,9.3,4.2,Medium Fast,"bipedal, tailed form",Electric
+Latias,380,,,,,196,,Dragon,Psychic,1,0,U,Undiscovered,,120,,30976,30855,30840,30720,88.2,40,Slow,single pair of wings,Dragon
+Weezing,110,,,,,110,,Poison,,1,1,,Amorphous,,20,5120,5376,5355,5140,5120,20.9,9.5,Medium Fast,multiple bodies,Poison
+Sewaddle,540,,,,,46,,Bug,Grass,1,1,,Bug,,15,,,,3855,3840,5.5,2.5,Medium Slow,insectoid body,Bug
+Krabby,98,,,,,98,,Water,,1,1,,Water 3,,20,5120,5376,5355,5140,5120,14.3,6.5,Medium Fast,insectoid body,Water
+Altaria,334,,,,,122,,Dragon,Flying,1,1,,Flying,Dragon,20,,5376,5355,5140,5120,45.4,20.6,Erratic,single pair of wings,Dragon
+Terrakion,639,,,,,145,,Rock,Fighting,,,U,Undiscovered,,80,,,,20560,20480,573.2,260,Slow,quadruped body,Rock
+Bounsweet,761,,,,,171,,Grass,,1,0,,Grass,,20,,,,,5120,7.1,3.2,Medium Slow,head and legs,Grass
+Magmar,126,,,,,126,,Fire,,1,3,,Human-Like,,25,6400,6656,6630,6425,6400,98.1,44.5,Medium Fast,"bipedal, tailed form",Fire
+Mewtwo,150,,,,,150,,Psychic,,,,U,Undiscovered,,120,30720,30976,30855,30840,30720,269,122,Slow,"bipedal, tailed form",Psychic
+Pidgey,16,,,,,16,,Normal,Flying,1,1,,Flying,,15,3840,4096,4080,3855,3840,4,1.8,Medium Slow,single pair of wings,Normal
+Seel,86,,,,,86,,Water,,1,1,,Water 1,Field,20,5120,5376,5355,5140,5120,198.4,90,Medium Fast,fins,Water
+Bewear,760,,,,,170,,Normal,Fighting,1,1,,Field,,15,,,,,3840,297.6,135,Medium Fast,"bipedal, tailed form",Normal
+Arceus,493,,,,Type: Flying,,,Normal,,,,U,Undiscovered,,120,,,30855,30840,30720,705.5,320,Slow,quadruped body,Normal
+Clawitzer,693,,,,,33,Co,Water,,1,1,,Water 1,Water 3,15,,,,3855,3840,77.8,35.3,Slow,serpentine bodies,Water
+Arceus,493,,,,Type: Psychic,,,Normal,,,,U,Undiscovered,,120,,,30855,30840,30720,705.5,320,Slow,quadruped body,Normal
+Dustox,269,,,,,18,,Bug,Poison,1,1,,Bug,,15,,4096,4080,3855,3840,69.7,31.6,Medium Fast,two or more pairs of wings,Bug
+Ribombee,743,,,,,84,,Bug,Fairy,1,1,,Bug,Fairy,20,,,,,5120,1.1,0.5,Medium Fast,two or more pairs of wings,Bug
+Vivillon,666,,,,Elegant Pattern,22,Ce,Bug,Flying,1,1,,Bug,,15,,,,3855,3840,37.5,17,Medium Fast,two or more pairs of wings,Bug
+Xatu,178,,,,,162,,Psychic,Flying,1,1,,Flying,,20,5120,5376,5355,5140,5120,33.1,15,Medium Fast,single pair of wings,Psychic
+Magnemite,81,,,,,81,,Electric,Steel,,,,Mineral,,20,5120,5376,5355,5140,5120,13.2,6,Medium Fast,head and arms,Electric
+Rampardos,409,,,,,37,,Rock,,1,7,,Monster,,30,,,7905,7710,7680,226,102.5,Erratic,"bipedal, tailed form",Rock
+Venonat,48,,,,,48,,Bug,Poison,1,1,,Bug,,20,5120,5376,5355,5140,5120,66.1,30,Medium Fast,"bipedal, tailless form",Bug
+Whirlipede,544,,,,,50,,Bug,Poison,1,1,,Bug,,15,,,,3855,3840,129,58.5,Medium Slow,head,Bug
+Rattata,19,A,,,Alolan,,,Dark,Normal,1,1,,Field,,15,3840,4096,4080,3855,3840,7.7,3.5,Medium Fast,quadruped body,Normal
+Nidoqueen,31,,,,,31,,Poison,Ground,1,0,U,Undiscovered,,20,5120,5376,5355,5140,5120,132.3,60,Medium Slow,"bipedal, tailed form",Poison
+Zweilous,634,,,,,140,,Dark,Dragon,1,1,,Dragon,,40,,,,10280,10240,110.2,50,Slow,quadruped body,Dark
+Klefki,707,,,,,50,Mo,Steel,Fairy,1,1,,Mineral,,20,,,,5140,5120,6.6,3,Fast,head,Steel
+Gyarados,130,M,,Gyaradosite,Mega,130,,Water,Dark,1,1,,Water 2,Dragon,5,1280,1536,1530,1285,1280,518.1,235,Slow,serpentine bodies,Water
+Qwilfish,211,,,,,163,,Water,Poison,1,1,,Water 2,,20,5120,5376,5355,5140,5120,8.6,3.9,Medium Fast,fins,Water
+Glalie,362,M,,Glalitite,Mega,172,,Ice,,1,1,,Fairy,Mineral,20,,5376,5355,5140,5120,565.5,256.5,Medium Fast,head,Ice
+Smoochum,238,,,,,154,,Ice,Psychic,1,0,U,Undiscovered,,25,6400,6656,6630,6425,6400,13.2,6,Medium Fast,"bipedal, tailless form",Ice
+Wormadam,413,S,,,Trash Cloak,46,,Bug,Steel,1,0,,Bug,,15,,,4080,3855,3840,14.3,6.5,Medium Fast,head and a base,Bug
+Honchkrow,430,,,,,75,,Dark,Flying,1,1,,Flying,,20,,,5355,5140,5120,60.2,27.3,Medium Slow,single pair of wings,Dark
+Larvitar,246,,,,,249,,Rock,Ground,1,1,,Monster,,40,10240,10496,10455,10280,10240,158.7,72,Slow,"bipedal, tailed form",Rock
+Emolga,587,,,,,93,,Electric,Flying,1,1,,Field,,20,,,,5140,5120,11,5,Medium Fast,quadruped body,Electric
+Hippowdon,450,,,,,123,,Ground,,1,1,,Field,,30,,,7905,7710,7680,661.4,300,Slow,quadruped body,Ground
+Goodra,706,,,,,21,Mo,Dragon,,1,1,,Dragon,,40,,,,10280,10240,331.8,150.5,Slow,"bipedal, tailed form",Dragon
+Empoleon,395,,,,,9,,Water,Steel,1,7,,Water 1,Field,20,,,5355,5140,5120,186.3,84.5,Medium Slow,"bipedal, tailed form",Water
+Kyurem,646,W,,,White,152,,Dragon,Ice,,,U,Undiscovered,,120,,,,30840,30720,716.5,325,Slow,"bipedal, tailed form",Dragon
+Deerling,585,,,,Spring Form,91,,Normal,Grass,1,1,,Field,,20,,,,5140,5120,43,19.5,Medium Fast,quadruped body,Normal
+Dratini,147,,,,,147,,Dragon,,1,1,,Water 1,Dragon,40,10240,10496,10455,10280,10240,7.3,3.3,Slow,serpentine bodies,Dragon
+Diglett,50,A,,,Alolan,,,Ground,Steel,1,1,,Field,,20,5120,5376,5355,5140,5120,1.8,0.8,Medium Fast,head and a base,Ground
+Tapu Lele,786,,,,,286,,Psychic,Fairy,,,U,Undiscovered,,15,,,,,3840,41,18.6,Slow,head and arms,Psychic
+Furfrou,676,,,,Natural Form,93,Ce,Normal,,1,1,,Field,,20,,,,5140,5120,61.7,28,Medium Fast,quadruped body,Normal
+Vespiquen,416,,,,,54,,Bug,Flying,1,0,,Bug,,15,,,4080,3855,3840,84.9,38.5,Medium Slow,two or more pairs of wings,Bug
+Cubone,104,,,,,104,,Ground,,1,1,,Monster,,20,5120,5376,5355,5140,5120,14.3,6.5,Medium Fast,"bipedal, tailed form",Ground
+Dhelmise,781,,,,,263,,Ghost,Grass,,,,Mineral,,25,,,,,6400,463,210,Medium Fast,head and a base,Ghost
+Pumpkaboo,710,,,,Large Size,63,Mo,Ghost,Grass,1,1,,Amorphous,,20,,,,5140,5120,16.5,7.5,Medium Fast,head,Ghost
+Mimikyu,778,,,,Busted Form,242,,Ghost,Fairy,1,1,,Amorphous,,20,,,,,5120,1.5,0.7,Medium Fast,serpentine bodies,Ghost
+Pichu,172,,,,,21,,Electric,,1,1,U,Undiscovered,,10,2560,2816,2805,2570,2560,4.4,2,Medium Fast,quadruped body,Electric
+Sawk,539,,,,,45,,Fighting,,0,1,,Human-Like,,20,,,,5140,5120,112.4,51,Medium Fast,"bipedal, tailless form",Fighting
+Buzzwole,794,,,,,294,,Bug,Fighting,,,U,Undiscovered,,120,,,,,30720,735.5,333.6,Slow,tentacles or a multiped body,Bug
+Seismitoad,537,,,,,43,,Water,Ground,1,1,,Water 1,,20,,,,5140,5120,136.7,62,Medium Slow,"bipedal, tailless form",Water
+Sudowoodo,185,,,,,107,,Rock,,1,1,,Mineral,,20,5120,5376,5355,5140,5120,83.8,38,Medium Fast,"bipedal, tailless form",Rock
+Litleo,667,,,,,57,Ce,Fire,Normal,7,1,,Field,,20,,,,5140,5120,29.8,13.5,Medium Slow,quadruped body,Fire
+Cosmoem,790,,,,,290,,Psychic,,,,U,Undiscovered,,120,,,,,30720,2204.4,999.9,Slow,head,Psychic
+Zoroark,571,,,,,77,,Dark,,1,7,,Field,,20,,,,5140,5120,178.8,81.1,Medium Slow,"bipedal, tailed form",Dark
+Poliwag,60,,,,,60,,Water,,1,1,,Water 1,,20,5120,5376,5355,5140,5120,27.3,12.4,Medium Slow,head and legs,Water
+Genesect,649,,,,,155,,Bug,Steel,,,U,Undiscovered,,120,,,,30840,30720,181.9,82.5,Slow,"bipedal, tailless form",Bug
+Metapod,11,,,,,11,,Bug,,1,1,,Bug,,15,3840,4096,4080,3855,3840,21.8,9.9,Medium Fast,serpentine bodies,Bug
+Lotad,270,,,,,19,,Water,Grass,1,1,,Water 1,Grass,15,,4096,4080,3855,3840,5.7,2.6,Medium Slow,insectoid body,Water
+Combee,415,,,,,53,,Bug,Flying,1,7,,Bug,,15,,,4080,3855,3840,12.1,5.5,Medium Slow,multiple bodies,Bug
+Slakoth,287,,,,,36,,Normal,,1,1,,Field,,15,,4096,4080,3855,3840,52.9,24,Slow,quadruped body,Normal
+Magearna,801,,,,Original Color,301,,Steel,Fairy,,,U,Undiscovered,,120,,,,,30720,177.5,80.5,Slow,"bipedal, tailless form",Steel
+Sceptile,254,,,,,3,,Grass,,1,7,,Monster,Dragon,20,,5376,5355,5140,5120,115.1,52.2,Medium Slow,"bipedal, tailed form",Grass
+Lanturn,171,,,,,177,,Water,Electric,1,1,,Water 2,,20,5120,5376,5355,5140,5120,49.6,22.5,Slow,fins,Water
+Incineroar,727,,,,,6,,Fire,Dark,1,7,,Field,,15,,,,,3840,183,83,Medium Slow,"bipedal, tailed form",Fire
+Oddish,43,,,,,43,,Grass,Poison,1,1,,Grass,,20,5120,5376,5355,5140,5120,11.9,5.4,Medium Slow,head and legs,Grass
+Magearna,801,,,,,301,,Steel,Fairy,,,U,Undiscovered,,120,,,,,30720,177.5,80.5,Slow,"bipedal, tailless form",Steel
+Ursaring,217,,,,,199,,Normal,,1,1,,Field,,20,5120,5376,5355,5140,5120,277.3,125.8,Medium Fast,"bipedal, tailed form",Normal
+Shellos,422,E,,,East Sea,60,,Water,,1,1,,Water 1,Amorphous,20,,,5355,5140,5120,13.9,6.3,Medium Fast,serpentine bodies,Water
+Jangmo-o,782,,,,,271,,Dragon,,1,1,,Dragon,,40,,,,,10240,65.5,29.7,Slow,quadruped body,Dragon
+Nidoran♂,32,,,,,32,,Poison,,0,1,,Monster,Field,20,5120,5376,5355,5140,5120,19.8,9,Medium Slow,quadruped body,Poison
+Inkay,686,,,,,10,Co,Dark,Psychic,1,1,,Water 1,Water 2,20,,,,5140,5120,7.7,3.5,Medium Fast,tentacles or a multiped body,Dark
+Silcoon,266,,,,,15,,Bug,,1,1,,Bug,,15,,4096,4080,3855,3840,22,10,Medium Fast,head,Bug
+Shelgon,372,,,,,188,,Dragon,,1,1,,Dragon,,40,,10496,10455,10280,10240,243.6,110.5,Slow,quadruped body,Dragon
+Abomasnow,460,,,,,143,,Grass,Ice,1,1,,Monster,Grass,20,,,5355,5140,5120,298.7,135.5,Slow,"bipedal, tailed form",Grass
+Spiritomb,442,,,,,108,,Ghost,Dark,1,1,,Amorphous,,30,,,7905,7710,7680,238.1,108,Medium Fast,head and a base,Ghost
+Xurkitree,796,,,,,296,,Electric,,,,U,Undiscovered,,120,,,,,30720,220.5,100,Slow,"bipedal, tailed form",Electric
+Chandelure,609,,,,,115,,Ghost,Fire,1,1,,Amorphous,,20,,,,5140,5120,75.6,34.3,Medium Slow,head and arms,Ghost
+Oricorio,741,Se,,,Sensu Style,82,,Ghost,Flying,3,1,,Flying,,20,,,,,5120,7.5,3.4,Medium Fast,single pair of wings,Fire
+Kyogre,382,P,,Blue Orb,Primal,198,,Water,,,,U,Undiscovered,,120,,30976,30855,30840,30720,776,352,Slow,fins,Water
+Herdier,507,,,,,13,,Normal,,1,1,,Field,,15,,,,3855,3840,32.4,14.7,Medium Slow,quadruped body,Normal
+Sunkern,191,,,,,103,,Grass,,1,1,,Grass,,20,5120,5376,5355,5140,5120,4,1.8,Medium Slow,head,Grass
+Tapu Bulu,787,,,,,287,,Grass,Fairy,,,U,Undiscovered,,15,,,,,3840,100.3,45.5,Slow,head and arms,Grass
+Solosis,577,,,,,83,,Psychic,,1,1,,Amorphous,,20,,,,5140,5120,2.2,1,Medium Slow,head,Psychic
+Joltik,595,,,,,101,,Bug,Electric,1,1,,Bug,,20,,,,5140,5120,1.3,0.6,Medium Fast,insectoid body,Bug
+Guzzlord,799,,,,,299,,Dark,Dragon,,,U,Undiscovered,,120,,,,,30720,1957.7,888,Slow,"bipedal, tailed form",Dark
+Bulbasaur,1,,,,,1,,Grass,Poison,1,7,,Monster,Grass,20,5120,5376,5355,5140,5120,15.2,6.9,Medium Slow,quadruped body,Grass
+Klink,599,,,,,105,,Steel,,,,,Mineral,,20,,,,5140,5120,46.3,21,Medium Slow,multiple bodies,Steel
+Skuntank,435,,,,,85,,Poison,Dark,1,1,,Field,,20,,,5355,5140,5120,83.8,38,Medium Fast,quadruped body,Poison
+Floette,670,,,,White Flower,69,Ce,Fairy,,1,0,,Fairy,,20,,,,5140,5120,2,0.9,Medium Fast,head and arms,Fairy
+Cutiefly,742,,,,,83,,Bug,Fairy,1,1,,Bug,Fairy,20,,,,,5120,0.4,0.2,Medium Fast,insectoid body,Bug
+Necrozma,800,,,,Ultra,300,,Psychic,,,,U,Undiscovered,,120,,,,,30720,507.1,230,Slow,head and arms,Psychic
+Pansear,513,,,,,19,,Fire,,1,7,,Field,,20,,,,5140,5120,24.3,11,Medium Fast,"bipedal, tailed form",Fire
+Meowstic,678,,,,,115,Ce,Psychic,,1,1,,Field,,20,,,,5140,5120,18.7,8.5,Medium Fast,"bipedal, tailed form",Psychic
+Leafeon,470,,,,,169,,Grass,,1,7,,Field,,35,,,9180,8995,8960,56.2,25.5,Medium Fast,quadruped body,Grass
+Granbull,210,,,,,126,,Fairy,,3,1,,Field,Fairy,20,5120,5376,5355,5140,5120,107.4,48.7,Fast,"bipedal, tailed form",Fairy
+Scizor,212,M,,Scizorite,Mega,112,,Bug,Steel,1,1,,Bug,,25,6400,6656,6630,6425,6400,260.1,118,Medium Fast,two or more pairs of wings,Bug
+Poochyena,261,,,,,10,,Dark,,1,1,,Field,,15,,4096,4080,3855,3840,30,13.6,Medium Fast,quadruped body,Dark
+Kricketune,402,,,,,16,,Bug,,1,1,,Bug,,15,,,4080,3855,3840,56.2,25.5,Medium Slow,two or more pairs of wings,Bug
+Electrike,309,,,,,78,,Electric,,1,1,,Field,,20,,5376,5355,5140,5120,33.5,15.2,Slow,quadruped body,Electric
+Vikavolt,738,,,,,29,,Bug,Electric,1,1,,Bug,,15,,,,,3840,99.2,45,Medium Fast,insectoid body,Bug
+Toxapex,748,,,,,114,,Poison,Water,1,1,,Water 1,,20,,,,,5120,32,14.5,Medium Fast,tentacles or a multiped body,Poison
+Flareon,136,,,,,136,,Fire,,1,7,,Field,,35,8960,9216,9180,8995,8960,55.1,25,Medium Fast,quadruped body,Fire
+Sandslash,28,,,,,28,,Ground,,1,1,,Field,,20,5120,5376,5355,5140,5120,65,29.5,Medium Fast,"bipedal, tailed form",Ground
+Reuniclus,579,,,,,85,,Psychic,,1,1,,Amorphous,,20,,,,5140,5120,44.3,20.1,Medium Slow,head and arms,Psychic
+Pikachu,25,,,,"Pikachu, Ph. D",25,,Electric,,1,1,,Field,Fairy,10,2560,2816,2805,2570,2560,13.2,6,Medium Fast,quadruped body,Electric
+Corsola,222,,,,,173,,Water,Rock,3,1,,Water 1,Water 3,20,5120,5376,5355,5140,5120,11,5,Fast,insectoid body,Water
+Steelix,208,M,,Steelixite,Mega,63,,Steel,Ground,1,1,,Mineral,,25,6400,6656,6630,6425,6400,881.8,400,Medium Fast,serpentine bodies,Steel
+Crobat,169,,,,,39,,Poison,Flying,1,1,,Flying,,15,3840,4096,4080,3855,3840,165.3,75,Medium Fast,two or more pairs of wings,Poison
+Heatran,485,,,,,,,Fire,Steel,1,1,U,Undiscovered,,10,,,2805,2570,2560,948,430,Slow,quadruped body,Fire
+Gible,443,,,,,109,,Dragon,Ground,1,1,,Monster,Dragon,40,,,10455,10280,10240,45.2,20.5,Slow,"bipedal, tailed form",Dragon
+Vulpix,37,A,,,Alolan,,,Ice,,3,1,,Field,,20,5120,5376,5355,5140,5120,21.8,9.9,Medium Fast,quadruped body,Fire
+Nidorina,30,,,,,30,,Poison,,1,0,U,Undiscovered,,20,5120,5376,5355,5140,5120,44.1,20,Medium Slow,quadruped body,Poison
+Graveler,75,,,,,75,,Rock,Ground,1,1,,Mineral,,15,3840,4096,4080,3855,3840,231.5,105,Medium Slow,"bipedal, tailless form",Rock
+Greninja,658,,,,,9,Ce,Water,Dark,1,7,,Water 1,,20,,,,5140,5120,88.2,40,Medium Slow,"bipedal, tailless form",Water
+Monferno,391,,,,,5,,Fire,Fighting,1,7,,Field,Human-Like,20,,,5355,5140,5120,48.5,22,Medium Slow,"bipedal, tailed form",Fire
+Zygarde,718,,,,50% Forme,150,Mo,Dragon,Ground,,,U,Undiscovered,,120,,,,30840,30720,672.4,305,Slow,serpentine bodies,Dragon
+Feebas,349,,,,,140,,Water,,1,1,,Water 1,Dragon,20,,5376,5355,5140,5120,16.3,7.4,Erratic,fins,Water
+Foongus,590,,,,,96,,Grass,Poison,1,1,,Grass,,20,,,,5140,5120,2.2,1,Medium Fast,head and arms,Grass
+Sawsbuck,586,,,,Spring Form,92,,Normal,Grass,1,1,,Field,,20,,,,5140,5120,203.9,92.5,Medium Fast,quadruped body,Normal
+Accelgor,617,,,,,123,,Bug,,1,1,,Bug,,15,,,,3855,3840,55.8,25.3,Medium Fast,head and arms,Bug
+Kabuto,140,,,,,140,,Rock,Water,1,7,,Water 1,Water 3,30,7680,7936,7905,7710,7680,25.4,11.5,Medium Fast,insectoid body,Rock
+Mantine,226,,,,,202,,Water,Flying,1,1,,Water 1,,25,6400,6656,6630,6425,6400,485,220,Slow,single pair of wings,Water
+Weepinbell,70,,,,,70,,Grass,Poison,1,1,,Grass,,20,5120,5376,5355,5140,5120,14.1,6.4,Medium Slow,head and a base,Grass
+Wimpod,767,,,,,182,,Bug,Water,1,1,,Bug,Water 3,20,,,,,5120,26.5,12,Medium Fast,tentacles or a multiped body,Bug
+Aegislash,681,B,,,Blade Forme,119,Ce,Steel,Ghost,1,1,,Mineral,,20,,,,5140,5120,116.8,53,Medium Fast,head and a base,Steel
+Clefairy,35,,,,,35,,Fairy,,3,1,,Fairy,,10,2560,2816,2805,2570,2560,16.5,7.5,Fast,"bipedal, tailed form",Fairy
+Silvally,773,,,,Type: Fairy,204,,Normal,,,,U,Undiscovered,,120,,,,,30720,221.6,100.5,Slow,quadruped body,Normal
+Phione,489,,,,,,,Water,,,,,Water 1,Fairy,40,,,10455,10280,10240,6.8,3.1,Slow,head and arms,Water
+Haunter,93,,,,,93,,Ghost,Poison,1,1,,Amorphous,,20,5120,5376,5355,5140,5120,0.2,0.1,Medium Slow,head and arms,Ghost
+Magmortar,467,,,,,202,,Fire,,1,3,,Human-Like,,25,,,6630,6425,6400,149.9,68,Medium Fast,"bipedal, tailed form",Fire
+Carvanha,318,,,,,97,,Water,Dark,1,1,,Water 2,,20,,5376,5355,5140,5120,45.9,20.8,Slow,fins,Water
+Wobbuffet,202,,,,,108,,Psychic,,1,1,,Amorphous,,20,5120,5376,5355,5140,5120,62.8,28.5,Medium Fast,head and a base,Psychic
+Garchomp,445,,,,,111,,Dragon,Ground,1,1,,Monster,Dragon,40,,,10455,10280,10240,209.4,95,Slow,"bipedal, tailed form",Dragon
+Type: Null,772,,,,,203,,Normal,,,,U,Undiscovered,,120,,,,,30720,265.7,120.5,Slow,quadruped body,Normal
+Cubchoo,613,,,,,119,,Ice,,1,1,,Field,,20,,,,5140,5120,18.7,8.5,Medium Fast,"bipedal, tailed form",Ice
+Beautifly,267,,,,,16,,Bug,Flying,1,1,,Bug,,15,,4096,4080,3855,3840,62.6,28.4,Medium Fast,two or more pairs of wings,Bug
+Musharna,518,,,,,24,,Psychic,,1,1,,Field,,10,,,,2570,2560,133.4,60.5,Fast,"bipedal, tailless form",Psychic
+Swirlix,684,,,,,131,Ce,Fairy,,1,1,,Fairy,,20,,,,5140,5120,7.7,3.5,Medium Fast,head and legs,Fairy
+Tsareena,763,,,,,173,,Grass,,1,0,,Grass,,20,,,,,5120,47.2,21.4,Medium Slow,"bipedal, tailless form",Grass
+Lampent,608,,,,,114,,Ghost,Fire,1,1,,Amorphous,,20,,,,5140,5120,28.7,13,Medium Slow,head and arms,Ghost
+Helioptile,694,,,,,46,Co,Electric,Normal,1,1,,Monster,Dragon,20,,,,5140,5120,13.2,6,Medium Fast,"bipedal, tailed form",Electric
+Ledyba,165,,,,,30,,Bug,Flying,1,1,,Bug,,15,3840,4096,4080,3855,3840,23.8,10.8,Fast,single pair of wings,Bug
+Deoxys,386,S,,,Speed Forme,202,,Psychic,,,,U,Undiscovered,,120,,30976,30855,30840,30720,134,60.8,Slow,"bipedal, tailless form",Psychic
+Diggersby,660,,,,,11,Ce,Normal,Ground,1,1,,Field,,15,,,,3855,3840,93.5,42.4,Medium Fast,"bipedal, tailed form",Normal
+Kecleon,352,,,,,145,,Normal,,1,1,,Field,,20,,5376,5355,5140,5120,48.5,22,Medium Slow,"bipedal, tailed form",Normal
+Vanillish,583,,,,,89,,Ice,,1,1,,Mineral,,20,,,,5140,5120,90.4,41,Slow,head and a base,Ice
+Espurr,677,,,,,114,Ce,Psychic,,1,1,,Field,,20,,,,5140,5120,7.7,3.5,Medium Fast,"bipedal, tailed form",Psychic
+Rotom,479,,,,Mow,152,,Electric,Ghost,,,,Amorphous,,20,,,5355,5140,5120,0.7,0.3,Medium Fast,head,Electric
+Goldeen,118,,,,,118,,Water,,1,1,,Water 2,,20,5120,5376,5355,5140,5120,33.1,15,Medium Fast,fins,Water
+Burmy,412,G,,,Sandy Cloak,45,,Bug,,1,1,,Bug,,15,,,4080,3855,3840,7.5,3.4,Medium Fast,head and a base,Bug
+Arceus,493,,,,Type: Fire,,,Normal,,,,U,Undiscovered,,120,,,30855,30840,30720,705.5,320,Slow,quadruped body,Normal
+Medicham,308,M,,Medichamite,Mega,77,,Fighting,Psychic,1,1,,Human-Like,,20,,5376,5355,5140,5120,69.4,31.5,Medium Fast,"bipedal, tailless form",Fighting
+Nidoran♀,29,,,,,29,,Poison,,1,0,,Monster,Field,20,5120,5376,5355,5140,5120,15.4,7,Medium Slow,quadruped body,Poison
+Heracross,214,M,,Heracronite,Mega,114,,Bug,Fighting,1,1,,Bug,,25,6400,6656,6630,6425,6400,119,54,Slow,"bipedal, tailless form",Bug
+Chansey,113,,,,,113,,Normal,,1,0,,Fairy,,40,10240,10496,10455,10280,10240,76.3,34.6,Fast,"bipedal, tailed form",Normal
+Golurk,623,,,,,129,,Ground,Ghost,,,,Mineral,,25,,,,6425,6400,727.5,330,Medium Fast,"bipedal, tailless form",Ground
+Wailmer,320,,,,,99,,Water,,1,1,,Field,Water 2,40,,10496,10455,10280,10240,286.6,130,Fluctuating,fins,Water
+Gabite,444,,,,,110,,Dragon,Ground,1,1,,Monster,Dragon,40,,,10455,10280,10240,123.5,56,Slow,"bipedal, tailed form",Dragon
+Arceus,493,,,,Type: Ground,,,Normal,,,,U,Undiscovered,,120,,,30855,30840,30720,705.5,320,Slow,quadruped body,Normal
+Hoppip,187,,,,,67,,Grass,Flying,1,1,,Fairy,Grass,20,5120,5376,5355,5140,5120,1.1,0.5,Medium Slow,"bipedal, tailed form",Grass
+Magnezone,462,,,,,180,,Electric,Steel,,,,Mineral,,20,,,5355,5140,5120,396.8,180,Medium Fast,head and arms,Electric
+Swampert,260,M,,Swampertite,Mega,9,,Water,Ground,1,7,,Monster,Water 1,20,,5376,5355,5140,5120,180.6,81.9,Medium Slow,"bipedal, tailed form",Water
+Drifblim,426,,,,,66,,Ghost,Flying,1,1,,Amorphous,,30,,,7905,7710,7680,33.1,15,Fluctuating,head and arms,Ghost
+Magcargo,219,,,,,217,,Fire,Rock,1,1,,Amorphous,,20,5120,5376,5355,5140,5120,121.3,55,Medium Fast,serpentine bodies,Fire
+Ferroseed,597,,,,,103,,Grass,Steel,1,1,,Grass,Mineral,20,,,,5140,5120,41.5,18.8,Medium Fast,head,Grass
+Espeon,196,,,,,188,,Psychic,,1,7,,Field,,35,8960,9216,9180,8995,8960,58.4,26.5,Medium Fast,quadruped body,Psychic
+Araquanid,752,,,,,142,,Water,Bug,1,1,,Water 1,Bug,15,,,,,3840,180.8,82,Medium Fast,insectoid body,Water
+Starly,396,,,,,10,,Normal,Flying,1,1,,Flying,,15,,,4080,3855,3840,4.4,2,Medium Slow,single pair of wings,Normal
+Arceus,493,,,,Type: Water,,,Normal,,,,U,Undiscovered,,120,,,30855,30840,30720,705.5,320,Slow,quadruped body,Normal
+Litwick,607,,,,,113,,Ghost,Fire,1,1,,Amorphous,,20,,,,5140,5120,6.8,3.1,Medium Slow,head and a base,Ghost
+Bergmite,712,,,,,79,Mo,Ice,,1,1,,Monster,,20,,,,5140,5120,219.4,99.5,Medium Fast,quadruped body,Ice
+Vivillon,666,,,,Modern Pattern,22,Ce,Bug,Flying,1,1,,Bug,,15,,,,3855,3840,37.5,17,Medium Fast,two or more pairs of wings,Bug
+Lombre,271,,,,,20,,Water,Grass,1,1,,Water 1,Grass,15,,4096,4080,3855,3840,71.6,32.5,Medium Slow,"bipedal, tailless form",Water
+Sandslash,28,A,,,Alolan,,,Ice,Steel,1,1,,Field,,20,5120,5376,5355,5140,5120,65,29.5,Medium Fast,"bipedal, tailed form",Ground
+Floette,670,,,,Eternal Flower,69,Ce,Fairy,,1,0,,Fairy,,20,,,,5140,5120,2,0.9,Medium Fast,head and arms,Fairy
+Stunky,434,,,,,84,,Poison,Dark,1,1,,Field,,20,,,5355,5140,5120,42.3,19.2,Medium Fast,quadruped body,Poison
+Dartrix,723,,,,,2,,Grass,Flying,1,7,,Flying,,15,,,,,3840,35.3,16,Medium Slow,single pair of wings,Grass
+Whiscash,340,,,,,128,,Water,Ground,1,1,,Water 2,,20,,5376,5355,5140,5120,52,23.6,Medium Fast,fins,Water
+Machoke,67,,,,,67,,Fighting,,1,3,,Human-Like,,20,5120,5376,5355,5140,5120,155.4,70.5,Medium Slow,"bipedal, tailless form",Fighting
+Castform,351,R,,,Rainy Form,142,,Water,,1,1,,Fairy,Amorphous,25,,6656,6630,6425,6400,1.8,0.8,Medium Fast,head,Normal
+Finneon,456,,,,,134,,Water,,1,1,,Water 2,,20,,,5355,5140,5120,15.4,7,Erratic,fins,Water
+Floette,670,,,,Red Flower,69,Ce,Fairy,,1,0,,Fairy,,20,,,,5140,5120,2,0.9,Medium Fast,head and arms,Fairy
+Miltank,241,,,,,151,,Normal,,1,0,,Field,,20,5120,5376,5355,5140,5120,166.4,75.5,Slow,"bipedal, tailed form",Normal
+Latios,381,M,,Latiosite,Mega,197,,Dragon,Psychic,0,1,U,Undiscovered,,120,,30976,30855,30840,30720,132.3,60,Slow,single pair of wings,Dragon
+Drampa,780,,,,,244,,Normal,Dragon,1,1,,Monster,Dragon,20,,,,,5120,407.9,185,Medium Fast,serpentine bodies,Normal
+Oricorio,741,Po,,,Sensu Style,82,,Electric,Flying,3,1,,Flying,,20,,,,,5120,7.5,3.4,Medium Fast,single pair of wings,Fire
+Yamask,562,,,,,68,,Ghost,,1,1,,Mineral,Amorphous,25,,,,6425,6400,3.3,1.5,Medium Fast,head and arms,Ghost
+Pinsir,127,,,,,127,,Bug,,1,1,,Bug,,25,6400,6656,6630,6425,6400,121.3,55,Slow,"bipedal, tailless form",Bug
+Vivillon,666,,,,Tundra Pattern,22,Ce,Bug,Flying,1,1,,Bug,,15,,,,3855,3840,37.5,17,Medium Fast,two or more pairs of wings,Bug
+Manectric,310,,,,,79,,Electric,,1,1,,Field,,20,,5376,5355,5140,5120,88.6,40.2,Slow,quadruped body,Electric
+Altaria,334,M,,Altarianite,Mega,122,,Dragon,Fairy,1,1,,Flying,Dragon,20,,5376,5355,5140,5120,45.4,20.6,Erratic,single pair of wings,Dragon
+Yanma,193,,,,,101,,Bug,Flying,1,1,,Bug,,20,5120,5376,5355,5140,5120,83.8,38,Medium Fast,two or more pairs of wings,Bug
+Skiploom,188,,,,,68,,Grass,Flying,1,1,,Fairy,Grass,20,5120,5376,5355,5140,5120,2.2,1,Medium Slow,"bipedal, tailed form",Grass
+Spewpa,665,,,,,21,Ce,Bug,,1,1,,Bug,,15,,,,3855,3840,18.5,8.4,Medium Fast,head and a base,Bug
+Giratina,487,,,,Altered Forme,210,,Ghost,Dragon,,,U,Undiscovered,,120,,,30855,30840,30720,1653.5,750,Slow,tentacles or a multiped body,Ghost
+Shellder,90,,,,,90,,Water,,1,1,,Water 3,,20,5120,5376,5355,5140,5120,8.8,4,Slow,head,Water
+Poliwhirl,61,,,,,61,,Water,,1,1,,Water 1,,20,5120,5376,5355,5140,5120,44.1,20,Medium Slow,"bipedal, tailless form",Water
+Corphish,341,,,,,129,,Water,,1,1,,Water 1,Water 3,15,,4096,4080,3855,3840,25.4,11.5,Fluctuating,insectoid body,Water
+Gurdurr,533,,,,,39,,Fighting,,1,3,,Human-Like,,20,,,,5140,5120,88.2,40,Medium Slow,"bipedal, tailless form",Fighting
+Dedenne,702,,,,,110,Co,Electric,Fairy,1,1,,Field,Fairy,20,,,,5140,5120,4.9,2.2,Medium Fast,"bipedal, tailed form",Electric
+Lickilicky,463,,,,,162,,Normal,,1,1,,Monster,,20,,,5355,5140,5120,308.6,140,Medium Fast,"bipedal, tailless form",Normal
+Fennekin,653,,,,,4,Ce,Fire,,1,7,,Field,,20,,,,5140,5120,20.7,9.4,Medium Slow,quadruped body,Fire
+Mismagius,429,,,,,73,,Ghost,,1,1,,Amorphous,,25,,,6630,6425,6400,9.7,4.4,Fast,head,Ghost
+Emboar,500,,,,,6,,Fire,Fighting,1,7,,Field,,20,,,,5140,5120,330.7,150,Medium Slow,"bipedal, tailed form",Fire
+Arceus,493,,,,Type: Normal,,,Normal,,,,U,Undiscovered,,120,,,30855,30840,30720,705.5,320,Slow,quadruped body,Normal
+Spritzee,682,,,,,129,Ce,Fairy,,1,1,,Fairy,,20,,,,5140,5120,1.1,0.5,Medium Fast,head and arms,Fairy
+Hariyama,297,,,,,49,,Fighting,,1,3,,Human-Like,,20,,5376,5355,5140,5120,559.5,253.8,Fluctuating,"bipedal, tailless form",Fighting
+Yungoos,734,,,,,13,,Normal,,1,1,,Field,,15,,,,,3840,13.2,6,Medium Fast,quadruped body,Normal
+Sharpedo,319,M,,Sharpedonite,Mega,98,,Water,Dark,1,1,,Water 2,,20,,5376,5355,5140,5120,195.8,88.8,Slow,fins,Water
+Numel,322,,,,,101,,Fire,Ground,1,1,,Field,,20,,5376,5355,5140,5120,52.9,24,Medium Fast,quadruped body,Fire
+Oricorio,741,Po,,,Pom-Pom Style,82,,Electric,Flying,3,1,,Flying,,20,,,,,5120,7.5,3.4,Medium Fast,single pair of wings,Fire
+Furfrou,676,,,,Diamond Trim,93,Ce,Normal,,1,1,,Field,,20,,,,5140,5120,61.7,28,Medium Fast,quadruped body,Normal
+Garbodor,569,,,,,75,,Poison,,1,1,,Mineral,,20,,,,5140,5120,236.6,107.3,Medium Fast,"bipedal, tailless form",Poison
+Rapidash,78,,,,,78,,Fire,,1,1,,Field,,20,5120,5376,5355,5140,5120,209.4,95,Medium Fast,quadruped body,Fire
+Tangela,114,,,,,114,,Grass,,1,1,,Grass,,20,5120,5376,5355,5140,5120,77.2,35,Medium Fast,head and legs,Grass
+Remoraid,223,,,,,174,,Water,,1,1,,Water 1,Water 2,20,5120,5376,5355,5140,5120,26.5,12,Medium Fast,fins,Water
+Banette,354,M,,Banettite,Mega,147,,Ghost,,1,1,,Amorphous,,25,,6656,6630,6425,6400,27.6,12.5,Fast,"bipedal, tailed form",Ghost
+Infernape,392,,,,,6,,Fire,Fighting,1,7,,Field,Human-Like,20,,,5355,5140,5120,121.3,55,Medium Slow,"bipedal, tailed form",Fire
+Lileep,345,,,,,133,,Rock,Grass,1,7,,Water 3,,30,,7936,7905,7710,7680,52.5,23.8,Erratic,head and a base,Rock
+Pumpkaboo,710,,,,Small Size,63,Mo,Ghost,Grass,1,1,,Amorphous,,20,,,,5140,5120,7.7,3.5,Medium Fast,head,Ghost
+Lycanroc,745,D,,,Dusk Form,104,,Rock,,1,1,,Field,,15,,,,,3840,55.1,25,Medium Fast,quadruped body,Rock
+Tauros,128,,,,,128,,Normal,,0,1,,Field,,20,5120,5376,5355,5140,5120,194.9,88.4,Slow,quadruped body,Normal
+Pidgeot,18,M,,Pidgeotite,Mega,18,,Normal,Flying,1,1,,Flying,,15,3840,4096,4080,3855,3840,87.1,39.5,Medium Slow,single pair of wings,Normal
+Pikachu,25,,,,Unova Cap,25,,Electric,,1,1,,Field,Fairy,10,2560,2816,2805,2570,2560,13.2,6,Medium Fast,quadruped body,Electric
+Diancie,719,,,,,151,Ce,Rock,Fairy,,,U,Undiscovered,,25,,,,6425,6400,19.4,8.8,Slow,head and arms,Rock
+Kommo-o,784,,,,,273,,Dragon,Fighting,1,1,,Dragon,,40,,,,,10240,172.4,78.2,Slow,"bipedal, tailed form",Dragon
+Furfrou,676,,,,Star Trim,93,Ce,Normal,,1,1,,Field,,20,,,,5140,5120,61.7,28,Medium Fast,quadruped body,Normal
+Malamar,687,,,,,11,Co,Dark,Psychic,1,1,,Water 1,Water 2,20,,,,5140,5120,103.6,47,Medium Fast,head and a base,Dark
+Floette,670,,,,Blue Flower,69,Ce,Fairy,,1,0,,Fairy,,20,,,,5140,5120,2,0.9,Medium Fast,head and arms,Fairy
+Scyther,123,,,,,123,,Bug,Flying,1,1,,Bug,,25,6400,6656,6630,6425,6400,123.5,56,Medium Fast,two or more pairs of wings,Bug
+Beldum,374,,,,,190,,Steel,Psychic,,,,Mineral,,40,,10496,10455,10280,10240,209.9,95.2,Slow,head and a base,Steel
+Roselia,315,,,,,94,,Grass,Poison,1,1,,Fairy,Grass,20,,5376,5355,5140,5120,4.4,2,Medium Slow,"bipedal, tailless form",Grass
+Treecko,252,,,,,1,,Grass,,1,7,,Monster,Dragon,20,,5376,5355,5140,5120,11,5,Medium Slow,"bipedal, tailed form",Grass
+Tyrogue,236,,,,,145,,Fighting,,0,1,U,Undiscovered,,25,6400,6656,6630,6425,6400,46.3,21,Medium Fast,"bipedal, tailless form",Fighting
+Horsea,116,,,,,116,,Water,,1,1,,Water 1,Dragon,20,5120,5376,5355,5140,5120,17.6,8,Medium Fast,head and a base,Water
+Deoxys,386,D,,,Defense Forme,202,,Psychic,,,,U,Undiscovered,,120,,30976,30855,30840,30720,134,60.8,Slow,"bipedal, tailless form",Psychic
+Alakazam,65,M,,Alakazite,Mega,65,,Psychic,,1,3,,Human-Like,,20,5120,5376,5355,5140,5120,105.8,48,Medium Slow,"bipedal, tailless form",Psychic
+Raticate,20,A,,,Alolan,,,Dark,Normal,1,1,,Field,,15,3840,4096,4080,3855,3840,40.8,18.5,Medium Fast,quadruped body,Normal
+Oricorio,741,Pa,,,Sensu Style,82,,Psychic,Flying,3,1,,Flying,,20,,,,,5120,7.5,3.4,Medium Fast,single pair of wings,Fire
+Bisharp,625,,,,,131,,Dark,Steel,1,1,,Human-Like,,20,,,,5140,5120,154.3,70,Medium Fast,"bipedal, tailless form",Dark
+Dragalge,691,,,,,31,Co,Poison,Dragon,1,1,,Water 1,Dragon,20,,,,5140,5120,179.7,81.5,Medium Fast,head and a base,Poison
+Fearow,22,,,,,22,,Normal,Flying,1,1,,Flying,,15,3840,4096,4080,3855,3840,83.8,38,Medium Fast,single pair of wings,Normal
+Wartortle,8,,,,,8,,Water,,1,7,,Monster,Water 1,20,5120,5376,5355,5140,5120,49.6,22.5,Medium Slow,"bipedal, tailed form",Water
+Deerling,585,,,,Winter Form,91,,Normal,Grass,1,1,,Field,,20,,,,5140,5120,43,19.5,Medium Fast,quadruped body,Normal
+Makuhita,296,,,,,48,,Fighting,,1,3,,Human-Like,,20,,5376,5355,5140,5120,190.5,86.4,Fluctuating,"bipedal, tailless form",Fighting
+Carbink,703,,,,,124,Co,Rock,Fairy,,,,Fairy,Mineral,25,,,,6425,6400,12.6,5.7,Slow,head,Rock
+Suicune,245,,,,,245,,Water,,,,U,Undiscovered,,80,20480,20736,20655,20560,20480,412.3,187,Slow,quadruped body,Water
+Mimikyu,778,,,,Disguised Form,242,,Ghost,Fairy,1,1,,Amorphous,,20,,,,,5120,1.5,0.7,Medium Fast,serpentine bodies,Ghost
+Bronzor,436,,,,,88,,Steel,Psychic,,,,Mineral,,20,,,5355,5140,5120,133.4,60.5,Medium Fast,head,Steel
+Shinx,403,,,,,17,,Electric,,1,1,,Field,,20,,,5355,5140,5120,20.9,9.5,Medium Slow,quadruped body,Electric
+Floatzel,419,,,,,57,,Water,,1,1,,Water 1,Field,20,,,5355,5140,5120,73.9,33.5,Medium Fast,quadruped body,Water
+Crabrawler,739,,,,,59,,Fighting,,1,1,,Water 3,,20,,,,,5120,15.4,7,Medium Fast,insectoid body,Fighting
+Dwebble,557,,,,,63,,Bug,Rock,1,1,,Bug,Mineral,20,,,,5140,5120,32,14.5,Medium Fast,insectoid body,Bug
+Moltres,146,,,,,146,,Fire,Flying,,,U,Undiscovered,,80,20480,20736,20655,20560,20480,132.3,60,Slow,single pair of wings,Fire
+Salandit,757,,,,,161,,Poison,Fire,1,7,,Monster,Dragon,20,,,,,5120,10.6,4.8,Medium Fast,quadruped body,Poison
+Swinub,220,,,,,195,,Ice,Ground,1,1,,Field,,20,5120,5376,5355,5140,5120,14.3,6.5,Slow,quadruped body,Ice
+Haxorus,612,,,,,118,,Dragon,,1,1,,Monster,Dragon,40,,,,10280,10240,232.6,105.5,Slow,"bipedal, tailed form",Dragon
+Zigzagoon,263,,,,,12,,Normal,,1,1,,Field,,15,,4096,4080,3855,3840,38.6,17.5,Medium Fast,quadruped body,Normal
+Flabébé,669,,,,Blue Flower,68,Ce,Fairy,,1,0,,Fairy,,20,,,,5140,5120,0.2,0.1,Medium Fast,head and arms,Fairy
+Burmy,412,S,,,Trash Cloak,45,,Bug,,1,1,,Bug,,15,,,4080,3855,3840,7.5,3.4,Medium Fast,head and a base,Bug
+Charmeleon,5,,,,,5,,Fire,,1,7,,Monster,Dragon,20,5120,5376,5355,5140,5120,41.9,19,Medium Slow,"bipedal, tailed form",Fire
+Sandygast,769,,,,,186,,Ghost,Ground,1,1,,Amorphous,,15,,,,,3840,154.3,70,Medium Fast,serpentine bodies,Ghost
+Medicham,308,,,,,77,,Fighting,Psychic,1,1,,Human-Like,,20,,5376,5355,5140,5120,69.4,31.5,Medium Fast,"bipedal, tailless form",Fighting
+Koffing,109,,,,,109,,Poison,,1,1,,Amorphous,,20,5120,5376,5355,5140,5120,2.2,1,Medium Fast,head,Poison
+Bibarel,400,,,,,14,,Normal,Water,1,1,,Water 1,Field,15,,,4080,3855,3840,69.4,31.5,Medium Fast,"bipedal, tailed form",Normal
+Buneary,427,,,,,67,,Normal,,1,1,,Field,Human-Like,20,,,5355,5140,5120,12.1,5.5,Medium Fast,"bipedal, tailed form",Normal
+Kricketot,401,,,,,15,,Bug,,1,1,,Bug,,15,,,4080,3855,3840,4.9,2.2,Medium Slow,"bipedal, tailless form",Bug
+Turtonator,776,,,,,224,,Fire,Dragon,1,1,,Monster,Dragon,20,,,,,5120,467.4,212,Medium Fast,"bipedal, tailed form",Fire
+Furfrou,676,,,,Matron Trim,93,Ce,Normal,,1,1,,Field,,20,,,,5140,5120,61.7,28,Medium Fast,quadruped body,Normal
+Gardevoir,282,,,,,31,,Psychic,Fairy,1,1,,Amorphous,,20,,5376,5355,5140,5120,106.7,48.4,Slow,"bipedal, tailless form",Psychic
+Torracat,726,,,,,5,,Fire,,1,7,,Field,,15,,,,,3840,55.1,25,Medium Slow,quadruped body,Fire
+Swadloon,541,,,,,47,,Bug,Grass,1,1,,Bug,,15,,,,3855,3840,16.1,7.3,Medium Slow,head and arms,Bug
+Pinsir,127,M,,Pinsirite,Mega,127,,Bug,Flying,1,1,,Bug,,25,6400,6656,6630,6425,6400,121.3,55,Slow,two or more pairs of wings,Bug
+Purugly,432,,,,,77,,Normal,,3,1,,Field,,20,,,5355,5140,5120,96.6,43.8,Fast,quadruped body,Normal
+Delcatty,301,,,,,62,,Normal,,3,1,,Field,Fairy,15,,4096,4080,3855,3840,71.9,32.6,Fast,quadruped body,Normal
+Blaziken,257,M,,Blazikenite,Mega,6,,Fire,Fighting,1,7,,Field,,20,,5376,5355,5140,5120,114.6,52,Medium Slow,"bipedal, tailed form",Fire
+Keldeo,647,,,,Ordinary Form,153,,Water,Fighting,,,U,Undiscovered,,80,,,,20560,20480,106.9,48.5,Slow,quadruped body,Water
+Rhyperior,464,,,,,188,,Ground,Rock,1,1,,Monster,Field,20,,,5355,5140,5120,623.5,282.8,Slow,"bipedal, tailed form",Ground
+Cryogonal,615,,,,,121,,Ice,,,,,Mineral,,25,,,,6425,6400,326.3,148,Medium Fast,head,Ice
+Swablu,333,,,,,121,,Normal,Flying,1,1,,Flying,Dragon,20,,5376,5355,5140,5120,2.6,1.2,Erratic,single pair of wings,Normal
+Solgaleo,791,,,,,291,,Psychic,Steel,,,U,Undiscovered,,120,,,,,30720,507.1,230,Slow,quadruped body,Psychic
+Goomy,704,,,,,19,Mo,Dragon,,1,1,,Dragon,,40,,,,10280,10240,6.2,2.8,Slow,serpentine bodies,Dragon
+Volbeat,313,,,,,86,,Bug,,0,1,,Bug,Human-Like,15,,4096,4080,3855,3840,39,17.7,Erratic,"bipedal, tailed form",Bug
+Quilava,156,,,,,5,,Fire,,1,7,,Field,,20,5120,5376,5355,5140,5120,41.9,19,Medium Slow,quadruped body,Fire
+Snivy,495,,,,,1,,Grass,,1,7,,Field,Grass,20,,,,5140,5120,17.9,8.1,Medium Slow,"bipedal, tailed form",Grass
+Zeraora,807,,,,,403,,Electric,,,,U,Undiscovered,,120,,,,,30720,98.1,44.5,Slow,"bipedal, tailless form",Electric
+Voltorb,100,,,,,100,,Electric,,,,,Mineral,,20,5120,5376,5355,5140,5120,22.9,10.4,Medium Fast,head,Electric
+Vivillon,666,,,,Continental Pattern,22,Ce,Bug,Flying,1,1,,Bug,,15,,,,3855,3840,37.5,17,Medium Fast,two or more pairs of wings,Bug
+Heatmor,631,,,,,137,,Fire,,1,1,,Field,,20,,,,5140,5120,127.9,58,Medium Fast,"bipedal, tailed form",Fire
+Furfrou,676,,,,Pharaoh Trim,93,Ce,Normal,,1,1,,Field,,20,,,,5140,5120,61.7,28,Medium Fast,quadruped body,Normal
+Oricorio,741,Pa,,,Pom-Pom Style,82,,Psychic,Flying,3,1,,Flying,,20,,,,,5120,7.5,3.4,Medium Fast,single pair of wings,Fire
+Arceus,493,,,,Type: Ghost,,,Normal,,,,U,Undiscovered,,120,,,30855,30840,30720,705.5,320,Slow,quadruped body,Normal
+Swanna,581,,,,,87,,Water,Flying,1,1,,Water 1,Flying,20,,,,5140,5120,53.4,24.2,Medium Fast,single pair of wings,Water
+Darkrai,491,,,,,,,Dark,,,,U,Undiscovered,,120,,,30855,30840,30720,111.3,50.5,Slow,"bipedal, tailless form",Dark
+Unown,201,,,,One form,61,,Psychic,,,,U,Undiscovered,,40,10240,10496,10455,10280,10240,11,5,Medium Fast,head,Psychic
+Shroomish,285,,,,,34,,Grass,,1,1,,Fairy,Grass,15,,4096,4080,3855,3840,9.9,4.5,Fluctuating,head and legs,Grass
+Gothitelle,576,,,,,82,,Psychic,,3,1,,Human-Like,,20,,,,5140,5120,97,44,Medium Slow,"bipedal, tailless form",Psychic
+Torterra,389,,,,,3,,Grass,Ground,1,7,,Monster,Grass,20,,,5355,5140,5120,683.4,310,Medium Slow,quadruped body,Grass
+Escavalier,589,,,,,95,,Bug,Steel,1,1,,Bug,,15,,,,3855,3840,72.8,33,Medium Fast,head and arms,Bug
+Pachirisu,417,,,,,55,,Electric,,1,1,,Field,Fairy,10,,,2805,2570,2560,8.6,3.9,Medium Fast,quadruped body,Electric
+Bronzong,437,,,,,89,,Steel,Psychic,,,,Mineral,,20,,,5355,5140,5120,412.3,187,Medium Fast,head and arms,Steel
+Magby,240,,,,,152,,Fire,,1,3,U,Undiscovered,,25,6400,6656,6630,6425,6400,47.2,21.4,Medium Fast,"bipedal, tailed form",Fire
+Heliolisk,695,,,,,47,Co,Electric,Normal,1,1,,Monster,Dragon,20,,,,5140,5120,46.3,21,Medium Fast,"bipedal, tailed form",Electric
+Morelull,755,,,,,145,,Grass,Fairy,1,1,,Grass,,20,,,,,5120,3.3,1.5,Medium Fast,head and a base,Grass
+Diglett,50,,,,,50,,Ground,,1,1,,Field,,20,5120,5376,5355,5140,5120,1.8,0.8,Medium Fast,head and a base,Ground
+Arceus,493,,,,Type: Fairy,,,Normal,,,,U,Undiscovered,,120,,,30855,30840,30720,705.5,320,Slow,quadruped body,Normal
+Pichu,172,,,,Spiky-eared,21,,Electric,,1,1,U,Undiscovered,,10,2560,2816,2805,2570,2560,4.4,2,Medium Fast,quadruped body,Electric
+Primarina,730,,,,,9,,Water,Fairy,1,7,,Water 1,Field,15,,,,,3840,97,44,Medium Slow,fins,Water
+Skrelp,690,,,,,30,Co,Poison,Water,1,1,,Water 1,Dragon,20,,,,5140,5120,16.1,7.3,Medium Fast,head and a base,Poison
+Luxio,404,,,,,18,,Electric,,1,1,,Field,,20,,,5355,5140,5120,67.2,30.5,Medium Slow,quadruped body,Electric
+Stufful,759,,,,,169,,Normal,Fighting,1,1,,Field,,15,,,,,3840,15,6.8,Medium Fast,quadruped body,Normal
+Grotle,388,,,,,2,,Grass,,1,7,,Monster,Grass,20,,,5355,5140,5120,213.8,97,Medium Slow,quadruped body,Grass
+Carracosta,565,,,,,71,,Water,Rock,1,7,,Water 1,Water 3,30,,,,7710,7680,178.6,81,Medium Fast,"bipedal, tailed form",Water
+Doublade,680,,,,,118,Ce,Steel,Ghost,1,1,,Mineral,,20,,,,5140,5120,9.9,4.5,Medium Fast,multiple bodies,Steel
+Skorupi,451,,,,,127,,Poison,Bug,1,1,,Bug,Water 3,20,,,5355,5140,5120,26.5,12,Slow,insectoid body,Poison
+Arceus,493,,,,Type: Bug,,,Normal,,,,U,Undiscovered,,120,,,30855,30840,30720,705.5,320,Slow,quadruped body,Normal
+Klang,600,,,,,106,,Steel,,,,,Mineral,,20,,,,5140,5120,112.4,51,Medium Slow,multiple bodies,Steel
+Golduck,55,,,,,55,,Water,,1,1,,Water 1,Field,20,5120,5376,5355,5140,5120,168.9,76.6,Medium Fast,"bipedal, tailed form",Water
+Sentret,161,,,,,19,,Normal,,1,1,,Field,,15,3840,4096,4080,3855,3840,13.2,6,Medium Fast,quadruped body,Normal
+Jolteon,135,,,,,135,,Electric,,1,7,,Field,,35,8960,9216,9180,8995,8960,54,24.5,Medium Fast,quadruped body,Electric
+Charizard,6,,,,,6,,Fire,Flying,1,7,,Monster,Dragon,20,5120,5376,5355,5140,5120,199.5,90.5,Medium Slow,"bipedal, tailed form",Fire
+Volcarona,637,,,,,143,,Bug,Fire,1,1,,Bug,,40,,,,10280,10240,101.4,46,Slow,two or more pairs of wings,Bug
+Galvantula,596,,,,,102,,Bug,Electric,1,1,,Bug,,20,,,,5140,5120,31.5,14.3,Medium Fast,insectoid body,Bug
+Beheeyem,606,,,,,112,,Psychic,,1,1,,Human-Like,,20,,,,5140,5120,76.1,34.5,Medium Fast,"bipedal, tailless form",Psychic
+Chimchar,390,,,,,4,,Fire,,1,7,,Field,Human-Like,20,,,5355,5140,5120,13.7,6.2,Medium Slow,"bipedal, tailed form",Fire
+Bulbasaur,1,,,,,1,,Grass,Poison,1,7,,Monster,Grass,20,5120,5376,5355,5140,5120,0,0,Medium Slow,quadruped body,Grass
+Vivillon,666,,,,Garden Pattern,22,Ce,Bug,Flying,1,1,,Bug,,15,,,,3855,3840,37.5,17,Medium Fast,two or more pairs of wings,Bug
+Nihilego,793,,,,,293,,Rock,Poison,,,U,Undiscovered,,120,,,,,30720,122.4,55.5,Slow,tentacles or a multiped body,Rock
+Lycanroc,745,,,,Midday Form,104,,Rock,,1,1,,Field,,15,,,,,3840,55.1,25,Medium Fast,quadruped body,Rock
+Tyrantrum,697,,,,,65,Co,Rock,Dragon,1,7,,Monster,Dragon,30,,,,7710,7680,595.2,270,Medium Fast,"bipedal, tailed form",Rock
+Wormadam,413,,,,Plant Cloak,46,,Bug,Grass,1,0,,Bug,,15,,,4080,3855,3840,14.3,6.5,Medium Fast,head and a base,Bug
+Dugtrio,51,,,,,51,,Ground,,1,1,,Field,,20,5120,5376,5355,5140,5120,73.4,33.3,Medium Fast,multiple bodies,Ground
+Ducklett,580,,,,,86,,Water,Flying,1,1,,Water 1,Flying,20,,,,5140,5120,12.1,5.5,Medium Fast,single pair of wings,Water
+Dodrio,85,,,,,85,,Normal,Flying,1,1,,Flying,,20,5120,5376,5355,5140,5120,187.8,85.2,Medium Fast,head and legs,Normal
+Zebstrika,523,,,,,29,,Electric,,1,1,,Field,,20,,,,5140,5120,175.3,79.5,Medium Fast,quadruped body,Electric
+Politoed,186,,,,,75,,Water,,1,1,,Water 1,,20,5120,5376,5355,5140,5120,74.7,33.9,Medium Slow,"bipedal, tailless form",Water
+Azurill,298,,,,,54,,Normal,Fairy,3,1,U,Undiscovered,,10,,2816,2805,2570,2560,4.4,2,Fast,head and legs,Normal
+Hitmonlee,106,,,,,106,,Fighting,,0,1,,Human-Like,,25,6400,6656,6630,6425,6400,109.8,49.8,Medium Fast,"bipedal, tailless form",Fighting
+Anorith,347,,,,,135,,Rock,Bug,1,7,,Water 3,,30,,7936,7905,7710,7680,27.6,12.5,Erratic,insectoid body,Rock
+Silvally,773,,,,Type: Water,204,,Normal,,,,U,Undiscovered,,120,,,,,30720,221.6,100.5,Slow,quadruped body,Normal
+Arceus,493,,,,Type: Rock,,,Normal,,,,U,Undiscovered,,120,,,30855,30840,30720,705.5,320,Slow,quadruped body,Normal
+Aromatisse,683,,,,,130,Ce,Fairy,,1,1,,Fairy,,20,,,,5140,5120,34.2,15.5,Medium Fast,"bipedal, tailless form",Fairy
+Mudsdale,750,,,,,133,,Ground,,1,1,,Field,,20,,,,,5120,2028.3,920,Medium Fast,quadruped body,Ground
+Swoobat,528,,,,,34,,Psychic,Flying,1,1,,Field,Flying,15,,,,3855,3840,23.1,10.5,Medium Fast,single pair of wings,Psychic
+Bonsly,438,,,,,92,,Rock,,1,1,U,Undiscovered,,20,,,5355,5140,5120,33.1,15,Medium Fast,head and legs,Rock
+Porygon-Z,474,,,,,194,,Normal,,,,,Mineral,,20,,,5355,5140,5120,75,34,Medium Fast,head and arms,Normal
+Raikou,243,,,,,243,,Electric,,,,U,Undiscovered,,80,20480,20736,20655,20560,20480,392.4,178,Slow,quadruped body,Electric
+Darmanitan,555,Z,,,Zen Mode,61,,Fire,Psychic,1,1,,Field,,20,,,,5140,5120,204.8,92.9,Medium Slow,quadruped body,Fire
+Clamperl,366,,,,,176,,Water,,1,1,,Water 1,,20,,5376,5355,5140,5120,115.7,52.5,Erratic,head,Water
+Chespin,650,,,,,1,Ce,Grass,,1,7,,Field,,20,,,,5140,5120,19.8,9,Medium Slow,"bipedal, tailed form",Grass
+Ekans,23,,,,,23,,Poison,,1,1,,Field,Dragon,20,5120,5376,5355,5140,5120,15.2,6.9,Medium Fast,serpentine bodies,Poison
+Marshadow,802,,,,,302,,Fighting,Ghost,,,U,Undiscovered,,120,,,,,30720,48.9,22.2,Slow,"bipedal, tailless form",Fighting
+Tyrunt,696,,,,,64,Co,Rock,Dragon,1,7,,Monster,Dragon,30,,,,7710,7680,57.3,26,Medium Fast,"bipedal, tailed form",Rock
+Luvdisc,370,,,,,183,,Water,,3,1,,Water 2,,20,,5376,5355,5140,5120,19.2,8.7,Fast,fins,Water
+Darumaka,554,,,,,60,,Fire,,1,1,,Field,,20,,,,5140,5120,82.7,37.5,Medium Slow,"bipedal, tailless form",Fire
+Arceus,493,,,,Type: Grass,,,Normal,,,,U,Undiscovered,,120,,,30855,30840,30720,705.5,320,Slow,quadruped body,Normal
+Greninja,658,A,,,Ash-Greninja,9,Ce,Water,Dark,1,7,,Water 1,,20,,,,5140,5120,88.2,40,Medium Slow,"bipedal, tailless form",Water
+Ludicolo,272,,,,,21,,Water,Grass,1,1,,Water 1,Grass,15,,4096,4080,3855,3840,121.3,55,Medium Slow,"bipedal, tailless form",Water
+Zapdos,145,,,,,145,,Electric,Flying,,,U,Undiscovered,,80,20480,20736,20655,20560,20480,116,52.6,Slow,single pair of wings,Electric
+Natu,177,,,,,161,,Psychic,Flying,1,1,,Flying,,20,5120,5376,5355,5140,5120,4.4,2,Medium Fast,single pair of wings,Psychic
+Gengar,94,M,,Gengarite,Mega,94,,Ghost,Poison,1,1,,Amorphous,,20,5120,5376,5355,5140,5120,89.3,40.5,Medium Slow,"bipedal, tailed form",Ghost
+Necrozma,800,,,,Dusk Mane,300,,Psychic,,,,U,Undiscovered,,120,,,,,30720,507.1,230,Slow,head and arms,Psychic
+Magikarp,129,,,,,129,,Water,,1,1,,Water 2,Dragon,5,1280,1536,1530,1285,1280,22,10,Slow,fins,Water
+Golett,622,,,,,128,,Ground,Ghost,,,,Mineral,,25,,,,6425,6400,202.8,92,Medium Fast,"bipedal, tailless form",Ground
+Exeggutor,103,A,,,Alolan,,,Grass,Dragon,1,1,,Grass,,20,5120,5376,5355,5140,5120,264.6,120,Slow,head and legs,Grass
+Cosmog,789,,,,,289,,Psychic,,,,U,Undiscovered,,120,,,,,30720,0.2,0.1,Slow,head,Psychic
+Chikorita,152,,,,,1,,Grass,,1,7,,Monster,Grass,20,5120,5376,5355,5140,5120,14.1,6.4,Medium Slow,quadruped body,Grass
+Spheal,363,,,,,173,,Ice,Water,1,1,,Water 1,Field,20,,5376,5355,5140,5120,87.1,39.5,Medium Slow,fins,Ice
+Lillipup,506,,,,,12,,Normal,,1,1,,Field,,15,,,,3855,3840,9,4.1,Medium Slow,quadruped body,Normal
+Silvally,773,,,,Type: Ghost,204,,Normal,,,,U,Undiscovered,,120,,,,,30720,221.6,100.5,Slow,quadruped body,Normal
+Pansage,511,,,,,17,,Grass,,1,7,,Field,,20,,,,5140,5120,23.1,10.5,Medium Fast,"bipedal, tailed form",Grass
+Vivillon,666,,,,Jungle Pattern,22,Ce,Bug,Flying,1,1,,Bug,,15,,,,3855,3840,37.5,17,Medium Fast,two or more pairs of wings,Bug
+Ninjask,291,,,,,43,,Bug,Flying,1,1,,Bug,,15,,4096,4080,3855,3840,26.5,12,Erratic,two or more pairs of wings,Bug
+Dragonair,148,,,,,148,,Dragon,,1,1,,Water 1,Dragon,40,10240,10496,10455,10280,10240,36.4,16.5,Slow,serpentine bodies,Dragon
+Zubat,41,,,,,41,,Poison,Flying,1,1,,Flying,,15,3840,4096,4080,3855,3840,16.5,7.5,Medium Fast,single pair of wings,Poison
+Sneasel,215,,,,,218,,Dark,Ice,1,1,,Field,,20,5120,5376,5355,5140,5120,61.7,28,Medium Slow,"bipedal, tailed form",Dark
+Stantler,234,,,,,131,,Normal,,1,1,,Field,,20,5120,5376,5355,5140,5120,157,71.2,Slow,quadruped body,Normal
+Mawile,303,M,,Mawilite,Mega,69,,Steel,Fairy,1,1,,Field,Fairy,20,,5376,5355,5140,5120,25.4,11.5,Fast,"bipedal, tailless form",Steel
+Amoonguss,591,,,,,97,,Grass,Poison,1,1,,Grass,,20,,,,5140,5120,23.1,10.5,Medium Fast,head and arms,Grass
+Ralts,280,,,,,29,,Psychic,Fairy,1,1,,Amorphous,,20,,5376,5355,5140,5120,14.6,6.6,Slow,"bipedal, tailless form",Psychic
+Duosion,578,,,,,84,,Psychic,,1,1,,Amorphous,,20,,,,5140,5120,17.6,8,Medium Slow,head,Psychic
+Gothita,574,,,,,80,,Psychic,,3,1,,Human-Like,,20,,,,5140,5120,12.8,5.8,Medium Slow,"bipedal, tailless form",Psychic
+Grumpig,326,,,,,111,,Psychic,,1,1,,Field,,20,,5376,5355,5140,5120,157.6,71.5,Fast,"bipedal, tailed form",Psychic
+Popplio,728,,,,,7,,Water,,1,7,,Water 1,Field,15,,,,,3840,16.5,7.5,Medium Slow,fins,Water
+Fletchling,661,,,,,14,Ce,Normal,Flying,1,1,,Flying,,15,,,,3855,3840,3.7,1.7,Medium Slow,single pair of wings,Normal
+Roserade,407,,,,,27,,Grass,Poison,1,1,,Fairy,Grass,20,,,5355,5140,5120,32,14.5,Medium Slow,"bipedal, tailless form",Grass
+Vivillon,666,,,,Sandstorm Pattern,22,Ce,Bug,Flying,1,1,,Bug,,15,,,,3855,3840,37.5,17,Medium Fast,two or more pairs of wings,Bug
+Venusaur,3,,,,,3,,Grass,Poison,1,7,,Monster,Grass,20,5120,5376,5355,5140,5120,220.5,100,Medium Slow,quadruped body,Grass
+Samurott,503,,,,,9,,Water,,1,7,,Field,,20,,,,5140,5120,208.6,94.6,Medium Slow,quadruped body,Water
+Vivillon,666,,,,Polar Pattern,22,Ce,Bug,Flying,1,1,,Bug,,15,,,,3855,3840,37.5,17,Medium Fast,two or more pairs of wings,Bug
+Wingull,278,,,,,27,,Water,Flying,1,1,,Water 1,Flying,20,,5376,5355,5140,5120,20.9,9.5,Medium Fast,single pair of wings,Water
+Zorua,570,,,,,76,,Dark,,1,7,,Field,,25,,,,6425,6400,27.6,12.5,Medium Slow,quadruped body,Dark
+Oricorio,741,Se,,,Baile Style,82,,Ghost,Flying,3,1,,Flying,,20,,,,,5120,7.5,3.4,Medium Fast,single pair of wings,Fire
+Misdreavus,200,,,,,219,,Ghost,,1,1,,Amorphous,,25,6400,6656,6630,6425,6400,2.2,1,Fast,head,Ghost
+Necrozma,800,DW,W,,Dawn Wings,300,,Psychic,,,,U,Undiscovered,,120,,,,,30720,771.6,350,Slow,single pair of wings,Psychic
+Chesnaught,652,,,,,3,Ce,Grass,Fighting,1,7,,Field,,20,,,,5140,5120,198.4,90,Medium Slow,"bipedal, tailed form",Grass
+Poliwrath,62,,,,,62,,Water,Fighting,1,1,,Water 1,,20,5120,5376,5355,5140,5120,119,54,Medium Slow,"bipedal, tailless form",Water
+Vivillon,666,,,,Monsoon Pattern,22,Ce,Bug,Flying,1,1,,Bug,,15,,,,3855,3840,37.5,17,Medium Fast,two or more pairs of wings,Bug
+Pikachu,25,,,,Pop Star,25,,Electric,,1,1,,Field,Fairy,10,2560,2816,2805,2570,2560,13.2,6,Medium Fast,quadruped body,Electric
+Larvesta,636,,,,,142,,Bug,Fire,1,1,,Bug,,40,,,,10280,10240,63.5,28.8,Slow,insectoid body,Bug
+Grimer,88,,,,,88,,Poison,,1,1,,Amorphous,,20,5120,5376,5355,5140,5120,66.1,30,Medium Fast,head and arms,Poison
+Aerodactyl,142,,,,,142,,Rock,Flying,1,7,,Flying,,35,8960,9216,9180,8995,8960,130.1,59,Slow,single pair of wings,Rock
+Bagon,371,,,,,187,,Dragon,,1,1,,Dragon,,40,,10496,10455,10280,10240,92.8,42.1,Slow,"bipedal, tailless form",Dragon
+Munchlax,446,,,,,112,,Normal,,1,7,U,Undiscovered,,40,,,10455,10280,10240,231.5,105,Slow,"bipedal, tailless form",Normal
+Raichu,26,,,,,26,,Electric,,1,1,,Field,Fairy,10,2560,2816,2805,2570,2560,66.1,30,Medium Fast,"bipedal, tailed form",Electric
+Oranguru,765,,,,,176,,Normal,Psychic,1,1,,Field,,20,,,,,5120,167.6,76,Slow,"bipedal, tailless form",Normal
+Watchog,505,,,,,11,,Normal,,1,1,,Field,,20,,,,5140,5120,59.5,27,Medium Fast,"bipedal, tailed form",Normal
+Breloom,286,,,,,35,,Grass,Fighting,1,1,,Fairy,Grass,15,,4096,4080,3855,3840,86.4,39.2,Fluctuating,"bipedal, tailed form",Grass
+Cherrim,421,,,,Overcast Form,59,,Grass,,1,1,,Fairy,Grass,20,,,5355,5140,5120,20.5,9.3,Medium Fast,head and legs,Grass
+Mandibuzz,630,,,,,136,,Dark,Flying,1,0,,Flying,,20,,,,5140,5120,87.1,39.5,Slow,single pair of wings,Dark
+Gumshoos,735,,,,,14,,Normal,,1,1,,Field,,15,,,,,3840,31.3,14.2,Medium Fast,quadruped body,Normal
+Venipede,543,,,,,49,,Bug,Poison,1,1,,Bug,,15,,,,3855,3840,11.7,5.3,Medium Slow,insectoid body,Bug
+Ninetales,38,,,,,38,,Fire,,3,1,,Field,,20,5120,5376,5355,5140,5120,43.9,19.9,Medium Fast,quadruped body,Fire
+Landorus,645,T,,,Therian Forme,151,,Ground,Flying,0,1,U,Undiscovered,,120,,,,30840,30720,149.9,68,Slow,quadruped body,Ground
+Beedrill,15,M,,Beedrillite,Mega,15,,Bug,Poison,1,1,,Bug,,15,3840,4096,4080,3855,3840,65,29.5,Medium Fast,two or more pairs of wings,Bug
+Venomoth,49,,,,,49,,Bug,Poison,1,1,,Bug,,20,5120,5376,5355,5140,5120,27.6,12.5,Medium Fast,two or more pairs of wings,Bug
+Mantyke,458,,,,,140,,Water,Flying,1,1,U,Undiscovered,,25,,,6630,6425,6400,143.3,65,Slow,single pair of wings,Water
+Flygon,330,,,,,118,,Ground,Dragon,1,1,,Bug,,20,,5376,5355,5140,5120,180.8,82,Medium Slow,single pair of wings,Ground
+Serperior,497,,,,,3,,Grass,,1,7,,Field,Grass,20,,,,5140,5120,138.9,63,Medium Slow,serpentine bodies,Grass
+Luxray,405,,,,,19,,Electric,,1,1,,Field,,20,,,5355,5140,5120,92.6,42,Medium Slow,quadruped body,Electric
+Silvally,773,,,,Type: Poison,204,,Normal,,,,U,Undiscovered,,120,,,,,30720,221.6,100.5,Slow,quadruped body,Normal
+Frillish,592,F,,,,98,,Water,Ghost,1,1,,Amorphous,,20,,,,5140,5120,72.8,33,Medium Fast,tentacles or a multiped body,Water
+Vivillon,666,,,,River Pattern,22,Ce,Bug,Flying,1,1,,Bug,,15,,,,3855,3840,37.5,17,Medium Fast,two or more pairs of wings,Bug
+Oricorio,741,Pa,,,Pa'u Style,82,,Psychic,Flying,3,1,,Flying,,20,,,,,5120,7.5,3.4,Medium Fast,single pair of wings,Fire
+Typhlosion,157,,,,,6,,Fire,,1,7,,Field,,20,5120,5376,5355,5140,5120,175.3,79.5,Medium Slow,quadruped body,Fire
+Sawsbuck,586,,,,Autumn Form,92,,Normal,Grass,1,1,,Field,,20,,,,5140,5120,203.9,92.5,Medium Fast,quadruped body,Normal
+Trubbish,568,,,,,74,,Poison,,1,1,,Mineral,,20,,,,5140,5120,68.3,31,Medium Fast,"bipedal, tailless form",Poison
+Rufflet,627,,,,,133,,Normal,Flying,0,1,,Flying,,20,,,,5140,5120,23.1,10.5,Slow,single pair of wings,Normal
+Ivysaur,2,,,,,2,,Grass,Poison,1,7,,Monster,Grass,20,5120,5376,5355,5140,5120,28.7,13,Medium Slow,quadruped body,Grass
+Leavanny,542,,,,,48,,Bug,Grass,1,1,,Bug,,15,,,,3855,3840,45.2,20.5,Medium Slow,"bipedal, tailless form",Bug
+Houndoom,229,M,,Houndoominite,Mega,215,,Dark,Fire,1,1,,Field,,20,5120,5376,5355,5140,5120,77.2,35,Slow,quadruped body,Dark
+Silvally,773,,,,Type: Psychic,204,,Normal,,,,U,Undiscovered,,120,,,,,30720,221.6,100.5,Slow,quadruped body,Normal
+Florges,671,,,,Red Flower,70,Ce,Fairy,,1,0,,Fairy,,20,,,,5140,5120,22,10,Medium Fast,head and arms,Fairy
+Deoxys,386,,,,Normal Forme,202,,Psychic,,,,U,Undiscovered,,120,,30976,30855,30840,30720,134,60.8,Slow,"bipedal, tailless form",Psychic
+Minun,312,,,,,81,,Electric,,1,1,,Fairy,,20,,5376,5355,5140,5120,9.3,4.2,Medium Fast,"bipedal, tailed form",Electric
+Thundurus,642,,,,Incarnate Forme,148,,Electric,Flying,0,1,U,Undiscovered,,120,,,,30840,30720,134.5,61,Slow,head and arms,Electric
+Darmanitan,555,,,,Standard Mode,61,,Fire,,1,1,,Field,,20,,,,5140,5120,204.8,92.9,Medium Slow,quadruped body,Fire
+Liepard,510,,,,,16,,Dark,,1,1,,Field,,20,,,,5140,5120,82.7,37.5,Medium Fast,quadruped body,Dark
+Furfrou,676,,,,La Reine Trim,93,Ce,Normal,,1,1,,Field,,20,,,,5140,5120,61.7,28,Medium Fast,quadruped body,Normal
+Pawniard,624,,,,,130,,Dark,Steel,1,1,,Human-Like,,20,,,,5140,5120,22.5,10.2,Medium Fast,"bipedal, tailless form",Dark
+Electabuzz,125,,,,,125,,Electric,,1,3,,Human-Like,,25,6400,6656,6630,6425,6400,66.1,30,Medium Fast,"bipedal, tailed form",Electric
+Arcanine,59,,,,,59,,Fire,,1,3,,Field,,20,5120,5376,5355,5140,5120,341.7,155,Slow,quadruped body,Fire
+Boldore,525,,,,,31,,Rock,,1,1,,Mineral,,15,,,,3855,3840,224.9,102,Medium Slow,tentacles or a multiped body,Rock
+Necrozma,800,U,,,Ultra,300,,Psychic,,,,U,Undiscovered,,120,,,,,30720,771.6,350,Slow,two or more pairs of wings,Psychic
+Silvally,773,,,,Type: Electric,204,,Normal,,,,U,Undiscovered,,120,,,,,30720,221.6,100.5,Slow,quadruped body,Normal
+Octillery,224,,,,,175,,Water,,1,1,,Water 1,Water 2,20,5120,5376,5355,5140,5120,62.8,28.5,Medium Fast,tentacles or a multiped body,Water
+Lucario,448,,,,,116,,Fighting,Steel,1,7,,Field,Human-Like,25,,,6630,6425,6400,119,54,Medium Slow,"bipedal, tailed form",Fighting
+Rockruff,744,,,,,103,,Rock,,1,1,,Field,,15,,,,,3840,20.3,9.2,Medium Fast,quadruped body,Rock
+Silvally,773,,,,Type: Steel,204,,Normal,,,,U,Undiscovered,,120,,,,,30720,221.6,100.5,Slow,quadruped body,Normal
+Cascoon,268,,,,,17,,Bug,,1,1,,Bug,,15,,4096,4080,3855,3840,25.4,11.5,Medium Fast,head,Bug
+Dusclops,356,,,,,149,,Ghost,,1,1,,Amorphous,,25,,6656,6630,6425,6400,67.5,30.6,Fast,"bipedal, tailless form",Ghost
+Florges,671,,,,Orange Flower,70,Ce,Fairy,,1,0,,Fairy,,20,,,,5140,5120,22,10,Medium Fast,head and arms,Fairy
+Servine,496,,,,,2,,Grass,,1,7,,Field,Grass,20,,,,5140,5120,35.3,16,Medium Slow,"bipedal, tailed form",Grass
+Solgaleo,791,,,,Radiant Sun phase,291,,Psychic,Steel,,,U,Undiscovered,,120,,,,,30720,507.1,230,Slow,quadruped body,Psychic
+Golem,76,,,,,76,,Rock,Ground,1,1,,Mineral,,15,3840,4096,4080,3855,3840,661.4,300,Medium Slow,"bipedal, tailless form",Rock
+Fletchinder,662,,,,,15,Ce,Fire,Flying,1,1,,Flying,,15,,,,3855,3840,35.3,16,Medium Slow,single pair of wings,Fire
+Pikachu,25,,,,Original Cap,25,,Electric,,1,1,,Field,Fairy,10,2560,2816,2805,2570,2560,13.2,6,Medium Fast,quadruped body,Electric
+Wormadam,413,G,,,Sandy Cloak,46,,Bug,Ground,1,0,,Bug,,15,,,4080,3855,3840,14.3,6.5,Medium Fast,head and a base,Bug
+Roggenrola,524,,,,,30,,Rock,,1,1,,Mineral,,15,,,,3855,3840,39.7,18,Medium Slow,head and legs,Rock
+Vivillon,666,,,,Fancy Pattern,22,Ce,Bug,Flying,1,1,,Bug,,15,,,,3855,3840,37.5,17,Medium Fast,two or more pairs of wings,Bug
+Alakazam,65,,,,,65,,Psychic,,1,3,,Human-Like,,20,5120,5376,5355,5140,5120,105.8,48,Medium Slow,"bipedal, tailless form",Psychic
+Marshadow,802,,,,Zenith,302,,Fighting,Ghost,,,U,Undiscovered,,120,,,,,30720,48.9,22.2,Slow,"bipedal, tailless form",Fighting
+Florges,671,,,,White Flower,70,Ce,Fairy,,1,0,,Fairy,,20,,,,5140,5120,22,10,Medium Fast,head and arms,Fairy
+Cobalion,638,,,,,144,,Steel,Fighting,,,U,Undiscovered,,80,,,,20560,20480,551.2,250,Slow,quadruped body,Steel
+Rayquaza,384,M,,None*,Mega,200,,Dragon,Flying,,,U,Undiscovered,,120,,30976,30855,30840,30720,455.2,206.5,Slow,serpentine bodies,Dragon
+Rattata,19,,,,,19,,Normal,,1,1,,Field,,15,3840,4096,4080,3855,3840,7.7,3.5,Medium Fast,quadruped body,Normal
+Skarmory,227,,,,,203,,Steel,Flying,1,1,,Flying,,25,6400,6656,6630,6425,6400,111.3,50.5,Slow,single pair of wings,Steel
+Bastiodon,411,,,,,39,,Rock,Steel,1,7,,Monster,,30,,,7905,7710,7680,329.6,149.5,Erratic,quadruped body,Rock
+Gourgeist,711,,,,Large Size,64,Mo,Ghost,Grass,1,1,,Amorphous,,20,,,,5140,5120,30.9,14,Medium Fast,head and a base,Ghost
+Tangrowth,465,,,,,182,,Grass,,1,1,,Grass,,20,,,5355,5140,5120,283.5,128.6,Medium Fast,"bipedal, tailless form",Grass
+Snorlax,143,,,,,143,,Normal,,1,7,,Monster,,40,10240,10496,10455,10280,10240,1014.1,460,Slow,"bipedal, tailless form",Normal
+Latios,381,,,,,197,,Dragon,Psychic,0,1,U,Undiscovered,,120,,30976,30855,30840,30720,132.3,60,Slow,single pair of wings,Dragon
+Mienshao,620,,,,,126,,Fighting,,1,1,,Field,Human-Like,25,,,,6425,6400,78.3,35.5,Medium Slow,"bipedal, tailed form",Fighting
+Walrein,365,,,,,175,,Ice,Water,1,1,,Water 1,Field,20,,5376,5355,5140,5120,332,150.6,Medium Slow,quadruped body,Ice
+Seedot,273,,,,,22,,Grass,,1,1,,Field,Grass,15,,4096,4080,3855,3840,8.8,4,Medium Slow,head and legs,Grass
+Kartana,798,,,,,298,,Grass,Steel,,,U,Undiscovered,,120,,,,,30720,0.2,0.1,Slow,"bipedal, tailless form",Grass
+Celesteela,797,,,,,297,,Steel,Flying,,,U,Undiscovered,,120,,,,,30720,2204.4,999.9,Slow,"bipedal, tailless form",Steel
+Paras,46,,,,,46,,Bug,Grass,1,1,,Bug,Grass,20,5120,5376,5355,5140,5120,11.9,5.4,Medium Fast,insectoid body,Bug
+Masquerain,284,,,,,33,,Bug,Flying,1,1,,Water 1,Bug,15,,4096,4080,3855,3840,7.9,3.6,Medium Fast,two or more pairs of wings,Bug
+Salazzle,758,,,,,162,,Poison,Fire,1,0,,Monster,Dragon,20,,,,,5120,48.9,22.2,Medium Fast,quadruped body,Poison
+Rotom,479,,,,Fan,152,,Electric,Ghost,,,,Amorphous,,20,,,5355,5140,5120,0.7,0.3,Medium Fast,head,Electric
+Ariados,168,,,,,33,,Bug,Poison,1,1,,Bug,,15,3840,4096,4080,3855,3840,73.9,33.5,Fast,insectoid body,Bug
+Pikachu,25,Pa,,,Partner,25,,Electric,,1,1,,Field,Fairy,10,2560,2816,2805,2570,2560,13.2,6,Medium Fast,quadruped body,Electric
+Mesprit,481,,,,,147,,Psychic,,,,U,Undiscovered,,80,,,20655,20560,20480,0.7,0.3,Slow,"bipedal, tailed form",Psychic
+Pelipper,279,,,,,28,,Water,Flying,1,1,,Water 1,Flying,20,,5376,5355,5140,5120,61.7,28,Medium Fast,single pair of wings,Water
+Trevenant,709,,,,,62,Mo,Ghost,Grass,1,1,,Grass,Amorphous,20,,,,5140,5120,156.5,71,Medium Fast,tentacles or a multiped body,Ghost
+Kadabra,64,,,,,64,,Psychic,,1,3,,Human-Like,,20,5120,5376,5355,5140,5120,124.6,56.5,Medium Slow,"bipedal, tailed form",Psychic
+Pineco,204,,,,,93,,Bug,,1,1,,Bug,,20,5120,5376,5355,5140,5120,15.9,7.2,Medium Fast,head,Bug
+Scolipede,545,,,,,51,,Bug,Poison,1,1,,Bug,,20,,,,5140,5120,442,200.5,Medium Slow,insectoid body,Bug
+Beartic,614,,,,,120,,Ice,,1,1,,Field,,20,,,,5140,5120,573.2,260,Medium Fast,quadruped body,Ice
+Exeggcute,102,,,,,102,,Grass,Psychic,1,1,,Grass,,20,5120,5376,5355,5140,5120,5.5,2.5,Slow,multiple bodies,Grass
+Venusaur,3,M,,Venusaurite,Mega,3,,Grass,Poison,1,7,,Monster,Grass,20,5120,5376,5355,5140,5120,220.5,100,Medium Slow,quadruped body,Grass
+Solrock,338,,,,,126,,Rock,Psychic,,,,Mineral,,25,,6656,6630,6425,6400,339.5,154,Fast,head,Rock
+Taillow,276,,,,,25,,Normal,Flying,1,1,,Flying,,15,,4096,4080,3855,3840,5.1,2.3,Medium Slow,single pair of wings,Normal
+Pikachu,25,,,,,25,,Electric,,1,1,,Field,Fairy,10,2560,2816,2805,2570,2560,13.2,6,Medium Fast,quadruped body,Electric
+Chatot,441,,,,,102,,Normal,Flying,1,1,,Flying,,20,,,5355,5140,5120,4.2,1.9,Medium Slow,single pair of wings,Normal
+Slurpuff,685,,,,,132,Ce,Fairy,,1,1,,Fairy,,20,,,,5140,5120,11,5,Medium Fast,"bipedal, tailless form",Fairy
+Braixen,654,,,,,5,Ce,Fire,,1,7,,Field,,20,,,,5140,5120,32,14.5,Medium Slow,"bipedal, tailed form",Fire
+Donphan,232,,,,,201,,Ground,,1,1,,Field,,20,5120,5376,5355,5140,5120,264.6,120,Medium Fast,quadruped body,Ground
+Girafarig,203,,,,,149,,Normal,Psychic,1,1,,Field,,20,5120,5376,5355,5140,5120,91.5,41.5,Medium Fast,quadruped body,Normal
+Hitmonchan,107,,,,,107,,Fighting,,0,1,,Human-Like,,25,6400,6656,6630,6425,6400,110.7,50.2,Medium Fast,"bipedal, tailless form",Fighting
+Pikachu,25,,,,Belle,25,,Electric,,1,1,,Field,Fairy,10,2560,2816,2805,2570,2560,13.2,6,Medium Fast,quadruped body,Electric
+Vivillon,666,,,,Savanna Pattern,22,Ce,Bug,Flying,1,1,,Bug,,15,,,,3855,3840,37.5,17,Medium Fast,two or more pairs of wings,Bug
+Vivillon,666,,,,Archipelago Pattern,22,Ce,Bug,Flying,1,1,,Bug,,15,,,,3855,3840,37.5,17,Medium Fast,two or more pairs of wings,Bug
+Silvally,773,,,,Type: Dark,204,,Normal,,,,U,Undiscovered,,120,,,,,30720,221.6,100.5,Slow,quadruped body,Normal
+Fraxure,611,,,,,117,,Dragon,,1,1,,Monster,Dragon,40,,,,10280,10240,79.4,36,Slow,"bipedal, tailed form",Dragon
+Drilbur,529,,,,,35,,Ground,,1,1,,Field,,20,,,,5140,5120,18.7,8.5,Medium Fast,"bipedal, tailed form",Ground
+Eelektross,604,,,,,110,,Electric,,1,1,,Amorphous,,20,,,,5140,5120,177.5,80.5,Slow,fins,Electric
+Mareanie,747,,,,,113,,Poison,Water,1,1,,Water 1,,20,,,,,5120,17.6,8,Medium Fast,head and a base,Poison
+Tympole,535,,,,,41,,Water,,1,1,,Water 1,,20,,,,5140,5120,9.9,4.5,Medium Slow,fins,Water
+Necrozma,800,DM,M,,Dusk Mane,300,,Psychic,,,,U,Undiscovered,,120,,,,,30720,1014.1,460,Slow,quadruped body,Psychic
+Dewpider,751,,,,,141,,Water,Bug,1,1,,Water 1,Bug,15,,,,,3840,8.8,4,Medium Fast,head and legs,Water
+Flaaffy,180,,,,,54,,Electric,,1,1,,Monster,Field,20,5120,5376,5355,5140,5120,29.3,13.3,Medium Slow,"bipedal, tailed form",Electric
+Phanpy,231,,,,,200,,Ground,,1,1,,Field,,20,5120,5376,5355,5140,5120,73.9,33.5,Medium Fast,quadruped body,Ground
+Pumpkaboo,710,,,,Average Size,63,Mo,Ghost,Grass,1,1,,Amorphous,,20,,,,5140,5120,11,5,Medium Fast,head,Ghost
+Persian,53,A,,,Alolan,,,Dark,,1,1,,Field,,20,5120,5376,5355,5140,5120,70.5,32,Medium Fast,quadruped body,Normal
+Silvally,773,,,,Type: Rock,204,,Normal,,,,U,Undiscovered,,120,,,,,30720,221.6,100.5,Slow,quadruped body,Normal
+Gyarados,130,,,,,130,,Water,Flying,1,1,,Water 2,Dragon,5,1280,1536,1530,1285,1280,518.1,235,Slow,serpentine bodies,Water
+Rhydon,112,,,,,112,,Ground,Rock,1,1,,Monster,Field,20,5120,5376,5355,5140,5120,264.6,120,Slow,"bipedal, tailed form",Ground
+Sunflora,192,,,,,104,,Grass,,1,1,,Grass,,20,5120,5376,5355,5140,5120,18.7,8.5,Medium Slow,"bipedal, tailless form",Grass
+Bruxish,779,,,,,243,,Water,Psychic,1,1,,Water 2,,15,,,,,3840,41.9,19,Medium Fast,fins,Water
+Elgyem,605,,,,,111,,Psychic,,1,1,,Human-Like,,20,,,,5140,5120,19.8,9,Medium Fast,"bipedal, tailed form",Psychic
+Patrat,504,,,,,10,,Normal,,1,1,,Field,,15,,,,3855,3840,25.6,11.6,Medium Fast,quadruped body,Normal
+Palpitoad,536,,,,,42,,Water,Ground,1,1,,Water 1,,20,,,,5140,5120,37.5,17,Medium Slow,"bipedal, tailed form",Water
+Charizard,6,MX,X,,Mega  X,6,,Fire,Flying,1,7,,Monster,Dragon,20,5120,5376,5355,5140,5120,199.5,90.5,Medium Slow,"bipedal, tailed form",Fire
+Latias,380,M,,Latiasite,Mega,196,,Dragon,Psychic,1,0,U,Undiscovered,,120,,30976,30855,30840,30720,88.2,40,Slow,single pair of wings,Dragon
+Gliscor,472,,,,,154,,Ground,Flying,1,1,,Bug,,20,,,5355,5140,5120,93.7,42.5,Medium Slow,single pair of wings,Ground
+Dugtrio,51,A,,,Alolan,,,Ground,Steel,1,1,,Field,,20,5120,5376,5355,5140,5120,73.4,33.3,Medium Fast,multiple bodies,Ground
+Kyurem,646,,,,Normal,152,,Dragon,Ice,,,U,Undiscovered,,120,,,,30840,30720,716.5,325,Slow,"bipedal, tailed form",Dragon
+Tyranitar,248,M,,Tyranitarite,Mega,251,,Rock,Dark,1,1,,Monster,,40,10240,10496,10455,10280,10240,445.3,202,Slow,"bipedal, tailed form",Rock
+Abra,63,,,,,63,,Psychic,,1,3,,Human-Like,,20,5120,5376,5355,5140,5120,43,19.5,Medium Slow,"bipedal, tailed form",Psychic
+Shieldon,410,,,,,38,,Rock,Steel,1,7,,Monster,,30,,,7905,7710,7680,125.7,57,Erratic,quadruped body,Rock
+Mime Jr.,439,,,,,94,,Psychic,Fairy,1,1,U,Undiscovered,,25,,,6630,6425,6400,28.7,13,Medium Fast,"bipedal, tailless form",Psychic
+Skiddo,672,,,,,89,Ce,Grass,,1,1,,Field,,20,,,,5140,5120,68.3,31,Medium Fast,quadruped body,Grass
+Cacnea,331,,,,,119,,Grass,,1,1,,Grass,Human-Like,20,,5376,5355,5140,5120,113.1,51.3,Medium Slow,"bipedal, tailless form",Grass
+Torchic,255,,,,,4,,Fire,,1,7,,Field,,20,,5376,5355,5140,5120,5.5,2.5,Medium Slow,head and legs,Fire
+Silvally,773,,,,Type: Fire,204,,Normal,,,,U,Undiscovered,,120,,,,,30720,221.6,100.5,Slow,quadruped body,Normal
+Mothim,414,,,,,47,,Bug,Flying,0,1,,Bug,,15,,,4080,3855,3840,51.4,23.3,Medium Fast,two or more pairs of wings,Bug
+Banette,354,,,,,147,,Ghost,,1,1,,Amorphous,,25,,6656,6630,6425,6400,27.6,12.5,Fast,"bipedal, tailed form",Ghost
+Jigglypuff,39,,,,,39,,Normal,Fairy,3,1,,Fairy,,10,2560,2816,2805,2570,2560,12.1,5.5,Fast,"bipedal, tailless form",Normal
+Sableye,302,,,,,68,,Dark,Ghost,1,1,,Human-Like,,25,,6656,6630,6425,6400,24.3,11,Medium Slow,"bipedal, tailless form",Dark
+Frogadier,657,,,,,8,Ce,Water,,1,7,,Water 1,,20,,,,5140,5120,24,10.9,Medium Slow,"bipedal, tailless form",Water
+Ledian,166,,,,,31,,Bug,Flying,1,1,,Bug,,15,3840,4096,4080,3855,3840,78.5,35.6,Fast,single pair of wings,Bug
+Gengar,94,,,,,94,,Ghost,Poison,1,1,,Amorphous,,20,5120,5376,5355,5140,5120,89.3,40.5,Medium Slow,"bipedal, tailed form",Ghost
+Ho-Oh,250,,,,,253,,Fire,Flying,,,U,Undiscovered,,120,30720,30976,30855,30840,30720,438.7,199,Slow,single pair of wings,Fire
+Ferrothorn,598,,,,,104,,Grass,Steel,1,1,,Grass,Mineral,20,,,,5140,5120,242.5,110,Medium Fast,tentacles or a multiped body,Grass
+Shaymin,492,S,,,Sky Forme,,,Grass,Flying,,,U,Undiscovered,,120,,,30855,30840,30720,11.5,5.2,Medium Slow,quadruped body,Grass
+Graveler,75,A,,,Alolan,,,Rock,Electric,1,1,,Mineral,,15,3840,4096,4080,3855,3840,231.5,105,Medium Slow,"bipedal, tailless form",Rock
+Braviary,628,,,,,134,,Normal,Flying,0,1,,Flying,,20,,,,5140,5120,90.4,41,Slow,single pair of wings,Normal

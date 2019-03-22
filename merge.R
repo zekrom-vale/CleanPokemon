@@ -5,8 +5,10 @@
 # Merge with data
 ##################
 
-# Join with dex
 
+###############################################################################
+# 																		Join with dex
+###############################################################################
 dexes=c("Dex"="Dex", Name="Name");
 dexsuff=c(dexes, "Dex_Suffix"="Dex_Suffix");
 
@@ -159,10 +161,33 @@ dex.j=dex%>%
 		Name=="Frillish"
 	  |
 		Name=="Jellicent"
-    |
-		Name=="Oricorio" # Odd that there are not more
+    #|
+		#Name=="Oricorio" # Odd that there are not more
 	)%>%
 	select(-Dex_Suffix.d);
+
+
+# Oricorio is wrong
+# Need to remove Oricorio Duds
+agg.j=agg%>%
+	filter(
+		Name=="Oricorio"
+	)%>%
+	union(
+		agg%>%
+			filter(Name=="Oricorio"&Class=="Baile Style")%>%
+			slice(1:1)%>%
+			mutate(
+				Dex_Suffix=NA_character_
+			)
+	)%>%
+	filter(
+		Dex_Suffix=="Se"&Class=="Sensu Style"|
+			Dex_Suffix=="Pa"&Class=="Pa'u Style"|
+			Dex_Suffix=="Po"&Class=="Pom-Pom Style"|
+			is.na(Dex_Suffix)
+	);
+
 
 # Now combine
 
@@ -189,8 +214,8 @@ agg=agg%>%
 				Name=="Frillish"
 			|
 				Name=="Jellicent"
-			|
-				Name=="Oricorio" # Odd that there are not more
+			#|
+			#	Name=="Oricorio" # Odd that there are not more
 			|
 				Name=="Rotom"&!is.na(Class)&!is.na(Dex_Suffix)
 		)
@@ -201,25 +226,6 @@ agg=agg%>%
 	)%>%
 	union(
 		types.agg.j
-	);
-# Need to remove Oricorio Duds
-agg.j=agg%>%
-	filter(
-		Name=="Oricorio"
-	)%>%
-	union(
-		agg%>%
-			filter(Name=="Oricorio"&Class=="Baile Style")%>%
-			slice(1:1)%>%
-			mutate(
-				Dex_Suffix=NA_character_
-			)
-	)%>%
-	filter(
-		  Dex_Suffix=="Se"&Class=="Sensu Style"|
-			Dex_Suffix=="Pa"&Class=="Pa'u Style"|
-			Dex_Suffix=="Po"&Class=="Pom-Pom Style"|
-			is.na(Dex_Suffix)
 	);
 
 # Unoin them
@@ -256,8 +262,73 @@ agg=agg%>%
 		Form_Type2=NULL
 	);
 
-# Join with gender
+# Duplicates are created
 
+agg%>%
+	setdiff(
+		agg%>%
+			distinct(Dex, Class, .keep_all=TRUE)
+	);
+# Manualy fix them
+
+agg%>%
+	filter(
+		Name=="Greninja"&(
+			is.na(Dex_Suffix)&is.na(Class)|
+			Dex_Suffix=="A"&Class=="Ash-Greninja"
+		)|Name=="Necrozma"&(
+			is.na(Dex_Suffix)&is.na(Class)|
+			Dex_Suffix=="DW"&Class=="Dawn Wings"|
+			Dex_Suffix=="DM"&Class=="Dusk Mane"|
+			Dex_Suffix=="U"&Class=="Ultra"
+		)
+	)%>%
+	union(
+		agg%>%
+			filter(
+				Name=="Necrozma"&is.na(Dex_Suffix)
+			)%>%
+			slice(1:1)%>%
+			mutate(
+				Class=NA_character_
+			)
+	);
+
+agg%>%
+	filter(
+		Name!="Greninja"&Name!="Necrozma"
+	)%>%
+	union(
+		agg%>%
+			filter(
+				Name=="Greninja"&(
+					is.na(Dex_Suffix)&is.na(Class)|
+						Dex_Suffix=="A"&Class=="Ash-Greninja"
+				)|Name=="Necrozma"&(
+					is.na(Dex_Suffix)&is.na(Class)|
+						Dex_Suffix=="DW"&Class=="Dawn Wings"|
+						Dex_Suffix=="DM"&Class=="Dusk Mane"|
+						Dex_Suffix=="U"&Class=="Ultra"
+				)
+			)%>%
+			union(
+				agg%>%
+					filter(
+						Name=="Necrozma"&is.na(Dex_Suffix)
+					)%>%
+					slice(1:1)%>%
+					mutate(
+						Class=NA_character_
+					)
+			)
+	)%>%distinct(Dex, Class, .keep_all=TRUE);# No duplicates!
+# Save
+agg=.Last.value;
+
+test=agg%>%distinct(Dex, Class);
+###############################################################################
+#																Join with gender
+###############################################################################
 agg%>%
 	inner_join(
 		gender,
@@ -271,23 +342,25 @@ agg=agg%>%
 		gender,
 		by=dexes
 	);
-
-# Join with egg group
-
+###############################################################################
+# 															Join with egg group
+###############################################################################
 agg%>%
-	inner_join(
+	left_join(
 		eggGroup,
 		by=c(Dex="ID", Name="Name")
 	);
 
 # Save
 agg=agg%>%
-	inner_join(
+	left_join(
 		eggGroup,
 		by=c(Dex="ID", Name="Name")
 	);
+###############################################################################
+# 																Join with weight
+###############################################################################
 
-# Join with weight
 agg%>%
 	inner_join(
 		weight,
@@ -489,11 +562,11 @@ agg=agg%>%
 		exp,
 		by=dexes
 	);
-
-# Join with body
-
+###############################################################################
+# 																Join with body
+###############################################################################
 agg%>%
-	inner_join(
+	left_join(
 		body,
 		by=dexes,
 		suffix=c("",".d")
@@ -515,180 +588,19 @@ agg=agg%>%
 	filter(
 		Dex_Suffix==Dex_Suffix.d|is.na(Dex_Suffix.d)
 	)%>%
-	distinct(Name, Dex_Suffix, Class, Dex, WeightKg, WeightLbs, .keep_all=TRUE)%>%
+	distinct(Name, Dex_Suffix, Class, Dex, .keep_all=TRUE)%>%
 	select(-c(Dex_Suffix.d, Type2.d));
 
-# Join with color
+# Missing stuff
 
-color%>%
-	separate(
-		Name,
-		into=c("Name",paste0("Class",1:2)),
-		sep="\n"
+agg%>%
+	select(
+		c(Dex,Class)
 	)%>%
-	filter(
-		!is.na(Class1)
-	);
-
-# Save
-color=color%>%
-	separate(
-		Name,
-		into=c("Name",paste0("Class",1:2)),
-		sep="\n"
-	);
-
-
-# Join where class1 is na or equal to "All forms"
-agg%>%
-	inner_join(
-		color%>%
-			filter(
-			  is.na(Class1)|Class1=="All forms"
-		  )%>%
-		  select(-c(Dex_Suffix, Class1, Class2))
-		,
-		by=dexes
-	);
-
-# Join when Dex_Suffix match
-agg%>%
-	inner_join(
-		color%>%
-			select(-c(Class1, Class2)),
-		by=dexsuff
-	);
-
-# Union them
-agg.j=agg%>%
-	inner_join(
-		color%>%
-			filter(
-				is.na(Class1)|Class1=="All forms"
-			)%>%
-			select(-c(Dex_Suffix, Class1, Class2))
-		,
-		by=dexes
-	)%>%
-	union(
-		agg%>%
-			inner_join(
-				color%>%
-					select(-c(Class1, Class2)),
-				by=dexsuff
-			)
-	);
-
-agg%>%
 	setdiff(
-		agg.j%>%
-			select(
-				-c(Color)
-			)
+		test%>%
+			select(c(Dex,Class))
 	);
 
-# There are duplicates in agg
-
-agg.j%>%distinct(
-	Dex, Dex_Suffix, Name, Color, Class, .keep_all=TRUE
-);
-
-# Union them
-
-agg.j%>%distinct(
-	Dex, Dex_Suffix, Name, Color, Class, .keep_all=TRUE
-)%>%
-	union(
-		agg%>%
-			setdiff(
-				agg.j%>%
-					select(
-						-c(Color)
-					)
-			)%>%
-			inner_join(
-				color,
-				by=dexes,
-				suffix=c("",".d")
-			)%>%
-			filter(
-				Class2=="Mega Charizard Y"
-			)%>%select(-c(Class1,Class2,Dex_Suffix.d))
-	);
-
-# Save
-agg=.Last.value;
-
-
-# Join with ability
-# Cut the star out
-ability=ability%>%
-	mutate(
-		Star=str_detect(Name, "\\*"),
-		Name=gsub("\\*","", Name)
-	);
-
-agg%>%
-	inner_join(
-		ability,
-		by=dexsuff,
-		suffix=c("",".d")
-	)%>%
-	distinct(Name, Dex, Dex_Suffix, Class, `Ability 1`, `Ability 2`, Hidden);
-
-
-agg%>%
-	anti_join(
-		ability,
-		by=dexsuff, # c("Dex"="Dex")
-		suffix=c("",".d")
-	)%>%
-	inner_join(
-		ability,
-		by=dexes,
-		suffix=c("",".d")
-	)%>%
-	select(Name, Name.d, Dex, Dex_Suffix, Dex_Suffix.d, Class, `Ability 1`, `Ability 2`, Hidden);
-
-# Union them
-agg%>%
-	inner_join(
-		ability,
-		by=dexsuff,
-		suffix=c("",".d")
-	)%>%
-	union(
-		agg%>%
-			anti_join(
-				ability,
-				by=dexsuff, # c("Dex"="Dex")
-				suffix=c("",".d")
-			)%>%
-			inner_join(
-				ability,
-				by=dexes,
-				suffix=c("",".d")
-			)%>%
-			select(-Dex_Suffix.d)
-	);
-# Save
-agg.j=.Last.value;
-
-
-agg%>%
-	anti_join(
-		ability,
-		by=dexsuff, # c("Dex"="Dex")
-		suffix=c("",".d")
-	)%>%
-	anti_join(
-		ability,
-		by=dexes,
-		suffix=c("",".d")
-	)%>%
-	inner_join(
-		ability,
-		by=c("Dex"="Dex"),
-		suffix=c("",".d")
-	)%>%
-	select(Name, Name.d, Dex, Dex_Suffix, Dex_Suffix.d, Class, `Ability 1`, `Ability 2`, Hidden);
+# body%>%filter(Dex==808);
+# Missed in body and other places
