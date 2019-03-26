@@ -1,0 +1,24 @@
+# Condence Gender_Ratio into key form
+agg=agg%>%
+	mutate(
+		Unbreedable=if_else(is.na(Unbreedable),"",Unbreedable)
+	)%>%
+	unite(
+		Gender_Ratio,
+		Female,Male,
+		sep=":"
+	)%>%
+	unite(
+		Gender_Ratio,
+		Gender_Ratio,
+		Unbreedable,
+		sep=""
+	)%>%
+	mutate(
+		Gender_Ratio=case_when(
+			Gender_Ratio=="NA:NAU"~"GU",
+			Gender_Ratio=="NA:NA"~"G",
+			Gender_Ratio=="NA:NAU*"~"G*",
+			TRUE~Gender_Ratio
+		)
+	);
