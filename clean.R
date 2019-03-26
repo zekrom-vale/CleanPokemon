@@ -225,7 +225,7 @@ exc=PokemonRaw_Core_Pokemon%>%
 		Call_Rate_USUM=as.integer(Call_Rate_USUM),
 		ID_9=as.integer(ID_9)
 	)%>%
-	rename(Dex=ID_9);
+	rename(Dex=ID_9, Name=Name_10);
 
 # Save
 call=exc[1:4];

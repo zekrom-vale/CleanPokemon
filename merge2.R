@@ -145,40 +145,100 @@ agg.d=agg.j%>%
 # agg.d%>%filter(Name=='Raichu')%>%select(Name, Dex, Dex_Suffix, Color)
 agg.d.f=agg.d%>%
 	filter(
-      Name=='Vulpix'&(Dex_Suffix=='A'&Color!="Brown"|is.na(Dex_Suffix))|
+      Name=='Vulpix'&(
+      	Dex_Suffix=='A'&Color=="White"|
+      	is.na(Dex_Suffix)&Color=="Brown"
+      )|
       #Name=='Minior'|
-      Name=='Raichu'&(Dex_Suffix=='A'&Color!="Yellow"|is.na(Dex_Suffix))|
-      Name=='Sandshrew'&(Dex_Suffix=='A'&Color!="Yellow"|is.na(Dex_Suffix))|
-      Name=='Sandslash'&(Dex_Suffix=='A'&Color!="Yellow"|is.na(Dex_Suffix))|
-      Name=='Graveler'&(Dex_Suffix=='A'&Color!="Brown"|is.na(Dex_Suffix))|
+      Name=='Raichu'&(
+      	Dex_Suffix=='A'&Color=="Brown"|
+      	is.na(Dex_Suffix)&Color=="Yellow"
+      )|
+      Name=='Sandshrew'&(
+      	Dex_Suffix=='A'&Color=="White"|
+      	is.na(Dex_Suffix)&Color=="Yellow"
+      )|
+      Name=='Sandslash'&(
+      	Dex_Suffix=='A'&Color=="Blue"|
+      		is.na(Dex_Suffix)&Color=="Yellow"
+      )|
+      Name=='Graveler'&(
+      	Dex_Suffix=='A'&Color=="Gray"|
+      	is.na(Dex_Suffix)&Color=="Brown"
+      )|
       Name=='Castform'&(
       	Dex_Suffix=="S"&Color=="Red"|
       	Dex_Suffix=="R"&Color=="Blue"|
       	Dex_Suffix=="H"&Color=="Blue"|
       	is.na(Dex_Suffix)&Color=="Gray"
       )| # More complicated
-      Name=='Audino'&(Dex_Suffix=="M"&Color!="Pink"|is.na(Dex_Suffix))|
+      Name=='Audino'&(
+      	Dex_Suffix=="M"&Color=="White"|
+      	is.na(Dex_Suffix)&Color=="Pink"
+      )|
       Name=='Necrozma'&(
       	Dex_Suffix=="DW"&Color=="Blue"|
       	Dex_Suffix=="DM"&Color=="Yellow"|
       	Dex_Suffix=="U"&Color=="Yellow"|
       	is.na(Dex_Suffix)&Color=="Black"
       )| # Quite complex
-      Name=='Rattata'&(Dex_Suffix=='A'&Color!="Purple"|is.na(Dex_Suffix))|
-      Name=='Muk'&(Dex_Suffix=='A'&Color!="Purple"|is.na(Dex_Suffix))|
-      Name=='Ninetales'&(Dex_Suffix=='A'&Color!="Yellow"|is.na(Dex_Suffix))|
-      Name=='Latios'&(Dex_Suffix=='M'&Color!="Blue"|is.na(Dex_Suffix))|
-      Name=='Golem'&(Dex_Suffix=='A'&Color!="Brown"|is.na(Dex_Suffix))|
-      Name=='Raticate'&(Dex_Suffix=='A'&Color!="Brown"|is.na(Dex_Suffix))|
-      Name=='Latias'&(Dex_Suffix=='M'&Color!="Red"|is.na(Dex_Suffix))|
+      Name=='Rattata'&(
+      	Dex_Suffix=='A'&Color=="Black"|
+      	is.na(Dex_Suffix)&Color=="Purple"
+      )|
+      Name=='Muk'&(
+      	Dex_Suffix=='A'&Color=="Green"|
+      	is.na(Dex_Suffix)&Color=="Purple"
+      )|
+      Name=='Ninetales'&(
+      	Dex_Suffix=='A'&Color=="Blue"|
+      	is.na(Dex_Suffix)&Color=="Yellow"
+      )|
+      Name=='Latios'&(
+      	Dex_Suffix=='M'&Color=="Purple"|
+      	is.na(Dex_Suffix)&Color=="Blue"
+      )|
+      Name=='Golem'&(
+      	Dex_Suffix=='A'&Color=="Gray"|
+      	is.na(Dex_Suffix)&Color=="Brown"
+      )|
+      Name=='Raticate'&(
+      	Dex_Suffix=='A'&Color=="Black"|
+      	is.na(Dex_Suffix)&Color=="Brown"
+      )|
+      Name=='Latias'&(
+      	Dex_Suffix=='M'&Color=="Purple"|
+      	is.na(Dex_Suffix)&Color=="Red"
+      )|
       Name=='Meowstic'| # ???
-      Name=='Meowth'&(Dex_Suffix=='A'&Color!="Yellow"|is.na(Dex_Suffix))|
-      Name=='Grimer'&(Dex_Suffix=='A'&Color!="Purple"|is.na(Dex_Suffix))|
-      Name=='Magearna'&(Class=="Original Color"&Color!="Gray"|is.na(Class))|
-      Name=='Geodude'&(Dex_Suffix=='A'&Color!="Brown"|is.na(Dex_Suffix))|
-      Name=='Marowak'&(Dex_Suffix=='A'&Color!="Brown"|is.na(Dex_Suffix))|
-      Name=='Persian'&(Dex_Suffix=='A'&Color!="Yellow"|is.na(Dex_Suffix))|
-      Name=='Charizard'&(Dex_Suffix=='MX'&Color!="Red"|Dex_Suffix!='MX')
+      Name=='Meowth'&(
+      	Dex_Suffix=='A'&Color=="Blue"|
+      	is.na(Dex_Suffix)&Color=="Yellow"
+      )|
+      Name=='Grimer'&(
+      	Dex_Suffix=='A'&Color!="Green"|
+      	is.na(Dex_Suffix)&Color=="Purple"
+      )|
+      Name=='Magearna'&(
+      	Class=="Original Color"&Color=="Red"|
+      	is.na(Class)&Color=="Gray"
+      )|
+      Name=='Geodude'&(
+      	Dex_Suffix=='A'&Color=="Gray"|
+      	is.na(Dex_Suffix)&Color=="Brown"
+      )|
+      Name=='Marowak'&(
+      	Dex_Suffix=='A'&Color=="Purple"|
+      	is.na(Dex_Suffix)&Color=="Brown"
+      )|
+      Name=='Persian'&(
+      	Dex_Suffix=='A'&Color=="Blue"|
+      	is.na(Dex_Suffix)&Color=="Yellow"
+      )|
+      Name=='Charizard'&(
+      	Dex_Suffix=='MX'&Color=="Black"|
+      	(Dex_Suffix!='MX'|is.na(Dex_Suffix))&Color=="Red"
+      )
 	);
 # Missing normal Charizard
 
@@ -190,6 +250,8 @@ agg.j=agg.j%>%
 	union(
 		agg.d.f
 	);
+
+
 # Remove junk
 rm(agg.d,agg.d.f,color.all,color.class,color.dex,color.miss,color.miss.fix)
 
@@ -200,20 +262,64 @@ agg.miss=agg%>%
 			select(-Color)
 	);
 
-agg.miss%>%
+
+agg.miss=agg.miss%>%
 	inner_join(
 		color,
 		by=dexes,
 		suffix=c("",".d")
-	)%>%
-	filter(
+	);
 
+# agg.miss%>%filter(Name=="Cherrim")%>%select(Name, Dex, Dex_Suffix, Class, Dex_Suffix.d, Class1, Class2, Color)
+
+agg.miss=agg.miss%>%
+	filter(
+		Name=="Cherrim"&(
+			Class=="Sunshine Form"&Color=="Pink"|
+			Class=="Overcast Form"&Color=="Purple"
+		)|
+		(
+			Name=="Zygarde"|
+			Name=="Wormadam"|
+			Name=="Darmanitan"|
+			Name=="Shellos"|
+			Name=="Gastrodon"|
+			Name=="Lycanroc"
+		)&(
+			Dex_Suffix==Dex_Suffix.d|
+			is.na(Dex_Suffix)&is.na(Dex_Suffix.d)
+		)|
+		Name=="Oricorio"&(# Need to add Dex_Suffix to them
+			Dex_Suffix.d=="Po"&Class=="Pom-Pom Style"|
+			Dex_Suffix.d=="Se"&Class=="Sensu Style"|
+			Dex_Suffix.d=="Pa"&Class=="Pa'u Style"|
+			is.na(Dex_Suffix.d)&Class=="Baile Style"
+		)|
+		Name=="Minior"| # Need to add
 		Name=="Charizard"&Class1=="Normal and"
 	);
 
+# Fix Dex_Suffix
+
+agg.miss=agg.miss%>%
+	mutate(
+		Dex_Suffix=if_else(is.na(Dex_Suffix),Dex_Suffix.d,Dex_Suffix),
+		Class=if_else(is.na(Class),Class1,Class)
+	);
+	#filter(Class!=Class1);
+
+# Union them
+
+agg.j%>%
+	union(
+		agg.miss%>%
+			select(-c(Class1,Class2,Dex_Suffix.d))
+	);
 
 # Save
 agg=.Last.value;
+
+rm(agg.j, agg.miss);
 
 ###############################################################################
 # 															Join with ability
@@ -290,4 +396,214 @@ agg%>%
 	)%>%
 	select(Name, Name.d, Dex, Dex_Suffix, Dex_Suffix.d, Class, `Ability 1`, `Ability 2`, Hidden);
 
-# Color is wrong
+
+###############################################################################
+# 															Join with iq
+###############################################################################
+# Fix Weepinbell
+iq=iq%>%
+	mutate(
+		Dex=if_else(Name=="Weepinbell",70:70,Dex)
+	);
+
+# Join
+agg%>%
+	left_join(
+		iq,
+		by=c(dexes,Dex_Suffix="Dex_Suffix"),
+		suffix=c("",".d")
+	)%>%
+	select(-c(Type.d,Type2.d));
+
+# See what did not match
+iq%>%
+	anti_join(
+		agg,
+		by=c(dexes,Dex_Suffix="Dex_Suffix"),
+		suffix=c("",".d")
+	);
+
+# Save
+agg=agg%>%
+	left_join(
+		iq,
+		by=c(dexes,Dex_Suffix="Dex_Suffix"),
+		suffix=c("",".d")
+	);
+
+###############################################################################
+# 															Join with friend
+###############################################################################
+
+# Join them
+agg%>%
+	left_join(
+		friend,
+		by=dexes
+	);
+
+# See what was missed
+agg%>%
+	anti_join(
+		friend,
+		by=dexes
+	);
+
+friend%>%
+	anti_join(
+		agg,
+		by=dexes
+	)%>%filter(
+		!is.na(Dex)
+	);
+
+# Nothing missed
+# Save
+
+agg=agg%>%
+	left_join(
+		friend,
+		by=dexes
+	);
+
+###############################################################################
+# 															Join with evolution
+###############################################################################
+# Remove na's
+evolution=evolution%>%filter(!is.na(Dex));
+
+# Join
+agg%>%
+	left_join(
+		evolution%>%
+			select(-Dex_Suffix)%>%
+			filter(!is.na(Dex)),
+		by=dexes
+	);
+
+# Too big, somthing is not distinct in evolution
+evolution%>%
+	setdiff(
+		evolution%>%
+			distinct(Name,Dex,.keep_all=T)
+	);
+
+# ???
+
+agg%>%
+	inner_join(
+		evolution%>%
+			select(-Dex_Suffix)%>%
+			filter(!is.na(Dex)),
+		by=dexes
+	)%>%
+	group_by(
+		Dex, Name
+	)%>%
+	summarise(
+		ns=if_else(n()>1,T,F)
+	)%>%
+	filter(ns==T);
+
+# See the things duplicated
+evolution.dup=(agg%>%
+							 	inner_join(
+							 		evolution%>%
+							 			select(-Dex_Suffix)%>%
+							 			filter(!is.na(Dex)),
+							 		by=dexes
+							 	)%>%
+							 	group_by(
+							 		Dex, Name
+							 	)%>%
+							 	summarise(
+							 		ns=if_else(n()>1,T,F)
+							 	)%>%
+							 	filter(ns==T))$Dex;
+
+evolution%>%
+	filter(
+		Dex%in%evolution.dup
+	)%>%View();
+# I now see many things are from agg, not evolution
+
+# Try distinct the rows
+evolution%>%
+	distinct();
+
+evolution%>%
+	distinct(
+		Dex, Dex_Suffix, Name
+	);
+
+# Now they are the same
+# Save
+evolution=evolution%>%
+	distinct();
+
+# Join
+agg%>%
+	left_join(
+		evolution%>%
+			select(-Dex_Suffix)%>%
+			filter(!is.na(Dex)),
+		by=dexes
+	);
+
+# Now the same size
+
+agg=.Last.value;
+
+###############################################################################
+# 															Join with Call rate
+###############################################################################
+# Remove na's
+call=call%>%
+	filter(!is.na(Dex));
+
+# See if there are duplicates
+call%>%distinct() # 10 Row dups
+
+# Save
+call=call%>%distinct();
+
+call%>%distinct(
+	Name,Dex,.keep_all=T
+); # 2 Duplicates
+
+call.dup=(
+	call%>%
+		group_by(Dex)%>%
+		summarise(
+			ns=if_else(n()>1,T,F)
+		)%>%
+		filter(ns==T)
+)$Dex;
+
+call%>%
+	filter(
+		Dex%in%call.dup # Can not use in line
+	);
+
+# Apperently the class is important
+# Fix to add the class
+call%>%
+	mutate(
+		Class=if_else(
+			Dex==550,
+			if_else(
+				Call_Rate_USUM==9,
+				"Red-Striped Form",
+				"Blue-Striped Form"
+			),
+			if_else(
+				Dex==670,
+				if_else(
+					Call_Rate_USUM==9,
+					"Red Flower",
+					NA_character_
+				),
+				NA_character_
+			)
+		)
+	)
