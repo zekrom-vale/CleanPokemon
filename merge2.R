@@ -321,81 +321,8 @@ agg=.Last.value;
 
 rm(agg.j, agg.miss);
 
-###############################################################################
-# 															Join with ability
-###############################################################################
-# Cut the star out
-ability=ability%>%
-	mutate(
-		Star=str_detect(Name, "\\*"),
-		Name=gsub("\\*","", Name)
-	);
-
-agg%>%
-	inner_join(
-		ability,
-		by=dexsuff,
-		suffix=c("",".d")
-	)%>%
-	distinct(Name, Dex, Dex_Suffix, Class, `Ability 1`, `Ability 2`, Hidden);
-
-
-agg%>%
-	anti_join(
-		ability,
-		by=dexsuff, # c("Dex"="Dex")
-		suffix=c("",".d")
-	)%>%
-	inner_join(
-		ability,
-		by=dexes,
-		suffix=c("",".d")
-	)%>%
-	select(Name, Name.d, Dex, Dex_Suffix, Dex_Suffix.d, Class, `Ability 1`, `Ability 2`, Hidden);
-
-# Union them
-agg%>%
-	inner_join(
-		ability,
-		by=dexsuff,
-		suffix=c("",".d")
-	)%>%
-	union(
-		agg%>%
-			anti_join(
-				ability,
-				by=dexsuff, # c("Dex"="Dex")
-				suffix=c("",".d")
-			)%>%
-			inner_join(
-				ability,
-				by=dexes,
-				suffix=c("",".d")
-			)%>%
-			select(-Dex_Suffix.d)
-	);
-# Save
-agg.j=.Last.value;
-
-
-agg%>%
-	anti_join(
-		ability,
-		by=dexsuff, # c("Dex"="Dex")
-		suffix=c("",".d")
-	)%>%
-	anti_join(
-		ability,
-		by=dexes,
-		suffix=c("",".d")
-	)%>%
-	inner_join(
-		ability,
-		by=c("Dex"="Dex"),
-		suffix=c("",".d")
-	)%>%
-	select(Name, Name.d, Dex, Dex_Suffix, Dex_Suffix.d, Class, `Ability 1`, `Ability 2`, Hidden);
-
+agg%>%distinct(Name, Dex, Class, Dex_Suffix)
+# Missing 1 value, unless it is from elsewere
 
 ###############################################################################
 # 															Join with iq
@@ -429,7 +356,8 @@ agg=agg%>%
 		iq,
 		by=c(dexes,Dex_Suffix="Dex_Suffix"),
 		suffix=c("",".d")
-	);
+	)%>%
+	select(-c(Type.d,Type2.d));
 
 ###############################################################################
 # 															Join with friend
@@ -587,7 +515,7 @@ call%>%
 
 # Apperently the class is important
 # Fix to add the class
-call%>%
+call.f=call%>%
 	mutate(
 		Class=if_else(
 			Dex==550,
@@ -601,9 +529,113 @@ call%>%
 				if_else(
 					Call_Rate_USUM==9,
 					"Red Flower",
-					NA_character_
+					"Flower"
 				),
 				NA_character_
 			)
 		)
-	)
+	)%>%filter(!is.na(Class));
+
+agg.j=agg%>%
+	left_join(
+		call.f,
+		by=dexes,
+		suffix=c("",".d")
+	);
+
+agg.j%>%
+	filter(
+		Dex==670&(
+			Class==Class.d|
+			Class.d=="Flower"&Class!="Red Flower"
+		)|
+		Dex==550&Class==Class.d
+	)%>%
+	union(
+		agg.j%>%
+			filter(
+				!Dex%in%c(670:670, 550:550)
+			)
+	)%>%
+	select(-c(Class.d));
+
+# No duplicates so
+# Save
+agg=.Last.value;
+
+rm(agg.j, call.f, call.dup, dex.j);
+
+###############################################################################
+# 															Join with ability
+###############################################################################
+# Cut the star out
+ability=ability%>%
+	mutate(
+		Star=str_detect(Name, "\\*"),
+		Name=gsub("\\*","", Name)
+	);
+
+agg%>%
+	inner_join(
+		ability,
+		by=dexsuff,
+		suffix=c("",".d")
+	)%>%
+	distinct(Name, Dex, Dex_Suffix, Class, `Ability 1`, `Ability 2`, Hidden);
+
+
+agg%>%
+	anti_join(
+		ability,
+		by=dexsuff, # c("Dex"="Dex")
+		suffix=c("",".d")
+	)%>%
+	inner_join(
+		ability,
+		by=dexes,
+		suffix=c("",".d")
+	)%>%
+	select(Name, Name.d, Dex, Dex_Suffix, Dex_Suffix.d, Class, `Ability 1`, `Ability 2`, Hidden);
+
+# Union them
+agg%>%
+	inner_join(
+		ability,
+		by=dexsuff,
+		suffix=c("",".d")
+	)%>%
+	union(
+		agg%>%
+			anti_join(
+				ability,
+				by=dexsuff, # c("Dex"="Dex")
+				suffix=c("",".d")
+			)%>%
+			inner_join(
+				ability,
+				by=dexes,
+				suffix=c("",".d")
+			)%>%
+			select(-Dex_Suffix.d)
+	);
+# Save
+agg.j=.Last.value;
+
+
+agg%>%
+	anti_join(
+		ability,
+		by=dexsuff, # c("Dex"="Dex")
+		suffix=c("",".d")
+	)%>%
+	anti_join(
+		ability,
+		by=dexes,
+		suffix=c("",".d")
+	)%>%
+	inner_join(
+		ability,
+		by=c("Dex"="Dex"),
+		suffix=c("",".d")
+	)%>%
+	select(Name, Name.d, Dex, Dex_Suffix, Dex_Suffix.d, Class, `Ability 1`, `Ability 2`, Hidden);

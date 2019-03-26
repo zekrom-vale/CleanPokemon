@@ -1,6 +1,3 @@
-#library(tidyverse);
-#source("clean.R");
-#source("manageAlts.R");
 ##################
 # Merge with data
 ##################
@@ -611,30 +608,14 @@ agg%>%
 
 agg%>%
 	mutate(
-		Gen=if_else(
-			Dex<=151,
-			1,
-			if_else(
-				Dex<=251,
-				2,
-				if_else(
-					Dex<=386,
-					3,
-					if_else(
-						Dex<=493,
-						4,
-						if_else(
-							Dex<=649,
-							5,
-							if_else(
-								Dex<=721,
-								6,
-								7
-							)
-						)
-					)
-				)
-			)
+		Gen=case_when(
+			Dex<=151~1,
+			Dex<=251~2,
+			Dex<=386~3,
+			Dex<=493~4,
+			Dex<=649~5,
+			Dex<=721~6,
+			TRUE~7
 		)
 	);
 
