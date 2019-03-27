@@ -577,18 +577,25 @@ agg%>%not_distinct(Name, Name, Dex, Dex_Suffix, Class);
 # Cut the star out
 ability%<>%
 	mutate(
-		Star=str_detect(Name, "\\*"),
-		Name=gsub("\\*","", Name)
+		Star=str_detect(Name, "\\*$"),
+		Name=gsub("\\*$","", Name),
+		Ability1Star=str_detect(`Ability 1`, "\\*$"),
+		`Ability 1`=gsub("\\*$","", `Ability 1`),
+		Ability2Star=str_detect(`Ability 2`, "\\*$"),
+		`Ability 2`=gsub("\\*$","", `Ability 2`)
 	);
 
-agg%>%
+agg.j=agg%>%
 	inner_join(
 		ability,
 		by=dexsuff,
 		suffix=c("",".d")
-	)%>%
-	distinct(Name, Dex, Dex_Suffix, Class, `Ability 1`, `Ability 2`, Hidden);
+	);
+agg.j;
 
+agg.j%>%
+	not_distinct(Name, Name, Dex, Dex_Suffix, Class);
+# Nothing not distinct
 
 agg%>%
 	anti_join(
@@ -601,7 +608,7 @@ agg%>%
 		by=dexes,
 		suffix=c("",".d")
 	)%>%
-	select(Name, Name.d, Dex, Dex_Suffix, Dex_Suffix.d, Class, `Ability 1`, `Ability 2`, Hidden);
+	select(Name, Dex, Dex_Suffix, Dex_Suffix.d, Class, `Ability 1`, `Ability 2`, Hidden);
 
 # Union them
 agg%>%
@@ -627,7 +634,11 @@ agg%>%
 # Save
 agg.j=.Last.value;
 
+agg.j%>%
+	not_distinct(Name, Name, Dex, Dex_Suffix, Class);
+# Nothing not distinct
 
+# Merege the ones that did not match by Dex and Dex_Suffix
 agg%>%
 	anti_join(
 		ability,
@@ -641,7 +652,45 @@ agg%>%
 	)%>%
 	inner_join(
 		ability,
-		by=c("Dex"="Dex"),
+		by=c("Dex","Dex_Suffix"),
 		suffix=c("",".d")
 	)%>%
-	select(Name, Name.d, Dex, Dex_Suffix, Dex_Suffix.d, Class, `Ability 1`, `Ability 2`, Hidden);
+	select(Name, Name.d, Dex, Dex_Suffix, Class, `Ability 1`, `Ability 2`, Hidden);
+
+# Union them
+
+agg.j%<>%
+	union(
+		agg%>%
+			anti_join(
+				ability,
+				by=dexsuff, # c("Dex"="Dex")
+				suffix=c("",".d")
+			)%>%
+			anti_join(
+				ability,
+				by=dexes,
+				suffix=c("",".d")
+			)%>%
+			inner_join(
+				ability,
+				by=c("Dex","Dex_Suffix"),
+				suffix=c("",".d")
+			)%>%
+			select(-Name.d)
+	);
+
+agg.j%>%
+	not_distinct(Name, Name, Dex, Dex_Suffix, Class)%>%
+	select(Name, Dex, Class);
+# Just the one that I have not fixed yet
+
+# See what is in abilities
+agg.j%>%
+	select(
+		`Ability 1`, `Ability 2`, Hidden
+	)%>%View();
+
+# Save to agg
+agg=agg.j;
+rm(agg.j);

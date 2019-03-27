@@ -14,9 +14,9 @@ library(tidyverse);
 source("util.R");
 
 # Core DB
-source("clean.R"); # NS
-source("manageAlts.R", encoding="UTF-8"); # NS
-source("merge.R");
+source("clean.R");
+source("manageAlts.R", encoding="UTF-8");
+source("merge.R"); #NS
 source("merge2.R");
 source("condense.R")
 
