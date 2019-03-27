@@ -569,7 +569,7 @@ rm(agg.j, call.f, call.dup, dex.j);
 
 # agg.rec is 7 rows shorter, should be fine as color added some types
 # One thing is not distinct
-agg%>%not_distinct(Name, Name, Dex, Dex_Suffix, Class);
+agg%>%not_distinct(Name, Dex, Dex_Suffix, Class);
 
 ###############################################################################
 # 															Join with ability
@@ -594,7 +594,7 @@ agg.j=agg%>%
 agg.j;
 
 agg.j%>%
-	not_distinct(Name, Name, Dex, Dex_Suffix, Class);
+	not_distinct(Name, Dex, Dex_Suffix, Class);
 # Nothing not distinct
 
 agg%>%
@@ -635,7 +635,7 @@ agg%>%
 agg.j=.Last.value;
 
 agg.j%>%
-	not_distinct(Name, Name, Dex, Dex_Suffix, Class);
+	not_distinct(Name, Dex, Dex_Suffix, Class);
 # Nothing not distinct
 
 # Merege the ones that did not match by Dex and Dex_Suffix
@@ -681,7 +681,7 @@ agg.j%<>%
 	);
 
 agg.j%>%
-	not_distinct(Name, Name, Dex, Dex_Suffix, Class)%>%
+	not_distinct(Name, Dex, Dex_Suffix, Class)%>%
 	select(Name, Dex, Class);
 # Just the one that I have not fixed yet
 

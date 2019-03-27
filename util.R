@@ -2,7 +2,7 @@
 require(dplyr);
 # This function returns thae values that are not distinct
 not_distinct=function(df, col, ...){
-	nd_vars=enquos(...);
+	nd_vars=enquos(col,...);
 	nd_col=enquo(col);
 
 	dups=(
