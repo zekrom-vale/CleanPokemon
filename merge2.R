@@ -1,6 +1,7 @@
 ###############################################################################
 # 																Join with color
 ###############################################################################
+agg.rec=agg;
 color%>%
 	separate(
 		Name,
@@ -12,7 +13,7 @@ color%>%
 	);
 
 # Save
-color=color%>%
+color%<>%
 	separate(
 		Name,
 		into=c("Name",paste0("Class",1:2)),
@@ -127,7 +128,7 @@ color.miss.fix=agg%>%
 	)#%>%
 	#select(Name, Dex, Dex_Suffix, Class, Color, Dex_Suffix.d, Class1, Class2);
 
-agg.j=agg.j%>%
+agg.j%<>%
 	union(
 		color.miss.fix%>%
 			select(-Class2, -Dex_Suffix.d, -Class1)
@@ -243,7 +244,7 @@ agg.d.f=agg.d%>%
 # Missing normal Charizard
 
 # Set diff
-agg.j=agg.j%>%
+agg.j%<>%
 	setdiff(
 		agg.d
 	)%>%
@@ -263,7 +264,7 @@ agg.miss=agg%>%
 	);
 
 
-agg.miss=agg.miss%>%
+agg.miss%<>%
 	inner_join(
 		color,
 		by=dexes,
@@ -272,7 +273,7 @@ agg.miss=agg.miss%>%
 
 # agg.miss%>%filter(Name=="Cherrim")%>%select(Name, Dex, Dex_Suffix, Class, Dex_Suffix.d, Class1, Class2, Color)
 
-agg.miss=agg.miss%>%
+agg.miss%<>%
 	filter(
 		Name=="Cherrim"&(
 			Class=="Sunshine Form"&Color=="Pink"|
@@ -301,7 +302,7 @@ agg.miss=agg.miss%>%
 
 # Fix Dex_Suffix
 
-agg.miss=agg.miss%>%
+agg.miss%<>%
 	mutate(
 		Dex_Suffix=if_else(is.na(Dex_Suffix),Dex_Suffix.d,Dex_Suffix),
 		Class=if_else(is.na(Class),Class1,Class)
@@ -351,7 +352,7 @@ iq%>%
 	);
 
 # Save
-agg=agg%>%
+agg%<>%
 	left_join(
 		iq,
 		by=c(dexes,Dex_Suffix="Dex_Suffix"),
@@ -466,7 +467,7 @@ evolution%>%
 
 # Now they are the same
 # Save
-evolution=evolution%>%
+evolution%<>%
 	distinct();
 
 # Join
@@ -482,18 +483,19 @@ agg%>%
 
 agg=.Last.value;
 
+rm(evolution.dup);
 ###############################################################################
 # 															Join with Call rate
 ###############################################################################
 # Remove na's
-call=call%>%
+call%<>%
 	filter(!is.na(Dex));
 
 # See if there are duplicates
 call%>%distinct() # 10 Row dups
 
 # Save
-call=call%>%distinct();
+call%<>%distinct();
 
 call%>%distinct(
 	Name,Dex,.keep_all=T
@@ -554,7 +556,7 @@ agg.j%>%
 	union(
 		agg.j%>%
 			filter(
-				!Dex%in%c(670:670, 550:550)
+				!Dex%in%c(670L, 550L)
 			)
 	)%>%
 	select(-c(Class.d));
@@ -565,11 +567,15 @@ agg=.Last.value;
 
 rm(agg.j, call.f, call.dup, dex.j);
 
+# agg.rec is 7 rows shorter, should be fine as color added some types
+# One thing is not distinct
+agg%>%not_distinct(Name, Name, Dex, Dex_Suffix, Class);
+
 ###############################################################################
 # 															Join with ability
 ###############################################################################
 # Cut the star out
-ability=ability%>%
+ability%<>%
 	mutate(
 		Star=str_detect(Name, "\\*"),
 		Name=gsub("\\*","", Name)

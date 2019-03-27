@@ -8,10 +8,14 @@
 #
 ##################################################################################
 
+library(magrittr);
 library(tidyverse);
+# Utility
+source("util.R");
+
 # Core DB
-source("clean.R");
-source("manageAlts.R");
+source("clean.R"); # NS
+source("manageAlts.R", encoding="UTF-8"); # NS
 source("merge.R");
 source("merge2.R");
 source("condense.R")

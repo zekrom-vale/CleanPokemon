@@ -1,5 +1,5 @@
 # Condence Gender_Ratio into key form
-agg=agg%>%
+agg%<>%
 	mutate(
 		Unbreedable=if_else(is.na(Unbreedable),"",Unbreedable)
 	)%>%
@@ -21,4 +21,9 @@ agg=agg%>%
 			Gender_Ratio=="NA:NAU*"~"G*",
 			TRUE~Gender_Ratio
 		)
+	);
+
+agg%<>%
+	mutate(
+		Body=paste0(str_to_upper(str_sub(Body,1,1)),str_sub(Body,2,-1))
 	);

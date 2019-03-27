@@ -188,7 +188,7 @@ agg.j=agg%>%
 
 # Now combine
 
-agg=agg%>%
+agg%<>%
 	filter(# Remove duplicates
 		!(
 		(
@@ -231,9 +231,9 @@ agg%>%
 		agg.j
 	);
 
-agg=agg%>%
+agg%<>%
 	filter(
-		Name
+		Name!="Oricorio"
 	)%>%
 	union(
 		agg.j
@@ -251,7 +251,7 @@ agg%>%
 
 # Save
 
-agg=agg%>%
+agg%<>%
 	mutate(
 		Type=if_else(!is.na(Form_Type1), Form_Type1, Type),
 		Type2=if_else(!is.na(Form_Type1), Form_Type2, Type2),
@@ -334,7 +334,7 @@ agg%>%
 
 # Did not miss anything!
 
-agg=agg%>%
+agg%<>%
 	inner_join(
 		gender,
 		by=dexes
@@ -349,7 +349,7 @@ agg%>%
 	);
 
 # Save
-agg=agg%>%
+agg%<>%
 	left_join(
 		eggGroup,
 		by=c(Dex="ID", Name="Name")
@@ -420,7 +420,7 @@ weight%>%
 		sep="\n"
 	);
 # Save
-weight=weight%>%
+weight%<>%
 	separate(
 		Name,
 		into=c("Name", "Class"),
@@ -554,7 +554,7 @@ agg%>%
 	);
 
 # Save as nothing got lost
-agg=agg%>%
+agg%<>%
 	inner_join(
 		exp,
 		by=dexes
@@ -576,7 +576,7 @@ agg%>%
 	View();
 
 # Save
-agg=agg%>%
+agg%<>%
 	inner_join(
 		body,
 		by=dexes,
@@ -622,3 +622,4 @@ agg%>%
 # Save
 
 agg=.Last.value;
+
