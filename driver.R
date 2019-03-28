@@ -25,3 +25,4 @@ write_csv(agg,path="core/agg.csv",na="");
 source("ability/cleanAbility.R", encoding="UTF-8");
 
 # Items
+source("items/ckeanItems.R");
