@@ -18,7 +18,8 @@ source("clean.R");
 source("manageAlts.R", encoding="UTF-8");
 source("merge.R"); #NS
 source("merge2.R");
-source("condense.R")
+source("condense.R");
+write_csv(agg,path="agg.csv",na="");
 
 # Subtables
 source("cleanAbility.R");
