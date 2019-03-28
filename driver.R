@@ -14,12 +14,12 @@ library(tidyverse);
 source("util.R");
 
 # Core DB
-source("clean.R");
-source("manageAlts.R", encoding="UTF-8");
-source("merge.R"); #NS
-source("merge2.R");
-source("condense.R");
-write_csv(agg,path="agg.csv",na="");
+source("core/clean.R");
+source("core/manageAlts.R", encoding="UTF-8");
+source("core/merge.R"); #NS
+source("core/merge2.R");
+source("core/condense.R");
+write_csv(agg,path="core/agg.csv",na="");
 
-# Subtables
-source("cleanAbility.R");
+# Abilities
+source("ability/cleanAbility.R");
