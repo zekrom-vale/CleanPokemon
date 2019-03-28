@@ -586,3 +586,6 @@ rm(items.j);
 # Export list of items
 write_csv(items,"items/items.csv",na="");
 ###############################################################################
+
+# Export item ids
+write_csv(itemsIDs,"items/itemIDs.csv",na="");
