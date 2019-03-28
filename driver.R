@@ -24,5 +24,6 @@ write_csv(agg,path="core/agg.csv",na="");
 # Abilities
 source("ability/cleanAbility.R", encoding="UTF-8");
 
+library(reshape2);
 # Items
 source("items/ckeanItems.R");

@@ -436,14 +436,28 @@ itemsLang.melt=itemsLang%>%
 itemsLang.melt%<>%
 	distinct();
 
+# Remove — and NA's
+itemsLang.melt%<>%
+	filter(
+		Name!="—"&!is.na(Name)
+	);
+
 # Cast
 itemsLang.melt.f=itemsLang.melt%>%
 	dcast(
 		formula=English~Language,
-		fun.aggregate=function(x)paste(x, sep="\n", collapse="\n"),
+		fun.aggregate=function(x){
+			ret=paste(x, sep="\n", collapse="\n");
+			if(str_detect(ret,"^\\s*$"))return(NA_character_)
+			else return(ret)
+		},
 		value.var="Name"
 	)%>%
 	as_tibble();
+
+# See if it worked
+itemsLang.melt.f%>%
+	slice((1:20)+20*4);
 
 # Nothing miss maptched
 itemsLang.melt.f%>%
@@ -458,47 +472,48 @@ itemsLang.melt.f%>%
 itemsLang=itemsLang.melt.f;
 rm(itemsLang.melt,itemsLang.melt.f);
 
+
 ###############################################################################
 # Finaly join them
 # Ensure no duplicates
 itemsLang%>%
 	not_distinct(English);
 
+reg=regex("\\*\\s*$",multiline=TRUE);
 # Remove stars
 items%<>%
 	mutate(
-		NameStar=str_detect("\\*\\s*$", Name),
-		Name=gsub("\\*\\s*$","",Name)
+		NameStar=str_detect(Name, reg),
+		Name=gsub(reg,"",Name)
 	);
 
-reg=regex("\\*\\s*$");
 itemsLang.f=itemsLang%>%
 	rename(
 		`Japanese Romaji`=`Japanese Rōmaji`
 	)%>%
 	mutate(
 		EnglishStar=str_detect(English, reg),
-		English=sub(reg,"",English),
+		English=gsub(reg,"",English),
 		`Japanese Kana Star`=str_detect(`Japanese Kana`, reg),
-		`Japanese Kana`=sub(reg,"",`Japanese Kana`),
+		`Japanese Kana`=gsub(reg,"",`Japanese Kana`),
 		`Japanese Romaji Star`=str_detect(`Japanese Romaji`,reg),
-		`Japanese Romaji`=sub(reg,"",`Japanese Romaji`),
+		`Japanese Romaji`=gsub(reg,"",`Japanese Romaji`),
 		FrenchStar=str_detect(French, reg),
-		French=sub(reg,"",French),
+		French=gsub(reg,"",French),
 		GermanStar=str_detect(German, reg),
-		German=sub(reg,"",German),
+		German=gsub(reg,"",German),
 		ItalianStar=str_detect(Italian,reg),
-		Italian=sub(reg,"",Italian),
+		Italian=gsub(reg,"",Italian),
 		SpanishStar=str_detect(Spanish, reg),
-		Spanish=sub(reg,"",Spanish),
+		Spanish=gsub(reg,"",Spanish),
 		`Korean Hangul Star`=str_detect(`Korean Hangul`,reg),
-		`Korean Hangul`=sub(reg,"",`Korean Hangul`),
+		`Korean Hangul`=gsub(reg,"",`Korean Hangul`),
 		`Korean Romanized Star`=str_detect(`Korean Romanized`,reg),
-		`Korean Romanized`=sub(reg,"",`Korean Romanized`),
+		`Korean Romanized`=gsub(reg,"",`Korean Romanized`),
 		`Chinese Hànzì Star`=str_detect(`Chinese Hànzì`, reg),
-		`Chinese Hànzì`=sub(reg,"",`Chinese Hànzì`),
+		`Chinese Hànzì`=gsub(reg,"",`Chinese Hànzì`),
 		`Chinese Romanized Star`=str_detect(`Chinese Romanized`, reg),
-		`Chinese Romanized`=sub(reg,"",`Chinese Romanized`)
+		`Chinese Romanized`=gsub(reg,"",`Chinese Romanized`)
 	);
 
 # Create the mask
@@ -582,6 +597,13 @@ items.j%>%
 # Save
 items=items.j;
 rm(items.j);
+
+# Add NameStar to Star
+items%<>%
+	mutate(
+		Star=NameStar*2^11+Star,
+		NameStar=NULL
+	);
 
 # Export list of items
 write_csv(items,"items/items.csv",na="");
