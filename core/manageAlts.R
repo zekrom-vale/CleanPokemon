@@ -1,8 +1,8 @@
 #########
 # Import
 #########
-varations=read_csv("PokemonRaw - Varations.csv")[1:3];
-PokemonRaw_Alts=read_csv("PokemonRaw - Alts.csv");
+varations=read_csv("core/PokemonRaw - Varations.csv")[1:3];
+PokemonRaw_Alts=read_csv("core/PokemonRaw - Alts.csv");
 alts=PokemonRaw_Alts[1:7];
 types=PokemonRaw_Alts[8:10];
 rm(PokemonRaw_Alts);

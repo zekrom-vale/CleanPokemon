@@ -1,4 +1,4 @@
-PokemonRaw_Core_Pokemon=read_csv("PokemonRaw - Core Pokemon.csv");
+PokemonRaw_Core_Pokemon=read_csv("core/PokemonRaw - Core Pokemon.csv");
 #####################
 # Cleen and Seperate
 #####################

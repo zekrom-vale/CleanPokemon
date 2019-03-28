@@ -1,5 +1,5 @@
 library(tidyverse);
-AbilityRaw_Ability_Data=read_csv("AbilityRaw - Ability Data.csv");
+AbilityRaw_Ability_Data=read_csv("ability/AbilityRaw - Ability Data.csv");
 # Fix ID and Index to int
 AbilityRaw_Ability_Data=AbilityRaw_Ability_Data%>%
 	mutate(
@@ -37,4 +37,4 @@ abilityKey=abilityKey%>%
 	)%>%
 	select(-English);
 
-write_csv(abilityKey, path="ability.csv", na="");
+write_csv(abilityKey, path="ability/ability.csv", na="");
