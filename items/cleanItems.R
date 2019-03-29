@@ -551,17 +551,17 @@ itemsLang.f=itemsLang%>%
 itemsLang.f%<>%
 	mutate(
 		Star=(
-			EnglishStar*2^10+
-				`Japanese Kana Star`*2^9+
-				`Japanese Romaji Star`*2^8+
-				FrenchStar*2^7+
-				GermanStar*2^6+
-				ItalianStar*2^5+
-				SpanishStar*2^4+
-				`Korean Hangul Star`*2^3+
-				`Korean Romanized Star`*2^2+
-				`Chinese Hànzì Star`*2^1+
-				`Chinese Romanized Star`*2^0
+			if_else(!is.na(EnglishStar),EnglishStar*2^10, 0)+
+			if_else(!is.na(`Japanese Kana Star`),`Japanese Kana Star`*2^9, 0)+
+			if_else(!is.na(`Japanese Romaji Star`),`Japanese Romaji Star`*2^8, 0)+
+			if_else(!is.na(FrenchStar),FrenchStar*2^7, 0)+
+			if_else(!is.na(GermanStar),GermanStar*2^6, 0)+
+			if_else(!is.na(ItalianStar),ItalianStar*2^5, 0)+
+			if_else(!is.na(SpanishStar),SpanishStar*2^4, 0)+
+			if_else(!is.na(`Korean Hangul Star`),`Korean Hangul Star`*2^3, 0)+
+			if_else(!is.na(`Korean Romanized Star`),`Korean Romanized Star`*2^2, 0)+
+			if_else(!is.na(`Chinese Hànzì Star`),`Chinese Hànzì Star`*2^1, 0)+
+			if_else(!is.na(`Chinese Romanized Star`),`Chinese Romanized Star`*2^0, 0)
 		),
 		EnglishStar=NULL,
 		`Japanese Kana Star`=NULL,
@@ -632,7 +632,7 @@ rm(items.j);
 # Add NameStar to Star
 items%<>%
 	mutate(
-		Star=NameStar*2^11+Star,
+		Star=if_else(!is.na(NameStar),NameStar*2^11+if_else(!is.na(Star),Star,0), Star),
 		NameStar=NULL
 	);
 
@@ -642,3 +642,13 @@ write_csv(items,"items/items.csv",na="");
 
 # Export item ids
 write_csv(itemsIDs,"items/itemIDs.csv",na="");
+
+
+# See if all items are in items
+itemsIDs%>%
+	inner_join(
+		items,
+		by=c(Name="Name")
+	);
+
+# No, many items are missed
