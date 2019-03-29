@@ -1,0 +1,814 @@
+ID,Name,English,Japanese,Romaji,French,German,Italian,Spanish,Korean,Chinese,ID,Name,Cat_EN,Cat_JP,CAT_JP_T
+1,Bulbasaur,Seed,たね,Tane,Graine,Samen,Seme,Semilla,씨앗 Ssiat,種子 / 种子 Zhǒngzǐ / Júngjí,1,Bulbasaur,Seed Pokémon,たねポケモン,Seed Pokémon
+2,Ivysaur,Seed,たね,Tane,Graine,Samen,Seme,Semilla,씨앗 Ssiat,種子 / 种子 Zhǒngzǐ / Júngjí,2,Ivysaur,Seed Pokémon,たねポケモン,Seed Pokémon
+3,Venusaur,Seed,たね,Tane,Graine,Samen,Seme,Semilla,씨앗 Ssiat,種子 / 种子 Zhǒngzǐ / Júngjí,3,Venusaur,Seed Pokémon,たねポケモン,Seed Pokémon
+4,Charmander,Lizard,とかげ,Tokage,Lézard,Echse,Lucertola,Lagartija,도롱뇽 Dorongnyong,蜥蜴 Xīyì / Sīkyihk,4,Charmander,Lizard Pokémon,とかげポケモン,Lizard Pokémon
+5,Charmeleon,Flame,かえん,Kaen,Flamme,Flamme,Fiamma,Llama,화염 Hwayeom,火焰 Huǒyàn / Fóyìhm,5,Charmeleon,Flame Pokémon,かえんポケモン,Flame Pokémon
+6,Charizard,Flame,かえん,Kaen,Flamme,Flamme,Fiamma,Llama,화염 Hwayeom,火焰 Huǒyàn / Fóyìhm,6,Charizard,Flame Pokémon,かえんポケモン,Flame Pokémon
+7,Squirtle,Tiny Turtle*,かめのこ,Kame no Ko,Minitortue,Minikröte,Tartaghina,Tortuguita,꼬마거북 Kkoma Geobuk,小龜 / 小龟 Xiǎoguī / Síugāu,7,Squirtle,Tiny Turtle Pokémon,かめのこポケモン,Young Turtle Pokémon
+8,Wartortle,Turtle,かめ,Kame,Tortue,Kröte,Tartaruga,Tortuga,거북 Geobuk,龜 / 龟 Guī / Gāu,8,Wartortle,Turtle Pokémon,かめポケモン,Turtle Pokémon
+9,Blastoise,Shellfish,こうら,Kōra,Carapace,Schaltier,Crostaceo,Marisco,껍질 Kkeopjil,甲殼 / 甲壳 Jiǎké / Jiǎqiào / Gaaphok,9,Blastoise,Shellfish Pokémon,こうらポケモン,Shell Pokémon
+10,Caterpie,Worm,いもむし,Imomushi,Ver,Wurm,Baco,Gusano,애벌레 Aebeolle,蟲寶寶 / 虫宝宝 Chóngbǎobǎo / Chùhngbóubóu,10,Caterpie,Worm Pokémon,いもむしポケモン,Caterpillar Pokémon
+11,Metapod,Cocoon,さなぎ,Sanagi,Cocon,Kokon,Bozzolo,Capullo,번데기 Beondegi,蛹 Yǒng / Yúng,11,Metapod,Cocoon Pokémon,さなぎポケモン,Chrysalis Pokémon
+12,Butterfree,Butterfly,ちょうちょ,Chōcho,Papillon,Falter,Farfalla,Mariposa,나비 Nabi,蝴蝶 Húdié / Wùhdihp,12,Butterfree,Butterfly Pokémon,ちょうちょポケモン,Butterfly Pokémon
+13,Weedle,Hairy Bug,けむし,Kemushi,Insectopic,Raupe,Millepiedi,Oruga,송충이 Songchung-i,毛毛蟲 / 毛毛虫 Máomáoqiú / Mòuhmòuhchùhng,13,Weedle,Hairy Bug Pokémon,けむしポケモン,Hairy Caterpillar Pokémon
+14,Kakuna,Cocoon,さなぎ,Sanagi,Cocon,Kokon,Bozzolo,Capullo,번데기 Beondegi,蛹 Yǒng / Yúng,14,Kakuna,Cocoon Pokémon,さなぎポケモン,Pupa Pokémon
+15,Beedrill,Poison Bee,どくばち,Doku Bachi,Guêpoison,Giftbiene,Velenape,Abeja Ven.,독벌 Dok Beol,毒蜂 Dúfēng / Duhkfūng,15,Beedrill,Poison Bee Pokémon,どくばちポケモン,Poison Bee Pokémon
+16,Pidgey,Tiny Bird,ことり,Ko Tori,Minoiseau,Kleinvogel,Uccellino,Pajarito,아기새 Agi Sae,小鳥 / 小鸟 Xiǎoniǎo / Síuníuh,16,Pidgey,Tiny Bird Pokémon,ことりポケモン,Small Bird Pokémon
+17,Pidgeotto,Bird,とり,Tori,Oiseau,Vogel,Uccello,Pájaro,새 Sae,鳥 / 鸟 Niǎo / Níuh,17,Pidgeotto,Bird Pokémon,とりポケモン,Bird Pokémon
+18,Pidgeot,Bird,とり,Tori,Oiseau,Vogel,Uccello,Pájaro,새 Sae,鳥 / 鸟 Niǎo / Níuh,18,Pidgeot,Bird Pokémon,とりポケモン,Bird Pokémon
+19,Rattata,Mouse*,ねずみ,Nezumi,Souris,Maus,Topo,Ratón,쥐 Jwi,鼠 Shǔ / Syú,19,Rattata,Mouse Pokémon,ねずみポケモン,Mouse Pokémon
+20,Raticate,Mouse*,ねずみ,Nezumi,Souris,Maus,Topo,Ratón,쥐 Jwi,鼠 Shǔ / Syú,20,Raticate,Mouse Pokémon,ねずみポケモン,Mouse Pokémon
+21,Spearow,Tiny Bird,ことり,Ko Tori,Minoiseau,Kleinvogel,Uccellino,Pajarito,아기새 Agi Sae,小鳥 / 小鸟 Xiǎoniǎo / Síuníuh,21,Spearow,Tiny Bird Pokémon,ことりポケモン,Small Bird Pokémon
+22,Fearow,Beak,くちばし,Kuchibashi,Bec-oiseau,Pickvogel,Becco,Pico,부리 Buri,鳥嘴 / 鸟嘴 Niǎozuǐ / Níuhjéui,22,Fearow,Beak Pokémon,くちばしポケモン,Beak Pokémon
+23,Ekans,Snake,へび,Hebi,Serpent,Schlange,Serpente,Serpiente,뱀 Baem,蛇 Shé / Yìh,23,Ekans,Snake Pokémon,へびポケモン,Snake Pokémon
+24,Arbok,Cobra,コブラ,Kobura,Cobra,Kobra,Cobra,Cobra,코브라 Cobra,眼鏡蛇 / 眼镜蛇 Yǎnjìngshé / Ngáahngengyìh,24,Arbok,Cobra Pokémon,コブラポケモン,Cobra Pokémon
+25,Pikachu,Mouse,ねずみ,Nezumi,Souris,Maus,Topo,Ratón,쥐 Jwi,鼠 Shǔ / Syú,25,Pikachu,Mouse Pokémon,ねずみポケモン,Mouse Pokémon
+26,Raichu,Mouse,ねずみ,Nezumi,Souris,Maus,Topo,Ratón,쥐 Jwi,鼠 Shǔ / Syú,26,Raichu,Mouse Pokémon,ねずみポケモン,Mouse Pokémon
+27,Sandshrew,Mouse,ねずみ,Nezumi,Souris,Maus,Topo,Ratón,쥐 Jwi,鼠 Shǔ / Syú,27,Sandshrew,Mouse Pokémon,ねずみポケモン,Mouse Pokémon
+28,Sandslash,Mouse,ねずみ,Nezumi,Souris,Maus,Topo,Ratón,쥐 Jwi,鼠 Shǔ / Syú,28,Sandslash,Mouse Pokémon,ねずみポケモン,Mouse Pokémon
+29,Nidoran♀,Poison Pin,どくばり,Doku Bari,Vénépic,Giftdorn,Velenago,Pin Veneno,독침 Dok Chim,毒針 / 毒针 Dúzhēn / Duhkjām,29,Nidoran♀,Poison Pin Pokémon,どくばりポケモン,Poison Needle Pokémon
+30,Nidorina,Poison Pin,どくばり,Doku Bari,Vénépic,Giftdorn,Velenago,Pin Veneno,독침 Dok Chim,毒針 / 毒针 Dúzhēn / Duhkjām,30,Nidorina,Poison Pin Pokémon,どくばりポケモン,Poison Needle Pokémon
+31,Nidoqueen,Drill,ドリル,Doriru,Perceur,Bohrer,Trapano,Taladro,드릴 Drill,鑽錐 / 钻锥 Zuānzhuī / Jyūnjēui,31,Nidoqueen,Drill Pokémon,ドリルポケモン,Drill Pokémon
+32,Nidoran♂,Poison Pin,どくばり,Doku Bari,Vénépic,Giftdorn,Velenago,Pin Veneno,독침 Dok Chim,毒針 / 毒针 Dúzhēn / Duhkjām,32,Nidoran♂,Poison Pin Pokémon,どくばりポケモン,Poison Needle Pokémon
+33,Nidorino,Poison Pin,どくばり,Doku Bari,Vénépic,Giftdorn,Velenago,Pin Veneno,독침 Dok Chim,毒針 / 毒针 Dúzhēn / Duhkjām,33,Nidorino,Poison Pin Pokémon,どくばりポケモン,Poison Needle Pokémon
+34,Nidoking,Drill,ドリル,Doriru,Perceur,Bohrer,Trapano,Taladro,드릴 Drill,鑽錐 / 钻锥 Zuānzhuī / Jyūnjēui,34,Nidoking,Drill Pokémon,ドリルポケモン,Drill Pokémon
+35,Clefairy,Fairy,ようせい,Yōsei,Fée,Fee,Fata,Hada,요정 Yojeong,妖精 Yāojing / Yīujēng,35,Clefairy,Fairy Pokémon,ようせいポケモン,Fairy Pokémon
+36,Clefable,Fairy,ようせい,Yōsei,Fée,Fee,Fata,Hada,요정 Yojeong,妖精 Yāojing / Yīujēng,36,Clefable,Fairy Pokémon,ようせいポケモン,Fairy Pokémon
+37,Vulpix,Fox,きつね,Kitsune,Renard,Fuchs,Volpe,Zorro,여우 Yeou,狐狸 Húli / Wùhléi,37,Vulpix,Fox Pokémon,きつねポケモン,Fox Pokémon
+38,Ninetales,Fox,きつね,Kitsune,Renard,Fuchs,Volpe,Zorro,여우 Yeou,狐狸 Húli / Wùhléi,38,Ninetales,Fox Pokémon,きつねポケモン,Fox Pokémon
+39,Jigglypuff,Balloon,ふうせん,Fūsen,Bouboule,Ballon,Pallone,Globo,풍선 Pungseon,氣球 / 气球 Qìqiú / Heikàuh,39,Jigglypuff,Balloon Pokémon,ふうせんポケモン,Balloon Pokémon
+40,Wigglytuff,Balloon,ふうせん,Fūsen,Bouboule,Ballon,Pallone,Globo,풍선 Pungseon,氣球 / 气球 Qìqiú / Heikàuh,40,Wigglytuff,Balloon Pokémon,ふうせんポケモン,Balloon Pokémon
+41,Zubat,Bat,こうもり,Kōmori,Chovsouris,Fledermaus,Pipistrello,Murciélago,박쥐 Bakjwi,蝙蝠 Biānfú / Bīnfūk,41,Zubat,Bat Pokémon,こうもりポケモン,Bat Pokémon
+42,Golbat,Bat,こうもり,Kōmori,Chovsouris,Fledermaus,Pipistrello,Murciélago,박쥐 Bakjwi,蝙蝠 Biānfú / Bīnfūk,42,Golbat,Bat Pokémon,こうもりポケモン,Bat Pokémon
+43,Oddish,Weed,ざっそう,Gissō,Racine,Unkraut,Malerba,Hierbajo,잡초 Japcho,雜草 / 杂草 Zácǎo / Jaahpchóu,43,Oddish,Weed Pokémon,ざっそうポケモン,Weed Pokémon
+44,Gloom,Weed,ざっそう,Gissō,Racine,Unkraut,Malerba,Hierbajo,잡초 Japcho,雜草 / 杂草 Zácǎo / Jaahpchóu,44,Gloom,Weed Pokémon,ざっそうポケモン,Weed Pokémon
+45,Vileplume,Flower,フラワー,Furawā,Fleur,Blume,Fiore,Flor,꽃 Kkot,花 Huā / Fā,45,Vileplume,Flower Pokémon,フラワーポケモン,Flower Pokémon
+46,Paras,Mushroom,きのこ,Kinoko,Champignon,Pilz,Fungo,Hongo,버섯 Beoseot,蘑菇 Mógū / Mòhgū,46,Paras,Mushroom Pokémon,きのこポケモン,Mushroom Pokémon
+47,Parasect,Mushroom,きのこ,Kinoko,Champignon,Pilz,Fungo,Hongo,버섯 Beoseot,蘑菇 Mógū / Mòhgū,47,Parasect,Mushroom Pokémon,きのこポケモン,Mushroom Pokémon
+48,Venonat,Insect,こんちゅう,Konchū,Vermine,Insekt,Insetto,Insecto,곤충 Gonchung,昆蟲 / 昆虫 Kūnchóng / Gwānchùhng,48,Venonat,Insect Pokémon,こんちゅうポケモン,Insect Pokémon
+49,Venomoth,Poison Moth*,どくが,Doku Ga,Papipoison,Giftmotte,Velentarma,Polilla Ven.,독나방 Dok Nabang,毒蛾 Dú'é / Duhkngáih,49,Venomoth,Poison Moth Pokémon,どくがポケモン,Poison Moth Pokémon
+50,Diglett,Mole,もぐら,Mogura,Taupe,Maulwurf,Talpa,Topo,두더지 Dudeoji,鼴鼠 / 鼹鼠 Yǎnshǔ / Yínsyú,50,Diglett,Mole Pokémon,もぐらポケモン,Mole Pokémon
+51,Dugtrio,Mole,もぐら,Mogura,Taupe,Maulwurf,Talpa,Topo,두더지 Dudeoji,鼴鼠 / 鼹鼠 Yǎnshǔ / Yínsyú,51,Dugtrio,Mole Pokémon,もぐらポケモン,Mole Pokémon
+52,Meowth,Scratch Cat*,ばけねこ,Bake Neko,Chadégout,Katze,Graffimiao,Gato Araña,요괴고양이 Yogoe Goyang-i,妖怪貓 / 妖怪猫 Yāoguài Māo / Yíugwaai Māau,52,Meowth,Scratch Cat Pokémon,ばけねこポケモン,Bakeneko Pokémon
+53,Persian,Classy Cat,シャムネコ,Shamu Neko,Chadeville,Rassekatze,Nobilgatto,Gato Fino,샴고양이 Siam Goyang-i,暹羅貓 / 暹罗猫 Xiānluómāo / Chīmlòhmāau,53,Persian,Classy Cat Pokémon,シャムネコポケモン,Siamese Cat Pokémon
+54,Psyduck,Duck,あひる,Ahiru,Canard,Ente,Papero,Pato,오리 Ori,鴨 / 鸭 Yā / Aap,54,Psyduck,Duck Pokémon,あひるポケモン,Duck Pokémon
+55,Golduck,Duck,あひる,Ahiru,Canard,Ente,Papero,Pato,오리 Ori,鴨 / 鸭 Yā / Aap,55,Golduck,Duck Pokémon,あひるポケモン,Duck Pokémon
+56,Mankey,Pig Monkey,ぶたざる,Buta Zaru,Porsinge,Schwein / Affe,Suinpanzé,Mono Cerdo,돈숭이 Don Sung-i,豬猴 / 猪猴 Zhūhóu / Jyūhàuh,56,Mankey,Pig Monkey Pokémon,ぶたざるポケモン,Pig Monkey Pokémon
+57,Primeape,Pig Monkey,ぶたざる,Buta Zaru,Porsinge,Schwein / Affe,Suinpanzé,Mono Cerdo,돈숭이 Don Sung-i,豬猴 / 猪猴 Zhūhóu / Jyūhàuh,57,Primeape,Pig Monkey Pokémon,ぶたざるポケモン,Pig Monkey Pokémon
+58,Growlithe,Puppy,こいぬ,Ko Inu,Chiot,Hund,Cagnolino,Perrito,강아지 Gang-aji,小狗 Xiǎogǒu / Síugáu,58,Growlithe,Puppy Pokémon,こいぬポケモン,Puppy Pokémon
+59,Arcanine,Legendary,でんせつ,Densetsu,Légendaire,Legendär,Leggenda,Legendario,전설 Jeonseol,傳說 / 传说 Chuánshuō / Chyùhnyuht,59,Arcanine,Legendary Pokémon,でんせつポケモン,Legend Pokémon
+60,Poliwag,Tadpole,おたま,Otama,Têtard,Kaulquappe,Girino,Renacuajo,올챙이 Olchaeng-i,蝌蚪 Kēdǒu / Fōdáu,60,Poliwag,Tadpole Pokémon,おたまポケモン,Tadpole Pokémon
+61,Poliwhirl,Tadpole,おたま,Otama,Têtard,Kaulquappe,Girino,Renacuajo,올챙이 Olchaeng-i,蝌蚪 Kēdǒu / Fōdáu,61,Poliwhirl,Tadpole Pokémon,おたまポケモン,Tadpole Pokémon
+62,Poliwrath,Tadpole,おたま,Otama,Têtard,Kaulquappe,Girino,Renacuajo,올챙이 Olchaeng-i,蝌蚪 Kēdǒu / Fōdáu,62,Poliwrath,Tadpole Pokémon,おたまポケモン,Tadpole Pokémon
+63,Abra,Psi,ねんりき,Nenriki,Psy,Psi,Psico,Psi,초능력 Choneungnyeok,念力 Niànlì / Nihmlihk,63,Abra,Psi Pokémon,ねんりきポケモン,Telekinesis Pokémon
+64,Kadabra,Psi,ねんりき,Nenriki,Psy,Psi,Psico,Psi,초능력 Choneungnyeok,念力 Niànlì / Nihmlihk,64,Kadabra,Psi Pokémon,ねんりきポケモン,Telekinesis Pokémon
+65,Alakazam,Psi,ねんりき,Nenriki,Psy,Psi,Psico,Psi,초능력 Choneungnyeok,念力 Niànlì / Nihmlihk,65,Alakazam,Psi Pokémon,ねんりきポケモン,Telekinesis Pokémon
+66,Machop,Superpower,かいりき,Kairiki,Colosse,Kraftprotz,Megaforza,Superpoder,괴력 Goeryeok,怪力 Guàilì / Gwaailihk,66,Machop,Superpower Pokémon,かいりきポケモン,Superhuman Strength Pokémon
+67,Machoke,Superpower,かいりき,Kairiki,Colosse,Kraftprotz,Megaforza,Superpoder,괴력 Goeryeok,怪力 Guàilì / Gwaailihk,67,Machoke,Superpower Pokémon,かいりきポケモン,Superhuman Strength Pokémon
+68,Machamp,Superpower,かいりき,Kairiki,Colosse,Kraftprotz,Megaforza,Superpoder,괴력 Goeryeok,怪力 Guàilì / Gwaailihk,68,Machamp,Superpower Pokémon,かいりきポケモン,Superhuman Strength Pokémon
+69,Bellsprout,Flower,フラワー,Furawā,Fleur,Blume,Fiore,Flor,꽃 Kkot,花 Huā / Fā,69,Bellsprout,Flower Pokémon,フラワーポケモン,Flower Pokémon
+70,Weepinbell,Flycatcher,ハエとり,Hae Tori,Carnivore,Fliegentot,Moschivoro,Matamoscas,파리잡이 Parijab-i,捕蠅 / 捕蝇 Bǔyíng / Bouhyìhng,70,Weepinbell,Flycatcher Pokémon,ハエとりポケモン,Flycatcher Pokémon
+71,Victreebel,Flycatcher,ハエとり,Hae Tori,Carnivore,Fliegentot,Moschivoro,Matamoscas,파리잡이 Parijab-i,捕蠅 / 捕蝇 Bǔyíng / Bouhyìhng,71,Victreebel,Flycatcher Pokémon,ハエとりポケモン,Flycatcher Pokémon
+72,Tentacool,Jellyfish,くらげ,Kurage,Mollusque,Qualle,Medusa,Medusa,해파리 Haepari,水母 Shuǐmǔ / Séuimóuh,72,Tentacool,Jellyfish Pokémon,くらげポケモン,Jellyfish Pokémon
+73,Tentacruel,Jellyfish,くらげ,Kurage,Mollusque,Qualle,Medusa,Medusa,해파리 Haepari,水母 Shuǐmǔ / Séuimóuh,73,Tentacruel,Jellyfish Pokémon,くらげポケモン,Jellyfish Pokémon
+74,Geodude,Rock,がんせき,Ganseki,Roche,Gestein,Roccia,Roca,암석 Amseok,岩石 Yánshí / Ngàahmdaam,74,Geodude,Rock Pokémon,がんせきポケモン,Rock Pokémon
+75,Graveler,Rock,がんせき,Ganseki,Roche,Gestein,Roccia,Roca,암석 Amseok,岩石 Yánshí / Ngàahmdaam,75,Graveler,Rock Pokémon,がんせきポケモン,Rock Pokémon
+76,Golem,Megaton,メガトン,Megaton,Titanesque,Urgestein,Megatone,Megatón,메가톤 Megaton,重量級 / 重量级 Zhòngliàngjí / Chùhnglèuhngkāp,76,Golem,Megaton Pokémon,メガトンポケモン,Megaton Pokémon
+77,Ponyta,Fire Horse,ひのうま,Hi no Uma,Cheval Feu,Feuerpferd,Cavalfuoco,Caballo F.,불의말 Bul-ui Mal,火馬 / 火马 Huǒmǎ / Fómáh,77,Ponyta,Fire Horse Pokémon,ひのうまポケモン,Fire Horse Pokémon
+78,Rapidash,Fire Horse,ひのうま,Hi no Uma,Cheval Feu,Feuerpferd,Cavalfuoco,Caballo F.,불의말 Bul-ui Mal,火馬 / 火马 Huǒmǎ / Fómáh,78,Rapidash,Fire Horse Pokémon,ひのうまポケモン,Fire Horse Pokémon
+79,Slowpoke,Dopey,まぬけ,Manuke,Crétin,Schnarcher,Ronfone,Atontado,얼간이 Eolgani,憨憨 Hānhān / Hāmhām,79,Slowpoke,Dopey Pokémon,まぬけポケモン,Stupid Pokémon
+80,Slowbro,Hermit Crab*,やどかり,Yadokari,Symbiose,Symbiose,Paguro,Ermitaño,기생 Gisaeng / 얼간이 Eolgani,寄居蟹 Jìjūxiè / Geigēuiháaih,80,Slowbro,Hermit Crab Pokémon,やどかりポケモン,Hermit Crab Pokémon
+81,Magnemite,Magnet,じしゃく,Jishaku,Magnétique,Magnet,Calamita,Imán,자석 Jaseok,磁鐵 / 磁铁 Cítiě / Chìhtit,81,Magnemite,Magnet Pokémon,じしゃくポケモン,Magnet Pokémon
+82,Magneton,Magnet,じしゃく,Jishaku,Magnétique,Magnet,Calamita,Imán,자석 Jaseok,磁鐵 / 磁铁 Cítiě / Chìhtit,82,Magneton,Magnet Pokémon,じしゃくポケモン,Magnet Pokémon
+83,Farfetch'd,Wild Duck,かるがも,Karu Gamo,Canard Fou,Wildente,Selvanatra,Pato Salvaje,천둥오리 Cheondung Ori,黃嘴鴨 / 黄嘴鸭 Huángzuǐyā / Wòhngjéui'aap,83,Farfetch'd,Wild Duck Pokémon,かるがもポケモン,Spot-Billed Duck Pokémon
+84,Doduo,Twin Bird,ふたごどり,Futago Dori,Duoiseau,Duovogel,Biuccello,Ave Gemela,쌍둥이새 Ssangdung-i Sae,兩頭鳥 / 两头鸟 Liǎngtóuniǎo / Léuhngtàuhníuh,84,Doduo,Twin Bird Pokémon,ふたごどりポケモン,Twin Bird Pokémon
+85,Dodrio,Triple Bird*,みつごどり,Mitsugo Dori,Trioiseau,Trivogel,Triuccello,Ave Triple,세쌍둥이새 Sessangdung-i Sae,三頭鳥 / 三头鸟 Sāntóuniǎo / Sāamtàuhníuh,85,Dodrio,Triple Bird Pokémon,みつごどりポケモン,Triplet Bird Pokémon
+86,Seel,Sea Lion,あしか,Ashika,Otarie,Seehund,Otaria,León Marino,강치 Gangchi,海獅 / 海狮 Hǎishī / Hóisī,86,Seel,Sea Lion Pokémon,あしかポケモン,Sea Lion Pokémon
+87,Dewgong,Sea Lion,あしか,Ashika,Otarie,Seehund,Otaria,León Marino,강치 Gangchi,海獅 / 海狮 Hǎishī / Hóisī,87,Dewgong,Sea Lion Pokémon,あしかポケモン,Sea Lion Pokémon
+88,Grimer,Sludge,ヘドロ,Hedoro,Dégueu,Schlamm,Melma,Lodo,진흙 Jinheuk,污泥 Wūní / Wūnàih,88,Grimer,Sludge Pokémon,ヘドロポケモン,Sludge Pokémon
+89,Muk,Sludge,ヘドロ,Hedoro,Dégueu,Schlamm,Melma,Lodo,진흙 Jinheuk,污泥 Wūní / Wūnàih,89,Muk,Sludge Pokémon,ヘドロポケモン,Sludge Pokémon
+90,Shellder,Bivalve,2まいがい,Nimaigai,Bivalve,Muschel,Bivalve,Bivalvo,두조개 Dujogae,雙殼貝 / 双壳贝 Shuāngkébèi / Sēunghokbui,90,Shellder,Bivalve Pokémon,2まいがいポケモン,Bivalve Pokémon
+91,Cloyster,Bivalve,2まいがい,Nimaigai,Bivalve,Muschel,Bivalve,Bivalvo,두조개 Dujogae,雙殼貝 / 双壳贝 Shuāngkébèi / Sēunghokbui,91,Cloyster,Bivalve Pokémon,2まいがいポケモン,Bivalve Pokémon
+92,Gastly,Gas,ガスじょう,Gasu Jō,Gaz,Gas,Gas,Gas,가스 Gas,氣體狀 / 气体状 Qìtǐzhuàng / Heitáijohng,92,Gastly,Gas Pokémon,ガスじょうポケモン,Gaseous Pokémon
+93,Haunter,Gas,ガスじょう,Gasu Jō,Gaz,Gas,Gas,Gas,가스 Gas,氣體狀 / 气体状 Qìtǐzhuàng / Heitáijohng,93,Haunter,Gas Pokémon,ガスじょうポケモン,Gaseous Pokémon
+94,Gengar,Shadow,シャドー,Shadō,Ombre,Schatten,Ombra,Sombra,그림자 Geurimja,影子 Yǐngzi / Yéngjí,94,Gengar,Shadow Pokémon,シャドーポケモン,Shadow Pokémon
+95,Onix,Rock Snake,いわへび,Iwa Hebi,Serpenroc,Felsnatter,Serpesasso,Serp. Roca,돌뱀 Dol Baem,岩蛇 Yánshé / Ngàahmyìh,95,Onix,Rock Snake Pokémon,いわへびポケモン,Rock Snake Pokémon
+96,Drowzee,Hypnosis,さいみん,Saimin,Hypnose,Hypnose,Ipnosi,Hipnosis,최면 Choemyeon,催眠 Cuīmián / Chēuimìhn,96,Drowzee,Hypnosis Pokémon,さいみんポケモン,Hypnosis Pokémon
+97,Hypno,Hypnosis,さいみん,Saimin,Hypnose,Hypnose,Ipnosi,Hipnosis,최면 Choemyeon,催眠 Cuīmián / Chēuimìhn,97,Hypno,Hypnosis Pokémon,さいみんポケモン,Hypnosis Pokémon
+98,Krabby,River Crab,さわがに,Sawa Gake,Doux Crabe,Krabbe,Granchio,Cangrejo,게 Ge,清水蟹 Qīngshuǐxiè / Chēngséuiháaih,98,Krabby,River Crab Pokémon,さわがにポケモン,Freshwater Crab Pokémon
+99,Kingler,Pincer,はさみ,Hasami,Pince,Kneifer,Chela,Tenaza,집게 Jipge,鉗子 / 钳子 Qiánzi / Kìhmjí,99,Kingler,Pincer Pokémon,はさみポケモン,Pincer Pokémon
+100,Voltorb,Ball,ボール,Bōru,Balle,Ball,Ball,Bola,볼 Ball,球 Qiú / Kàuh,100,Voltorb,Ball Pokémon,ボールポケモン,Ball Pokémon
+101,Electrode,Ball,ボール,Bōru,Balle,Ball,Ball,Bola,볼 Ball,球 Qiú / Kàuh,101,Electrode,Ball Pokémon,ボールポケモン,Ball Pokémon
+102,Exeggcute,Egg,たまご,Tamago,Œuf,Ei,Uovo,Huevo,알 Al,蛋 Dàn / Dáan,102,Exeggcute,Egg Pokémon,たまごポケモン,Egg Pokémon
+103,Exeggutor,Coconut,やしのみ,Yashi no Mi,Fruitpalme,Palmfrucht,Nocecocco,Coco,야자열매 Yaja Yeolmae,椰子 Yézi / Yēzi / Yèhjí,103,Exeggutor,Coconut Pokémon,やしのみポケモン,Coconut Pokémon
+104,Cubone,Lonely,こどく,Kodoku,Solitaire,Einsam,Solitario,Solitario,고독 Godok,孤獨 / 孤独 Gūdú / Gūduhk,104,Cubone,Lonely Pokémon,こどくポケモン,Lonely Pokémon
+105,Marowak,Bone Keeper*,ほねずき,Honezuki,Gard'Os,Knochenfan,Guardaossi,Apilahueso,뼈다귀 Ppyeodagwi,愛骨 / 爱骨 Àigǔ / Oigwāt,105,Marowak,Bone Keeper Pokémon,ほねずきポケモン,Bone Lover Pokémon
+106,Hitmonlee,Kicking,キック,Kikku,Latteur,Kicker,Tiracalci,Patada,킥 Kick,踢腿 Tītuǐ / Tektéui,106,Hitmonlee,Kicking Pokémon,キックポケモン,Kick Pokémon
+107,Hitmonchan,Punching,パンチ,Panchi,Puncheur,Puncher,Tirapugni,Puñetazo,펀치 Punch,拳擊 / 拳击 Quánjí / Quánjī / Kyùhngīk,107,Hitmonchan,Punching Pokémon,パンチポケモン,Punch Pokémon
+108,Lickitung,Licking,なめまわし,Namemawashi,Lécheur,Schlecker,Linguaccia,Lametazo,핥기 Halggi,舔舔 Tiǎntiǎn / Tímtím,108,Lickitung,Licking Pokémon,なめまわしポケモン,Licking Pokémon
+109,Koffing,Poison Gas,どくガス,Doku Gasu,Gaz mortel,Giftwolke,Velenuvola,Gas Venenoso,독가스 Dok Gas,毒氣 / 毒气 Dúqì / Duhkhei,109,Koffing,Poison Gas Pokémon,どくガスポケモン,Poison Gas Pokémon
+110,Weezing,Poison Gas,どくガス,Doku Gasu,Gaz mortel,Giftwolke,Velenuvola,Gas Venenoso,독가스 Dok Gas,毒氣 / 毒气 Dúqì / Duhkhei,110,Weezing,Poison Gas Pokémon,どくガスポケモン,Poison Gas Pokémon
+111,Rhyhorn,Spikes,とげとげ,Togetoge,Piquant,Stachler,Punzoni,Clavos,뿔 Ppul,尖尖 Jiānjiān / Jīmjīm,111,Rhyhorn,Spikes Pokémon,とげとげポケモン,Spiky Pokémon
+112,Rhydon,Drill,ドリル,Doriru,Perceur,Bohrer,Trapano,Taladro,드릴 Drill,鑽錐 / 钻锥 Zuānzhuī / Jyūnjēui,112,Rhydon,Drill Pokémon,ドリルポケモン,Drill Pokémon
+113,Chansey,Egg,たまご,Tamago,Œuf,Ei,Uovo,Huevo,알 Al,蛋 Dàn / Dáan,113,Chansey,Egg Pokémon,たまごポケモン,Egg Pokémon
+114,Tangela,Vine,ツルじょう,Tsurujō,Vigne,Ranke,Liana,Enredadera,넝쿨 Neongkul,藤蔓狀 / 藤蔓状 Téngmànzhuàng / Tàhngmàahnjohng,114,Tangela,Vine Pokémon,ツルじょうポケモン,Tendril Pokémon
+115,Kangaskhan,Parent,おやこ,Oyako,Maternel,Muttertier,Genitore,Padres,가족 Gajok,親子 / 亲子 Qīnzǐ / Chānjí,115,Kangaskhan,Parent Pokémon,おやこポケモン,Parent and Child Pokémon
+116,Horsea,Dragon,ドラゴン,Doragon,Dragon,Drache,Drago,Dragón,드래곤 Dragon,龍 / 龙 Lóng / Lùhng,116,Horsea,Dragon Pokémon,ドラゴンポケモン,Dragon Pokémon
+117,Seadra,Dragon,ドラゴン,Doragon,Dragon,Drache,Drago,Dragón,드래곤 Dragon,龍 / 龙 Lóng / Lùhng,117,Seadra,Dragon Pokémon,ドラゴンポケモン,Dragon Pokémon
+118,Goldeen,Goldfish,きんぎょ,Kin Gyo,Poisson,Goldfisch,Pescerosso,Pez Color,금붕어 Geumbung-eo,金魚 / 金鱼 Jīnyú / Gāmyùh,118,Goldeen,Goldfish Pokémon,きんぎょポケモン,Goldfish Pokémon
+119,Seaking,Goldfish,きんぎょ,Kin Gyo,Poisson,Goldfisch,Pescerosso,Pez Color,금붕어 Geumbung-eo,金魚 / 金鱼 Jīnyú / Gāmyùh,119,Seaking,Goldfish Pokémon,きんぎょポケモン,Goldfish Pokémon
+120,Staryu,Star Shape*,ほしがた,Hoshi Gata,Étoile,Sternform,Stella,Estrellada,별 Byeol,星形 Xīngxíng / Sēngyìhng,120,Staryu,Star Shape Pokémon,ほしがたポケモン,Star Shape Pokémon
+121,Starmie,Mysterious,なぞの,Nazono,Mystérieux,Mysteriös,Misterioso,Misterioso,수수께끼 Susukkekki,謎 / 谜 Mí / Màih,121,Starmie,Mysterious Pokémon,なぞのポケモン,Mysterious Pokémon
+122,Mr. Mime,Barrier,バリアー,Bariā,Bloqueur,Sperre,Barriera,Barrera,배리어 Barrier,屏障 Píngzhàng / Bíngjeung,122,Mr. Mime,Barrier Pokémon,バリアーポケモン,Barrier Pokémon
+123,Scyther,Mantis,かまきり,Kamakiri,Mante,Mantis,Mantide,Mantis,버마재비 Beomajaebi,螳螂 Tángláng / Tòhnglòhng,123,Scyther,Mantis Pokémon,かまきりポケモン,Praying Mantis Pokémon
+124,Jynx,Human Shape*,ひとがた,Hito Gata,Humanoïde,Humanotyp,Umanoide,Forma Humana,인간형태 Ingan Hyeongtae,人形 Rénxíng / Yàhnyìhng,124,Jynx,Human Shape Pokémon,ひとがたポケモン,Humanoid Pokémon
+125,Electabuzz,Electric,でんげき,Dengeki,Électrique,Elektro,Elettrico,Eléctrico,전기 Jeongi,電擊 / 电击 Diànjí / Diànjī / Dihngīk,125,Electabuzz,Electric Pokémon,でんげきポケモン,Electric Shock Pokémon
+126,Magmar,Spitfire,ひふき,Hi Fuki,Crache-Feu,Brenner,Sputafuoco,Escupefuego,불뿜기 Bulbbumgi,吐火 Tǔhuǒ / Tóufó,126,Magmar,Spitfire Pokémon,ひふきポケモン,Fire-Blowing Pokémon
+127,Pinsir,Stag Beetle*,くわがた,Kuwagata,Scarabée,Kneifkäfer,Cervolante,Escarabajo,뿔집게 Bbul Jipge,鍬形蟲 / 锹形虫 Qiāoxíngchóng / Chīuyìhngchùhng,127,Pinsir,Stag Beetle Pokémon,くわがたポケモン,Stag Beetle Pokémon
+128,Tauros,Wild Bull,あばれうし,Abare Ushi,Buffle,Wildbulle,Torobrado,Toro Bravo,성난소 Seongnan So,暴牛 Bàoniú / Bouh'ngàuh,128,Tauros,Wild Bull Pokémon,あばれうしポケモン,Rampaging Bull Pokémon
+129,Magikarp,Fish,さかな,Sakana,Poisson,Fisch,Pesce,Pez,물고기 Mulgogi,魚 / 鱼 Yú / Yùh,129,Magikarp,Fish Pokémon,さかなポケモン,Fish Pokémon
+130,Gyarados,Atrocious,きょうあく,Kyōku,Terrifiant,Grausam,Atroce,Atrocidad,흉악 Hyung-ak,凶惡 / 凶恶 Xiōng'è / Hūngngok,130,Gyarados,Atrocious Pokémon,きょうあくポケモン,Atrocious Pokémon
+131,Lapras,Transport,のりもの,Nori Mono,Transport,Transport,Trasporto,Transporte,탈것 Talgeot,乘載 / 乘载 Chéng / Sìhngjói,131,Lapras,Transport Pokémon,のりものポケモン,Transport Pokémon
+132,Ditto,Transform,へんしん,Henshin,Morphing,Transform,Mutante,Transform,변신 Byeonsin,變身 / 变身 Biànshēn / Bingyūn,132,Ditto,Transform Pokémon,へんしんポケモン,Transformation Pokémon
+133,Eevee,Evolution,しんか,Shinka,Évolutif,Evolution,Evoluzione,Evolución,진화 Jinhwa,進化 / 进化 Jìnhuà / Jeunfa,133,Eevee,Evolution Pokémon,しんかポケモン,Evolution Pokémon
+134,Vaporeon,Bubble Jet,あわはき,Awa Haki,Bulleur,Blubblase,Bollajet,Burbuja,거품뿜기 Geopum Ppumgi,吐泡 Tǔpào / Tóupāau,134,Vaporeon,Bubble Jet Pokémon,あわはきポケモン,Foam-Spitting Pokémon
+135,Jolteon,Lightning,かみなり,Kaminari,Orage,Blitz,Luminoso,Calambre,번개 Beongae,雷 Xuě / Lèuih,135,Jolteon,Lightning Pokémon,かみなりポケモン,Thunder Pokémon
+136,Flareon,Flame,ほのお,Honō,Flamme,Feuer,Fiamma,Llama,불꽃 Bulkkot,火 Huǒ / Fó,136,Flareon,Flame Pokémon,ほのおポケモン,Flame Pokémon
+137,Porygon,Virtual,バーチャル*,Bācharu*,Virtuel,Virtuell,Virtuale,Virtual,가상 Gasang,虛擬 / 虚拟 Xūnǐ / Hēuiyìh,137,Porygon,Virtual Pokémon,バーチャルポケモン,Virtual Pokémon
+138,Omanyte,Spiral,うずまき,Uzumaki,Spirale,Spirale,Spirale,Espiral,소용돌이 Soyongdori,漩渦 / 漩涡 Xuánwō / Syùhngwō,138,Omanyte,Spiral Pokémon,うずまきポケモン,Spiral Pokémon
+139,Omastar,Spiral,うずまき,Uzumaki,Spirale,Spirale,Spirale,Espiral,소용돌이 Soyongdori,漩渦 / 漩涡 Xuánwō / Syùhngwō,139,Omastar,Spiral Pokémon,うずまきポケモン,Spiral Pokémon
+140,Kabuto,Shellfish,こうら,Kōra,Carapace,Schaltier,Crostaceo,Marisco,껍질 Kkeopjil,甲殼 / 甲壳 Jiǎké / Jiǎqiào / Gaaphok,140,Kabuto,Shellfish Pokémon,こうらポケモン,Shell Pokémon
+141,Kabutops,Shellfish,こうら,Kōra,Carapace,Schaltier,Crostaceo,Marisco,껍질 Kkeopjil,甲殼 / 甲壳 Jiǎké / Jiǎqiào / Gaaphok,141,Kabutops,Shellfish Pokémon,こうらポケモン,Shell Pokémon
+142,Aerodactyl,Fossil,かせき,Kaseki,Fossile,Fossil,Fossile,Fósil,화석 Hwaseok,化石 Huàshí / Fadaam,142,Aerodactyl,Fossil Pokémon,かせきポケモン,Fossil Pokémon
+143,Snorlax,Sleeping,いねむり,Inemuri,Pionceur,Tagträumer,Sonno,Dormir,졸음 Joreum,瞌睡 Kēshuì / Hāpseuih,143,Snorlax,Sleeping Pokémon,いねむりポケモン,Dozing Pokémon
+144,Articuno,Freeze,れいとう,Reitō,Glaciaire,Eis,Gelo,Congelar,냉동 Naengdong,冰凍 / 冰冻 Bīngdòng / Bīngdūng,144,Articuno,Freeze Pokémon,れいとうポケモン,Freezing Pokémon
+145,Zapdos,Electric,でんげき,Dengeki,Électrique,Elektro,Elettrico,Eléctrico,전기 Jeon-gi,電擊 / 电击 Diànjí / Diànjī / Dihngīk,145,Zapdos,Electric Pokémon,でんげきポケモン,Electric Shock Pokémon
+146,Moltres,Flame,かえん,Kaen,Flamme,Flamme,Fiamma,Llama,화염 Hwayeom,火焰 Huǒyàn / Fóyìhm,146,Moltres,Flame Pokémon,かえんポケモン,Flame Pokémon
+147,Dratini,Dragon,ドラゴン,Doragon,Dragon,Drache,Drago,Dragón,드래곤 Dragon,龍 / 龙 Lóng / Lùhng,147,Dratini,Dragon Pokémon,ドラゴンポケモン,Dragon Pokémon
+148,Dragonair,Dragon,ドラゴン,Doragon,Dragon,Drache,Drago,Dragón,드래곤 Dragon,龍 / 龙 Lóng / Lùhng,148,Dragonair,Dragon Pokémon,ドラゴンポケモン,Dragon Pokémon
+149,Dragonite,Dragon,ドラゴン,Doragon,Dragon,Drache,Drago,Dragón,드래곤 Dragon,龍 / 龙 Lóng / Lùhng,149,Dragonite,Dragon Pokémon,ドラゴンポケモン,Dragon Pokémon
+150,Mewtwo,Genetic,いでんし,Idenshi,Génétique,Genmutant,Genetico,Genético,유전 Yujeon,基因 Jīyīn / Gēiyān,150,Mewtwo,Genetic Pokémon,いでんしポケモン,Genetic Pokémon
+151,Mew,New Species*,しんしゅ,Shin Shu,Nouveau,Neue Art,Novaspecie,N. Especie,신종 Sin Jong,新種 / 新种 Xīnzhǒng / Sānjúng,151,Mew,New Species Pokémon,しんしゅポケモン,New Species Pokémon
+152,Chikorita,Leaf,はっぱ,Happa,Feuille,Laub,Foglia,Hoja,잎사귀 Ipsagwi,葉子 / 叶子 Yèzi / Yihpjí,152,Chikorita,Leaf Pokémon,はっぱポケモン,Leaf Pokémon
+153,Bayleef,Leaf,はっぱ,Happa,Feuille,Laub,Foglia,Hoja,잎사귀 Ipsagwi,葉子 / 叶子 Yèzi / Yihpjí,153,Bayleef,Leaf Pokémon,はっぱポケモン,Leaf Pokémon
+154,Meganium,Herb,ハーブ,Hābu,Herbe,Kräuter,Erbe,Hierba,허브 Herb,芳草 Fāngcǎo / Fōngchóu,154,Meganium,Herb Pokémon,ハーブポケモン,Herb Pokémon
+155,Cyndaquil,Fire Mouse,ひねずみ,Hi Nezumi,Souris Feu,Feuermaus,Fuocotopo,Ratón Fuego,불쥐 Bul Jwi,火鼠 Huǒshǔ / Fósyú,155,Cyndaquil,Fire Mouse Pokémon,ひねずみポケモン,Fire Mouse Pokémon
+156,Quilava,Volcano,かざん,Kazan,Volcan,Vulkan,Vulcano,Volcán,화산 Hwasan,火山 Huǒshān / Fósāan,156,Quilava,Volcano Pokémon,かざんポケモン,Volcano Pokémon
+157,Typhlosion,Volcano,かざん,Kazan,Volcan,Vulkan,Vulcano,Volcán,화산 Hwasan,火山 Huǒshān / Fósāan,157,Typhlosion,Volcano Pokémon,かざんポケモン,Volcano Pokémon
+158,Totodile,Big Jaw,おおあご,Ō Ago,Mâchoire,Großmaul,Mascellone,Fauces,큰턱 Keun Teok,大顎 / 大颚 Dà'è / Daaih'ngohk,158,Totodile,Big Jaw Pokémon,おおあごポケモン,Big Jaw Pokémon
+159,Croconaw,Big Jaw,おおあご,Ō Ago,Mâchoire,Großmaul,Mascellone,Fauces,큰턱 Keun Teok,大顎 / 大颚 Dà'è / Daaih'ngohk,159,Croconaw,Big Jaw Pokémon,おおあごポケモン,Big Jaw Pokémon
+160,Feraligatr,Big Jaw,おおあご,Ō Ago,Mâchoire,Großmaul,Mascellone,Fauces,큰턱 Keun Teok,大顎 / 大颚 Dà'è / Daaih'ngohk,160,Feraligatr,Big Jaw Pokémon,おおあごポケモン,Big Jaw Pokémon
+161,Sentret,Scout,みはり,Mihari,Espion,Späher,Esplorante,Explorador,망보기 Mangbogi,放哨 Fàngshào / Fongsaau,161,Sentret,Scout Pokémon,みはりポケモン,Lookout Pokémon
+162,Furret,Long Body,どうなが,Dō Nagi,Allongé,Langleib,Lungocorpo,Alargado,긴몸통 Gin Momtong,長軀幹 / 长躯干 Zhǎngqūgàn / Chèuhngkēuigon,162,Furret,Long Body Pokémon,どうながポケモン,Long Torso Pokémon
+163,Hoothoot,Owl,ふくろう,Fukurō,Hibou,Eule,Gufo,Búho,부엉이 Bueong-i,貓頭鷹 / 猫头鹰 Māotóuyīng / Māautàuhyīng,163,Hoothoot,Owl Pokémon,ふくろうポケモン,Owl Pokémon
+164,Noctowl,Owl,ふくろう,Fukurō,Hibou,Eule,Gufo,Búho,부엉이 Bueong-i,貓頭鷹 / 猫头鹰 Māotóuyīng / Māautàuhyīng,164,Noctowl,Owl Pokémon,ふくろうポケモン,Owl Pokémon
+165,Ledyba,Five Star,いつつぼし,Itsutsu Boshi,5 Étoiles,Fünf-Punkt,Pentastra,5 Estrellas,별다섯 Byeol Daseot,五星 Wǔxīng / Nghsēng,165,Ledyba,Five Star Pokémon,いつつぼしポケモン,Five Star Pokémon
+166,Ledian,Five Star,いつつぼし,Itsutsu Boshi,5 Étoiles,Fünf-Punkt,Pentastra,5 Estrellas,별다섯 Byeol Daseot,五星 Wǔxīng / Nghsēng,166,Ledian,Five Star Pokémon,いつつぼしポケモン,Five Star Pokémon
+167,Spinarak,String Spit*,いとはき,Itohaki,Crache Fil,Fadenwurf,Tela,Escupesoga,실뿜기 Sil Ppumgi,吐絲 / 吐丝 Tǔsī / Tóusī,167,Spinarak,String Spit Pokémon,いとはきポケモン,String-Spitting Pokémon
+168,Ariados,Long Leg,あしなが,Ashinaga,Long-Patte,Langbein,Lungazampa,Pata Larga,롱다리 Long Dari,長腿 / 长腿 Zhǎngtuǐ / Chèuhngtéui,168,Ariados,Long Leg Pokémon,あしながポケモン,Long Leg Pokémon
+169,Crobat,Bat,こうもり,Kōmori,Chovsouris,Fledermaus,Pipistrello,Murciélago,박쥐 Bakjwi,蝙蝠 Biānfú / Bīnfūk,169,Crobat,Bat Pokémon,こうもりポケモン,Bat Pokémon
+170,Chinchou,Angler,あんこう,Ankō,Poisson,Angler,Pescatore,Rape,아귀 Agwi,琵琶魚 / 琵琶鱼 Pípáyú / Pèihpàhyùh,170,Chinchou,Angler Pokémon,あんこうポケモン,Anglerfish Pokémon
+171,Lanturn,Light,ライト,Raito,Lumière,Leuchte,Luce,Luz,라이트 Light,燈 / 灯 Dēng / Dāng,171,Lanturn,Light Pokémon,ライトポケモン,Light Pokémon
+172,Pichu,Tiny Mouse,こねずみ,Ko Nezumi,Minisouris,Babymaus,Topino,Ratoncito,아기쥐 Agi Jwi,小鼠 Xiǎoshǔ / Síusyú,172,Pichu,Tiny Mouse Pokémon,こねずみポケモン,Small Mouse Pokémon
+173,Cleffa,Star Shape*,ほしがた,Hoshi Gata,Étoile,Sternform,Stella,Estrellada,별 Byeol,星形 Xīngxíng / Sēngyìhng,173,Cleffa,Star Shape Pokémon,ほしがたポケモン,Star Shape Pokémon
+174,Igglybuff,Balloon,ふうせん,Fūsen,Bouboule,Ballon,Pallone,Globo,풍선 Pungseon,氣球 / 气球 Qìqiú / Heikàuh,174,Igglybuff,Balloon Pokémon,ふうせんポケモン,Balloon Pokémon
+175,Togepi,Spike Ball,はりたま,Toge Tama,Balle Pic,Zackenball,Pallapunte,Bolaclavos,바늘알 Baneul Al,針球 / 针球 Zhēnqiú / Jāmkàuh,175,Togepi,Spike Ball Pokémon,はりたまポケモン,Spike Ball Pokémon
+176,Togetic,Happiness,しあわせ,Shiawase,Bonheur,Freude,Felicità,Felicidad,행복 Haengbok,幸福 Xìngfú / Hahngfūk,176,Togetic,Happiness Pokémon,しあわせポケモン,Happiness Pokémon
+177,Natu,Tiny Bird*,ことり,Ko Tori,Minoiseau,Kleinvogel,Uccellino,Pajarito,아기새 Agi Sae,小鳥 / 小鸟 Xiǎoniǎo / Síuníuh,177,Natu,Tiny Bird Pokémon,ことりポケモン,Small Bird Pokémon
+178,Xatu,Mystic,せいれい,Seirei,Mystique,Mystik,Magico,Místico,정령 Jeongnyeong,神秘 Shénmì / Sānbei,178,Xatu,Mystic Pokémon,せいれいポケモン,Spirit Pokémon
+179,Mareep,Wool,わたげ,Watage,Laine,Wolle,Lana,Lana,솜털 Somteol,綿毛 / 绵毛 Miánmáo / Mìhnmòuh,179,Mareep,Wool Pokémon,わたげポケモン,Fluff Pokémon
+180,Flaaffy,Wool,わたげ,Watage,Laine,Wolle,Lana,Lana,솜털 Somteol,綿毛 / 绵毛 Miánmáo / Mìhnmòuh,180,Flaaffy,Wool Pokémon,わたげポケモン,Fluff Pokémon
+181,Ampharos,Light,ライト,Raito,Lumière,Leuchte,Luce,Luz,라이트 Light,燈 / 灯 Dēng / Dāng,181,Ampharos,Light Pokémon,ライトポケモン,Light Pokémon
+182,Bellossom,Flower,フラワー,Furawā,Fleur,Blume,Fiore,Flor,꽃 Kkot,花 Huā / Fā,182,Bellossom,Flower Pokémon,フラワーポケモン,Flower Pokémon
+183,Marill,Aqua Mouse*,みずねずみ,Mizu Nezumi,Aquasouris,Aquamaus,Acquatopo,Ratón Agua,물쥐 Mul Jwi,水鼠 Shuǐshǔ / Séuisyú,183,Marill,Aqua Mouse Pokémon,みずねずみポケモン,Water Mouse Pokémon
+184,Azumarill,Aqua Rabbit*,みずうさぎ,Mizu Usagi,Aqualapin,Aquahase,Acquaniglio,Conejo Agua,물토끼 Mul Tokki,水兔 Shuǐtù / Séuitou,184,Azumarill,Aqua Rabbit Pokémon,みずうさぎポケモン,Water Rabbit Pokémon
+185,Sudowoodo,Imitation,まね,Mane,Imitation,Imitation,Imitazione,Imitación,흉내 Hyungnae,模仿 Mófǎng / Mòuhfóng,185,Sudowoodo,Imitation Pokémon,まねポケモン,Imitation Pokémon
+186,Politoed,Frog,かえる,Kaeru,Grenouille,Frosch,Rana,Rana,개구리 Gaeguri,蛙 Wā,186,Politoed,Frog Pokémon,かえるポケモン,Frog Pokémon
+187,Hoppip,Cottonweed,わたくさ,Wata Kusa,Pissenlit,Löwenzahn,Gramigna,Algadón,솜풀 Sompul,棉草 Miáncǎo / Mìhnchóu,187,Hoppip,Cottonweed Pokémon,わたくさポケモン,Cottonweed Pokémon
+188,Skiploom,Cottonweed,わたくさ,Wata Kusa,Pissenlit,Löwenzahn,Gramigna,Algadón,솜풀 Sompul,棉草 Miáncǎo / Mìhnchóu,188,Skiploom,Cottonweed Pokémon,わたくさポケモン,Cottonweed Pokémon
+189,Jumpluff,Cottonweed,わたくさ,Wata Kusa,Pissenlit,Löwenzahn,Gramigna,Algadón,솜풀 Sompul,棉草 Miáncǎo / Mìhnchóu,189,Jumpluff,Cottonweed Pokémon,わたくさポケモン,Cottonweed Pokémon
+190,Aipom,Long Tail,おなが,Onaga,Longqueue,Langschweif,Lungacoda,Cola Larga,긴꼬리 Gin Kkori,長尾 / 长尾 Chángwěi / Chèuhngméih,190,Aipom,Long Tail Pokémon,おながポケモン,Long Tail Pokémon
+191,Sunkern,Seed,たね,Tane,Graine,Samen,Seme,Semilla,씨앗 Ssiat,種子 / 种子 Zhǒngzǐ / Júngjí,191,Sunkern,Seed Pokémon,たねポケモン,Seed Pokémon
+192,Sunflora,Sun,たいよう,Taiyō,Soleil,Sonne,Sole,Sol,태양 Taeyang,太陽 / 太阳 Tàiyáng / Taaiyèuhng,192,Sunflora,Sun Pokémon,たいようポケモン,Sun Pokémon
+193,Yanma,Clear Wing,うすばね,Usu Bane,Translaile,Libelle,Alachiara,Ala Clara,얇은날개 Yalb-eun Nalgae,薄翼 Báoyì / Bohkyihk,193,Yanma,Clear Wing Pokémon,うすばねポケモン,Thin Wing Pokémon
+194,Wooper,Water Fish,みずうお,Mizu Uo,Poisson,Fisch,Acquapesce,Pez Agua,수어 Sueo,水魚 / 水鱼 Shuǐyú / Séuiyùh,194,Wooper,Water Fish Pokémon,みずうおポケモン,Water Fish Pokémon
+195,Quagsire,Water Fish,みずうお,Mizu Uo,Poisson,Fisch,Acquapesce,Pez Agua,수어 Sueo,水魚 / 水鱼 Shuǐyú / Séuiyùh,195,Quagsire,Water Fish Pokémon,みずうおポケモン,Water Fish Pokémon
+196,Espeon,Sun,たいよう,Taiyō,Soleil,Sonne,Sole,Sol,태양 Taeyang,太陽 / 太阳 Tàiyáng / Taaiyèuhng,196,Espeon,Sun Pokémon,たいようポケモン,Sun Pokémon
+197,Umbreon,Moonlight,げっこう,Gekkō,Lune,Mondschein,Lucelunare,Luz Lunar,달빛 Dalbit,月光 Yuèguāng / Yuhtgwōng,197,Umbreon,Moonlight Pokémon,げっこうポケモン,Moonlight Pokémon
+198,Murkrow,Darkness,くらやみ,Kurayami,Obscurité,Finsternis,Oscurità,Oscuridad,어둠 Eodum,黑暗 Hēi'àn / Hāak'am,198,Murkrow,Darkness Pokémon,くらやみポケモン,Darkness Pokémon
+199,Slowking,Royal,おうじゃ,Ōja,Royal,Monarch,Reale,Regio,임금 Imgeum,王者 Wángzhě / Wòhngjé,199,Slowking,Royal Pokémon,おうじゃポケモン,Monarch Pokémon
+200,Misdreavus,Screech,よなき,Yonaki,Strident,Kreischer,Strido,Chirrido,야명 Yamyeong,夜啼 Yètí / Yehtàih,200,Misdreavus,Screech Pokémon,よなきポケモン,Night Cry Pokémon
+201,Unown,Symbol,シンボル,Shinboru,Symbolique,Symbol,Simbolo,Símbolo,심볼 Symbol,象徵 / 象征 Xiàngzhēng / Jeuhngjí,201,Unown,Symbol Pokémon,シンボルポケモン,Symbol Pokémon
+202,Wobbuffet,Patient,がまん,Gaman,Patient,Geduld,Pazienza,Paciente,참기 Chamgi,忍耐 Rěnnài / Yánnoih,202,Wobbuffet,Patient Pokémon,がまんポケモン,Endurance Pokémon
+203,Girafarig,Long Neck,くびなが,Kubinaga,Long-Cou,Langhals,Lungocollo,Gran Cuello,긴목 Gin Mok,長頸 / 长颈 Chángjǐng / Chèuhnggéng,203,Girafarig,Long Neck Pokémon,くびながポケモン,Long Neck Pokémon
+204,Pineco,Bagworm,みのむし,Minomushi,Ver Caché,Beutelwurm,Larva,Larva,도롱이벌레 Dorong-i Beolle,蓑衣蟲 / 蓑衣虫 Suōyīchóng / Sōyīchùhng,204,Pineco,Bagworm Pokémon,みのむしポケモン,Bagworm Pokémon
+205,Forretress,Bagworm,みのむし,Minomushi,Ver Caché,Beutelwurm,Larva,Larva,도롱이벌레 Dorong-i Beolle,蓑衣蟲 / 蓑衣虫 Suōyīchóng / Sōyīchùhng,205,Forretress,Bagworm Pokémon,みのむしポケモン,Bagworm Pokémon
+206,Dunsparce,Land Snake,つちへび,Tsuchi Hebi,Serpent,Schlange,Terraserpe,Serptierra,땅뱀 Ttang Baem,地蛇 Dìshé / Deihyìh,206,Dunsparce,Land Snake Pokémon,つちへびポケモン,Land Snake Pokémon
+207,Gligar,Fly Scorpion*,とびさそり,Toba Sasori,Scorpivol,Flugskorpi,Aliscorpio,Escorpiala,날전갈 Nal Jeon-gal,飛蠍 / 飞蝎 Fēixiē / Fēihit,207,Gligar,Fly Scorpion Pokémon,とびさそりポケモン,Flying Scorpion Pokémon
+208,Steelix,Iron Snake,てつへび,Tetsu Hebi,Serpenfer,Stahlboa,Ferroserpe,Serpférrea,철뱀 Cheol Baem,鐵蛇 / 铁蛇 Tiěshé / Tityìh,208,Steelix,Iron Snake Pokémon,てつへびポケモン,Iron Snake Pokémon
+209,Snubbull,Fairy,ようせい,Yōsei,Fée,Fee,Fata,Hada,요정 Yojeong,妖精 Yāojing / Yīujēng,209,Snubbull,Fairy Pokémon,ようせいポケモン,Fairy Pokémon
+210,Granbull,Fairy,ようせい,Yōsei,Fée,Fee,Fata,Hada,요정 Yojeong,妖精 Yāojing / Yīujēng,210,Granbull,Fairy Pokémon,ようせいポケモン,Fairy Pokémon
+211,Qwilfish,Balloon,ふうせん,Fūsen,Bouboule,Ballon,Pallone,Globo,풍선 Pungseon,氣球 / 气球 Qìqiú / Heikàuh,211,Qwilfish,Balloon Pokémon,ふうせんポケモン,Balloon Pokémon
+212,Scizor,Pincer*,はさみ,Hasami,Pince,Kneifer,Chela,Tenaza,집게 Jipge,鉗子 / 钳子 Qiánzi / Kìhmjí,212,Scizor,Pincer Pokémon,はさみポケモン,Pincer Pokémon
+213,Shuckle,Mold,はっこう,Hakkō,Pourri,Schimmel,Muffa,Moho,발효 Balhyo,發酵 / 发酵 Fāxiào / Fājiào / Faatgaau,213,Shuckle,Mold Pokémon,はっこうポケモン,Fermentation Pokémon
+214,Heracross,Single Horn*,1ぽんヅノ,Ippon Tsuno,Unicorne,Einzelhorn,Monocorno,Unicornio,외뿔 Oe Ppul,獨角 / 独角 Dújiǎo / Duhkgok,214,Heracross,Single Horn Pokémon,1ぽんヅノポケモン,Single Horn Pokémon
+215,Sneasel,Sharp Claw,かぎづめ,Kagidzume,Grifacérée,Stichklaue,Lamartigli,Garra Filo,갈고리손톱 Galgori Sontop,鉤爪 / 钩爪 Gōuzhǎo / Āujáau,215,Sneasel,Sharp Claw Pokémon,かぎづめポケモン,Claw Pokémon
+216,Teddiursa,Little Bear*,こぐま,Ko Guma,Mini Ours,Kleinbär,Orsetto,Osito,아기곰 Agi Gom,小熊 Xiǎoxióng / Síuhùhng,216,Teddiursa,Little Bear Pokémon,こぐまポケモン,Small Bear Pokémon
+217,Ursaring,Hibernator*,とうみん,Tōmin,Hibernant,Schläfer,Letargo,Hibernante,동면 Dongmyeon,冬眠 Dōngmián / Dūngmìhn,217,Ursaring,Hibernator Pokémon,とうみんポケモン,Hibernation Pokémon
+218,Slugma,Lava,ようがん,Yōgan,Lave,Lava,Lava,Lava,용암 Yong-am,熔岩 Róngyán / Yùhngngàahm,218,Slugma,Lava Pokémon,ようがんポケモン,Lava Pokémon
+219,Magcargo,Lava,ようがん,Yōgan,Lave,Lava,Lava,Lava,용암 Yong-am,熔岩 Róngyán / Yùhngngàahm,219,Magcargo,Lava Pokémon,ようがんポケモン,Lava Pokémon
+220,Swinub,Pig,いのぶた,Ino Buta,Cochon,Ferkel,Maiale,Cerdo,산돼지 Sandwaeji,小豬 / 小猪 Xiǎozhū / Síujyū,220,Swinub,Pig Pokémon,いのぶたポケモン,Pig Boar Pokémon
+221,Piloswine,Swine,いのしし,Inoshishi,Porc,Schwein,Suino,Puerco,멧돼지 Metdwaeji,野豬 / 野猪 Yězhū / Yéhjyū,221,Piloswine,Swine Pokémon,いのししポケモン,Wild Boar Pokémon
+222,Corsola,Coral,さんご,Sango,Corail,Koralle,Corallo,Coral,산호 Sanho,珊瑚 Shānhú / Sāanwùh,222,Corsola,Coral Pokémon,さんごポケモン,Coral Pokémon
+223,Remoraid,Jet,ふんしゃ,Funsha,Jet,Hochdruck,Jet,Reactor,분사 Bunsa,噴射 / 喷射 Pēnshè / Fáhnyeh,223,Remoraid,Jet Pokémon,ふんしゃポケモン,Jet Pokémon
+224,Octillery,Jet,ふんしゃ,Funsha,Jet,Hochdruck,Jet,Reactor,분사 Bunsa,噴射 / 喷射 Pēnshè / Fáhnyeh,224,Octillery,Jet Pokémon,ふんしゃポケモン,Jet Pokémon
+225,Delibird,Delivery,はこびや,Hakobiya,Livraison,Lieferant,Consegna,Reparto,배달 Baedal,搬運 / 搬运 Bānyùn / Būnwahn,225,Delibird,Delivery Pokémon,はこびやポケモン,Courier Pokémon
+226,Mantine,Kite,カイト,Kaito,Cervolant,Flugrochen,Aquilone,Milano,연 Yeon,風箏 / 风筝 Fēngzhēng / Fūngjāang,226,Mantine,Kite Pokémon,カイトポケモン,Kite Pokémon
+227,Skarmory,Armor Bird,よろいどり,Yoroi Tori,Armoiseau,Flugstahl,Armuccello,Coraza Ave,갑옷새 Gabot Sae,鋼甲鳥 / 钢甲鸟 Gāngjiǎniǎo / Gōnggaapníuh,227,Skarmory,Armor Bird Pokémon,よろいどりポケモン,Armor Bird Pokémon
+228,Houndour,Dark,ダーク,Dāku,Sombre,Hades,Buio,Siniestro,다크 Dark,陰暗 / 阴暗 Yīn'àn / Yām'am,228,Houndour,Dark Pokémon,ダークポケモン,Dark Pokémon
+229,Houndoom,Dark,ダーク,Dāku,Sombre,Hades,Buio,Siniestro,다크 Dark,陰暗 / 阴暗 Yīn'àn / Yām'am,229,Houndoom,Dark Pokémon,ダークポケモン,Dark Pokémon
+230,Kingdra,Dragon,ドラゴン,Doragon,Dragon,Drache,Drago,Dragón,드래곤 Dragon,龍 / 龙 Lóng / Lùhng,230,Kingdra,Dragon Pokémon,ドラゴンポケモン,Dragon Pokémon
+231,Phanpy,Long Nose,ながはな,Nagahana,Long-Nez,Langrüssel,Nasone,Narizotas,긴코 Gin ko,長鼻 / 长鼻 Chángbí / Chèuhngbeih,231,Phanpy,Long Nose Pokémon,ながはなポケモン,Long Nose Pokémon
+232,Donphan,Armor,よろい,Yoroi,Armure,Panzer,Armatura,Coraza,갑옷 Gabot,鎧甲 / 铠甲 Kǎijiǎ / Hóigaap,232,Donphan,Armor Pokémon,よろいポケモン,Armor Pokémon
+233,Porygon2,Virtual,バーチャル,Bācharu,Virtuel,Virtuell,Virtuale,Virtual,가상 Gasang,虛擬 / 虚拟 Xūnǐ / Hēuiyìh,233,Porygon2,Virtual Pokémon,バーチャルポケモン,Virtual Pokémon
+234,Stantler,Big Horn,おおツノ,Ō Tsuno,Maxi Corne,Vielender,Grancorno,Gran Cuerno,큰뿔 Keun Ppul,大角 Dàjiǎo / Daaihgok,234,Stantler,Big Horn Pokémon,おおツノポケモン,Big Horn Pokémon
+235,Smeargle,Painter,えかき,Ekaki,Peintre,Maler,Pittore,Pintor,그림장이 Geurimjang-i,畫畫 / 画画 Huàhuà / Wáwá,235,Smeargle,Painter Pokémon,えかきポケモン,Painter Pokémon
+236,Tyrogue,Scuffle,けんか,Kenka,Bagarreur,Racker,Baruffa,Peleón,싸움 Ssaum,打鬥 / 打斗 Dǎdòu / Dādau,236,Tyrogue,Scuffle Pokémon,けんかポケモン,Scuffle Pokémon
+237,Hitmontop,Handstand,さかだち,Sakadachi,Poirier,Kopfstand,Verticale,Boca Abajo,물구나무 Mulgunamu,倒立 Dàolì / Dóulaahp,237,Hitmontop,Handstand Pokémon,さかだちポケモン,Headstand Pokémon
+238,Smoochum,Kiss,くちづけ,Kuchidzuke,Bisou,Kuss,Bacio,Beso,뽀뽀 Ppoppo,親吻 / 亲吻 Qīnwěn / Chānmáhn,238,Smoochum,Kiss Pokémon,くちづけポケモン,Kiss Pokémon
+239,Elekid,Electric,でんき,Denki,Électrique,Elektro,Elettrico,Eléctrico,전류 Jeonryu,電氣 / 电气 Diànqì / Dihnhei,239,Elekid,Electric Pokémon,でんきポケモン,Electric Pokémon
+240,Magby,Live Coal,ひだね,Hidane,Charbon,Glutherd,Carbonvivo,Ascuas,불씨 Bulssi,火種 / 火种 Huǒzhǒng / Fójúng,240,Magby,Live Coal Pokémon,ひだねポケモン,Live Coal Pokémon
+241,Miltank,Milk Cow,ちちうし,Chichi Ushi,Vachalait,Milchkuh,Bovino,Lechera,젖소 Jeot So,乳牛 / 奶牛 Rǔniú / Nǎiniú / Yúh'ngàuh,241,Miltank,Milk Cow Pokémon,ちちうしポケモン,Dairy Cow Pokémon
+242,Blissey,Happiness,しあわせ,Shiawase,Bonheur,Freude,Felicità,Felicidad,행복 Haengbok,幸福 Xìngfú / Hahngfūk,242,Blissey,Happiness Pokémon,しあわせポケモン,Happiness Pokémon
+243,Raikou,Thunder,いかずち,Ikazuchi,Foudre,Donner,Tuono,Trueno,우뢰 Uroe,天雷 Tiānléi / Tīnlèuih,243,Raikou,Thunder Pokémon,いかずちポケモン,Thunder Pokémon
+244,Entei,Volcano,かざん,Kazan,Volcan,Vulkan,Vulcano,Volcán,화산 Hwasan,火山 Huǒshān / Fósāan,244,Entei,Volcano Pokémon,かざんポケモン,Volcano Pokémon
+245,Suicune,Aurora,オーロラ,Ōrora,Aurore,Polarlicht,Aurora,Aurora,오로라 Aurora,極光 / 极光 Jíguāng / Gihkgwōng,245,Suicune,Aurora Pokémon,オーロラポケモン,Aurora Pokémon
+246,Larvitar,Rock Skin,いわはだ,Iwa Hada,Peaupierre,Felshaut,Peldisasso,Piel Roca,바위표면 Bawi Pyomyeon,岩石膚 / 岩石肤 Yánshífū / Ngàahmdaamfū,246,Larvitar,Rock Skin Pokémon,いわはだポケモン,Rock Skin Pokémon
+247,Pupitar,Hard Shell,だんがん,Dangan,Carapadure,Hartschale,Guscioduro,Caparazón,탄환 Tanhwan,子彈 / 子弹 Zǐdàn / Jídaahn,247,Pupitar,Hard Shell Pokémon,だんがんポケモン,Bullet Pokémon
+248,Tyranitar,Armor,よろい,Yoroi,Armure,Panzer,Armatura,Coraza,갑옷 Gabot,鎧甲 / 铠甲 Kǎijiǎ / Hóigaap,248,Tyranitar,Armor Pokémon,よろいポケモン,Armor Pokémon
+249,Lugia,Diving,せんすい,Sensui,Plongeon,Taucher,Immersione,Buceo,잠수 Jamsu,潛水 / 潜水 Qiánshuǐ / Chìhmséui,249,Lugia,Diving Pokémon,せんすいポケモン,Diving Pokémon
+250,Ho-Oh,Rainbow,にじいろ,Nijiiro,Arcenciel,Regenbogen,Arcobaleno,Arcoíris,무지개색 Mujigae Saek,虹色 Hóngsè / Hùhngsīk,250,Ho-Oh,Rainbow Pokémon,にじいろポケモン,Rainbow-Colored Pokémon
+251,Celebi,Time Travel*,ときわたり,Tokiwatari,Temporel,Zeitreise,Tempovia,Viajetiempo,시간이동 Sigan-idong,時空穿越 / 时空穿越 Shíkōngchuānyuè / Sìhhūngchyūnyuht,251,Celebi,Time Travel Pokémon,ときわたりポケモン,Time Traveling Pokémon
+252,Treecko,Wood Gecko,もりトカゲ,Mori Tokage,Bois Gecko,Waldgecko,Legnogeco,Geco Bosque,숲도마뱀 Sup Domabaem,林蜥 Línxī / Làhmsīk,252,Treecko,Wood Gecko Pokémon,もりトカゲポケモン,Forest Lizard Pokémon
+253,Grovyle,Wood Gecko,もりトカゲ,Mori Tokage,Bois Gecko,Waldgecko,Legnogeco,Geco Bosque,숲도마뱀 Sup Domabaem,林蜥 Línxī / Làhmsīk,253,Grovyle,Wood Gecko Pokémon,もりトカゲポケモン,Forest Lizard Pokémon
+254,Sceptile,Forest,みつりん,Mitsurin,Forêt,Dschungel,Foresta,Monte,밀림 Millim,密林 Mìlín / Mahtlàhm,254,Sceptile,Forest Pokémon,みつりんポケモン,Jungle Pokémon
+255,Torchic,Chick,ひよこ,Hiyoko,Poussin,Küken,Pulcino,Polluelo,풋내기 Putnaegi,雛雞 / 雏鸡 Chújī / Chōgāi,255,Torchic,Chick Pokémon,ひよこポケモン,Chick Pokémon
+256,Combusken,Young Fowl,わかどり,Wakadori,Poulet,Kleinhahn,Rampollo,Ave Corral,꼬마닭 Kkoma Dak,幼雞 / 幼鸡 Yòujī / Yaugāi,256,Combusken,Young Fowl Pokémon,わかどりポケモン,Chicken Pokémon
+257,Blaziken,Blaze,もうか,Mōka,Ardent,Großbrand,Vampe,Llameante,맹화 Maenghwa,猛火 Měnghuǒ / Máahngfó,257,Blaziken,Blaze Pokémon,もうかポケモン,Raging Flames Pokémon
+258,Mudkip,Mud Fish,ぬまうお,Numa Uo,Poissonboue,Lehmhüpfer,Fango Pesce,Pez Lodo,늪물고기 Neup Mulgogi,沼魚 / 沼鱼 Zhǎoyú / Jíuyùh,258,Mudkip,Mud Fish Pokémon,ぬまうおポケモン,Swamp Fish Pokémon
+259,Marshtomp,Mud Fish,ぬまうお,Numa Uo,Poissonboue,Lehmhüpfer,Fango Pesce,Pez Lodo,늪물고기 Neup Mulgogi,沼魚 / 沼鱼 Zhǎoyú / Jíuyùh,259,Marshtomp,Mud Fish Pokémon,ぬまうおポケモン,Swamp Fish Pokémon
+260,Swampert,Mud Fish,ぬまうお,Numa Uo,Poissonboue,Lehmhüpfer,Fango Pesce,Pez Lodo,늪물고기 Neup Mulgogi,沼魚 / 沼鱼 Zhǎoyú / Jíuyùh,260,Swampert,Mud Fish Pokémon,ぬまうおポケモン,Swamp Fish Pokémon
+261,Poochyena,Bite,かみつき,Kamitsuki,Morsure,Biss,Morso,Mordisco,물어뜯기 Mureotteutgi,緊咬 / 紧咬 Jǐnyǎo / Gánngáauh,261,Poochyena,Bite Pokémon,かみつきポケモン,Bite Pokémon
+262,Mightyena,Bite,かみつき,Kamitsuki,Morsure,Biss,Morso,Mordisco,물어뜯기 Mureotteutgi,緊咬 / 紧咬 Jǐnyǎo / Gánngáauh,262,Mightyena,Bite Pokémon,かみつきポケモン,Bite Pokémon
+263,Zigzagoon,Tiny Raccoon*,まめだぬき,Mamedanuki,Petit Raton,Kleindachs,Procione,Mapachito,앙증너구리 Angjeung Neoguri,豆貍 / 豆狸 Dòulí / Dáulèih,263,Zigzagoon,Tiny Raccoon Pokémon,まめだぬきポケモン,Tiny Raccoon Dog Pokémon
+264,Linoone,Rushing,とっしん,Tosshin,Fonceur,Sprinter,Sfrecciante,Lanzado,돌진 Doljin,猛衝 / 猛冲 Měngchōng / Máahngchūng,264,Linoone,Rushing Pokémon,とっしんポケモン,Rushing Pokémon
+265,Wurmple,Worm,いもむし,Imomushi,Ver,Wurm,Baco,Gusano,애벌레 Aebeolle,蟲寶寶 / 虫宝宝 Chóngbǎobǎo / Chùhngbóubóu,265,Wurmple,Worm Pokémon,いもむしポケモン,Caterpillar Pokémon
+266,Silcoon,Cocoon,さなぎ,Sanagi,Cocon,Kokon,Bozzolo,Capullo,번데기 Beondegi,蛹 Yǒng / Yúng,266,Silcoon,Cocoon Pokémon,さなぎポケモン,Chrysalis Pokémon
+267,Beautifly,Butterfly,ちょうちょ,Chōcho,Papillon,Falter,Farfalla,Mariposa,나비 Nabi,蝴蝶 Húdié / Wùhdihp,267,Beautifly,Butterfly Pokémon,ちょうちょポケモン,Butterfly Pokémon
+268,Cascoon,Cocoon,さなぎ,Sanagi,Cocon,Kokon,Bozzolo,Capullo,번데기 Beondegi,蛹 Yǒng / Yúng,268,Cascoon,Cocoon Pokémon,さなぎポケモン,Chrysalis Pokémon
+269,Dustox,Poison Moth,どくが,Doku Ga,Papipoison,Giftmotte,Velentarma,Polilla Ven.,독나방 Dok Nabang,毒蛾 Dú'é / Duhkngáih,269,Dustox,Poison Moth Pokémon,どくがポケモン,Poison Moth Pokémon
+270,Lotad,Water Weed,うきくさ,Ukikusa,Aquaplante,Wasserlinse,Alga,Alga,개구리밥 Gaeguribap,浮萍 Fúpíng / Fàuhpìhng,270,Lotad,Water Weed Pokémon,うきくさポケモン,Floating Weed Pokémon
+271,Lombre,Jolly,ようき,Yōki,Jovial,Frohmut,Giocoso,Alegre,명랑함 Myeongrangham,爽朗 Shuǎnglǎng / Sónglóhng,271,Lombre,Jolly Pokémon,ようきポケモン,Cheerful Pokémon
+272,Ludicolo,Carefree,のうてんき,Nōtenki,Insouciant,Sorglos,Spensierato,Optimista,행복하기 Haengbokhagi,樂天 / 乐天 Lètiān / Lohktīn,272,Ludicolo,Carefree Pokémon,のうてんきポケモン,Optimistic Pokémon
+273,Seedot,Acorn,どんぐり,Donguri,Gland,Eichelnuss,Ghianda,Bellota,도토리 Dotori,橡實 / 橡实 Xiàngshí / Jeuhngsaht,273,Seedot,Acorn Pokémon,どんぐりポケモン,Acorn Pokémon
+274,Nuzleaf,Wily,いじわる,Ijiwaru,Malin,Hinterlist,Scaltro,Astuto,꾀부리기 Kkoeburigi,捉弄 Zhuōnòng / Jūkluhng,274,Nuzleaf,Wily Pokémon,いじわるポケモン,Malicious Pokémon
+275,Shiftry,Wicked,よこしま,Yokoshima,Malveillant,Verschlagen,Burbero,Malvado,부정하기 Bujeonghagi,邪惡 / 邪恶 Xié'è / Chèh'ngok,275,Shiftry,Wicked Pokémon,よこしまポケモン,Wicked Pokémon
+276,Taillow,Tiny Swallow*,こツバメ,Ko Tsubame,Minirondel,Schwälblein,Rondinella,Pequebuche,아기제비 Agi Jebi,幼燕 Yòuyàn / Yauyīn,276,Taillow,Tiny Swallow Pokémon,こツバメポケモン,Small Swallow Pokémon
+277,Swellow,Swallow,ツバメ,Tsubame,Hirondelle,Schwalbe,Rondine,Buche,제비 Jebi,燕子 Yànzi / Yīnjí,277,Swellow,Swallow Pokémon,ツバメポケモン,Swallow Pokémon
+278,Wingull,Seagull,うみねこ,Umineko,Mouette,Seemöwe,Gabbiano,Gaviota,괭이갈매기 Gwaeng-i Galmaegi,海鷗 / 海鸥 Hǎiōu / Hóiāu,278,Wingull,Seagull Pokémon,うみねこポケモン,Black-Tailed Gull Pokémon
+279,Pelipper,Water Bird,みずどり,Mizutori,Oiseaudo,Wasservogel,Alacquatico,Ave Agua,물새 Mul Sae,水鳥 / 水鸟 Shuǐniǎo / Séuiníuh,279,Pelipper,Water Bird Pokémon,みずどりポケモン,Waterfowl Pokémon
+280,Ralts,Feeling,きもち,Kimochi,Sentiment,Gefühl,Sensazione,Sensible,느낌 Neukkim,心情 Xīnqíng / Sāmchìhng,280,Ralts,Feeling Pokémon,きもちポケモン,Feeling Pokémon
+281,Kirlia,Emotion,かんじょう,Kanjō,Émotion,Emotion,Emozione,Sensorio,감정 Gamjeong,感情 Gǎnqíng / Gámchìhng,281,Kirlia,Emotion Pokémon,かんじょうポケモン,Emotion Pokémon
+282,Gardevoir,Embrace,ほうよう,Hōyō,Étreinte,Umarmung,Abbraccio,Envolvente,포용 Poyong,包容 Bāoróng / Bāauyùhng,282,Gardevoir,Embrace Pokémon,ほうようポケモン,Embrace Pokémon
+283,Surskit,Pond Skater,あめんぼ,Amenbo,Maresurfeur,Wassergeher,Sfiorapozze,Zapatero,소금쟁이 Sogeumjaeng-i,水黽 / 水黾 Shuǐmiǎn / Séuimáhn,283,Surskit,Pond Skater Pokémon,あめんぼポケモン,Water Strider Pokémon
+284,Masquerain,Eyeball,めだま,Medama,Boule Œil,Auge,Occhi,Globocular,안구 Angu,眼珠 Yǎnzhū / Ngáahnjyū,284,Masquerain,Eyeball Pokémon,めだまポケモン,Eyeball Pokémon
+285,Shroomish,Mushroom,きのこ,Kinoko,Champignon,Pilz,Fungo,Hongo,버섯 Beoseot,蘑菇 Mógū / Mòhgū,285,Shroomish,Mushroom Pokémon,きのこポケモン,Mushroom Pokémon
+286,Breloom,Mushroom,きのこ,Kinoko,Champignon,Pilz,Fungo,Hongo,버섯 Beoseot,蘑菇 Mógū / Mòhgū,286,Breloom,Mushroom Pokémon,きのこポケモン,Mushroom Pokémon
+287,Slakoth,Slacker,なまけもの,Namakemono,Flâneur,Faulpelz,Ozioso,Gandul,게으름뱅이 Geeureumbaeng-i,懶人 / 懒人 Lǎnrén / Láahnyàhn,287,Slakoth,Slacker Pokémon,なまけものポケモン,Sloth Pokémon
+288,Vigoroth,Wild Monkey,あばれザル,Abare Zaru,Turbusinge,Wildaffe,Indocile,Mono Feroz,성난원숭이 Seongnan Wonsung-i,暴猿 Bàoyuán / Bouhyùhn,288,Vigoroth,Wild Monkey Pokémon,あばれザルポケモン,Rampaging Monkey Pokémon
+289,Slaking,Lazy,ものぐさ,Monogusa,Fainéant,Müßig,Pigrizia,Holgazán,나태함 Nataeham,怕麻煩 / 怕麻烦 Pàmáfan / Pamàhfàahn,289,Slaking,Lazy Pokémon,ものぐさポケモン,Lazy Pokémon
+290,Nincada,Trainee,したづみ,Shitadzumi,Apprenti,Vorbereiter,Novizio,Aprendiz,신참 Sincham,入門 / 入门 Rùmén / Yahpmùhn,290,Nincada,Trainee Pokémon,したづみポケモン,Lowest-Class Pokémon
+291,Ninjask,Ninja,しのび,Shinobi,Ninja,Ninja,Ninja,Ninja,시노비 Sinobi,忍者 Rěnzhě / Yánjé,291,Ninjask,Ninja Pokémon,しのびポケモン,Ninja Pokémon
+292,Shedinja,Shed,ぬけがら,Nukegara,Exuvie,Häutung,Cambiapelle,Muda,허물 Heomul,空殼 / 空壳 Kōngké / Hūnghok,292,Shedinja,Shed Pokémon,ぬけがらポケモン,Husk Pokémon
+293,Whismur,Whisper,ささやき,Sasayaki,Chuchoteur,Flüster,Sussurro,Susurro,속삭임 Soksagim,細語 / 细语 Xìyǔ / Saiyúh,293,Whismur,Whisper Pokémon,ささやきポケモン,Whisper Pokémon
+294,Loudred,Big Voice,おおごえ,Ōgoe,Grosse voix,Lauthals,Vocione,Chillón,큰목소리 Keun Moksori,大聲 / 大声 Dàshēng / Daaihsēng,294,Loudred,Big Voice Pokémon,おおごえポケモン,Large Voice Pokémon
+295,Exploud,Loud Noise,そうおん,Sōon,Bruit sourd,Krach,Fragore,Escandaloso,소음 Soeum,噪音 Zàoyīn / Chouyām,295,Exploud,Loud Noise Pokémon,そうおんポケモン,Noise Pokémon
+296,Makuhita,Guts,こんじょう,Konjō,Tenace,Courage,Coraggio,Valiente,근성 Geunseong,毅力 Yìlì / Ngaihlihk,296,Makuhita,Guts Pokémon,こんじょうポケモン,Guts Pokémon
+297,Hariyama,Arm Thrust,つっぱり,Tsuppari,Cogneur,Armwurf,Sberletese,Empuje,손바닥치기 Sonbadak Chigi,猛推 Měngtuī / Máahngchēui,297,Hariyama,Arm Thrust Pokémon,つっぱりポケモン,Palm Thrust Pokémon
+298,Azurill,Polka Dot,みずたま,Mizudama,Point Polka,Gepunktet,Pois,A Topos,물방울 Mulbang-ul,水珠 Shuǐzhū / Séuijyū,298,Azurill,Polka Dot Pokémon,みずたまポケモン,Polka Dot Pokémon
+299,Nosepass,Compass,コンパス,Konpasu,Boussole,Kompass,Bussola,Brújula,콤파스 Compass,羅盤 / 罗盘 Luópán / Lòhpùhn,299,Nosepass,Compass Pokémon,コンパスポケモン,Compass Pokémon
+300,Skitty,Kitten,こねこ,Ko Neko,Chaton,Kätzchen,Micio,Gatito,작은고양이 Jageun Goyang-i,小貓 / 小猫 Xiǎomāo / Síumāau,300,Skitty,Kitten Pokémon,こねこポケモン,Kitten Pokémon
+301,Delcatty,Prim,おすまし,Osumashi,Guindé,Eingebildet,Finezza,Cursi,새침떼기 Saechimttegi,清高 Qīnggāo / Chēnggōu,301,Delcatty,Prim Pokémon,おすましポケモン,Prim and Proper Pokémon
+302,Sableye,Darkness,くらやみ,Kurayami,Obscurité,Finsternis,Oscurità,Oscuridad,어둠 Eodum,黑暗 Hēi'àn / Hāak'am,302,Sableye,Darkness Pokémon,くらやみポケモン,Darkness Pokémon
+303,Mawile,Deceiver,あざむき,Azamuki,Trompeur,Schwindel,Inganno,Tramposo,배반 Baeban,欺騙 / 欺骗 Qīpiàn / Hēipin,303,Mawile,Deceiver Pokémon,あざむきポケモン,Deceiver Pokémon
+304,Aron,Iron Armor,てつヨロイ,Tetsu Yoroi,Armurfer,Eisenpanzer,Corazza,Cor. Férrea,철갑옷 Cheol Gabot,鐵鎧 / 铁铠 Tiěkǎi / Tithói,304,Aron,Iron Armor Pokémon,てつヨロイポケモン,Iron Armor Pokémon
+305,Lairon,Iron Armor,てつヨロイ,Tetsu Yoroi,Armurfer,Eisenpanzer,Corazza,Cor. Férrea,철갑옷 Cheol Gabot,鐵鎧 / 铁铠 Tiěkǎi / Tithói,305,Lairon,Iron Armor Pokémon,てつヨロイポケモン,Iron Armor Pokémon
+306,Aggron,Iron Armor,てつヨロイ,Tetsu Yoroi,Armurfer,Eisenpanzer,Corazza,Cor. Férrea,철갑옷 Cheol Gabot,鐵鎧 / 铁铠 Tiěkǎi / Tithói,306,Aggron,Iron Armor Pokémon,てつヨロイポケモン,Iron Armor Pokémon
+307,Meditite,Meditate,めいそう,Meisō,Méditation,Meditation,Meditazione,Meditador,명상 Myeongsang,冥想 Míngxiǎng / Mìhngséung,307,Meditite,Meditate Pokémon,めいそうポケモン,Meditation Pokémon
+308,Medicham,Meditate,めいそう,Meisō,Méditation,Meditation,Meditazione,Meditador,명상 Myeongsang,冥想 Míngxiǎng / Mìhngséung,308,Medicham,Meditate Pokémon,めいそうポケモン,Meditation Pokémon
+309,Electrike,Lightning,いなずま,Inazuma,Orage,Gewitter,Lampo,Calambre,천둥번개 Cheondung Beongae,閃電 / 闪电 Shǎndiàn / Símdihn,309,Electrike,Lightning Pokémon,いなずまポケモン,Lightning Pokémon
+310,Manectric,Discharge,ほうでん,Hōden,Décharge,Entladung,Scossa,Descarga,방전 Bangjeon,放電 / 放电 Fàngdiàn / Fongdihn,310,Manectric,Discharge Pokémon,ほうでんポケモン,Discharge Pokémon
+311,Plusle,Cheering,おうえん,Ōen,Acclameur,Jubel,Incitamento,Ánimo,응원 Eungwon,加油 Jiāyóu / Gāyàuh,311,Plusle,Cheering Pokémon,おうえんポケモン,Cheering Pokémon
+312,Minun,Cheering,おうえん,Ōen,Acclameur,Jubel,Incitamento,Ánimo,응원 Eungwon,加油 Jiāyóu / Gāyàuh,312,Minun,Cheering Pokémon,おうえんポケモン,Cheering Pokémon
+313,Volbeat,Firefly,ほたる,Hotaru,Luciole,Libelle,Lucciola,Luciérnaga,반딧불 Banditbul,螢火蟲 / 萤火虫 Yínghuǒchóng / Yìhngfóchùhng,313,Volbeat,Firefly Pokémon,ほたるポケモン,Firefly Pokémon
+314,Illumise,Firefly,ほたる,Hotaru,Luciole,Libelle,Lucciola,Luciérnaga,반딧불 Banditbul,螢火蟲 / 萤火虫 Yínghuǒchóng / Yìhngfóchùhng,314,Illumise,Firefly Pokémon,ほたるポケモン,Firefly Pokémon
+315,Roselia,Thorn,いばら,Ibara,Épine,Dorn,Spina,Espina,가시 Gasi,荊棘 / 荆棘 Jīngjí / Gīnggīk,315,Roselia,Thorn Pokémon,いばらポケモン,Thorn Pokémon
+316,Gulpin,Stomach,いぶくろ,Ibukuro,Estomac,Magen,Stomaco,Estómago,밥통 Baptong,胃袋 Wèidài / Waihdoih,316,Gulpin,Stomach Pokémon,いぶくろポケモン,Stomach Pokémon
+317,Swalot,Poison Bag,どくぶくろ,Doku Bukuro,Sac poison,Giftbeutel,Velenosacco,Bolsa Veneno,독봉지 Dok Bongji,毒袋 Dúdài / Duhkdoih,317,Swalot,Poison Bag Pokémon,どくぶくろポケモン,Poison Bag Pokémon
+318,Carvanha,Savage,どうもう,Dōmō,Féroce,Gnadenlos,Feroce,Feroz,사나움 Sanaum,凶猛 Xiōngměng / Hūngmáahng,318,Carvanha,Savage Pokémon,どうもうポケモン,Ferocious Pokémon
+319,Sharpedo,Brutal,きょうぼう,Kyōbō,Brutal,Brutal,Brutale,Voraz,난폭 Nanpok,凶暴 Xiōngbào / Hūngbouh,319,Sharpedo,Brutal Pokémon,きょうぼうポケモン,Brutal Pokémon
+320,Wailmer,Ball Whale,たまくじら,Tama Kujira,Baleinboule,Kugelwal,Balenottero,Ballenabola,둥근고래 Dunggeun Gorae,球鯨 / 球鲸 Qiújīng / Kàuhkìhng,320,Wailmer,Ball Whale Pokémon,たまくじらポケモン,Ball Whale Pokémon
+321,Wailord,Float Whale,うきくじら,Uki Kujira,Carchabouée,Flutwal,Megabalena,Ballenaflot,뜸고래 Tteum Gorae,浮鯨 / 浮鲸 Fújīng / Fàuhkìhng,321,Wailord,Float Whale Pokémon,うきくじらポケモン,Float Whale Pokémon
+322,Numel,Numb,どんかん,Donkan,Engourdi,Taubheit,Torpore,Torpe,둔감 Dun-gam,遲鈍 / 迟钝 Chídùn / Chìhdeuhn,322,Numel,Numb Pokémon,どんかんポケモン,Thickheaded Pokémon
+323,Camerupt,Eruption,ふんか,Funka,Éruption,Ausbruch,Eruzione,Erupción,분화 Bunhwa,噴火 / 喷火 Pēnhuǒ / Fáhnfó,323,Camerupt,Eruption Pokémon,ふんかポケモン,Eruption Pokémon
+324,Torkoal,Coal,せきたん,Sekitan,Charbon,Kohle,Carbone,Carbón,석탄 Seoktan,煤炭 Méitàng / Mùihtaan,324,Torkoal,Coal Pokémon,せきたんポケモン,Coal Pokémon
+325,Spoink,Bounce,とびはね,Tobihane,Rebond,Sprungfeder,Molla,Saltarín,튀다 Twida,彈跳 / 弹跳 Tántiào / Daahntiu,325,Spoink,Bounce Pokémon,とびはねポケモン,Hopping Pokémon
+326,Grumpig,Manipulate,あやつり,Ayatsuri,Magouilleur,Manipulator,Raggiro,Manipulador,조작 Jojak,操縱 / 操纵 Cāozòng / Chōujūng,326,Grumpig,Manipulate Pokémon,あやつりポケモン,Manipulation Pokémon
+327,Spinda,Spot Panda,ぶちパンダ,Buchi Panda,Panda Taché,Punkt-Panda,Macchipanda,Panda Topos,얼룩팬더 Eolluk Panda,斑點熊貓 / 斑点熊猫 Bāndiǎnxióngmāo / Bāandímhùhngmāau,327,Spinda,Spot Panda Pokémon,ぶちパンダポケモン,Spot Panda Pokémon
+328,Trapinch,Ant Pit,ありじごく,Arijigoku,Piégeur,Ameisenlöwe,Trappola,Hormigaleón,개미지옥 Gaemi Jiok,蟻獅 / 蚁狮 Yǐshī / Ngáihsī,328,Trapinch,Ant Pit Pokémon,ありじごくポケモン,Antlion Larva Pokémon
+329,Vibrava,Vibration,しんどう,Shindō,Vibration,Vibration,Vibrazione,Vibrante,진동 Jindong,震動 / 震动 Zhèndòng / Janduhng,329,Vibrava,Vibration Pokémon,しんどうポケモン,Vibration Pokémon
+330,Flygon,Mystic,せいれい,Seirei,Mystique,Mystik,Magico,Místico,정령 Jeongryeong,神秘 Shénmì / Sānbei,330,Flygon,Mystic Pokémon,せいれいポケモン,Spirit Pokémon
+331,Cacnea,Cactus,サボテン,Saboten,Cactus,Kaktus,Cactus,Cactus,선인장 Seoninjang,仙人掌 Xiānrénzhǎng / Sīnyàhnjéung,331,Cacnea,Cactus Pokémon,サボテンポケモン,Cactus Pokémon
+332,Cacturne,Scarecrow,カカシぐさ,Kakashi Gusa,Épouvantail,Vogelschock,Spavento,Espantajo,허수아비 Heosuabi,稻草人 Dàocǎorén / Douhchóuyàhn,332,Cacturne,Scarecrow Pokémon,カカシぐさポケモン,Scarecrow Plant Pokémon
+333,Swablu,Cotton Bird,わたどり,Wata Tori,Oiseaucoton,Wollvogel,Alidicotone,Ave Algodón,솜새 Som Sae,綿鳥 / 绵鸟 Miánniǎo / Mìhnníuh,333,Swablu,Cotton Bird Pokémon,わたどりポケモン,Cotton Bird Pokémon
+334,Altaria,Humming,ハミング,Hamingu,Virevolteur,Summsel,Canterino,Cantor,허밍 Humming,哼唱 Hēngchàng / Hāngcheung,334,Altaria,Humming Pokémon,ハミングポケモン,Humming Pokémon
+335,Zangoose,Cat Ferret,ネコイタチ,Neko Itachi,Chat Furet,Frettkatz,Furogatto,Gato Hurón,고양이족제비 Goyang-i Jokjebi,貓鼬 / 猫鼬 Māoyòu / Māauyàuh,335,Zangoose,Cat Ferret Pokémon,ネコイタチポケモン,Cat Weasel Pokémon
+336,Seviper,Fang Snake,キバへび,Kiba Hebi,Serpacroc,Reißzahn,Zannaserpe,Colmillos,송곳뱀 Songgot Baem,牙蛇 Yáshé / Ngàhyìh,336,Seviper,Fang Snake Pokémon,キバへびポケモン,Fang Snake Pokémon
+337,Lunatone,Meteorite,いんせき,Inseki,Météorite,Meteorit,Meteorite,Meteorito,별똥별 Byeolttong Byeol,隕石 / 陨石 Yǔnshí / Yùhndaam,337,Lunatone,Meteorite Pokémon,いんせきポケモン,Meteorite Pokémon
+338,Solrock,Meteorite,いんせき,Inseki,Météorite,Meteorit,Meteorite,Meteorito,별똥별 Byeolttong Byeol,隕石 / 陨石 Yǔnshí / Yùhndaam,338,Solrock,Meteorite Pokémon,いんせきポケモン,Meteorite Pokémon
+339,Barboach,Whiskers,ひげうお,Hige Uo,Barbillon,Barthaar,Baffetti,Bigotudo,수염물고기 Suyam Mulgogi,鬚魚 / 须鱼 Xūyú / Sōuyùh,339,Barboach,Whiskers Pokémon,ひげうおポケモン,Whisker Fish Pokémon
+340,Whiscash,Whiskers,ひげうお,Hige Uo,Barbillon,Barthaar,Baffetti,Bigotudo,수염물고기 Suyam Mulgogi,鬚魚 / 须鱼 Xūyú / Sōuyùh,340,Whiscash,Whiskers Pokémon,ひげうおポケモン,Whisker Fish Pokémon
+341,Corphish,Ruffian,ごろつき,Gorotsuki,Brute,Grobian,Birbone,Rufián,건달 Geondal,無賴 / 无赖 Wúlài / Mòuhlaaih,341,Corphish,Ruffian Pokémon,ごろつきポケモン,Rogue Pokémon
+342,Crawdaunt,Rogue,ならずもの,Narazumono,Crapule,Schlingel,Canaglia,Granuja,불량배 Bullyangbae,流氓 Liúmáng / Làuhmàahng,342,Crawdaunt,Rogue Pokémon,ならずものポケモン,Ruffian Pokémon
+343,Baltoy,Clay Doll,どぐう,Dogū,Poupargile,Lehmpuppe,Argilla,Muñeca Barro,토우 Tou,泥偶 Ní'ǒu / Nàih'ngáuh,343,Baltoy,Clay Doll Pokémon,どぐうポケモン,Clay Figure Pokémon
+344,Claydol,Clay Doll,どぐう,Dogū,Poupargile,Lehmpuppe,Argilla,Muñeca Barro,토우 Tou,泥偶 Ní'ǒu / Nàih'ngáuh,344,Claydol,Clay Doll Pokémon,どぐうポケモン,Clay Figure Pokémon
+345,Lileep,Sea Lily,ウミユリ,Umi Yuri,Lis d'Eau,Seeanemone,Fiordimare,Lila Mar,바다나리 Bada Nari,海百合 Hǎibǎihé / Hóibaakgap,345,Lileep,Sea Lily Pokémon,ウミユリポケモン,Sea Lily Pokémon
+346,Cradily,Barnacle,いわつぼ,Iwa Tsubo,Bernacle,Rankfüßer,Lepade,Percebe,바위단지 Bawi Danji,藤壺 / 藤壶 Ténghú / Tàhngwùh,346,Cradily,Barnacle Pokémon,いわつぼポケモン,Stone Cup Pokémon
+347,Anorith,Old Shrimp,むかしエビ,Mukashi Ebi,Crustage,Krebssenior,Primaceo,Camarón,고대새우 Godae Sae-u,古蝦 / 古虾 Gǔxiā / Gúhā,347,Anorith,Old Shrimp Pokémon,むかしエビポケモン,Ancient Shrimp Pokémon
+348,Armaldo,Plate,かっちゅう,Katchū,Blindage,Schild,Piastre,Armadura,갑주 Gapju,甲胄 Jiǎzhòu / Gaapjauh,348,Armaldo,Plate Pokémon,かっちゅうポケモン,Armor Pokémon
+349,Feebas,Fish,さかな,Sakana,Poisson,Fisch,Pesce,Pez,물고기 Mulgogi,魚 / 鱼 Yú / Yùh,349,Feebas,Fish Pokémon,さかなポケモン,Fish Pokémon
+350,Milotic,Tender,いつくしみ,Itsukushimi,Tendre,Zartheit,Tenerezza,Tierno,사랑 Sarang,慈愛 / 慈爱 Cí'ài / Chìh'oi,350,Milotic,Tender Pokémon,いつくしみポケモン,Affection Pokémon
+351,Castform,Weather,てんき,Tenki,Climat,Wetter,Meteo,Clima,날씨 Nalssi,天氣 / 天气 Tiānqì / Tīnhei,351,Castform,Weather Pokémon,てんきポケモン,Weather Pokémon
+352,Kecleon,Color Swap,いろへんげ,Iro Henge,Multicolor,Farbenspiel,Mutacolore,Camaleónico,색변화 Saek Byeonhwa,變色 / 变色 Biànsè / Binsīk,352,Kecleon,Color Swap Pokémon,いろへんげポケモン,Color Change Pokémon
+353,Shuppet,Puppet,にんぎょう,Ningyō,Poupée,Puppe,Pupazzo,Títere,인형 Inhyeong,人偶 Rénǒu / Yàhnngáuh,353,Shuppet,Puppet Pokémon,にんぎょうポケモン,Doll Pokémon
+354,Banette,Marionette,ぬいぐるみ,Nuigurumi,Marionnette,Marionette,Marionetta,Marioneta,봉제인형 Bongje Inhyeong,布偶 Bù'ǒu / Bou'ngáuh,354,Banette,Marionette Pokémon,ぬいぐるみポケモン,Stuffed Toy Pokémon
+355,Duskull,Requiem,おむかえ,Omukae,Requiem,Requiem,Requiem,Réquiem,마중 Majung,渡魂 Dùhún / Douhwàhn,355,Duskull,Requiem Pokémon,おむかえポケモン,Approaching Death Pokémon
+356,Dusclops,Beckon,てまねき,Temaneki,Appel,Wink,Ipnosguardo,Atrayente,손짓 Sonjit,招手 Zhāoshǒu / Jīusáu,356,Dusclops,Beckon Pokémon,てまねきポケモン,Beckoning Pokémon
+357,Tropius,Fruit,フルーツ,Furūtsu,Fruit,Obst,Frutto,Fruto,후르츠 Hureucheu,水果 Shuǐguǒ / Séuigú,357,Tropius,Fruit Pokémon,フルーツポケモン,Fruit Pokémon
+358,Chimecho,Wind Chime,ふうりん,Fūrin,Carillon,Windspiel,Vencampana,Sonido Aire,풍경 Punggyeong,風鈴 / 风铃 Fēnglíng / Fūnglīng,358,Chimecho,Wind Chime Pokémon,ふうりんポケモン,Wind Chime Pokémon
+359,Absol,Disaster,わざわい,Wazawai,Désastre,Desaster,Catastrofe,Catástrofe,재난 Jaenan,災禍 / 灾祸 Zāihuò / Jōiwóh,359,Absol,Disaster Pokémon,わざわいポケモン,Calamity Pokémon
+360,Wynaut,Bright,ほがらか,Hogaraka,Ravi,Strahlekind,Brillante,Radiante,명랑 Myeongrang,開朗 / 开朗 Kāilǎng / Hōilóhng,360,Wynaut,Bright Pokémon,ほがらかポケモン,Merry Pokémon
+361,Snorunt,Snow Hat,ゆきかさ,Yuki Kasa,Capuche,Schneehut,Cappelneve,Gorro Nieve,눈우산 Nun Usan,雪笠 Xuělì / Syutlāp,361,Snorunt,Snow Hat Pokémon,ゆきかさポケモン,Snow Umbrella Pokémon
+362,Glalie,Face,がんめん,Kamen,Face,Antlitz,Tuttomuso,Cara,얼굴 Eolgul,臉面 / 脸面 Liǎnmiàn / Líhmmihn,362,Glalie,Face Pokémon,がんめんポケモン,Face Pokémon
+363,Spheal,Clap,てたたき,Tetataki,Clap Clap,Applaus,Rotolante,Aplauso,손뼉 Sonppyeok,拍手 Pāishǒu / Paaksáu,363,Spheal,Clap Pokémon,てたたきポケモン,Clap Pokémon
+364,Sealeo,Ball Roll,たままわし,Tama Mawashi,Roule Boule,Spielball,Rotapalla,Rodabola,공돌리기 Gong Dolligi,滾球 / 滚球 Gǔnqiú / Gwánkàuh,364,Sealeo,Ball Roll Pokémon,たままわしポケモン,Ball Roll Pokémon
+365,Walrein,Ice Break,こおりわり,Kōri Wari,Brise Glace,Eisbrecher,Spaccagelo,Rompehielo,얼음깨기 Eoreum Kkaegi,破冰 Pòbīng / Pobīng,365,Walrein,Ice Break Pokémon,こおりわりポケモン,Ice Breaker Pokémon
+366,Clamperl,Bivalve,2まいがい,Nimaigai,Bivalve,Muschel,Bivalve,Bivalvo,두조개 Dujogae,雙殼貝 / 双壳贝 Shuāngkébèi / Sēunghokbui,366,Clamperl,Bivalve Pokémon,2まいがいポケモン,Bivalve Pokémon
+367,Huntail,Deep Sea,しんかい,Shinkai,Abysse,Tiefsee,Abissi,Abisal,깊은바다 Gipeun Bada,深海 Shēnhǎi / Sāmhói,367,Huntail,Deep Sea Pokémon,しんかいポケモン,Deep Sea Pokémon
+368,Gorebyss,South Sea,なんかい,Nankai,Mer du Sud,Südsee,Sudmarino,Mar Del Sur,남해 Nam Hae,南海 Nánhǎi / Nàahmhói,368,Gorebyss,South Sea Pokémon,なんかいポケモン,South Sea Pokémon
+369,Relicanth,Longevity,ちょうじゅ,Chōju,Longévité,Bestand,Longevità,Longevo,장수 Jangsu,長壽 / 长寿 Chángshòu / Chèuhngsauh,369,Relicanth,Longevity Pokémon,ちょうじゅポケモン,Longevity Pokémon
+370,Luvdisc,Rendezvous,ランデブー,Randebū,Rendez-vous,Rendezvous,Rendezvous,Cita,랑데부 Rendezvous,相隨 / 相随 Xiāngsuí / Sēungchèuih,370,Luvdisc,Rendezvous Pokémon,ランデブーポケモン,Rendezvous Pokémon
+371,Bagon,Rock Head,いしあたま,Ishi Atama,Tête de Roc,Steinhaupt,Rocciotesta,Cabeza Roca,돌머리 Dol Meori,堅硬腦袋 / 坚硬脑袋 Jiānyìngnǎodai / Gīnngaahngnóuhdoih,371,Bagon,Rock Head Pokémon,いしあたまポケモン,Hard-Headed Pokémon
+372,Shelgon,Endurance,にんたい,Nintai,Endurant,Durchsteher,Resistenza,Resistencia,인내 Innae,耐力 Nàilì / Noihlihk,372,Shelgon,Endurance Pokémon,にんたいポケモン,Patient Pokémon
+373,Salamence,Dragon,ドラゴン,Doragon,Dragon,Drache,Drago,Dragón,드래곤 Dragon,龍 / 龙 Lóng / Lùhng,373,Salamence,Dragon Pokémon,ドラゴンポケモン,Dragon Pokémon
+374,Beldum,Iron Ball,てっきゅう,Tekkyū,Boulefer,Eisenkugel,Ferrosfera,Bola Hierro,철공 Cheol Gong,鐵球 / 铁球 Tiěqiú / Titkàuh,374,Beldum,Iron Ball Pokémon,てっきゅうポケモン,Iron Ball Pokémon
+375,Metang,Iron Claw,てつツメ,Tetsu Tsume,Pincefer,Eisenklaue,Ferrunghia,Garrahierro,철발톱 Cheol Baltop,鐵爪 / 铁爪 Tiězhǎo / Titjáau,375,Metang,Iron Claw Pokémon,てつツメポケモン,Iron Claw Pokémon
+376,Metagross,Iron Leg,てつあし,Tetsu Ashi,Pattefer,Eisenfuß,Ferrarto,Pata Hierro,무쇠다리 Musoe Dari,鐵足 / 铁足 Tiězú / Titjeui,376,Metagross,Iron Leg Pokémon,てつあしポケモン,Iron Leg Pokémon
+377,Regirock,Rock Peak,いわやま,Iwa Yama,Pic Rocheux,Steingipfel,Picco,Pico Roca,바위산 Bawi San,岩山 Yánshān / Ngàahmsāan,377,Regirock,Rock Peak Pokémon,いわやまポケモン,Rocky Mountain Pokémon
+378,Regice,Iceberg,ひょうざん,Hyōzan,Iceberg,Eisberg,Iceberg,Iceberg,빙산 Bingsan,冰山 Bīngshān / Bīngsāan,378,Regice,Iceberg Pokémon,ひょうざんポケモン,Iceberg Pokémon
+379,Registeel,Iron,くろがね,Kurogane,Fer,Eisen,Ferro,Hierro,쇠철 Soecheol,黑金 Hēijīn / Hāakgām,379,Registeel,Iron Pokémon,くろがねポケモン,Iron Pokémon
+380,Latias,Eon,むげん,Mugen,Éon,Äon,Eone,Eón,무한 Muhan,無限 / 无限 Wúxiàn / Mòuhhaahn,380,Latias,Eon Pokémon,むげんポケモン,Infinity Pokémon
+381,Latios,Eon,むげん,Mugen,Éon,Äon,Eone,Eón,무한 Muhan,無限 / 无限 Wúxiàn / Mòuhhaahn,381,Latios,Eon Pokémon,むげんポケモン,Infinity Pokémon
+382,Kyogre,Sea Basin,かいてい,Kaitei,Bassinmarin,Seegründler,Oceano,Cuenca Mar,해저 Haejeo,海底 Hǎidǐ / Hóidái,382,Kyogre,Sea Basin Pokémon,かいていポケモン,Seabed Pokémon
+383,Groudon,Continent,たいりく,Tairiku,Continent,Kontinent,Continente,Continente,대륙 Daeryuk,大陸 / 大陆 Dàlù / Daaihluhk,383,Groudon,Continent Pokémon,たいりくポケモン,Continent Pokémon
+384,Rayquaza,Sky High,てんくう,Tenkū,Cieux,Himmelhoch,Stratosfera,Cielo,천공 Cheon-gong,天空 Tiānkōng / Tīnhūng,384,Rayquaza,Sky High Pokémon,てんくうポケモン,Sky Pokémon
+385,Jirachi,Wish,ねがいごと,Negai,Souhait,Wünscher,Desiderio,Deseo,희망사항 Huimang Sahang,祈願 / 祈愿 Qíyuàn / Kèihyuhn,385,Jirachi,Wish Pokémon,ねがいごとポケモン,Wish Pokémon
+386,Deoxys,DNA,DNA,Dī Enu Ē,ADN,DNS,DNA,ADN,DNA,ＤＮＡ DNA,386,Deoxys,DNA Pokémon,DNAポケモン,DNA Pokémon
+387,Turtwig,Tiny Leaf,わかば,Wakaba,Minifeuille,Winziglaub,Fogliolina,Hojita,어린잎 Eorin Ip,嫩葉 / 嫩叶 Nènyè / Nyuhnyihp,387,Turtwig,Tiny Leaf Pokémon,わかばポケモン,New Leaf Pokémon
+388,Grotle,Grove,こだち,Kodachi,Bosquet,Hain,Boschetto,Arboleda,나무숲 Namusup,樹叢 / 树丛 Shùcóng / Syuhchùhng,388,Grotle,Grove Pokémon,こだちポケモン,Grove Pokémon
+389,Torterra,Continent,たいりく,Tairiku,Continent,Kontinent,Continente,Continente,대륙 Daeryuk,大陸 / 大陆 Dàlù / Daaihluhk,389,Torterra,Continent Pokémon,たいりくポケモン,Continent Pokémon
+390,Chimchar,Chimp,こざる,Ko Zaru,Chimpanzé,Schimpanse,Scimpanzé,Chimpancé,꼬마원숭이 Kkoma Wonsung-i,小猴 Xiǎohóu / Síuhàuh,390,Chimchar,Chimp Pokémon,こざるポケモン,Small Monkey Pokémon
+391,Monferno,Playful,やんちゃ,Yancha,Garnement,Verspielt,Briccone,Juguetón,개구쟁이 Gaegujaeng-i,頑皮 / 顽皮 Wánpí / Wàahnpèih,391,Monferno,Playful Pokémon,やんちゃポケモン,Mischievous Pokémon
+392,Infernape,Flame,かえん,Kaen,Flamme,Flamme,Fiamma,Llama,화염 Hwayeom,火焰 Huǒyàn / Fóyìhm,392,Infernape,Flame Pokémon,かえんポケモン,Flame Pokémon
+393,Piplup,Penguin,ペンギン,Pengin,Pingouin,Pinguin,Pinguino,Pingüino,펭귄 Penguin,企鵝 / 企鹅 Qì'é / Qǐ'é / Kéi'ngòh,393,Piplup,Penguin Pokémon,ペンギンポケモン,Penguin Pokémon
+394,Prinplup,Penguin,ペンギン,Pengin,Pingouin,Pinguin,Pinguino,Pingüino,펭귄 Penguin,企鵝 / 企鹅 Qì'é / Qǐ'é / Kéi'ngòh,394,Prinplup,Penguin Pokémon,ペンギンポケモン,Penguin Pokémon
+395,Empoleon,Emperor,こうてい,Kōtei,Empereur,Kaiser,Imperatore,Emperador,황제 Hwangje,皇帝 Huángdì / Wòhngdai,395,Empoleon,Emperor Pokémon,こうていポケモン,Emperor Pokémon
+396,Starly,Starling,むくどり,Mukudori,Étourneau,Star,Storno,Estornino,찌르레기 Jjireuregi,椋鳥 / 椋鸟 Liángniǎo / Lèuhngníuh,396,Starly,Starling Pokémon,むくどりポケモン,Starling Pokémon
+397,Staravia,Starling,むくどり,Mukudori,Étourneau,Star,Storno,Estornino,찌르레기 Jjireuregi,椋鳥 / 椋鸟 Liángniǎo / Lèuhngníuh,397,Staravia,Starling Pokémon,むくどりポケモン,Starling Pokémon
+398,Staraptor,Predator,もうきん,Mōken,Rapace,Raubtier,Rapace,Depredador,맹금 Maenggeum,猛禽 Měngqín / Máahngkàhm,398,Staraptor,Predator Pokémon,もうきんポケモン,Bird of Prey Pokémon
+399,Bidoof,Plump Mouse,まるねずみ,Maru Nezumi,Souridodue,Dickmaus,Topaffuto,Gran Ratón,둥글쥐 Dunggeul Jwi,圓鼠 / 圆鼠 Yuánshǔ / Yùhnsyú,399,Bidoof,Plump Mouse Pokémon,まるねずみポケモン,Round Mouse Pokémon
+400,Bibarel,Beaver,ビーバー,Bībā,Castor,Biber,Castoro,Castor,비버 Beaver,河狸 Hélí / Hòhlèih,400,Bibarel,Beaver Pokémon,ビーバーポケモン,Beaver Pokémon
+401,Kricketot,Cricket,こおろぎ,Kōrogi,Criquet,Zirper,Grillo,Grillo,귀뚜라미 Gwitturami,蟋蟀 Xīshuài / Sīksēut,401,Kricketot,Cricket Pokémon,こおろぎポケモン,Cricket Pokémon
+402,Kricketune,Cricket,こおろぎ,Kōrogi,Criquet,Zirper,Grillo,Grillo,귀뚜라미 Gwitturami,蟋蟀 Xīshuài / Sīksēut,402,Kricketune,Cricket Pokémon,こおろぎポケモン,Cricket Pokémon
+403,Shinx,Flash,せんこう,Senkō,Flash,Flacker,Baleno,Flash,섬광 Seomgwang,閃光 / 闪光 Shǎnguāng / Símgwōng,403,Shinx,Flash Pokémon,せんこうポケモン,Flash Pokémon
+404,Luxio,Spark,でんこう,Denkō,Étincelle,Funken,Favilla,Chispa,전광 Jeongwang,電光 / 电光 Diànguāng / Dihngwōng,404,Luxio,Spark Pokémon,でんこうポケモン,Lightning Pokémon
+405,Luxray,Gleam Eyes,がんこう,Gankō,Brilloeil,Glühauge,Occhiluce,Chispa Ojos,안광 Angwang,目光 Mùguāng / Muhkgwōng,405,Luxray,Gleam Eyes Pokémon,がんこうポケモン,Glinting Eyes Pokémon
+406,Budew,Bud,つぼみ,Tsubomi,Bourgeon,Knospe,Germoglio,Brote,꽃봉오리 Kkotbong-ori,花苞 Huābāo / Fābāau,406,Budew,Bud Pokémon,つぼみポケモン,Bud Pokémon
+407,Roserade,Bouquet,ブーケ,Būke,Bouquet,Blumenstrauß,Floreale,Ramillete,부케 Bouquet,花束 Huāshù / Fāchūk,407,Roserade,Bouquet Pokémon,ブーケポケモン,Bouquet Pokémon
+408,Cranidos,Head Butt,ずつき,Zutsuki,Coud'Boule,Kopfstoß,Cranioso,Cabezazo,박치기 Bakchigi,頭錘 / 头锤 Tóuchuí / Tàuhchèuih,408,Cranidos,Head Butt Pokémon,ずつきポケモン,Head Butt Pokémon
+409,Rampardos,Head Butt,ずつき,Zutsuki,Coud'Boule,Kopfstoß,Cranioso,Cabezazo,박치기 Bakchigi,頭錘 / 头锤 Tóuchuí / Tàuhchèuih,409,Rampardos,Head Butt Pokémon,ずつきポケモン,Head Butt Pokémon
+410,Shieldon,Shield,シールド,Shīrudo,Bouclier,Schutzschild,Schermo,Escudo,실드 Shield,護盾 / 护盾 Hùdùn / Wuhséuhn,410,Shieldon,Shield Pokémon,シールドポケモン,Shield Pokémon
+411,Bastiodon,Shield,シールド,Shīrudo,Bouclier,Schutzschild,Schermo,Escudo,실드 Shield,護盾 / 护盾 Hùdùn / Wuhséuhn,411,Bastiodon,Shield Pokémon,シールドポケモン,Shield Pokémon
+412,Burmy,Bagworm,みのむし,Minomushi,Ver Caché,Beutelwurm,Larva,Larva,도롱이벌레 Dorong-i Beolle,蓑衣蟲 / 蓑衣虫 Suōyīchóng / Sōyīchùhng,412,Burmy,Bagworm Pokémon,みのむしポケモン,Bagworm Pokémon
+413,Wormadam,Bagworm,みのむし,Minomushi,Ver Caché,Beutelwurm,Larva,Larva,도롱이벌레 Dorong-i Beolle,蓑衣蟲 / 蓑衣虫 Suōyīchóng / Sōyīchùhng,413,Wormadam,Bagworm Pokémon,みのむしポケモン,Bagworm Pokémon
+414,Mothim,Moth,ミノガ,Minoga,Phalène,Fruchtmotte,Falena,Polilla,나방 Nabang,蓑衣蛾 Suōyī'é / Sōyī'ngáih,414,Mothim,Moth Pokémon,ミノガポケモン,Bagworm Moth Pokémon
+415,Combee,Tiny Bee,はちのこ,Hachi no Ko,Miniabeille,Baby-Biene,Apetta,Abejita,꼬마벌 Kkoma Beol,幼蜂 Yòufēng / Yaufūng,415,Combee,Tiny Bee Pokémon,はちのこポケモン,Bee Larva Pokémon
+416,Vespiquen,Beehive,はちのす,Hachinosu,Ruche,Bienenstock,Alveare,Colmena,벌집 Beoljip,蜂巢 Fēngcháo / Fūngchàauh,416,Vespiquen,Beehive Pokémon,はちのすポケモン,Beehive Pokémon
+417,Pachirisu,EleSquirrel,でんきリス,Denki Risu,Écurélec,Elektrohörnchen,Elescoiatto,Ardillalec,전기다람쥐 Jeon-gi Daramjwi,電松鼠 / 电松鼠 Diànsōngshǔ / Dihnchùhngsyú,417,Pachirisu,EleSquirrel Pokémon,でんきリスポケモン,Electric Squirrel Pokémon
+418,Buizel,Sea Weasel,うみイタチ,Umi Itachi,Aquabelette,Meereswiesel,Maridonnola,Nutria Mar.,바다족제비 Bada Jokjebi,海鼬 Hǎiyòu / Hóiyàuh,418,Buizel,Sea Weasel Pokémon,うみイタチポケモン,Sea Weasel Pokémon
+419,Floatzel,Sea Weasel,うみイタチ,Umi Itachi,Aquabelette,Meereswiesel,Maridonnola,Nutria Mar.,바다족제비 Bada Jokjebi,海鼬 Hǎiyòu / Hóiyàuh,419,Floatzel,Sea Weasel Pokémon,うみイタチポケモン,Sea Weasel Pokémon
+420,Cherubi,Cherry,さくらんぼ,Sakuranbo,Cerise,Kirsche,Ciliegia,Cereza,버찌 Beojji,櫻桃 / 樱桃 Yīngtáo / Yīngtòuh,420,Cherubi,Cherry Pokémon,さくらんぼポケモン,Cherry Pokémon
+421,Cherrim,Blossom,サクラ,Sakura,Floraison,Blüte,Bocciolo,Floración,벚꽃 Beotkkot,櫻花 / 樱花 Yīnghuā / Yīngfā,421,Cherrim,Blossom Pokémon,サクラポケモン,Cherry Blossom Pokémon
+422,Shellos,Sea Slug,ウミウシ,Umi Ushi,Aqualimace,Seeschnecke,Lumacomare,Babosa Mar.,갯민숭달팽이 Gaet Minsungdalpaeng-i,海兔 Hǎitù / Hóitou,422,Shellos,Sea Slug Pokémon,ウミウシポケモン,Sea Slug Pokémon
+423,Gastrodon,Sea Slug,ウミウシ,Umi Ushi,Aqualimace,Seeschnecke,Lumacomare,Babosa Mar.,갯민숭달팽이 Gaet Minsungdalpaeng-i,海兔 Hǎitù / Hóitou,423,Gastrodon,Sea Slug Pokémon,ウミウシポケモン,Sea Slug Pokémon
+424,Ambipom,Long Tail,おなが,Onaga,Longqueue,Langschweif,Lungacoda,Cola Larga,긴꼬리 Gin Kkori,長尾 / 长尾 Chángwěi / Chèuhngméih,424,Ambipom,Long Tail Pokémon,おながポケモン,Long Tail Pokémon
+425,Drifloon,Balloon,ふうせん,Fūsen,Bouboule,Ballon,Pallone,Globo,풍선 Pungseon,氣球 / 气球 Qìqiú / Heikàuh,425,Drifloon,Balloon Pokémon,ふうせんポケモン,Balloon Pokémon
+426,Drifblim,Blimp,ききゅう,Kikyū,Ballon,Luftschiff,Dirigibile,Dirigible,기구 Gigu,熱氣球 / 热气球 Rèqìqiú / Yihtheikàuh,426,Drifblim,Blimp Pokémon,ききゅうポケモン,Blimp Pokémon
+427,Buneary,Rabbit,うさぎ,Usagi,Lapin,Hase,Coniglio,Conejo,토끼 Tokki,兔子 Tùzi / Toují,427,Buneary,Rabbit Pokémon,うさぎポケモン,Rabbit Pokémon
+428,Lopunny,Rabbit,うさぎ,Usagi,Lapin,Hase,Coniglio,Conejo,토끼 Tokki,兔子 Tùzi / Toují,428,Lopunny,Rabbit Pokémon,うさぎポケモン,Rabbit Pokémon
+429,Mismagius,Magical,マジカル,Majikaru,Magique,Magisch,Stregone,Mágico,매지컬 Magical,魔法 Mófǎ / Mōfaat,429,Mismagius,Magical Pokémon,マジカルポケモン,Magical Pokémon
+430,Honchkrow,Big Boss,おおボス,Ō Bosu,Big boss,Anführer,Grancapo,Gran Jefe,큰형님 Keun Hyeongnim,大頭目 / 大头目 Dàtóumù / Daaihtàuhmuhk,430,Honchkrow,Big Boss Pokémon,おおボスポケモン,Big Boss Pokémon
+431,Glameow,Catty,ねこかぶり,Nekokaburi,Chafouin,Fies,Felide,Gastuto,내숭 Naesung,裝乖 / 装乖 Zhuāngguāi / Jōnggwāai,431,Glameow,Catty Pokémon,ねこかぶりポケモン,Beguiling Pokémon
+432,Purugly,Tiger Cat,とらねこ,Tora Neko,Chatigre,Tigerkatze,Gattotigre,Tigre Gato,얼룩고양이 Eolluk Goyang-i,虎斑貓 / 虎斑猫 Hǔbānmāo / Fúbāanmāau,432,Purugly,Tiger Cat Pokémon,とらねこポケモン,Tiger Cat Pokémon
+433,Chingling,Bell,すず,Suzu,Clochette,Glöckchen,Sonaglio,Campana,방울 Bang-ul,鈴鐺 / 铃铛 Língdāng / Lìhngdōng,433,Chingling,Bell Pokémon,すずポケモン,Bell Pokémon
+434,Stunky,Skunk,スカンク,Sukanku,Moufette,Stinktier,Moffetta,Mofeta,스컹크 Skunk,臭鼬 Chòuyòu / Chauyàuh,434,Stunky,Skunk Pokémon,スカンクポケモン,Skunk Pokémon
+435,Skuntank,Skunk,スカンク,Sukanku,Moufette,Stinktier,Moffetta,Mofeta,스컹크 Skunk,臭鼬 Chòuyòu / Chauyàuh,435,Skuntank,Skunk Pokémon,スカンクポケモン,Skunk Pokémon
+436,Bronzor,Bronze,せいどう,Seidō,Bronze,Bronze,Bronzo,Bronce,청동 Cheongdong,青銅 / 青铜 Qīngtóng / Chēngtùhng,436,Bronzor,Bronze Pokémon,せいどうポケモン,Bronze Pokémon
+437,Bronzong,Bronze Bell,どうたく,Dōtaku,Clochebronze,Bronzeglocke,Squibronzo,Cam. Bronce,동탁 Dongtak,銅鐘 / 铜钟 Tóngzhōng / Tùhngjūng,437,Bronzong,Bronze Bell Pokémon,どうたくポケモン,Bronze Bell Pokémon
+438,Bonsly,Bonsai,ぼんさい,Bonsai,Bonsaï,Bonsai,Bonsai,Bonsái,분재 Bunjae,盆栽 Pénzāi / Pùhnjōi,438,Bonsly,Bonsai Pokémon,ぼんさいポケモン,Bonsai Pokémon
+439,Mime Jr.,Mime,マイム,Maimu,Mime,Mime,Mimo,Mimo,따라하기 Ttarahagi,默劇 / 默剧 Mòjù / Mahkkehk,439,Mime Jr.,Mime Pokémon,マイムポケモン,Mime Pokémon
+440,Happiny,Playhouse,ままごと,Mamagoto,Maisonjouet,Spielhaus,Ovettino,Casita,소꿉놀이 Sokkumnori,家家酒 Jiājiājiǔ / Gāgājáu,440,Happiny,Playhouse Pokémon,ままごとポケモン,Playing House Pokémon
+441,Chatot,Music Note,おんぷ,Onpu,Note musique,Musiknote,Musicale,Corchea,음표 Eumpyo,音符 Yīnfú / Yāmfùh,441,Chatot,Music Note Pokémon,おんぷポケモン,Music Note Pokémon
+442,Spiritomb,Forbidden,ふういん,Fūin,Interdit,Verboten,Proibito,Prohibido,봉인 Bong-in,封印 Fēngyìn / Fūngyan,442,Spiritomb,Forbidden Pokémon,ふういんポケモン,Sealed Pokémon
+443,Gible,Land Shark,りくザメ,Riku Zame,Terrequin,Landhai,Squaloterra,Terrascualo,육지상어 Yukji Sang-eo,陸鯊 / 陆鲨 Lùshā / Luhksā,443,Gible,Land Shark Pokémon,りくザメポケモン,Land Shark Pokémon
+444,Gabite,Cave,ほらあな,Horaana,Caverne,Höhle,Grotta,Cueva,동굴 Donggul,洞穴 Dòngxué / Duhngyuht,444,Gabite,Cave Pokémon,ほらあなポケモン,Cave Pokémon
+445,Garchomp,Mach,マッハ,Mahha,Supersonic,Rasanz,Mach,Mach,마하 Mach,音速 Yīnsù / Yāmchūk,445,Garchomp,Mach Pokémon,マッハポケモン,Mach Pokémon
+446,Munchlax,Big Eater,おおぐい,Ōgui,Goinfre,Nimmersatt,Ghiottone,Comilón,대식가 Daesikga,大胃王 Dàwèiwáng / Daaihwaihwòhng,446,Munchlax,Big Eater Pokémon,おおぐいポケモン,Gluttonous Pokémon
+447,Riolu,Emanation,はもん,Hamon,Émanation,Wellenspiel,Emanazione,Emanación,파문 Pamun,波紋 / 波纹 Bōwén / Bōmàhn,447,Riolu,Emanation Pokémon,はもんポケモン,Ripple Pokémon
+448,Lucario,Aura,はどう,Hadō,Aura,Aura,Aura,Aura,파동 Padong,波導 / 波导 Bōdǎo / Bōdouh,448,Lucario,Aura Pokémon,はどうポケモン,Wave Pokémon
+449,Hippopotas,Hippo,カバ,Kaba,Hippo,Flusspferd,Ippo,Hipo,하마 Hama,河馬 / 河马 Hémǎ / Hòhmáh,449,Hippopotas,Hippo Pokémon,カバポケモン,Hippo Pokémon
+450,Hippowdon,Heavyweight,じゅうりょう,Jūryō,Poids lourd,Schwergewicht,Grandepeso,Peso Pesado,중량 Jungryeong,重量 Zhòngliàng / Chùhnglèuhng,450,Hippowdon,Heavyweight Pokémon,じゅうりょうポケモン,Heavyweight Pokémon
+451,Skorupi,Scorpion,さそり,Sasori,Scorpion,Skorpion,Scorpione,Escorpión,전갈 Jeon-gal,蠍子 / 蝎子 Xiēzi / Hitjí,451,Skorupi,Scorpion Pokémon,さそりポケモン,Scorpion Pokémon
+452,Drapion,Ogre Scorpion*,ばけさそり,Bake Sasori,Scorpogre,Ogerskorpion,Scorpiaccio,Escorpiogro,요괴전갈 Yogoe Jeon-gal,蠍怪 / 蝎怪 Xiēguài / Hitgwaai,452,Drapion,Ogre Scorpion Pokémon,ばけさそりポケモン,Monster Scorpion Pokémon
+453,Croagunk,Toxic Mouth,どくづき,Dokudzuki,Toxique,Giftmund,Inveieleno,Boca Tóxica,독설 Dok Seol,毒擊 / 毒击 Dújī / Duhkgīk,453,Croagunk,Toxic Mouth Pokémon,どくづきポケモン,Poison Stab Pokémon
+454,Toxicroak,Toxic Mouth,どくづき,Dokudzuki,Toxique,Giftmund,Inveieleno,Boca Tóxica,독설 Dok Seol,毒擊 / 毒击 Dújī / Duhkgīk,454,Toxicroak,Toxic Mouth Pokémon,どくづきポケモン,Poison Stab Pokémon
+455,Carnivine,Bug Catcher,むしとり,Mushidori,Chopinsecte,Käfertod,Insettivoro,Caza Bichos,벌레잡이 Beolle Jab-i,捕蟲 / 捕虫 Bǔchóng / Bouhchùhng,455,Carnivine,Bug Catcher Pokémon,むしとりポケモン,Bug Catcher Pokémon
+456,Finneon,Wing Fish,はねうお,Hane Uo,Poisson Ailé,Flügelfisch,Pescealato,Pez Ala,비어 Bieo,飛翅魚 / 飞翅鱼 Fēichìyú / Fēichiyùh,456,Finneon,Wing Fish Pokémon,はねうおポケモン,Wing Fish Pokémon
+457,Lumineon,Neon,ネオン,Neon,Néon,Neon,Neon,Neón,네온 Neon,霓虹 Níhóng / Ngàihhùhng,457,Lumineon,Neon Pokémon,ネオンポケモン,Neon Pokémon
+458,Mantyke,Kite,カイト,Kaito,Cervolant,Flugrochen,Aquilone,Milano,연 Yeon,風箏 / 风筝 Fēngzhēng / Fūngjāang,458,Mantyke,Kite Pokémon,カイトポケモン,Kite Pokémon
+459,Snover,Frost Tree,じゅひょう,Juhyō,Arbregelé,Frostbaum,Albergelo,Árbol Nieve,얼음나무 Eoreum Namu,樹冰 / 树冰 Shùbīng / Syuhbīng,459,Snover,Frost Tree Pokémon,じゅひょうポケモン,Frost-Covered Tree Pokémon
+460,Abomasnow,Frost Tree,じゅひょう,Juhyō,Arbregelé,Frostbaum,Albergelo,Árbol Nieve,얼음나무 Eoreum Namu,樹冰 / 树冰 Shùbīng / Syuhbīng,460,Abomasnow,Frost Tree Pokémon,じゅひょうポケモン,Frost-Covered Tree Pokémon
+461,Weavile,Sharp Claw,かぎづめ,Kagidzume,Grifacérée,Stichklaue,Lamartigli,Garra Filo,갈고리손톱 Galgori Sontop,鉤爪 / 钩爪 Gōuzhǎo / Āujáau,461,Weavile,Sharp Claw Pokémon,かぎづめポケモン,Claw Pokémon
+462,Magnezone,Magnet Area,じば,Jiba,Aimant,Magnetgebiet,Magnetico,Magnético,자기장 Jagijang,磁場 / 磁场 Cíchǎng / Chìhchèuhng,462,Magnezone,Magnet Area Pokémon,じばポケモン,Magnetic Field Pokémon
+463,Lickilicky,Licking,なめまわし,Namemawashi,Lécheur,Schlecker,Linguaccia,Lametazo,핥기 Halggi,舔舔 Tiǎntiǎn / Tímtím,463,Lickilicky,Licking Pokémon,なめまわしポケモン,Licking Pokémon
+464,Rhyperior,Drill,ドリル,Doriru,Perceur,Bohrer,Trapano,Taladro,드릴 Drill,鑽錐 / 钻锥 Zuānzhuī / Jyūnjēui,464,Rhyperior,Drill Pokémon,ドリルポケモン,Drill Pokémon
+465,Tangrowth,Vine,ツルじょう,Tsurujō,Vigne,Ranke,Liana,Enredadera,넝쿨 Neongkul,藤蔓狀 / 藤蔓状 Téngmànzhuàng / Tàhngmàahnjohng,465,Tangrowth,Vine Pokémon,ツルじょうポケモン,Tendril Pokémon
+466,Electivire,Thunderbolt,らいでん,Raiden,Foudrélec,Donnerkeil,Saetta,Rayo,뇌전 Noejeon,雷電 / 雷电 Léidiàn / Lèuihdihn,466,Electivire,Thunderbolt Pokémon,らいでんポケモン,Thunder and Lightning Pokémon
+467,Magmortar,Blast,ばくえん,Bakuen,Explosion,Detonation,Esplosivo,Explosión,폭염 Pogyeom,爆炎 Bàoyán / Baauyìhm,467,Magmortar,Blast Pokémon,ばくえんポケモン,Explosion Fume Pokémon
+468,Togekiss,Jubilee,しゅくふく,Shukufuku,Célébration,Jubilierer,Festa,Festejo,축복 Chukbok,祝福 Zhùfú / Jūkfūk,468,Togekiss,Jubilee Pokémon,しゅくふくポケモン,Blessing Pokémon
+469,Yanmega,Ogre Darner,オニトンボ,Oni Tonbo,Libellogre,Agrion,Libellorco,Libélula,깨비잠자리 Kkaebi Jamjari,勾蜓 Gōutíng / Āutìhng,469,Yanmega,Ogre Darner Pokémon,オニトンボポケモン,Ogre Dragonfly Pokémon
+470,Leafeon,Verdant,しんりょく,Shinryoku,Verdoyant,Unreif,Rigoglioso,Verdor,심록 Simrok,新綠 / 新绿 Xīnlǜ / Sānluhk,470,Leafeon,Verdant Pokémon,しんりょくポケモン,Fresh Verdure Pokémon
+471,Glaceon,Fresh Snow,しんせつ,Shinsetsu,Poudreuse,Neuschnee,Nevefresca,Nieve Fresca,신설 Sin Seol,新雪 Xīnxuě / Sānsyut,471,Glaceon,Fresh Snow Pokémon,しんせつポケモン,Fresh Snow Pokémon
+472,Gliscor,Fang Scorpion*,キバさそり,Kiba Sasori,Scorpicroc,Zahnskorpi,Scorpidente,Colmicorpio,송곳니전갈 Songgonni Jeon-gal,牙蠍 / 牙蝎 Yáxiē / Ngàhhit,472,Gliscor,Fang Scorpion Pokémon,キバさそりポケモン,Fang Scorpion Pokémon
+473,Mamoswine,Twin Tusk,2ほんキバ,Nihon Kiba,Deudéfenses,Doppelstoßzahn,Duezanne,Doscolmillos,2개송곳니 2-gae Songgonni,雙牙 / 双牙 Shuāngyá / Sēungngàh,473,Mamoswine,Twin Tusk Pokémon,2ほんキバポケモン,Twin Tusk Pokémon
+474,Porygon-Z,Virtual,バーチャル,Bācharu,Virtuel,Virtuell,Virtuale,Virtual,가상 Gasang,虛擬 / 虚拟 Xūnǐ / Hēuiyìh,474,Porygon-Z,Virtual Pokémon,バーチャルポケモン,Virtual Pokémon
+475,Gallade,Blade,やいば,Yaiba,Lame,Klinge,Lama,Cuchilla,검 Geom,利刃 Lìrèn / Leihyahn,475,Gallade,Blade Pokémon,やいばポケモン,Blade Pokémon
+476,Probopass,Compass,コンパス,Konpasu,Boussole,Kompass,Bussola,Brújula,콤파스 Compass,羅盤 / 罗盘 Luópán / Lòhpùhn,476,Probopass,Compass Pokémon,コンパスポケモン,Compass Pokémon
+477,Dusknoir,Gripper,てづかみ,Tedzumi,Mainpince,Greifer,Pinza,Grilletes,움켜쥠 Umgyeojwim,抓握 Zhuāwò / Āauāak,477,Dusknoir,Gripper Pokémon,てづかみポケモン,Grasping Pokémon
+478,Froslass,Snow Land,ゆきぐに,Yukiguni,Enneigement,Schneegebiet,Suolnevoso,Tierra Fría,설국 Seol Guk,雪國 / 雪国 Xuěguó / Syutgwok,478,Froslass,Snow Land Pokémon,ゆきぐにポケモン,Snow Country Pokémon
+479,Rotom,Plasma,プラズマ,Purazuma,Plasma,Plasma,Plasma,Plasma,플라스마 Plasma,等離子 / 等离子 Děnglízǐ / Dánglèihjí,479,Rotom,Plasma Pokémon,プラズマポケモン,Plasma Pokémon
+480,Uxie,Knowledge,ちしき,Chishiki,Savoir,Wissen,Sapienza,Sabiduría,지식 Jisik,知識 / 知识 Zhīshì / Zhīshi / Jīsīk,480,Uxie,Knowledge Pokémon,ちしきポケモン,Knowledge Pokémon
+481,Mesprit,Emotion,かんじょう,Kanjō,Émotion,Emotion,Emozione,Sensorio,감정 Gamjeong,感情 Gǎnqíng / Gámchìhng,481,Mesprit,Emotion Pokémon,かんじょうポケモン,Emotion Pokémon
+482,Azelf,Willpower,いし,Ishi,Volonté,Willenskraft,Volontà,Voluntad,의지 Yiji,意志 Yìzhì / Yiji,482,Azelf,Willpower Pokémon,いしポケモン,Will Pokémon
+483,Dialga,Temporal,じかん,Jikan,Temps,Zeitweilig,Tempo,Temporal,시간 Sigan,時間 / 时间 Shíjiān / Sìhgāan,483,Dialga,Temporal Pokémon,じかんポケモン,Time Pokémon
+484,Palkia,Spatial,くうかん,Kūkan,Espace,Räumlich,Spazio,Espacial,공간 Gonggan,空間 / 空间 Kōngjiān / Hūnggāan,484,Palkia,Spatial Pokémon,くうかんポケモン,Space Pokémon
+485,Heatran,Lava Dome,かこう,Kakō,Caldeira,Lavadom,Cratere,Domo Lava,화구 Hwagu,火山口 Huǒshānkǒu / Fósāanháu,485,Heatran,Lava Dome Pokémon,かこうポケモン,Caldera Pokémon
+486,Regigigas,Colossal,きょだい,Kyodai,Prodigieux,Kolossal,Colossale,Colosal,거대 Geodae,巨大 Jùdà / Geuihdaaih,486,Regigigas,Colossal Pokémon,きょだいポケモン,Huge Pokémon
+487,Giratina,Renegade,はんこつ,Hankotsu,Renégat,Rebell,Ribelle,Renegado,반골 Bangol,反抗 Fǎnkàng / Fāankong,487,Giratina,Renegade Pokémon,はんこつポケモン,Rebellious Pokémon
+488,Cresselia,Lunar,みかづき,Mikadzuki,Lunaire,Lunar,Falcato,Lunar,초승달 Choseungdal,新月 Xīnyuè / Sānyuht,488,Cresselia,Lunar Pokémon,みかづきポケモン,Crescent Moon Pokémon
+489,Phione,Sea Drifter,かいよう,Kaiyō,Dérivenmer,Seedrift,Oceanbondo,Marino,해양 Haeyang,海洋 Hǎiyáng / Hóiyèuhng,489,Phione,Sea Drifter Pokémon,かいようポケモン,Ocean Pokémon
+490,Manaphy,Seafaring,かいゆう,Kaiyū,Voyagenmer,Seefahrer,Oceandante,Náutico,회유 Hoeyu,洄游 / 回游 Huíyóu / Wùihyàuh,490,Manaphy,Seafaring Pokémon,かいゆうポケモン,Migration Pokémon
+491,Darkrai,Pitch-Black,あんこく,Ankoku,Noirtotal,Dunkelnacht,Neropesto,Oscuridad,암흑 Amheuk,暗黑 Ànhēi / Amhāak,491,Darkrai,Pitch-Black Pokémon,あんこくポケモン,Darkness Pokémon
+492,Shaymin,Gratitude,かんしゃ,Kansha,Gratitude,Dankbarkeit,Gratitudine,Gratitud,감사 Gamsa,感謝 / 感谢 Gǎnxiè / Gámjeh,492,Shaymin,Gratitude Pokémon,かんしゃポケモン,Gratitude Pokémon
+493,Arceus,Alpha,そうぞう,Sōzō,Alpha,Alpha,Primevo,Alfa,창조 Changjo,創造 / 创造 Chuàngzào / Chōngchou,493,Arceus,Alpha Pokémon,そうぞうポケモン,Creation Pokémon
+494,Victini,Victory,しょうり,Shōri,Victoire,Triumph,Vittoria,Victoria,승리 Seungni,勝利 / 胜利 Shènglì / Sīngleih,494,Victini,Victory Pokémon,しょうりポケモン,Victory Pokémon
+495,Snivy,Grass Snake,くさへび,Kusa Hebi,Serpenterbe,Grasschlange,Serperba,Serp. Hierba,풀뱀 Peul Baem,草蛇 Cǎoshé / Chóuyìh,495,Snivy,Grass Snake Pokémon,くさへびポケモン,Grass Snake Pokémon
+496,Servine,Grass Snake,くさへび,Kusa Hebi,Serpenterbe,Grasschlange,Serperba,Serp. Hierba,풀뱀 Peul Baem,草蛇 Cǎoshé / Chóuyìh,496,Servine,Grass Snake Pokémon,くさへびポケモン,Grass Snake Pokémon
+497,Serperior,Regal,ロイヤル,Roiyaru,Majestueux,Hoheit,Regale,Realeza,로열 Royal,皇家 Huángjiā / Wòhnggā,497,Serperior,Regal Pokémon,ロイヤルポケモン,Royal Pokémon
+498,Tepig,Fire Pig,ひぶた,Hi Buta,Cochon Feu,Feuerferkel,Suinfuoco,Cerdo Fuego,불돼지 Bul Dwaeji,火豬 / 火猪 Huǒzhū / Fójyū,498,Tepig,Fire Pig Pokémon,ひぶたポケモン,Fire Pig Pokémon
+499,Pignite,Fire Pig,ひぶた,Hi Buta,Cochon Feu,Feuerferkel,Suinfuoco,Cerdo Fuego,불돼지 Bul Dwaeji,火豬 / 火猪 Huǒzhū / Fójyū,499,Pignite,Fire Pig Pokémon,ひぶたポケモン,Fire Pig Pokémon
+500,Emboar,Mega Fire Pig,おおひぶた,Ō Hi Buta,Grochon Feu,Feuerschwein,Suincendio,Cerdo Ígneo,큰불돼지 Keun Bul Dwaeji,大火豬 / 大火猪 Dàhuǒzhū / Daaihfójyū,500,Emboar,Mega Fire Pig Pokémon,おおひぶたポケモン,Big Fire Pig Pokémon
+501,Oshawott,Sea Otter,ラッコ,Rakko,Loutre,Otter,Lontra,Nutria,해달 Haedal,海獺 / 海獭 Hǎitǎ / Hóichaat,501,Oshawott,Sea Otter Pokémon,ラッコポケモン,Sea Otter Pokémon
+502,Dewott,Discipline,しゅぎょう,Shugyō,Entraînement,Schulung,Apprendista,Superación,수행 Suhaeng,修行 Xiūxíng / Sāuhàahng,502,Dewott,Discipline Pokémon,しゅぎょうポケモン,Training Pokémon
+503,Samurott,Formidable,かんろく,Kanroku,Dignitaire,Würde,Dignità,Majestuoso,관록 Gwannok,威嚴 / 威严 Wēiyán / Wāiyìhm,503,Samurott,Formidable Pokémon,かんろくポケモン,Dignified Pokémon
+504,Patrat,Scout,みはり,Mihari,Espion,Späher,Esplorante,Explorador,망보기 Mangbogi,放哨 Fàngshào / Fongsaau,504,Patrat,Scout Pokémon,みはりポケモン,Lookout Pokémon
+505,Watchog,Lookout,けいかい,Keikai,Vigilant,Wachsamkeit,Sentinella,Alerta,경계 Gyenggye,警戒 Jǐngjiè / Gínggaai,505,Watchog,Lookout Pokémon,けいかいポケモン,Vigilant Pokémon
+506,Lillipup,Puppy,こいぬ,Ko Inu,Chiot,Hund,Cagnolino,Perrito,강아지 Gang-aji,小狗 Xiǎogǒu / Síugáu,506,Lillipup,Puppy Pokémon,こいぬポケモン,Puppy Pokémon
+507,Herdier,Loyal Dog,ちゅうけん,Chūken,Chien Fidèle,Treuhund,Fedeltà,Leal,충견 Chunggyeon,忠犬 Zhōngquǎn / Jūnghyún,507,Herdier,Loyal Dog Pokémon,ちゅうけんポケモン,Faithful Dog Pokémon
+508,Stoutland,Big-Hearted,かんだい,Kandai,Magnanime,Großmut,Generosità,Magnánimo,관대 Gwandae,寬大 / 宽大 Kuāndà / Fūndaaih,508,Stoutland,Big-Hearted Pokémon,かんだいポケモン,Tolerant Pokémon
+509,Purrloin,Devious,しょうわる,Shōwaru,Scélérat,Schelm,Furbizia,Malicioso,성악 Seong-ak,壞心眼 / 坏心眼 Huàixīnyǎn / Waaihsāmngáahn,509,Purrloin,Devious Pokémon,しょうわるポケモン,Ill-Natured Pokémon
+510,Liepard,Cruel,れいこく,Reikoku,Implacable,Gefühlskälte,Sanguefreddo,Calculador,냉혹 Naenghok,冷酷 Lěngkù / Láahnghuhk,510,Liepard,Cruel Pokémon,れいこくポケモン,Cruel Pokémon
+511,Pansage,Grass Monkey,くさざる,Kusa Zaru,Singe Herbe,Grasaffe,Scimperba,Mono Hierba,풀원숭이 Pul Wonsung-i,草猴 Cǎohóu / Chóuhàuh,511,Pansage,Grass Monkey Pokémon,くさざるポケモン,Grass Monkey Pokémon
+512,Simisage,Thorn Monkey,とげざる,Toge Zaru,Singépine,Stachelaffe,Spinpanzé,Mono Pincho,가시원숭이 Gasi Wonsung-i,刺猴 Cìhóu / Chihàuh,512,Simisage,Thorn Monkey Pokémon,とげざるポケモン,Thorn Monkey Pokémon
+513,Pansear,High Temp,こうおん,Kōon,Brûlant,Hitze,Testacalda,Ardiente,고온 Go-on,高溫 / 高温 Gāowēn / Gōuwān,513,Pansear,High Temp Pokémon,こうおんポケモン,High Temperature Pokémon
+514,Simisear,Ember,ひのこ,Hi no Ko,Braise,Funkenregen,Sfavillante,Lumbre,불티 Bulti,火花 Huǒhuā / Fófā,514,Simisear,Ember Pokémon,ひのこポケモン,Sparks Pokémon
+515,Panpour,Spray,みずかけ,Mizu Kake,Jet d'Eau,Wasserstrahl,Annaffiatore,Salpicadura,물뿌리기 Mul Ppurigi,潑水 / 泼水 Pōshuǐ / Putséui,515,Panpour,Spray Pokémon,みずかけポケモン,Water Splash Pokémon
+516,Simipour,Geyser,ほうすい,Hōsui,Drainage,Drainage,Spruzzacqua,Drenaje,방수 Bangsu,放水 Fàngshuǐ / Fongséui,516,Simipour,Geyser Pokémon,ほうすいポケモン,High Water Pokémon
+517,Munna,Dream Eater,ゆめくい,Yume Kui,Mangerêve,Traumfresser,Divorasogni,Comesueños,꿈먹기 Kkum Meokgi,食夢 / 食梦 Shímèng / Yihmuhng,517,Munna,Dream Eater Pokémon,ゆめくいポケモン,Dream Eater Pokémon
+518,Musharna,Drowsing,ゆめうつつ,Yune Utsutsu,Rêveur,Halbschlaf,Dormiveglia,Duermevela,꿈결 Kkumgyeol,半夢半醒 / 半梦半醒 Bànmèngbànxǐng / Bunmuhngbunséng,518,Musharna,Drowsing Pokémon,ゆめうつつポケモン,Trance Pokémon
+519,Pidove,Tiny Pigeon,こばと,Ko Bato,Tipigeon,Täubchen,Piccione,Pichón,아기비둘기 Agi Bidulgi,小鴿 / 小鸽 Xiǎogē / Síugaap,519,Pidove,Tiny Pigeon Pokémon,こばとポケモン,Small Pigeon Pokémon
+520,Tranquill,Wild Pigeon,のばと,Nohato,Sauvapigeon,Wildtaube,Granpiccione,Torcaz,들비둘기 Deul Bidulgi,野鴿 / 野鸽 Yěgē / Yéhgaap,520,Tranquill,Wild Pigeon Pokémon,のばとポケモン,Wild Pigeon Pokémon
+521,Unfezant,Proud,プライド,Puraido,Fier,Stolz,Orgoglio,Altanero,프라이드 Pride,自尊心 Zìzūnxīn / Jihjēunsām,521,Unfezant,Proud Pokémon,プライドポケモン,Pride Pokémon
+522,Blitzle,Electrified,たいでん,Taiden,Étincélec,Hochspannung,Caricavolt,Electrizado,하전 Hajeon,帶電 / 带电 Dàidiàn / Dáaidihn,522,Blitzle,Electrified Pokémon,たいでんポケモン,Electrified Pokémon
+523,Zebstrika,Thunderbolt,らいでん,Raiden,Foudrélec,Donnerkeil,Saetta,Rayo,뇌전 Noejeon,雷電 / 雷电 Léidiàn / Lèuihdihn,523,Zebstrika,Thunderbolt Pokémon,らいでんポケモン,Thunder and Lightning Pokémon
+524,Roggenrola,Mantle,マントル,Mantoru,Manteau,Erdmantel,Placca,Manto,맨틀 Mantle,地幔 Dìmàn / Deihmaahn,524,Roggenrola,Mantle Pokémon,マントルポケモン,Mantle Pokémon
+525,Boldore,Ore,こうせき,Kōseki,Minerai,Erz,Minerale,Mineral,광석 Gwangseok,礦石 / 矿石 Kuàngshí / Gwongdaam,525,Boldore,Ore Pokémon,こうせきポケモン,Ore Pokémon
+526,Gigalith,Compressed,こうあつ,Kōatsu,Surpression,Kompression,Pressionalta,Presurizado,고압 Go-ap,高壓 / 高压 Gāoyā / Gōu'aat,526,Gigalith,Compressed Pokémon,こうあつポケモン,High Pressure Pokémon
+527,Woobat,Bat,こうもり,Kōmori,Chovsouris,Fledermaus,Pipistrello,Murciélago,박쥐 Bakjwi,蝙蝠 Biānfú / Bīnfūk,527,Woobat,Bat Pokémon,こうもりポケモン,Bat Pokémon
+528,Swoobat,Courting,きゅうあい,Kyūai,Cupidon,Balz,Cercamore,Galante,구애 Gu-ae,求愛 / 求爱 Qiú'ài / Kàuh'oi,528,Swoobat,Courting Pokémon,きゅうあいポケモン,Courting Pokémon
+529,Drilbur,Mole,もぐら,Mogura,Taupe,Maulwurf,Talpa,Topo,두더지 Dudeoji,鼴鼠 / 鼹鼠 Yǎnshǔ / Yínsyú,529,Drilbur,Mole Pokémon,もぐらポケモン,Mole Pokémon
+530,Excadrill,Subterrene,ちてい,Chitei,Souterrain,Untergrund,Sottoterra,Subterráneo,땅밑 Ttangmit,地底 Dìdǐ / Deihdái,530,Excadrill,Subterrene Pokémon,ちていポケモン,Deep Earth Pokémon
+531,Audino,Hearing,ヒヤリング,Hiyaringu,Audition,Gehör,Ascolto,Escucha,히어링 Hearing,聽力 / 听力 Tīnglì / Tēnglihk,531,Audino,Hearing Pokémon,ヒヤリングポケモン,Hearing Pokémon
+532,Timburr,Muscular,きんこつ,Kintotsu,Costaud,Muskel,Forzaimmane,Musculoso,근골 Geun-gol,筋骨 Jīngǔ / Gāngwāt,532,Timburr,Muscular Pokémon,きんこつポケモン,Muscle Pokémon
+533,Gurdurr,Muscular,きんこつ,Kintotsu,Costaud,Muskel,Forzaimmane,Musculoso,근골 Geun-gol,筋骨 Jīngǔ / Gāngwāt,533,Gurdurr,Muscular Pokémon,きんこつポケモン,Muscle Pokémon
+534,Conkeldurr,Muscular,きんこつ,Kintotsu,Costaud,Muskel,Forzaimmane,Musculoso,근골 Geun-gol,筋骨 Jīngǔ / Gāngwāt,534,Conkeldurr,Muscular Pokémon,きんこつポケモン,Muscle Pokémon
+535,Tympole,Tadpole,おたま,Otama,Têtard,Kaulquappe,Girino,Renacuajo,올챙이 Olchaeng-i,蝌蚪 Kēdǒu / Fōdáu,535,Tympole,Tadpole Pokémon,おたまポケモン,Tadpole Pokémon
+536,Palpitoad,Vibration,しんどう,Shindō,Vibration,Vibration,Vibrazione,Vibrante,진동 Jindong,震動 / 震动 Zhèndòng / Janduhng,536,Palpitoad,Vibration Pokémon,しんどうポケモン,Vibration Pokémon
+537,Seismitoad,Vibration,しんどう,Shindō,Vibration,Vibration,Vibrazione,Vibrante,진동 Jindong,震動 / 震动 Zhèndòng / Janduhng,537,Seismitoad,Vibration Pokémon,しんどうポケモン,Vibration Pokémon
+538,Throh,Judo,じゅうどう,Jūdō,Judo,Judo,Judo,Judo,유도 Yudo,柔道 Róudào / Yàuhdou,538,Throh,Judo Pokémon,じゅうどうポケモン,Judo Pokémon
+539,Sawk,Karate,からて,Karate,Karaté,Karate,Karate,Kárate,태권도 Taekwondo,空手道 Kōngshǒudào / Hūngsáudou,539,Sawk,Karate Pokémon,からてポケモン,Karate Pokémon
+540,Sewaddle,Sewing,さいほう,Saihō,Couture,Schneider,Grancucito,Sastre,재봉 Jaebong,裁縫 / 裁缝 Cáiféng / Chòihfùhng,540,Sewaddle,Sewing Pokémon,さいほうポケモン,Sewing Pokémon
+541,Swadloon,Leaf-Wrapped,はごもり,Hagomori,Capefeuille,Wickelblatt,Coprifoglia,Arropado,잎숨기 Ip Sumgi,足不出葉 / 足不出叶 Zúbùchūyè / Jeuibātchēutyihp,541,Swadloon,Leaf-Wrapped Pokémon,はごもりポケモン,Forest Cloak Pokémon
+542,Leavanny,Nurturing,こそだて,Kosodate,Précepteur,Kinderpflege,Balia,Cuidador,육아 Yug-a,育兒 / 育儿 Yù'ér / Yuhkyìh,542,Leavanny,Nurturing Pokémon,こそだてポケモン,Child-Raising Pokémon
+543,Venipede,Centipede,ムカデ,Mukade,Chilopode,Tausendfüßer,Centipede,Ciempiés,지네 Jine,蜈蚣 Wúgōng / Nghgūng,543,Venipede,Centipede Pokémon,ムカデポケモン,Centipede Pokémon
+544,Whirlipede,Curlipede,まゆムカデ,Mayu Mukade,Coconplopode,Kokonfüßer,Rotopede,Pupaciempiés,눈썹지네 Nunsseop Jine,繭蜈蚣 / 茧蜈蚣 Jiǎnwúgōng / Gáannghgūng,544,Whirlipede,Curlipede Pokémon,まゆムカデポケモン,Cocoon Centipede Pokémon
+545,Scolipede,Megapede,メガムカデ,Mega Mukade,Mégaplopode,Riesenfüßer,Megapede,Megaciempiés,메가지네 Mega Jine,巨蜈蚣 Jùwúgōng / Geuih'nghgūng,545,Scolipede,Megapede Pokémon,メガムカデポケモン,Mega Centipede Pokémon
+546,Cottonee,Cotton Puff,わたたま,Wata Tama,Boule Coton,Wattebausch,Cotonpalla,Bolalgodón,솜뭉치 Som Mungchi,棉球 Miánqiú / Mìhnkàuh,546,Cottonee,Cotton Puff Pokémon,わたたまポケモン,Cotton Ball Pokémon
+547,Whimsicott,Windveiled,かぜかくれ,Kazekakure,Vole Vent,Windschatten,Spiffero,Vuelalviento,바람숨기 Baram Sumgi,風隱 / 风隐 Fēngyǐn / Fūngyán,547,Whimsicott,Windveiled Pokémon,かぜかくれポケモン,Wind-Hidden Pokémon
+548,Petilil,Bulb,ねっこ,Netsuko,Racine,Wurzel,Radice,Bulbo,뿌리 Ppuri,根莖 / 根茎 Gēnjīng / Gānging,548,Petilil,Bulb Pokémon,ねっこポケモン,Root Pokémon
+549,Lilligant,Flowering,はなかざり,Hana Kazari,Chef-Fleur,Blumenzier,Fiorfronzolo,Adornofloral,꽃장식 Kkot Jangsik,花飾 / 花饰 Huāshì / Fāsīk,549,Lilligant,Flowering Pokémon,はなかざりポケモン,Decorative Flower Pokémon
+550,Basculin,Hostile,らんぼう,Ranbō,Violent,Grobheit,Irruenza,Violento,흉포 Hyungpo,粗暴 Cūbào / Chōubouh,550,Basculin,Hostile Pokémon,らんぼうポケモン,Violent Pokémon
+551,Sandile,Desert Croc,さばくワニ,Sabaku Wani,Croco Sable,Wüstenkroko,Sabbiadrillo,Desierdrilo,사막악어 Samak Ag-eo,沙漠鱷魚 / 沙漠鳄鱼 Shāmò'èyú / Sāmohkngohkyùh,551,Sandile,Desert Croc Pokémon,さばくワニポケモン,Desert Crocodile Pokémon
+552,Krokorok,Desert Croc,さばくワニ,Sabaku Wani,Croco Sable,Wüstenkroko,Sabbiadrillo,Desierdrilo,사막악어 Samak Ag-eo,沙漠鱷魚 / 沙漠鳄鱼 Shāmò'èyú / Sāmohkngohkyùh,552,Krokorok,Desert Croc Pokémon,さばくワニポケモン,Desert Crocodile Pokémon
+553,Krookodile,Intimidation,いかく,Ikaku,Intimidation,Abschreckung,Minaccia,Amenazador,위협 Wihyeop,威嚇 / 威吓 Wēihè / Wāihāak,553,Krookodile,Intimidation Pokémon,いかくポケモン,Menacing Pokémon
+554,Darumaka,Zen Charm,だるま,Daruma,Daruma,Lampion,Daruma,Daruma,달마 Dalma,不倒翁 Bùdǎowēng / Bātdóuyūng,554,Darumaka,Zen Charm Pokémon,だるまポケモン,Daruma Pokémon
+555,Darmanitan,Blazing,えんじょう,Enjō,Enflammé,Lichterloh,Altefiamme,Candente,염상 Yeomsang,爆燃 Bàorán / Baauyìhn,555,Darmanitan,Blazing Pokémon,えんじょうポケモン,Blazing Pokémon
+556,Maractus,Cactus,サボテン,Saboten,Cactus,Kaktus,Cactus,Cactus,선인장 Seoninjang,仙人掌 Xiānrénzhǎng / Sīnyàhnjéung,556,Maractus,Cactus Pokémon,サボテンポケモン,Cactus Pokémon
+557,Dwebble,Rock Inn,いしやど,Ishi Yado,Lithicole,Steinhaus,Pietracasa,Casapiedra,돌집 Dol Jip,石居 Shíjū / Daamgēui,557,Dwebble,Rock Inn Pokémon,いしやどポケモン,Stone Hermit Pokémon
+558,Crustle,Stone Home,いわやど,Iwa Yado,Lapidicole,Felshaus,Scogliocasa,Casarroca,바위집 Bawi Jip,岩居 Yánjū / Ngàahmgēui,558,Crustle,Stone Home Pokémon,いわやどポケモン,Rock Hermit Pokémon
+559,Scraggy,Shedding,だっぴ,Dappi,Mue,Hautwechsel,Mutapelle,Mudapiel,탈피 Talpi,蛻皮 / 蜕皮 Tuìpí / Seuipèih,559,Scraggy,Shedding Pokémon,だっぴポケモン,Shedding Pokémon
+560,Scrafty,Hoodlum,あくとう,Akutō,Gang,Halunke,Furfante,Gamberro,악당 Akdang,惡黨 / 恶党 Èdǎng / Ngokdóng,560,Scrafty,Hoodlum Pokémon,あくとうポケモン,Scoundrel Pokémon
+561,Sigilyph,Avianoid,とりもどき,Tori Modoki,Similoiseau,Vogelgleich,Pseuduccello,Pseudopájaro,흡사새 Heupsasae,似鳥 / 似鸟 Sìniǎo / Chíhníuh,561,Sigilyph,Avianoid Pokémon,とりもどきポケモン,Pseudo-Bird Pokémon
+562,Yamask,Spirit,たましい,Tamashī,Âme,Seele,Fatuanima,Espíritu,영혼 Yeonghon,魂 Hún / Wàhn,562,Yamask,Spirit Pokémon,たましいポケモン,Spirit Pokémon
+563,Cofagrigus,Coffin,かんおけ,Kan'oke,Cercueil,Sarkophag,Bara,Sepultura,관 Gwan,棺木 Guānmù / Gūnmuhk,563,Cofagrigus,Coffin Pokémon,かんおけポケモン,Coffin Pokémon
+564,Tirtouga,Prototurtle,こだいがめ,Kodaigame,Tortantique,Urzeitkröte,Ancestruga,Pretortuga,옛날거북 Yennal Geobuk,古代龜 / 古代龟 Gǔdàiguī / Gúdoihgāu,564,Tirtouga,Prototurtle Pokémon,こだいがめポケモン,Ancient Turtle Pokémon
+565,Carracosta,Prototurtle,こだいがめ,Kodaigame,Tortantique,Urzeitkröte,Ancestruga,Pretortuga,옛날거북 Yennal Geobuk,古代龜 / 古代龟 Gǔdàiguī / Gúdoihgāu,565,Carracosta,Prototurtle Pokémon,こだいがめポケモン,Ancient Turtle Pokémon
+566,Archen,First Bird,さいこどり,Saikodori,Oisancien,Urzeitvogel,Paleouccello,Protopájaro,최초새 Choecho Sae,遠古鳥 / 远古鸟 Yuǎngǔniǎo / Yúhngúníuh,566,Archen,First Bird Pokémon,さいこどりポケモン,Oldest Bird Pokémon
+567,Archeops,First Bird,さいこどり,Saikodori,Oisancien,Urzeitvogel,Paleouccello,Protopájaro,최초새 Choecho Sae,遠古鳥 / 远古鸟 Yuǎngǔniǎo / Yúhngúníuh,567,Archeops,First Bird Pokémon,さいこどりポケモン,Oldest Bird Pokémon
+568,Trubbish,Trash Bag,ゴミぶくろ,Gomi Bukuro,Sac Poubelle,Mülltüte,Spazzatura,Bolsabasura,쓰레기봉투 Sseuregi Bongtu,垃圾袋 Lèsèdài / Lājīdài / Laahpkāpdoih,568,Trubbish,Trash Bag Pokémon,ゴミぶくろポケモン,Garbage Bag Pokémon
+569,Garbodor,Trash Heap,ゴミすてば,Gomi Suteba,Dépotoir,Müllhalde,Discarica,Vertedero,쓰레기장 Sseuregi Jang,垃圾場 / 垃圾场 Lèsèchǎng / Lājīchǎng / Laahpkāpchèuhng,569,Garbodor,Trash Heap Pokémon,ゴミすてばポケモン,Garbage Dump Pokémon
+570,Zorua,Tricky Fox,わるぎつね,Waru Gitsune,Sombrenard,Lausefuchs,Malavolpe,Zorropillo,나쁜여우 Nappeun Yeou,惡狐 / 恶狐 Èhú / Ngokwùh,570,Zorua,Tricky Fox Pokémon,わるぎつねポケモン,Evil Fox Pokémon
+571,Zoroark,Illusion Fox,ばけぎつね,Bake Gitsune,Polymorfox,Polymorfuchs,Mutevolpe,Disfrazorro,요괴여우 Yogoe Yeou,妖狐 Yāohú / Yīuwùh,571,Zoroark,Illusion Fox Pokémon,ばけぎつねポケモン,Illusory Fox Pokémon
+572,Minccino,Chinchilla,チンチラ,Chinchira,Chinchilla,Chinchilla,Cincillà,Chinchilla,친칠라 Chinchilla,栗鼠 Lìshǔ / Leuhtsyú,572,Minccino,Chinchilla Pokémon,チンチラポケモン,Chinchilla Pokémon
+573,Cinccino,Scarf,スカーフ,Sukāfu,Écharpe,Schal,Sciarpa,Estola,스카프 Scarf,圍巾 / 围巾 Wéijīn / Wàihgān,573,Cinccino,Scarf Pokémon,スカーフポケモン,Scarf Pokémon
+574,Gothita,Fixation,ぎょうし,Gyōshi,Dévisageur,Glotz,Fissosguardo,Inquisitivo,응시 Eungsi,凝視 / 凝视 Níngshì / Yìhngsih,574,Gothita,Fixation Pokémon,ぎょうしポケモン,Stare Pokémon
+575,Gothorita,Manipulate,あやつり,Ayatsuri,Magouilleur,Manipulator,Raggiro,Manipulador,조작 Jojak,操縱 / 操纵 Cāozòng / Chōujūng,575,Gothorita,Manipulate Pokémon,あやつりポケモン,Manipulation Pokémon
+576,Gothitelle,Astral Body,てんたい,Tentai,Cosmique,Gestirn,Corpoceleste,Astro,천체 Cheonche,天體 / 天体 Tiāntǐ / Tīntái,576,Gothitelle,Astral Body Pokémon,てんたいポケモン,Heavenly Body Pokémon
+577,Solosis,Cell,さいぼう,Saibō,Cellule,Zelle,Cellula,Célula,세포 Sepo,細胞 / 细胞 Xìbāo / Saibāau,577,Solosis,Cell Pokémon,さいぼうポケモン,Cell Pokémon
+578,Duosion,Mitosis,ぶんかつ,Bunkatsu,Divisé,Zellteilung,Scissione,Mitosis,분할 Bunhal,分割 Fēngē / Fāngot,578,Duosion,Mitosis Pokémon,ぶんかつポケモン,Mitosis Pokémon
+579,Reuniclus,Multiplying,ぞうふく,Zōfuku,Multiplié,Vermehrung,Espansione,Ampliación,증폭 Jeungpok,增幅 Zēngfú / Jāngfūk,579,Reuniclus,Multiplying Pokémon,ぞうふくポケモン,Amplification Pokémon
+580,Ducklett,Water Bird,みずどり,Mizutori,Oiseaudo,Wasservogel,Alacquatico,Ave Agua,물새 Mul Sae,水鳥 / 水鸟 Shuǐniǎo / Séuiníuh,580,Ducklett,Water Bird Pokémon,みずどりポケモン,Waterfowl Pokémon
+581,Swanna,White Bird,しらとり,Shiratori,Cygne,Schwan,Biancuccello,Cisne,백조 Baek Jo,白鳥 / 白鸟 Báiniǎo / Baahkníuh,581,Swanna,White Bird Pokémon,しらとりポケモン,Swan Pokémon
+582,Vanillite,Fresh Snow,しんせつ,Shinsetsu,Poudreuse,Neuschnee,Nevefresca,Nieve Fresca,신설 Sin Seol,新雪 Xīnxuě / Sānsyut,582,Vanillite,Fresh Snow Pokémon,しんせつポケモン,Fresh Snow Pokémon
+583,Vanillish,Icy Snow,ひょうせつ,Hyōsetsu,Grêle,Firn,Geloneve,Nieve Helada,빙설 Bing Seol,冰雪 Bīngxuě / Bīngsyut,583,Vanillish,Icy Snow Pokémon,ひょうせつポケモン,Ice and Snow Pokémon
+584,Vanilluxe,Snowstorm,ブリザード,Burizādo,Congère,Schneesturm,Bufera,Nieve Gélida,블리자드 Beullijadeu,暴風雪 / 暴风雪 Bàofēngxuě / Bouhfūngsyut,584,Vanilluxe,Snowstorm Pokémon,ブリザードポケモン,Blizzard Pokémon
+585,Deerling,Season,きせつ,Kisetsu,Saison,Jahreszeit,Stagione,Estacional,계절 Gyejeol,季節 / 季节 Jìjié / Gwaijit,585,Deerling,Season Pokémon,きせつポケモン,Seasonal Pokémon
+586,Sawsbuck,Season,きせつ,Kisetsu,Saison,Jahreszeit,Stagione,Estacional,계절 Gyejeol,季節 / 季节 Jìjié / Gwaijit,586,Sawsbuck,Season Pokémon,きせつポケモン,Seasonal Pokémon
+587,Emolga,Sky Squirrel,モモンガ,Momonga,Pteromys,Flughörnchen,Petauro,Vuelardilla,하늘다람쥐 Haneul Daramjwi,飛鼠 / 飞鼠 Fēishǔ / Fēisyú,587,Emolga,Sky Squirrel Pokémon,モモンガポケモン,Flying Squirrel Pokémon
+588,Karrablast,Clamping,かぶりつき,Kaburitsuki,Carabe,Schnappbiss,Addentatore,Bocado,덥석물기 Deopseongmulgi,啃咬 Kěnyǎo / Hángngáauh,588,Karrablast,Clamping Pokémon,かぶりつきポケモン,Bite Down Pokémon
+589,Escavalier,Cavalry,きへい,Kihei,Chevalier,Kavallerie,Cavaliere,Soldado,기병 Gibyeong,騎兵 / 骑兵 Qíbīng / Geihbīng,589,Escavalier,Cavalry Pokémon,きへいポケモン,Cavalry Pokémon
+590,Foongus,Mushroom,きのこ,Kinoko,Champignon,Pilz,Fungo,Hongo,버섯 Beoseot,蘑菇 Mógū / Mòhgū,590,Foongus,Mushroom Pokémon,きのこポケモン,Mushroom Pokémon
+591,Amoonguss,Mushroom,きのこ,Kinoko,Champignon,Pilz,Fungo,Hongo,버섯 Beoseot,蘑菇 Mógū / Mòhgū,591,Amoonguss,Mushroom Pokémon,きのこポケモン,Mushroom Pokémon
+592,Frillish,Floating,ふゆう,Fuyū,Flottaison,Gleit,Fluttuante,Ingrávido,부유 Buyu,漂浮 Piāofú / Pīufàuh,592,Frillish,Floating Pokémon,ふゆうポケモン,Floating Pokémon
+593,Jellicent,Floating,ふゆう,Fuyū,Flottaison,Gleit,Fluttuante,Ingrávido,부유 Buyu,漂浮 Piāofú / Pīufàuh,593,Jellicent,Floating Pokémon,ふゆうポケモン,Floating Pokémon
+594,Alomomola,Caring,かいほう,Kaihō,Soigneur,Fürsorge,Assistenza,Socorrista,돌보기 Dolbogi,看護 / 看护 Kānhù / Hōnwuh,594,Alomomola,Caring Pokémon,かいほうポケモン,Nursing Pokémon
+595,Joltik,Attaching,くっつき,Kuttsuki,Crampon,Kleben,Appiccicante,Lapa,들러붙기 Deulleobutgi,吸附 Xīfù / Kāpfuh,595,Joltik,Attaching Pokémon,くっつきポケモン,Clinging Pokémon
+596,Galvantula,EleSpider,でんきグモ,Denki Gumo,Araclectrik,Stromspinne,Elettroragno,Electroaraña,전기거미 Jeon-gi Geomi,電蜘蛛 / 电蜘蛛 Diànzhīzhū / Dihnjījyū,596,Galvantula,EleSpider Pokémon,でんきグモポケモン,Electric Spider Pokémon
+597,Ferroseed,Thorn Seed,とげのみ,Toge no Mi,Graine Épine,Dornfrucht,Spinaseme,Fruto Espina,가시열매 Gasi Yeolmae,刺果 Cìguǒ / Chigú,597,Ferroseed,Thorn Seed Pokémon,とげのみポケモン,Spike Seed Pokémon
+598,Ferrothorn,Thorn Pod,とげだま,Toge Dama,Boule Épine,Dornkugel,Spinasfere,Bola Espina,가시공 Gasi Gong,刺球 Cìqiú / Chikàuh,598,Ferrothorn,Thorn Pod Pokémon,とげだまポケモン,Spike Ball Pokémon
+599,Klink,Gear,はぐるま,Haguruma,Engrenage,Getriebe,Ingranaggio,Engranaje,톱니바퀴 Tomnibakwi,齒輪 / 齿轮 Chǐlún / Chílèuhn,599,Klink,Gear Pokémon,はぐるまポケモン,Gear Pokémon
+600,Klang,Gear,はぐるま,Haguruma,Engrenage,Getriebe,Ingranaggio,Engranaje,톱니바퀴 Tomnibakwi,齒輪 / 齿轮 Chǐlún / Chílèuhn,600,Klang,Gear Pokémon,はぐるまポケモン,Gear Pokémon
+601,Klinklang,Gear,はぐるま,Haguruma,Engrenage,Getriebe,Ingranaggio,Engranaje,톱니바퀴 Tomnibakwi,齒輪 / 齿轮 Chǐlún / Chílèuhn,601,Klinklang,Gear Pokémon,はぐるまポケモン,Gear Pokémon
+602,Tynamo,EleFish,でんきうお,Denki Uo,Électrophore,Stromfisch,Elettropesce,Electropez,전기물고기 Jeon-gi Mulgogi,電魚 / 电鱼 Diànyú / Dihnyùh,602,Tynamo,EleFish Pokémon,でんきうおポケモン,Electric Fish Pokémon
+603,Eelektrik,EleFish,でんきうお,Denki Uo,Électrophore,Stromfisch,Elettropesce,Electropez,전기물고기 Jeon-gi Mulgogi,電魚 / 电鱼 Diànyú / Dihnyùh,603,Eelektrik,EleFish Pokémon,でんきうおポケモン,Electric Fish Pokémon
+604,Eelektross,EleFish,でんきうお,Denki Uo,Électrophore,Stromfisch,Elettropesce,Electropez,전기물고기 Jeon-gi Mulgogi,電魚 / 电鱼 Diànyú / Dihnyùh,604,Eelektross,EleFish Pokémon,でんきうおポケモン,Electric Fish Pokémon
+605,Elgyem,Cerebral,ブレイン,Burein,Cerveau,Grips,Cervello,Cerebro,브레인 Brain,腦 / 脑 Nǎo / Nóuh,605,Elgyem,Cerebral Pokémon,ブレインポケモン,Brain Pokémon
+606,Beheeyem,Cerebral,ブレイン,Burein,Cerveau,Grips,Cervello,Cerebro,브레인 Brain,腦 / 脑 Nǎo / Nóuh,606,Beheeyem,Cerebral Pokémon,ブレインポケモン,Brain Pokémon
+607,Litwick,Candle,ろうそく,Rōsoku,Chandelle,Kerze,Candela,Vela,양초 Yangcho,蠟燭 / 蜡烛 Làzhú / Laahpjūk,607,Litwick,Candle Pokémon,ろうそくポケモン,Candle Pokémon
+608,Lampent,Lamp,ランプ,Ranpu,Lampe,Lampe,Lanterna,Farolillo,램프 Lamp,油燈 / 油灯 Yóudēng / Yàuhdāng,608,Lampent,Lamp Pokémon,ランプポケモン,Lamp Pokémon
+609,Chandelure,Luring,いざない,Izanai,Invitation,Geleit,Attiranime,Señuelo,권유 Kwonyu,引誘 / 引诱 Yǐnyòu / Yáhnyáuh,609,Chandelure,Luring Pokémon,いざないポケモン,Temptation Pokémon
+610,Axew,Tusk,キバ,Kiba,Crocs,Stoßzahn,Zanna,Colmillo,이빨 Ippal,牙 Yá / Ngàh,610,Axew,Tusk Pokémon,キバポケモン,Tusk Pokémon
+611,Fraxure,Axe Jaw,あごオノ,Ago Ono,Hachomenton,Beilkiefer,Mascellascia,Boca Hacha,도끼턱 Dokki Teok,顎斧 / 颚斧 Èfǔ / Ngohkfú,611,Fraxure,Axe Jaw Pokémon,あごオノポケモン,Jaw Ax Pokémon
+612,Haxorus,Axe Jaw,あごオノ,Ago Ono,Hachomenton,Beilkiefer,Mascellascia,Boca Hacha,도끼턱 Dokki Teok,顎斧 / 颚斧 Èfǔ / Ngohkfú,612,Haxorus,Axe Jaw Pokémon,あごオノポケモン,Jaw Ax Pokémon
+613,Cubchoo,Chill,ひょうけつ,Hyōketsu,Gelé,Eisscholle,Freddo,Congelación,빙결 Binggyeol,結冰 / 结冰 Jiébīng / Gitbīng,613,Cubchoo,Chill Pokémon,ひょうけつポケモン,Freezing Pokémon
+614,Beartic,Freezing,とうけつ,Tōketsu,Congelé,Packeis,Glaciale,Glaciación,동결 Donggyeol,凍結 / 冻结 Dòngjié / Dūnggit,614,Beartic,Freezing Pokémon,とうけつポケモン,Frozen Pokémon
+615,Cryogonal,Crystallizing,けっしょう,Kesshō,Cristal,Kristall,Cristallo,Cristal,결정 Gyeoljeong,結晶 / 结晶 Jiéjīng / Gitjīng,615,Cryogonal,Crystallizing Pokémon,けっしょうポケモン,Crystal Pokémon
+616,Shelmet,Snail,マイマイ,Maimai,Escargot,Schnecke,Lumachina,Caracol,달팽이 Dalpaeng-i,蝸牛 / 蜗牛 Guāniú / Wōniú / Wā'ngàuh,616,Shelmet,Snail Pokémon,マイマイポケモン,Snail Pokémon
+617,Accelgor,Shell Out,からぬけ,Karanuke,Exuviateur,Entschalung,Sgusciato,Sincaparazón,탈껍질 Talkkeopjil,脫殼 / 脱壳 Tuōké / Tyuthok,617,Accelgor,Shell Out Pokémon,からぬけポケモン,Deshelled Pokémon
+618,Stunfisk,Trap,トラップ,Torappu,Piège,Falle,Trappola,Trampa,트랩 Trap,陷阱 Xiànjǐng / Haahmjihng,618,Stunfisk,Trap Pokémon,トラップポケモン,Trap Pokémon
+619,Mienfoo,Martial Arts,ぶじゅつ,Bujutsu,Art Martial,Kampfkünste,Marziale,Arte Marcial,무술 Musul,武術 / 武术 Wǔshù / Móuhseuht,619,Mienfoo,Martial Arts Pokémon,ぶじゅつポケモン,Martial Arts Pokémon
+620,Mienshao,Martial Arts,ぶじゅつ,Bujutsu,Art Martial,Kampfkünste,Marziale,Arte Marcial,무술 Musul,武術 / 武术 Wǔshù / Móuhseuht,620,Mienshao,Martial Arts Pokémon,ぶじゅつポケモン,Martial Arts Pokémon
+621,Druddigon,Cave,ほらあな,Horaana,Caverne,Höhle,Grotta,Cueva,동굴 Donggul,洞穴 Dòngxué / Duhngyuht,621,Druddigon,Cave Pokémon,ほらあなポケモン,Cave Pokémon
+622,Golett,Automaton,ゴーレム,Gōremu,Golem Ancien,Urgolem,Statuanimata,Autómata,골렘 Golem,魔像 Móxiàng / Mōjeuhng,622,Golett,Automaton Pokémon,ゴーレムポケモン,Golem Pokémon
+623,Golurk,Automaton,ゴーレム,Gōremu,Golem Ancien,Urgolem,Statuanimata,Autómata,골렘 Golem,魔像 Móxiàng / Mōjeuhng,623,Golurk,Automaton Pokémon,ゴーレムポケモン,Golem Pokémon
+624,Pawniard,Sharp Blade,はもの,Wamono,Coupant,Stahlklinge,Lamaffilata,Tajo,날붙이 Nalbut-i,利器 Lìqì / Leihhei,624,Pawniard,Sharp Blade Pokémon,はものポケモン,Sharp Edge Pokémon
+625,Bisharp,Sharp Sword,とうじん,Tōjin,Tranchant,Schwertklinge,Fildilama,Filo,도인 Do-in,刀刃 Dāorèn / Dōuyahn,625,Bisharp,Sword Blade Pokémon,とうじんポケモン,Sword Blade Pokémon
+626,Bouffalant,Bash Buffalo,ずつきうし,Zutsuki Ushi,Coup d'Bœuf,Kopfstoßrind,Sfondatoro,Torocabezazo,박치기소 Bakchigi So,頭錘牛 / 头锤牛 Tóuchuíniú / Tàuhchèuih'ngàuh,626,Bouffalant,Bash Buffalo Pokémon,ずつきうしポケモン,Headbutt Bull Pokémon
+627,Rufflet,Eaglet,ヒナわし,Hinawashi,Aiglon,Adlerküken,Aquilotto,Aguilucho,새끼독수리 Saekkidoksuri,雛鷹 / 雏鹰 Chúyīng / Chōyīng,627,Rufflet,Eaglet Pokémon,ヒナわしポケモン,Eaglet Pokémon
+628,Braviary,Valiant,ゆうもう,Yūmō,Vaillant,Kühnheit,Baldanza,Aguerrido,용맹 Yongmaeng,勇猛 Yǒngměng / Yúhngmáahng,628,Braviary,Valiant Pokémon,ゆうもうポケモン,Daring Pokémon
+629,Vullaby,Diapered,おむつ,Omutsu,Couche,Windel,Pannolino,Pañal,기저귀 Gijeogwi,尿布 Niàobù / Niuhbou,629,Vullaby,Diapered Pokémon,おむつポケモン,Diaper Pokémon
+630,Mandibuzz,Bone Vulture,ほねわし,Hone Washi,Vostour,Knochenadler,Ossaquila,Aguilahueso,뼈독수리 Ppyeo Doksuri,骨鷹 / 骨鹰 Gǔyīng / Gwātyīng,630,Mandibuzz,Bone Vulture Pokémon,ほねわしポケモン,Bone Eagle Pokémon
+631,Heatmor,Anteater,アリクイ,Arikui,Tamanoir,Ameisenbär,Formichiere,Hormiguero,개미핥기 Gaemihalggi,食蟻獸 / 食蚁兽 Shíyǐshòu / Yih'ngáihsau,631,Heatmor,Anteater Pokémon,アリクイポケモン,Anteater Pokémon
+632,Durant,Iron Ant,てつアリ,Tetsu Ari,Fourmi Dure,Eisenameise,Ferformica,Hormigacero,철개미 Cheol Gaemi,鐵蟻 / 铁蚁 Tiěyǐ / Titngáih,632,Durant,Iron Ant Pokémon,てつアリポケモン,Iron Ant Pokémon
+633,Deino,Irate,そぼう,Sobō,Rude,Haudrauf,Impeto,Tosco,폭거 Pokgeo,粗魯 / 粗鲁 Cūlǔ / Chōulóuh,633,Deino,Irate Pokémon,そぼうポケモン,Wild Pokémon
+634,Zweilous,Hostile,らんぼう,Ranbō,Violent,Grobheit,Irruenza,Violento,흉포 Hyungpo,粗暴 Cūbào / Chōubouh,634,Zweilous,Hostile Pokémon,らんぼうポケモン,Violent Pokémon
+635,Hydreigon,Brutal,きょうぼう,Kyōbō,Brutal,Brutal,Brutale,Voraz,난폭 Nanpok,凶暴 Xiōngbào / Hūngbouh,635,Hydreigon,Brutal Pokémon,きょうぼうポケモン,Brutal Pokémon
+636,Larvesta,Torch,たいまつ,Taimatsu,Torche,Fackel,Torcia,Antorcha,횃불 Hwaetbul,火炬 Huǒjù / Fógeuih,636,Larvesta,Torch Pokémon,たいまつポケモン,Torch Pokémon
+637,Volcarona,Sun,たいよう,Taiyō,Soleil,Sonne,Sole,Sol,태양 Taeyang,太陽 / 太阳 Tàiyáng / Taaiyèuhng,637,Volcarona,Sun Pokémon,たいようポケモン,Sun Pokémon
+638,Cobalion,Iron Will,てっしん,Tesshin,Cœur de Fer,Eisenkern,Metalcuore,Tesón Acero,철심 Cheol Sim,鐵心 / 铁心 Tiěxīn / Titsām,638,Cobalion,Iron Will Pokémon,てっしんポケモン,Iron Will Pokémon
+639,Terrakion,Cavern,がんくつ,Gankutsu,Grotte,Felsenhöhle,Caverna,Gruta,암굴 Amgul,岩窟 Yánkū / Ngàahmfāt,639,Terrakion,Cavern Pokémon,がんくつポケモン,Cavern Pokémon
+640,Virizion,Grassland,そうげん,Sōgen,Plaine Verte,Wiese,Prateria,Prado,초원 Chowon,草原 Cǎoyuán / Chóuyùhn,640,Virizion,Grassland Pokémon,そうげんポケモン,Grassland Pokémon
+641,Tornadus,Cyclone,せんぷう,Senpū,Tornade,Wirbelsturm,Turbinio,Torbellino,선풍 Seonpung,旋風 / 旋风 Xuànfēng / Syùhnfūng,641,Tornadus,Cyclone Pokémon,せんぷうポケモン,Whirlwind Pokémon
+642,Thundurus,Bolt Strike,らいげき,Raigeki,Foudroyeur,Torpedo,Fulminante,Centella,뇌격 Noegyeok,雷擊 / 雷击 Léijí / Léijī / Lèuihgīk,642,Thundurus,Bolt Strike Pokémon,らいげきポケモン,Lightning Strike Pokémon
+643,Reshiram,Vast White,はくよう,Haku Yō,Blanc Réel,Wahres Weiß,Bianco Verità,Blanco Veraz,백양 Baek Yang,白陽 / 白阳 Báiyáng / Baahkyèuhng,643,Reshiram,Vast White Pokémon,はくようポケモン,White Yang Pokémon
+644,Zekrom,Deep Black,こくいん,Koku In,Noir Idéal,Reines Schwarz,Nero Ideale,Negro Puro,흑음 Heug-eum,黑陰 / 黑阴 Hēiyīn / Hāakyām,644,Zekrom,Deep Black Pokémon,こくいんポケモン,Black Yin Pokémon
+645,Landorus,Abundant,ほうじょう,Hōjō,Fertilité,Reichtum,Fertilità,Fertilidad,풍요 Pungyo,豐饒 / 丰饶 Fēngráo / Fūngyìuh,645,Landorus,Abundance Pokémon,ほうじょうポケモン,Fertility Pokémon
+646,Kyurem,Boundary,きょうかい,Kyōkai,Frontière,Schwelle,Confine,Frontera,경계 Gyeonggye,境界 Jìngjiè / Gínggaai,646,Kyurem,Boundary Pokémon,きょうかいポケモン,Boundary Pokémon
+647,Keldeo,Colt,わかごま,Wakagoma,Poulain,Fohlen,Puledro,Potro,망아지 Mang-aji,幼馬 / 幼马 Yòumǎ / Yaumáh,647,Keldeo,Colt Pokémon,わかごまポケモン,Young Colt Pokémon
+648,Meloetta,Melody,せんりつ,Senritsu,Mélodie,Melodie,Melodia,Melodía,선율 Seonyul,旋律 Xuánlǜ / Syùhnleuht,648,Meloetta,Melody Pokémon,せんりつポケモン,Melody Pokémon
+649,Genesect,Paleozoic,こせいだい,Koseidai,Paléozoïque,Paläozoikum,Paleozoico,Paleozoico,고생대 Gosaengdae,古生代 Gǔshēngdài / Gúsāangdoih,649,Genesect,Paleozoic Pokémon,こせいだいポケモン,Paleozoic Pokémon
+650,Chespin,Spiny Nut,いがぐり,Igaguri,Bogue,Stachelkopf,Castanriccio,Erizo,밤송이 Bamsong-i,刺栗 Cìlì / Chileuht,650,Chespin,Spiny Nut Pokémon,いがぐりポケモン,Shelled Chestnut Pokémon
+651,Quilladin,Spiny Armor,とげよろい,Toge Yoroi,Épinarmure,Spitzpanzer,Spincorazza,Corazaespín,가시갑옷 Gasi Gabot,刺鎧 / 刺铠 Cìkǎi / Chihói,651,Quilladin,Spiny Armor Pokémon,とげよろいポケモン,Spiky Armor Pokémon
+652,Chesnaught,Spiny Armor,とげよろい,Toge Yoroi,Épinarmure,Spitzpanzer,Spincorazza,Corazaespín,가시갑옷 Gasi Gabot,刺鎧 / 刺铠 Cìkǎi / Chihói,652,Chesnaught,Spiny Armor Pokémon,とげよろいポケモン,Spiky Armor Pokémon
+653,Fennekin,Fox,キツネ,Kitsune,Renard,Fuchs,Volpe,Zorro,여우 Yeou,狐狸 Húli / Wùhléi,653,Fennekin,Fox Pokémon,キツネポケモン,Fox Pokémon
+654,Braixen,Fox,キツネ,Kitsune,Renard,Fuchs,Volpe,Zorro,여우 Yeou,狐狸 Húli / Wùhléi,654,Braixen,Fox Pokémon,キツネポケモン,Fox Pokémon
+655,Delphox,Fox,キツネ,Kitsune,Renard,Fuchs,Volpe,Zorro,여우 Yeou,狐狸 Húli / Wùhléi,655,Delphox,Fox Pokémon,キツネポケモン,Fox Pokémon
+656,Froakie,Bubble Frog,あわがえる,Awa Gaeru,Crapobulle,Blubbfrosch,Schiumorana,Burburrana,거품개구리 Geopum Gaegori,泡蛙 Pàowā / Pāauwā,656,Froakie,Bubble Frog Pokémon,あわがえるポケモン,Foam Frog Pokémon
+657,Frogadier,Bubble Frog,あわがえる,Awa Gaeru,Crapobulle,Blubbfrosch,Schiumorana,Burburrana,거품개구리 Geopum Gaegori,泡蛙 Pàowā / Pāauwā,657,Frogadier,Bubble Frog Pokémon,あわがえるポケモン,Foam Frog Pokémon
+658,Greninja,Ninja,しのび,Shinobi,Ninja,Ninja,Ninja,Ninja,시노비 Sinobi,忍者 Rěnzhě / Yánjé,658,Greninja,Ninja Pokémon,しのびポケモン,Ninja Pokémon
+659,Bunnelby,Digging,あなほり,Anahori,Fouisseur,Baugräber,Scavabuche,Excavador,땅구멍파기 Ttang Gumeong Pagi,挖洞 Wādòng / Wāduhng,659,Bunnelby,Digging Pokémon,あなほりポケモン,Burrowing Pokémon
+660,Diggersby,Digging,あなほり,Anahori,Fouisseur,Baugräber,Scavabuche,Excavador,땅구멍파기 Ttang Gumeong Pagi,挖洞 Wādòng / Wāduhng,660,Diggersby,Digging Pokémon,あなほりポケモン,Burrowing Pokémon
+661,Fletchling,Tiny Robin,コマドリ,Komadori,Rougegorge,Rotkehlchen,Pettirosso,Petirrojo,울새 Ulsae,知更鳥 / 知更鸟 Zhīgēngniǎo / Jī'āngníuh,661,Fletchling,Tiny Robin Pokémon,コマドリポケモン,Japanese Robin Pokémon
+662,Fletchinder,Ember,ひのこ,Hi no Ko,Braise,Funkenregen,Sfavillante,Lumbre,불티 Bulti,火花 Huǒhuā / Fófā,662,Fletchinder,Ember Pokémon,ひのこポケモン,Sparks Pokémon
+663,Talonflame,Scorching,れっか,Rekka,Fournaise,Stichflamme,Ardifiamma,Flamígero,열화 Yeolhwa,烈火 Lièhuǒ / Lihtfó,663,Talonflame,Scorching Pokémon,れっかポケモン,Raging Fire Pokémon
+664,Scatterbug,Scatterdust,こなふき,Konafuki,Exhalécaille,Puderinsekt,Tirascaglie,Tiraescamas,가루뿜기 Garu Ppumgi,噴粉 / 喷粉 Pēnfěn / Fáhnfán,664,Scatterbug,Scatterdust Pokémon,こなふきポケモン,Powder Blowing Pokémon
+665,Spewpa,Scatterdust,こなふき,Konafuki,Exhalécaille,Puderinsekt,Tirascaglie,Tiraescamas,가루뿜기 Garu Ppumgi,噴粉 / 喷粉 Pēnfěn / Fáhnfán,665,Spewpa,Scatterdust Pokémon,こなふきポケモン,Powder Blowing Pokémon
+666,Vivillon,Scale,りんぷん,Rinpun,Lépidécaille,Flügelstaub,Farfascaglia,Escamaposa,인분 Inbun,鱗粉 / 鳞粉 Línfěn / Lèuhnfán,666,Vivillon,Scale Pokémon,りんぷんポケモン,Scale Pokémon
+667,Litleo,Lion Cub,わかしし,Waka Shishi,Lionceau,Junglöwe,Leoncino,Escamaposa,어린사자 Eorin Saja,幼獅 / 幼狮 Yòushī / Yausī,667,Litleo,Lion Cub Pokémon,わかししポケモン,Young Lion Pokémon
+668,Pyroar,Royal,おうじゃ,Ōja,Royal,Monarch,Reale,Regio,임금 Imgeum,王者 Wángzhě / Wòhngjé,668,Pyroar,Royal Pokémon,おうじゃポケモン,Monarch Pokémon
+669,Flabébé,Single Bloom,いちりん,Ichirin,Uniflore,Einblütler,Monofiore,Monoflor,한송이 Hansong-i,單朵 / 单朵 Dānduǒ / Dāandó,669,Flabébé,Single Bloom Pokémon,いちりんポケモン,Single Flower Pokémon
+670,Floette,Single Bloom,いちりん,Ichirin,Uniflore,Einblütler,Monofiore,Monoflor,한송이 Hansong-i,單朵 / 单朵 Dānduǒ / Dāandó,670,Floette,Single Bloom Pokémon,いちりんポケモン,Single Flower Pokémon
+671,Florges,Garden,ガーデン,Gāden,Jardin,Garten,Giardino,Monoflor,가든 Garden,花園 / 花园 Huāyuán / Fāyùhn,671,Florges,Garden Pokémon,ガーデンポケモン,Garden Pokémon
+672,Skiddo,Mount,ライド,Raido,Monture,Ritt,Cavalcatura,Montura,라이드 Ride,坐騎 / 坐骑 Zuòqí / Chóhgeih,672,Skiddo,Mount Pokémon,ライドポケモン,Ride Pokémon
+673,Gogoat,Mount,ライド,Raido,Monture,Ritt,Cavalcatura,Montura,라이드 Ride,坐騎 / 坐骑 Zuòqí / Chóhgeih,673,Gogoat,Mount Pokémon,ライドポケモン,Ride Pokémon
+674,Pancham,Playful,やんちゃ,Yancha,Garnement,Verspielt,Briccone,Juguetón,개구쟁이 Gaegujaeng-i,頑皮 / 顽皮 Wánpí / Wàahnpèih,674,Pancham,Playful Pokémon,やんちゃポケモン,Naughty Pokémon
+675,Pangoro,Daunting,こわもて,Kowamote,Patibulaire,Gaunerblick,Occhiotruce,Rostro Fiero,무서운얼굴 Museoun Eolgul,惡顏 / 恶颜 Èyán / Ngokngàahn,675,Pangoro,Daunting Pokémon,こわもてポケモン,Aggressive Pokémon
+676,Furfrou,Poodle,プードル,Pūdoru,Caniche,Pudel,Barboncino,Caniche,푸들 Poodle,貴賓犬 / 贵宾犬 Guìbīnquǎn / Gwaibānhyún,676,Furfrou,Poodle Pokémon,プードルポケモン,Poodle Pokémon
+677,Espurr,Restraint,じせい,Jisei,Retenue,Zügelung,Moderazione,Moderación,자제 Jaje,自制 Zìzhì / Jihjai,677,Espurr,Restraint Pokémon,じせいポケモン,Self-control Pokémon
+678,Meowstic,Constraint,よくせい,Yokusei,SelfContrôle,Fassung,Temperanza,Autocontrol,억제 Eokje,抑制 Yìzhì / Yīkjai,678,Meowstic,Constraint Pokémon,よくせいポケモン,Restraint Pokémon
+679,Honedge,Sword,とうけん,Tōken,Glaive,Klingenkraft,Armabianca,Tizona,도검 Dogeom,刀劍 / 刀剑 Dāojiàn / Dōugim,679,Honedge,Sword Pokémon,とうけんポケモン,Sword Pokémon
+680,Doublade,Sword,とうけん,Tōken,Glaive,Klingenkraft,Armabianca,Tizona,도검 Dogeom,刀劍 / 刀剑 Dāojiàn / Dōugim,680,Doublade,Sword Pokémon,とうけんポケモン,Sword Pokémon
+681,Aegislash,Royal Sword,おうけん,Ō Ken,Noble Lame,Königsklinge,Spadareale,Espada Real,왕검 Wanggeom,王劍 / 王剑 Wángjiàn / Wòhnggim,681,Aegislash,Royal Sword Pokémon,おうけんポケモン,Royal Authority Pokémon
+682,Spritzee,Perfume,こうすい,Kōsui,Fragrance,Parfüm,Profumo,Aroma,향수 Hyangsu,香水 Xiāngshuǐ / Hēungséui,682,Spritzee,Perfume Pokémon,こうすいポケモン,Perfume Pokémon
+683,Aromatisse,Fragrance,ほうこう,Hōkō,Parfum,Duft,Fragranza,Fragancia,방향 Banghyang,芳香 Fāngxiāng / Fōnghēung,683,Aromatisse,Fragrance Pokémon,ほうこうポケモン,Fragrance Pokémon
+684,Swirlix,Cotton Candy,わたあめ,Watāme,Confiserie,Zuckerwatte,Zuccherino,Chuchería,솜사탕 Somsatang,棉花糖 Miánhuātáng / Mìhnfātóng,684,Swirlix,Cotton Candy Pokémon,わたあめポケモン,Cotton Candy Pokémon
+685,Slurpuff,Meringue,ホイップ,Hoippu,Mousseline,Schlagsahne,Panna,Nata,휩 Whip,泡沫奶油 Pàomònǎiyóu / Pāaumutnāaiyàuh,685,Slurpuff,Meringue Pokémon,ホイップポケモン,Whipped Cream Pokémon
+686,Inkay,Revolving,かいてん,Kaiten,Rotation,Rotation,Volteggio,Rotación,회전 Hoejeon,回轉 / 回转 Huízhuǎn / Wùihjyún,686,Inkay,Revolving Pokémon,かいてんポケモン,Rotation Pokémon
+687,Malamar,Overturning,ぎゃくてん,Gyakuten,Révolution,Inversion,Giravolta,Revolución,역전 Yeokjeon,倒轉 / 倒转 Dàozhuǎn / Dóujyún,687,Malamar,Overturning Pokémon,ぎゃくてんポケモン,Reversal Pokémon
+688,Binacle,Two-Handed,ふたて,Futate,Bimane,Krallenduo,Bimano,Dos Manos,두손 Du Son,雙手 / 双手 Shuāngshǒu / Sēungsáu,688,Binacle,Two-Handed Pokémon,ふたてポケモン,Two Groups Pokémon
+689,Barbaracle,Collective,しゅうごう,Shūgō,Assemblage,Ballung,Aggregato,Combinación,집합 Jiphap,集合 Jíhé / Jaahpgap,689,Barbaracle,Collective Pokémon,しゅうごうポケモン,Gathering Pokémon
+690,Skrelp,Mock Kelp,クサモドキ,Kusamodoki,Simulalgue,Tangmimikry,Similalga,Pseudoalga,풀모방 Pulmobang,似草 Sìcǎo / Chíhchóu,690,Skrelp,Mock Kelp Pokémon,クサモドキポケモン,Pseudo Grass Pokémon
+691,Dragalge,Mock Kelp,クサモドキ,Kusamodoki,Simulalgue,Tangmimikry,Similalga,Pseudoalga,풀모방 Pulmobang,似草 Sìcǎo / Chíhchóu,691,Dragalge,Mock Kelp Pokémon,クサモドキポケモン,Pseudo Grass Pokémon
+692,Clauncher,Water Gun,みずでっぽう,Mizudeppō,Lance à Eau,Aquapistole,Zampillo,Proyectagua,물대포 Mul Daepo,水槍 / 水枪 Shuǐqiāng / Séuichēung,692,Clauncher,Water Gun Pokémon,みずでっぽうポケモン,Water Gun Pokémon
+693,Clawitzer,Howitzer,ランチャー,Ranchā,Blaster,Aquawumme,Acqualancio,Lanzachorro,런처 Launcher,發射器 / 发射器 Fāshèqì / Faatyehhei,693,Clawitzer,Howitzer Pokémon,ランチャーポケモン,Launcher Pokémon
+694,Helioptile,Generator,はつでん,Hatsuden,Générateur,Generator,Generatore,Generador,발전 Baljeon,發電 / 发电 Fādiàn / Faatdihn,694,Helioptile,Generator Pokémon,はつでんポケモン,Generator Pokémon
+695,Heliolisk,Generator,はつでん,Hatsuden,Générateur,Generator,Generatore,Generador,발전 Baljeon,發電 / 发电 Fādiàn / Faatdihn,695,Heliolisk,Generator Pokémon,はつでんポケモン,Generator Pokémon
+696,Tyrunt,Royal Heir,ようくん,Yōkun,Prince,Kronprinz,Principino,Heredero,유군 Yugun,幼君 Yòujūn / Yaugwān,696,Tyrunt,Royal Heir Pokémon,ようくんポケモン,Young Lord Pokémon
+697,Tyrantrum,Despot,ぼうくん,Bōkun,Tyran,Tyrann,Tiranno,Tirano,폭군 Pokgun,暴君 Bàojūn / Bouhgwān,697,Tyrantrum,Despot Pokémon,ぼうくんポケモン,Tyrant Pokémon
+698,Amaura,Tundra,ツンドラ,Tsundora,Toundra,Tundra,Tundra,Tundra,툰드라 Tundra,凍原 / 冻原 Dòngyuán / Dūngyùhn,698,Amaura,Tundra Pokémon,ツンドラポケモン,Tundra Pokémon
+699,Aurorus,Tundra,ツンドラ,Tsundora,Toundra,Tundra,Tundra,Tundra,툰드라 Tundra,凍原 / 冻原 Dòngyuán / Dūngyùhn,699,Aurorus,Tundra Pokémon,ツンドラポケモン,Tundra Pokémon
+700,Sylveon,Intertwining,むすびつき,Musubitsuki,Attachant,Bindung,Legame,Vínculo,연결 Yeon-gyeol,連結 / 连结 Liánjié / Lìhngit,700,Sylveon,Intertwining Pokémon,むすびつきポケモン,Association Pokémon
+701,Hawlucha,Wrestling,レスリング,Resuringu,Catcheur,Wrestling,Lottalibera,Lucha Libre,레슬링 Wrestling,摔角 Shuāijiǎo / Sēuigok,701,Hawlucha,Wrestling Pokémon,レスリングポケモン,Wrestling Pokémon
+702,Dedenne,Antenna,アンテナ,Antena,Antenne,Antennen,Antenna,Antenas,안테나 Antenna,天線 / 天线 Tiānxiàn / Tīnsin,702,Dedenne,Antenna Pokémon,アンテナポケモン,Antenna Pokémon
+703,Carbink,Jewel,ほうせき,Hōseki,Joyau,Edelstein,Gemma,Joya,보석 Boseok,寶石 / 宝石 Bǎoshí / Bóudaam,703,Carbink,Jewel Pokémon,ほうせきポケモン,Jewel Pokémon
+704,Goomy,Soft Tissue,なんたい,Nantai,Mollusque,Schneckedei,Mollusco,Molusco,연체 Yeonche,軟體生物 / 软体生物 Ruǎntǐshēngwù / Yúhntáisāangmaht,704,Goomy,Soft Tissue Pokémon,なんたいポケモン,Soft Body Pokémon
+705,Sliggoo,Soft Tissue,なんたい,Nantai,Mollusque,Schneckedei,Mollusco,Molusco,연체 Yeonche,軟體生物 / 软体生物 Ruǎntǐshēngwù / Yúhntáisāangmaht,705,Sliggoo,Soft Tissue Pokémon,なんたいポケモン,Soft Body Pokémon
+706,Goodra,Dragon,ドラゴン,Doragon,Dragon,Drache,Drago,Dragón,드래곤 Dragon,龍 / 龙 Lóng / Lùhng,706,Goodra,Dragon Pokémon,ドラゴンポケモン,Dragon Pokémon
+707,Klefki,Key Ring,かぎたば,Kagitaba,Trousseau,Schlüssel,Glitch,Llavero,열쇠꾸러미 Yeolsoe Kkureomi,鑰匙串 / 钥匙串 Yàoshichuàn / Yeuhkchìhchyun,707,Klefki,Key Ring Pokémon,かぎたばポケモン,Key Ring Pokémon
+708,Phantump,Stump,きりかぶ,Kirikabu,Souche,Baumstumpf,Ceppo,Tocón,그루터기 Geuruteogi,樹樁 / 树桩 Shùzhuāng / Syuhjōng,708,Phantump,Stump Pokémon,きりかぶポケモン,Stump Pokémon
+709,Trevenant,Elder Tree,ろうぼく,Rōboku,Vieillarbre,Urgehölz,Alberantico,Árbol Viejo,고목 Gomok,老樹 / 老树 Lǎoshù / Lóuhsyuh,709,Trevenant,Elder Tree Pokémon,ろうぼくポケモン,Old Tree Pokémon
+710,Pumpkaboo,Pumpkin,かぼちゃ,Kabocha,Citrouille,Kürbis,Zucca,Calabaza,호박 Hobak,南瓜 Nánguā / Nàahmgwā,710,Pumpkaboo,Pumpkin Pokémon,かぼちゃポケモン,Pumpkin Pokémon
+711,Gourgeist,Pumpkin,かぼちゃ,Kabocha,Citrouille,Kürbis,Zucca,Calabaza,호박 Hobak,南瓜 Nánguā / Nàahmgwā,711,Gourgeist,Pumpkin Pokémon,かぼちゃポケモン,Pumpkin Pokémon
+712,Bergmite,Ice Chunk,ひょうかい,Hyō Kai,Glaçon,Eisklumpen,Ghiacciolo,Témpano,얼음덩이 Eoreum Deong-i,冰塊 / 冰块 Bīngkuài / Bīngfaai,712,Bergmite,Ice Chunk Pokémon,ひょうかいポケモン,Ice Floe Pokémon
+713,Avalugg,Iceberg,ひょうざん,Hyōzan,Iceberg,Eisberg,Iceberg,Iceberg,빙산 Bingsan,冰山 Bīngshān / Bīngsāan,713,Avalugg,Iceberg Pokémon,ひょうざんポケモン,Iceberg Pokémon
+714,Noibat,Sound Wave,おんぱ,Onpa,Ondes,Schallwellen,Ondasonora,Onda Sónica,음파 Eumpa,音波 Yīnbō / Yāmbō,714,Noibat,Sound Wave Pokémon,おんぱポケモン,Sound Wave Pokémon
+715,Noivern,Sound Wave,おんぱ,Onpa,Ondes,Schallwellen,Ondasonora,Onda Sónica,음파 Eumpa,音波 Yīnbō / Yāmbō,715,Noivern,Sound Wave Pokémon,おんぱポケモン,Sound Wave Pokémon
+716,Xerneas,Life,せいめい,Seimei,Existence,Leben,Creazione,Creación,생명 Saengmyeong,生命 Shēngmìng / Sāangmehng,716,Xerneas,Life Pokémon,せいめいポケモン,Life Pokémon
+717,Yveltal,Destruction,はかい,Hakai,Annihilation,Zerstörung,Distruzione,Destrucción,파괴 Pagoe,破壞 / 破坏 Pòhuài / Powaaih,717,Yveltal,Destruction Pokémon,はかいポケモン,Destruction Pokémon
+718,Zygarde,Order,ちつじょ,Chitsujo,Équilibre,Ordnung,Equilibrio,Equilibrio,질서 Jilseo,秩序 Zhìxù / Dihtjeuih,718,Zygarde,Order Pokémon,ちつじょポケモン,Order Pokémon
+719,Diancie,Jewel,ほうせき,Hōseki,Joyau,Edelstein,Gemma,Joya,보석 Boseok,寶石 / 宝石 Bǎoshí / Bóudaam,719,Diancie,Jewel Pokémon,ほうせきポケモン,Jewel Pokémon
+720,Hoopa Confined,Mischief,いたずら,Itazura,Chenapan,Schabernack,Birba,Travesura,장난 Jangnan,頑童 / 顽童 Wántóng / Wàahntùhng,720,Hoopa Confined,Mischief Pokémon,いたずらポケモン,Mischief Pokémon
+720,Hoopa Unbound,Djinn,まじん,Majin,Djinn,Plagegeist,Genio,Genio Burlón,마신 Masin,魔神 Móshén / Mōsān,720,Hoopa Unbound,Djinn Pokémon,まじんポケモン,Majin Pokémon
+721,Volcanion,Steam,スチーム,Suchīmu,Vapeur,Dampf,Vapore,Vapor,스팀 Steam,蒸汽 Zhēngqì / Jīnghei,721,Volcanion,Steam Pokémon,スチームポケモン,Steam Pokémon
+722,Rowlet,Grass Quill,くさばね,Kusabane,Plumefeuille,Laubflügel,Aliderba,Pluma Hoja,풀깃 Pulgit,草羽 Cǎoyǔ / Chóuyúh,722,Rowlet,Grass Quill Pokémon,くさばねポケモン,Grass Feather Pokémon
+723,Dartrix,Blade Quill,はばね,Habane,Plum'acérée,Flügelklinge,Piumaffilata,Pluma Filo,칼날깃 Kallalgit,刃羽 Rènyǔ / Yahnyúh,723,Dartrix,Blade Quill Pokémon,はばねポケモン,Blade Feather Pokémon
+724,Decidueye,Arrow Quill,やばね,Yabane,Plumeflèche,Pfeilflügel,Alifreccia,Pluma Flecha,화살깃 Hwasalgit,箭羽 Jiànyǔ / Jinyúh,724,Decidueye,Arrow Quill Pokémon,やばねポケモン,Arrow Feather Pokémon
+725,Litten,Fire Cat,ひねこ,Hineko,Chat Feu,Feuerkatze,Pirofelino,Gato Fuego,불고양이 Bulgoyang-i,火貓 / 火猫 Huǒmāo / Fómāau,725,Litten,Fire Cat Pokémon,ひねこポケモン,Fire Cat Pokémon
+726,Torracat,Fire Cat,ひねこ,Hineko,Chat Feu,Feuerkatze,Pirofelino,Gato Fuego,불고양이 Bulgoyang-i,火貓 / 火猫 Huǒmāo / Fómāau,726,Torracat,Fire Cat Pokémon,ひねこポケモン,Fire Cat Pokémon
+727,Incineroar,Heel,ヒール,Hīru,Catcheur,Fiesling,Colpibassi,Rudo,힐 Hil,反派 Fǎnpài / Fāanpāai,727,Incineroar,Heel Pokémon,ヒールポケモン,Heel Pokémon
+728,Popplio,Sea Lion,あしか,Ashika,Otarie,Seehund,Otaria,León Marino,강치 Gangchi,海獅 / 海狮 Hǎishī / Hóisī,728,Popplio,Sea Lion Pokémon,あしかポケモン,Sea Lion Pokémon
+729,Brionne,Pop Star,アイドル,Idol,Starlette,Popsternchen,Pop Star,Fama,아이돌 Idol,偶像 Ǒuxiàng / Ngáuhjeuhng,729,Brionne,Pop Star Pokémon,アイドルポケモン,Idol Pokémon
+730,Primarina,Soloist,ソリスト,Sorisuto,Soliste,Solist,Solista,Solista,솔리스트 Solliseuteu,獨唱者 / 独唱者 Dúchàngzhě / Duhkcheungjé,730,Primarina,Soloist Pokémon,ソリストポケモン,Soloist Pokémon
+731,Pikipek,Woodpecker,きつつき,Kitsutsuki,Pivert,Specht,Picchio,Carpintero,딱따구리 Ttakttaguri,啄木鳥 / 啄木鸟 Zhuómùniǎo / Deukmuhkníuh,731,Pikipek,Woodpecker Pokémon,きつつきポケモン,Woodpecker Pokémon
+732,Trumbeak,Bugle Beak,ラッパぐち,Rappa Guchi,Bec Clairon,Trompete,Trombecco,Trompeta,나팔입 Naparip,喇叭喙 Lǎbāhuì / Lābāfui,732,Trumbeak,Bugle Beak Pokémon,ラッパぐちポケモン,Bugle Beak Pokémon
+733,Toucannon,Cannon,おおづつ,Ōzutsu,Canon,Kanone,Cannone,Cañón,대포 Daepo,銃炮 / 铳炮 Chòngpào / Chungbāau,733,Toucannon,Cannon Pokémon,おおづつポケモン,Cannon Pokémon
+734,Yungoos,Loitering,うろつき,Urotsuki,Patrouille,Patrouille,Pattuglia,Patrulla,순회 Sunhoe,巡迴 / 巡回 Xúnhuí / Chèuhnwùih,734,Yungoos,Loitering Pokémon,うろつきポケモン,Prowling Pokémon
+735,Gumshoos,Stakeout,はりこみ,Harikomi,Filature,Beschattung,Sorveglianza,Vigilante,잠복 Jambok,監視 / 蹲守 Jiānshì / Dūnshǒu / Gāamsih,735,Gumshoos,Stakeout Pokémon,はりこみポケモン,Stakeout Pokémon
+736,Grubbin,Larva,ようちゅう,Yōchū,Larve,Larve,Coleolarva,Pupa,유충 Yuchung,幼蟲 / 幼虫 Yòuchóng / Yauchùhng,736,Grubbin,Larva Pokémon,ようちゅうポケモン,Larva Pokémon
+737,Charjabug,Battery,バッテリー,Battery,Batterie,Batterie,Batteria,Batería,배터리 Battery,蓄電池 / 蓄电池 Xùdiànchí / Chūkdihnchìh,737,Charjabug,Battery Pokémon,バッテリーポケモン,Battery Pokémon
+738,Vikavolt,Stag Beetle,くわがた,Kuwagata,Scarabée,Kneifkäfer,Cervolante,Escarabajo,뿔집게 Ppuljipge,鍬形蟲 / 锹形虫 Qiāoxíng Chóng / Chīuyìhng Chùhng,738,Vikavolt,Stag Beetle Pokémon,くわがたポケモン,Stag Beetle Pokémon
+739,Crabrawler,Boxing,けんとう,Kentō,Boxeur,Boxkampf,Pugile,Púgil,권투 Gwontu,拳鬥 / 拳斗 Quándòu / Kyùhndau,739,Crabrawler,Boxing Pokémon,けんとうポケモン,Boxing Pokémon
+740,Crabominable,Woolly Crab,けがに,Kegani,Crabe Velu,Fellkrabbe,Peligranchio,Cangrejopelo,털게 Teolge,毛蟹 Máoxiè / Mòuhháaih,740,Crabominable,Woolly Crab Pokémon,けがにポケモン,Horsehair Crab Pokémon
+741,Oricorio,Dancing,ダンス,Dance,Danse,Tanz,Danza,Danza,댄스 Dance,舞蹈 Wǔdào / Wǔdǎo / Móuhdouh,741,Oricorio,Dancing Pokémon,ダンスポケモン,Dance Pokémon
+742,Cutiefly,Bee Fly,ツリアブ,Tsuriabu,Bombyle,Hummelfliege,Bombilide,Mosca Abeja,재니등에 Jaenideung-e,蜂虻 Fēngméng / Fūngmòhng,742,Cutiefly,Bee Fly Pokémon,ツリアブポケモン,Bee Fly Pokémon
+743,Ribombee,Bee Fly,ツリアブ,Tsuriabu,Bombyle,Hummelfliege,Bombilide,Mosca Abeja,재니등에 Jaenideung-e,蜂虻 Fēngméng / Fūngmòhng,743,Ribombee,Bee Fly Pokémon,ツリアブポケモン,Bee Fly Pokémon
+744,Rockruff,Puppy,こいぬ,Koinu,Chiot,Hund,Cagnolino,Perrito,강아지 Gang-aji,小狗 Xiǎogǒu / Síugáu,744,Rockruff,Puppy Pokémon,こいぬポケモン,Puppy Pokémon
+745,Lycanroc,Wolf,オオカミ,Ōkami,Loup,Wolf,Lupo,Lobo,늑대 Neukdae,狼 Láng / Lòhng,745,Lycanroc,Wolf Pokémon,オオカミポケモン,Wolf Pokémon
+746,Wishiwashi,Small Fry,こざかな,Kozakana,Minipoisson,Kleinfisch,Pesciolino,Pececillo,잔물고기 Janmulgogi,小魚 / 小鱼 Xiǎoyú / Síuyú,746,Wishiwashi,Small Fry Pokémon,こざかなポケモン,Small Fish Pokémon
+747,Mareanie,Brutal Star,ヒトデナシ,Hitodenashi,Cruel,Quäl-Stern,Stellatroce,Estrellatroz,깨비사리 Kkaebisari,非星 Fēixīng / Fēisēng,747,Mareanie,Brutal Star Pokémon,ヒトデナシポケモン,Brutal Pokémon
+748,Toxapex,Brutal Star,ヒトデナシ,Hitodenashi,Cruel,Quäl-Stern,Stellatroce,Estrellatroz,깨비사리 Kkaebisari,非星 Fēixīng / Fēisēng,748,Toxapex,Brutal Star Pokémon,ヒトデナシポケモン,Brutal Pokémon
+749,Mudbray,Donkey,うさぎうま,Usagiuma,Âne,Packesel,Ciuconiglio,Asno,당나귀 Dangnagwi,驢 / 驴 Lǘ / Lèuih,749,Mudbray,Donkey Pokémon,うさぎうまポケモン,Donkey Pokémon
+750,Mudsdale,Draft Horse,ばんば,Banba,Cheval Trait,Zugpferd,Fortequino,Caballo Tiro,만마 Manma,挽馬 / 挽马 Wǎnmǎ / Wáahnmáh,750,Mudsdale,Draft Horse Pokémon,ばんばポケモン,Draft Horse Pokémon
+751,Dewpider,Water Bubble,すいほう,Suihō,Aquabulle,Wasserblase,Bolladacqua,Pompa,수포 Supo,水泡 Shuǐpào / Séuipāau,751,Dewpider,Water Bubble Pokémon,すいほうポケモン,Water Bubble Pokémon
+752,Araquanid,Water Bubble,すいほう,Suihō,Aquabulle,Wasserblase,Bolladacqua,Pompa,수포 Supo,水泡 Shuǐpào / Séuipāau,752,Araquanid,Water Bubble Pokémon,すいほうポケモン,Water Bubble Pokémon
+753,Fomantis,Sickle Grass,かまくさ,Kama Kusa,Fauch'Herbe,Grassichel,Mantiderba,Filo Hoja,풀사마귀 Pul Samagwi,鐮草 / 镰草 Liáncǎo / Lìhmchóu,753,Fomantis,Sickle Grass Pokémon,かまくさポケモン,Sickle Grass Pokémon
+754,Lurantis,Bloom Sickle,はなかま,Hana Kama,Fauch'Fleur,Blumensichel,Mantifiore,Filo Flor,꽃사마귀 Kkot Samagwi,花鐮 / 花镰 Huālián / Fālìhm,754,Lurantis,Bloom Sickle Pokémon,はなかまポケモン,Flower Sickle Pokémon
+755,Morelull,Illuminating,はっこう,Hakkō,Luminescent,Lumineszenz,Luminescenza,Luminiscente,발광 Balgwang,發光 / 发光 Fāguāng / Faatgwōng,755,Morelull,Illuminating Pokémon,はっこうポケモン,Luminescence Pokémon
+756,Shiinotic,Illuminating,はっこう,Hakkō,Luminescent,Lumineszenz,Luminescenza,Luminiscente,발광 Balgwang,發光 / 发光 Fāguāng / Faatgwōng,756,Shiinotic,Illuminating Pokémon,はっこうポケモン,Luminescence Pokémon
+757,Salandit,Toxic Lizard,どくトカゲ,Doku Tokage,Toxilézard,Giftechse,Lucertossina,Lagartoxina,독도마뱀 Dokdo Mabaem,毒蜥 Dúxī / Duhksīk,757,Salandit,Toxic Lizard Pokémon,どくトカゲポケモン,Poison Lizard Pokémon
+758,Salazzle,Toxic Lizard,どくトカゲ,Doku Tokage,Toxilézard,Giftechse,Lucertossina,Lagartoxina,독도마뱀 Dokdo Mabaem,毒蜥 Dúxī / Duhksīk,758,Salazzle,Toxic Lizard Pokémon,どくトカゲポケモン,Poison Lizard Pokémon
+759,Stufful,Flailing,じたばた,Jitabata,Gigoteur,Wildfang,Bizzoso,Rabieta,바둥바둥 Badungbadung,抓狂 Zhuākuáng / Jáaukwòhng,759,Stufful,Flailing Pokémon,じたばたポケモン,Flailing Pokémon
+760,Bewear,Strong Arm,ごうわん,Gōwan,Biscoteaux,Kraftarme,Fortebraccio,Brazo Fuerte,강한완력 Ganghanwanryeok,強臂 / 强臂 Qiángbì / Kéuhngbei,760,Bewear,Strong Arm Pokémon,ごうわんポケモン,Strong Arm Pokémon
+761,Bounsweet,Fruit,フルーツ,Furūtsu,Fruit,Obst,Frutto,Fruto,후르츠 Hureucheu,水果 Shuǐguǒ / Séuigwó,761,Bounsweet,Fruit Pokémon,フルーツポケモン,Fruit Pokémon
+762,Steenee,Fruit,フルーツ,Furūtsu,Fruit,Obst,Frutto,Fruto,후르츠 Hureucheu,水果 Shuǐguǒ / Séuigwó,762,Steenee,Fruit Pokémon,フルーツポケモン,Fruit Pokémon
+763,Tsareena,Fruit,フルーツ,Furūtsu,Fruit,Obst,Frutto,Fruto,후르츠 Hureucheu,水果 Shuǐguǒ / Séuigwó,763,Tsareena,Fruit Pokémon,フルーツポケモン,Fruit Pokémon
+764,Comfey,Posy Picker,はなつみ,Hanatsumi,Tressefleur,Blumenkranz,Ghirlanda,Recogeflores,꽃따기 Kkot Ttagi,摘花 Zhāihuā / Jaahkfā,764,Comfey,Posy Picker Pokémon,はなつみポケモン,Flower Picker Pokémon
+765,Oranguru,Sage,けんじゃ,Kenja,Grand Sage,Weisheit,Saggio,Sabio,현자 Hyeonja,賢者 / 贤者 Xiánzhě / Yìhnjé,765,Oranguru,Sage Pokémon,けんじゃポケモン,Sage Pokémon
+766,Passimian,Teamwork,れんけい,Renkei,Coopération,Teamwork,Giocosquadra,Cooperación,연게 Yeongye,配合 Pèihé / Puihahp,766,Passimian,Teamwork Pokémon,れんけいポケモン,Cooperation Pokémon
+767,Wimpod,Turn Tail,そうこう,Sōkō,Cavaleur,Laufschritt,Lestopode,Huidizo,주행 Juhaeng,疾行 Jíxíng / Jaahthàhng,767,Wimpod,Turn Tail Pokémon,そうこうポケモン,Bustling Pokémon
+768,Golisopod,Hard Scale,そうこう,Sōkō,Blindé,Rüstung,Blindato,Blindaje,장갑 Janggap,裝甲 / 装甲 Zhuāngjiǎ / Jōnggaap,768,Golisopod,Hard Scale Pokémon,そうこうポケモン,Armored Pokémon
+769,Sandygast,Sand Heap,すなやま,Suna Yama,Pâtéd'Sable,Sandhaufen,Montesabbia,Montearena,모래산 Moraesan,沙丘 Shāqiū / Sāyāu,769,Sandygast,Sand Heap Pokémon,すなやまポケモン,Sand Pile Pokémon
+770,Palossand,Sand Castle,すなのしろ,Suna no Shiro,Châtod'Sable,Sandschloss,Castelsabbia,Castiarena,모래성 Moraeseong,沙堡 Shābǎo / Sābóu,770,Palossand,Sand Castle Pokémon,すなのしろポケモン,Sand Castle Pokémon
+771,Pyukumuku,Sea Cucumber,なまこ,Namako,Holothurie,Seegurke,Oloturia,Pepino Mar,해삼 Haesam,海參 / 海参 Hǎishēn / Hóisām,771,Pyukumuku,Sea Cucumber Pokémon,なまこポケモン,Sea Cucumber Pokémon
+772,Type: Null,Synthetic,じんこう,Jinkō,Multigénome,Modifikation,Multigene,Multigénico,인공 In-gong,人工 Réngōng / Yàhngūng,772,Type: Null,Synthetic Pokémon,じんこうポケモン,Man-made Pokémon
+773,Silvally,Synthetic,じんこう,Jinkō,Multigénome,Modifikation,Multigene,Multigénico,인공 In-gong,人工 Réngōng / Yàhngūng,773,Silvally,Synthetic Pokémon,じんこうポケモン,Man-made Pokémon
+774,Minior,Meteor,ながれぼし,Nagareboshi,Météore,Meteor,Meteora,Meteoro,유성 Yuseong,流星 Liúxīng / Làuhsīng,774,Minior,Meteor Pokémon,ながれぼしポケモン,Meteor Pokémon
+775,Komala,Drowsing,ゆめうつつ,Yumeutsutsu,Rêveur,Halbschlaf,Dormiveglia,Duermevela,꿈결 Kkumgyeol,半夢半醒 / 半梦半醒 Bànmèngbànxǐng / Bunmuhngbunsíng,775,Komala,Drowsing Pokémon,ゆめうつつポケモン,Trance Pokémon
+776,Turtonator,Blast Turtle,ばくはつがめ,Bakuhatsu Game,Tortue Boum,Knallkröte,Tartabomba,Tortugabomba,폭발거북 Pokbalgeobuk,爆炸龜 / 爆炸龟 Bàozhàguī / Baaujagwāi,776,Turtonator,Blast Turtle Pokémon,ばくはつがめポケモン,Explosion Turtle Pokémon
+777,Togedemaru,Roly-Poly,まるまり,Maru Mari,Roulenboule,Einigler,Ricciopalla,Bolita,동글동글 Donggeuldonggeul,蜷縮 / 蜷缩 Quánsuō / Kyùhnsūk,777,Togedemaru,Roly-Poly Pokémon,まるまりポケモン,Circle Ball Pokémon
+778,Mimikyu,Disguise,ばけのかわ,Bakenokawa,Fantômasque,Kostümspuk,Fantasmanto,Disfraz,탈 Tal,畫皮 / 画皮 Huàpí / Wápèih,778,Mimikyu,Disguise Pokémon,ばけのかわポケモン,Disguise Pokémon
+779,Bruxish,Gnash Teeth,はぎしり,Hagishiri,Grincedent,Knirschzahn,Sfregadenti,Rechinante,이갈기 Igalgi,磨牙 Móyá / Mòh'ngàh,779,Bruxish,Gnash Teeth Pokémon,はぎしりポケモン,Bruxism Pokémon
+780,Drampa,Placid,ゆうゆう,Yūyū,Nonchalant,Gelassenheit,Tuttacalma,Sosiego,느긋누긋 Neugeunnugeut,悠遊 Yōuyóu / Yāuyàuh,780,Drampa,Placid Pokémon,ゆうゆうポケモン,Calm Pokémon
+781,Dhelmise,Sea Creeper,もくず,Mokuzu,Varech,Seetang,Brandellalga,Alga Ancla,해초조각 Haechojogak,碎藻 Suìzǎo / Seuijóu,781,Dhelmise,Sea Creeper Pokémon,もくずポケモン,Seaweed Pokémon
+782,Jangmo-o,Scaly,うろこ,Uroko,Écailles,Schuppentier,Squama,Escamas,비늘 Bineul,鱗片 / 鳞片 Línpiàn / Lèuhnpín,782,Jangmo-o,Scaly Pokémon,うろこポケモン,Scale Pokémon
+783,Hakamo-o,Scaly,うろこ,Uroko,Écailles,Schuppentier,Squama,Escamas,비늘 Bineul,鱗片 / 鳞片 Línpiàn / Lèuhnpín,783,Hakamo-o,Scaly Pokémon,うろこポケモン,Scale Pokémon
+784,Kommo-o,Scaly,うろこ,Uroko,Écailles,Schuppentier,Squama,Escamas,비늘 Bineul,鱗片 / 鳞片 Línpiàn / Lèuhnpín,784,Kommo-o,Scaly Pokémon,うろこポケモン,Scale Pokémon
+785,Tapu Koko,Land Spirit,とちがみ,Tochi Gami,Tutélaire,Schutzpatron,Nume Locale,Dios Nativo,토속신 Tosoksin,土地神 Tǔdì Shén / Tóudeih Sàhn,785,Tapu Koko,Land Spirit Pokémon,とちがみポケモン,Land Spirit Pokémon
+786,Tapu Lele,Land Spirit,とちがみ,Tochi Gami,Tutélaire,Schutzpatron,Nume Locale,Dios Nativo,토속신 Tosoksin,土地神 Tǔdì Shén / Tóudeih Sàhn,786,Tapu Lele,Land Spirit Pokémon,とちがみポケモン,Land Spirit Pokémon
+787,Tapu Bulu,Land Spirit,とちがみ,Tochi Gami,Tutélaire,Schutzpatron,Nume Locale,Dios Nativo,토속신 Tosoksin,土地神 Tǔdì Shén / Tóudeih Sàhn,787,Tapu Bulu,Land Spirit Pokémon,とちがみポケモン,Land Spirit Pokémon
+788,Tapu Fini,Land Spirit,とちがみ,Tochi Gami,Tutélaire,Schutzpatron,Nume Locale,Dios Nativo,토속신 Tosoksin,土地神 Tǔdì Shén / Tóudeih Sàhn,788,Tapu Fini,Land Spirit Pokémon,とちがみポケモン,Land Spirit Pokémon
+789,Cosmog,Nebula,せいうん,Sēun,Nébuleuse,Nebula,Nebulosa,Nebulosa,성운 Seong-un,星雲 / 星云 Xīngyún / Sēngwàhn,789,Cosmog,Nebula Pokémon,せいうんポケモン,Nebula Pokémon
+790,Cosmoem,Protostar,げんしせい,Genshisei,Proto-Étoile,Urgestirn,Protostella,Protostrella,원시성 Wonsiseong,原始星 Yuánshǐxīng / Yùhnchísēng,790,Cosmoem,Protostar Pokémon,げんしせいポケモン,Protostar Pokémon
+791,Solgaleo,Sunne,にちりん,Nichirin,Halo Solaire,Sonnenkreis,Solare,Corona Solar,일륜 Ilryun,日輪 / 日轮 Rìlún / Yahtlèuhn,791,Solgaleo,Sunne Pokémon,にちりんポケモン,Sun Pokémon
+792,Lunala,Moone,がちりん,Gachirin,Halo Lunaire,Mondscheibe,Lunare,Corona Lunar,월륜 Wolryun,月輪 / 月轮 Yuèlún / Yuhtlèuhn,792,Lunala,Moone Pokémon,がちりんポケモン,Moon Pokémon
+793,Nihilego,Parasite,きせい,Kisei,Parasite,Parasit,Parassita,Parásito,기생 Gisaeng,寄生 Jìshēng / Geisāang,793,Nihilego,Parasite Pokémon,きせいポケモン,Parasite Pokémon
+794,Buzzwole,Swollen,ぼうちょう,Bōchō,Enflé,Ausdehnung,Gonfiacorpo,Hinchado,팽창 Paengchang,膨脹 / 膨胀 Péngzhàng / Pàahngjeung,794,Buzzwole,Swollen Pokémon,ぼうちょうポケモン,Swollen Pokémon
+795,Pheromosa,Lissome,えんび,Enbi,Gracile,Eleganz,Leggiadria,Elegancia,염미 Yeommi,美艷 / 美艳 Měiyàn / Méihyihm,795,Pheromosa,Lissome Pokémon,えんびポケモン,Beauty Pokémon
+796,Xurkitree,Glowing,でんしょく,Denshoku,Luminaire,Illumination,Luminaria,Luminaria,전기장식 Jeongijangsik,燈飾 / 灯饰 Dēngshì / Dāngsīk,796,Xurkitree,Glowing Pokémon,でんしょくポケモン,Glowing Pokémon
+797,Celesteela,Launch,うちあげ,Uchiage,Décollage,Raketenstart,Decollo,Lanzamiento,쏴올리기 Sswaolligi,發射 / 发射 Fāshè / Faatyeh,797,Celesteela,Launch Pokémon,うちあげポケモン,Launch Pokémon
+798,Kartana,Drawn Sword,ばっとう,Battō,Battô,Schwertkunst,Spadatratta,Desenvaine,발도 Baldo,拔刀 Bádāo / Bahtdōu,798,Kartana,Drawn Sword Pokémon,ばっとうポケモン,Drawn Sword Pokémon
+799,Guzzlord,Junkivore,あくじき,Akujiki,Bizarrovore,Gaumenfolter,Divoratutto,Tragaldabas,악식성 Aksikseong,異食 / 异食 Yìshí / Yihyih,799,Guzzlord,Junkivore Pokémon,あくじきポケモン,Allotriophage Pokémon
+800,Necrozma,Prism,プリズム,Prism,Prisme,Prisma,Prisma,Prisma,프리즘 Prism,稜鏡 / 棱镜 Léngjìng / Lìhnggeng,800,Necrozma,Prism Pokémon,プリズムポケモン,Prism Pokémon
+801,Magearna,Artificial,じんぞう,Jinzō,Artificiel,Fabrikat,Artificiale,Artificial,인조 Injo,人造 Rénzào / Yàhnjouh,801,Magearna,Artificial Pokémon,じんぞうポケモン,Artificial Pokémon
+802,Marshadow,Gloomdweller,かげすみ,Kagesumi,Ombrefuge,Dunkelwesen,Vivinombra,Morasombra,그림자살이 Geurimjasari,棲影 / 栖影 Qīyǐng / Chāiyéng,802,Marshadow,Gloomdweller Pokémon,かげすみポケモン,Shadow Dweller Pokémon
+803,Poipole,Poison Pin,どくばり,Dokubari,Vénépic,Giftdorn,Velenago,Pin Veneno,독침 Dogchim,毒針 / 毒针 Dúzhēn / Duhkjām,803,Poipole,Poison Pin Pokémon,どくばりポケモン,Poison Needle Pokémon
+804,Naganadel,Poison Pin,どくばり,Dokubari,Vénépic,Giftdorn,Velenago,Pin Veneno,독침 Dogchim,毒針 / 毒针 Dúzhēn / Duhkjām,804,Naganadel,Poison Pin Pokémon,どくばりポケモン,Poison Needle Pokémon
+805,Stakataka,Rampart,いしがき,Ishigaki,Muraille,Steinmauer,Bastione,Muro,돌담 Doldam,石牆 / 石墙 Shíqiáng / Sehkchèuhng,805,Stakataka,Rampart Pokémon,いしがきポケモン,Stone Wall Pokémon
+806,Blacephalon,Fireworks,はなび,Hanabi,Artificier,Feuerwerk,Pirotecnico,Pirotecnia,불꽃놀이 Bulkkochnol-i,煙火 / 烟火 Yānhuǒ / Yīnfó,806,Blacephalon,Fireworks Pokémon,はなびポケモン,Fireworks Pokémon
+807,Zeraora,Thunderclap,じんらい,Jinrai,Vif Éclair,Blitzsturm,Fulmirapido,Fulgor,신뢰 Sinloe,奔雷 Bēnléi / Bānlèuih,807,Zeraora,Thunderclap Pokémon,じんらいポケモン,Thunderclap Pokémon
+808,Meltan,Hex Nut,ナット,Natto,Écrou,Mutter,Bullone,Tuerca,너트 Neoteu,螺帽 Luómào,808,Meltan,Hex Nut Pokémon,ナットポケモン,Nut Pokémon
+809,Melmetal,Hex Nut,ナット,Natto,Écrou,Mutter,Bullone,Tuerca,너트 Neoteu,螺帽 Luómào,809,Melmetal,Hex Nut Pokémon,ナットポケモン,Nut Pokémon
+,,,,,,,,,,,,Grookey,Chimp Pokémon,こざるポケモン,Small Monkey Pokémon
+,,,,,,,,,,,,Scorbunny,Rabbit Pokémon,うさぎポケモン,Rabbit Pokémon
+,,,,,,,,,,,,Sobble,Water Lizard Pokémon,みずとかげポケモン,Water Lizard Pokémon
