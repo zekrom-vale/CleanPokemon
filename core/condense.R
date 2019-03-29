@@ -25,6 +25,9 @@ agg%<>%
 
 agg%<>%
 	mutate(
+		Body=gsub("Pokémon\\s*(?:consisting of( only an?)?|with an?|with|consisting of an?)\\s*", "", Body)
+	)%>%
+	mutate(
 		Body=paste0(str_to_upper(str_sub(Body,1,1)),str_sub(Body,2,-1))
 	);
 

@@ -103,8 +103,9 @@ weight=weight%>%
 	filter(
 		WeightKg!=0&WeightLbs!=0
 	);
-
-# Extract Exp
+################################################################################
+# 															Extract Exp
+################################################################################
 exc=PokemonRaw_Core_Pokemon%>%
 	rename(Dex=ID_3, Name=Name_4)%>%mutate(
 		Dex=as.integer(Dex)
@@ -113,8 +114,10 @@ exc=PokemonRaw_Core_Pokemon%>%
 # Save
 exp=exc[1:3];
 PokemonRaw_Core_Pokemon=exc%>%select(-(1:3));
+################################################################################
+# 																Extract body
+################################################################################
 
-# Extract body
 exc=PokemonRaw_Core_Pokemon%>%
 	extract(
 		ID_Ext_2,
@@ -122,7 +125,6 @@ exc=PokemonRaw_Core_Pokemon%>%
 		regex=reg
 	)%>%
 	mutate(
-		Body=gsub("Pokémon\\s*(?:consisting of( only an?)?|with an?|with|consisting of an?)\\s*", "", Body),
 		Dex=as.integer(Dex)
 	)%>%
 	rename(
