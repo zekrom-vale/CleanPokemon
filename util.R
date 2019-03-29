@@ -18,3 +18,21 @@ not_distinct=function(df, col, ...){
 			!!nd_col%in%dups[[1]]
 		);
 }
+
+# Visulization functions
+chunk=function(df,index=1, start=1, end=20){
+	slice(df,(start:end)+end*index)
+}
+
+see=function(df,index=1, start=1, end=10){
+	slice(df,(start:end)+end*index)
+}
+
+chunks=function(df,first=1, last=3, start=1, end=20){
+	i=first;
+	while(i<=last){
+		i=i+1;
+		print(chunk(df, i, start=start, end=end));
+	}
+	return(NULL);
+}
