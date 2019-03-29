@@ -17,7 +17,7 @@ source("util.R");
 source("core/clean.R");
 source("core/manageAlts.R", encoding="UTF-8");
 source("core/merge.R"); #NS
-source("core/merge2.R");
+source("core/merge2.R"); #?NS
 source("core/condense.R");
 write_csv(agg,path="core/agg.csv",na="");
 

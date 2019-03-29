@@ -1,6 +1,8 @@
 # See how at https://dplyr.tidyverse.org/articles/programming.html
 require(dplyr);
 # This function returns thae values that are not distinct
+
+print("This small utility package was developed by zekrom_vale to fill in the gaps missing.");
 not_distinct=function(df, col, ...){
 	nd_vars=enquos(col,...);
 	nd_col=enquo(col);
@@ -35,3 +37,12 @@ chunks=function(df,first=1, last=3, start=1, end=20){
 		print(chunk(df, i, start=start, end=end));
 	}
 }
+
+panH=function(df, index=2, start=1, end=8){
+	select(df, (start:end)+end*(index-1));
+}
+
+pan=function(df, index=2, start=1, end=12){
+	select(df, (start:end)+end*(index-1));
+}
+

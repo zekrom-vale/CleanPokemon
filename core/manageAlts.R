@@ -606,5 +606,5 @@ types.agg=types.agg%>%
 
 # Remove junk
 rm(
-	varations, varations.f, varations.m, alts, alts.f, alts.m, alts.miss, types, types.f, types.f.f, Necrozma, types.agg, types.agg.j
+	varations, varations.f, varations.m, alts, alts.f, alts.m, alts.miss, types, types.f, types.f.f, Necrozma, types.agg.j
 );

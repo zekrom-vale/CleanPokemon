@@ -695,4 +695,41 @@ agg.j%>%
 agg=agg.j;
 rm(agg.j);
 
-rm(ability, call, evolution, friend, iq, color, agg.rec);
+###############################################################################
+# 															Join with habatat
+###############################################################################
+# No values in Dex_Suffix
+habatat%>%filter(!is.na(Dex_Suffix));
+
+# Remove Pokemon from Habitat
+habatat%<>%
+	mutate(
+		Habitat=sub("\\s*Pokémon\\s*$", "", Habitat)
+	);
+
+agg%>%
+	left_join(
+		habatat%>%
+			select(-c(Dex_Suffix,Type,Type2)),
+			by=c("Name", "Dex")
+	);
+
+# See what did not match
+
+habatat%>%
+	anti_join(
+		agg,
+		by=c("Name", "Dex")
+	)%>%
+	filter(!is.na(Name));
+
+# Nothing missing so save
+
+agg%<>%
+	left_join(
+		habatat%>%
+			select(-c(Dex_Suffix,Type,Type2)),
+		by=c("Name", "Dex")
+	);
+
+rm(ability, call, evolution, friend, iq, color, agg.rec, habatat);

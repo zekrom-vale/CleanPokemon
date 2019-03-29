@@ -6,9 +6,9 @@ PokemonRaw_Core_Pokemon
 
 reg="\\s*#?(\\d+)?([[:alpha:]]+)?\\s*";
 into=c("Dex","Dex_Suffix");
-
-# Extract Dex
-
+################################################################################
+# 																	Extract Dex
+################################################################################
 exc=PokemonRaw_Core_Pokemon%>%
 	extract(
 		ID_Ext,
@@ -29,8 +29,9 @@ exc=PokemonRaw_Core_Pokemon%>%
 # Save
 dex=exc[1:7];
 PokemonRaw_Core_Pokemon=exc%>%select(-c(1:7));
-
-# Extract gender
+################################################################################
+# 														Extract gender
+################################################################################
 exc=PokemonRaw_Core_Pokemon%>%
 	mutate(
 	  ID_1=as.integer(ID_1)
@@ -39,8 +40,9 @@ exc=PokemonRaw_Core_Pokemon%>%
 
 gender=exc[1:5];
 PokemonRaw_Core_Pokemon=exc%>%select(-c(1:5));
-
-# Extract Egg group
+################################################################################
+#													 Extract Egg group
+################################################################################
 
 exc=PokemonRaw_Core_Pokemon%>%
 	mutate(
@@ -62,8 +64,9 @@ exc=PokemonRaw_Core_Pokemon%>%
 # Save
 eggGroup=exc[1:10];
 PokemonRaw_Core_Pokemon=exc%>%select(-c(1:10));
-
-# Extract weight
+################################################################################
+# 															Extract weight
+################################################################################
 
 exc=PokemonRaw_Core_Pokemon%>%
 	extract(
@@ -144,8 +147,9 @@ body=body%>%
 		!is.na(Dex)
 	)%>%
 	select(-ID_4);
-
-# Extract color
+################################################################################
+# 															Extract color
+################################################################################
 
 exc=PokemonRaw_Core_Pokemon%>%
 	extract(
@@ -162,7 +166,10 @@ exc=PokemonRaw_Core_Pokemon%>%
 color=exc[1:4];
 PokemonRaw_Core_Pokemon=exc%>%select(-(1:4));
 
-# Extract Ability
+################################################################################
+# 															Extract Ability
+################################################################################
+
 exc=PokemonRaw_Core_Pokemon%>%
 	extract(
 		ID_Ext_3,
@@ -184,8 +191,9 @@ PokemonRaw_Core_Pokemon=exc%>%select(-(1:7));
 # Remove ID_6
 ability=ability%>%select(-ID_6);
 
-# Extract Evolution
-
+################################################################################
+# 													Extract Evolution
+################################################################################
 exc=PokemonRaw_Core_Pokemon%>%
 	extract(
 		ID_7,
@@ -215,8 +223,10 @@ exc=PokemonRaw_Core_Pokemon%>%
 # Save
 friend=exc[1:3];
 PokemonRaw_Core_Pokemon=exc%>%select(-(1:3));
+################################################################################
+# 												Extract Call rate
+################################################################################
 
-# Extract Call rate
 PokemonRaw_Core_Pokemon$Call_Rate_SM
 # Has —'s
 exc=PokemonRaw_Core_Pokemon%>%
@@ -230,8 +240,10 @@ exc=PokemonRaw_Core_Pokemon%>%
 # Save
 call=exc[1:4];
 PokemonRaw_Core_Pokemon=exc%>%select(-(1:4));
+################################################################################
+# 														Extract Habitat
+################################################################################
 
-# Extract Habitat
 exc=PokemonRaw_Core_Pokemon%>%
 	extract(
 		Ndex,
@@ -244,11 +256,14 @@ exc=PokemonRaw_Core_Pokemon%>%
 		Dex=as.integer(Dex)
 	)%>%
 	rename(
-		Name=Name_11
+		Name=Name_11,
+		Type=Type_1,
+		Type2=Type2_2
 	);
 
 # Save
 habatat=exc[1:7];
+
 iq=exc%>%
 	select(-(1:7))%>%
 	rename(
