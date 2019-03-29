@@ -623,3 +623,5 @@ agg%>%
 
 agg=.Last.value;
 
+
+rm(body, weight, eggGroup, gender, dex);

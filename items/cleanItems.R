@@ -368,6 +368,7 @@ itemsIDs=items_Gen2%>%
 				Game="LG"
 			)
 	);
+rm(items_Gen1, items_Gen2, items_Gen3, items_Gen3Colo, items_Gen3XD ,items_Gen4, items_Gen5, items_Gen6, items_Gen7, items_Gen7LG);
 
 # Remove *'s and mutate id to int
 itemsIDs%<>%
@@ -551,7 +552,7 @@ itemsLang.f%<>%
 	);
 
 itemsLang=itemsLang.f;
-rm(itemsLang.f);
+rm(itemsLang.f, reg);
 
 # Join with items
 items%>%

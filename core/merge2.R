@@ -694,3 +694,5 @@ agg.j%>%
 # Save to agg
 agg=agg.j;
 rm(agg.j);
+
+rm(ability, call, evolution, friend, iq, color, agg.rec);
