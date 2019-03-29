@@ -368,6 +368,35 @@ itemsIDs=items_Gen2%>%
 				Game="LG"
 			)
 	);
+
+# Union with itemsIDs
+itemsIDs%<>%
+	union(
+		items_Gen1%>%
+			add_column(
+				Sub_Game=NA_character_,
+				Gen=1L,
+				Game=NA_character_
+			)%>%
+			add_column(
+				d1=" (",
+				d2=" - ",
+				d3=")"
+			)%>%
+			unite(
+				Name,
+				Name, d1, Translation, d2, Type, d3,
+				sep=""
+			)%>%
+			mutate(
+				Name=gsub("\\s*(?:\\(NA - NA\\)| - NA|NA - )\\s*", "", Name),
+				Pokcet=as.character(Pokcet)
+			)%>%
+			filter(
+				Name!="NA"&!is.na(Name)
+			)
+	);
+
 rm(items_Gen1, items_Gen2, items_Gen3, items_Gen3Colo, items_Gen3XD ,items_Gen4, items_Gen5, items_Gen6, items_Gen7, items_Gen7LG);
 
 # Remove *'s and mutate id to int
@@ -423,7 +452,9 @@ itemsLang%>%
 	arrange(
 		English
 	);
-
+###############################################################################
+#														Join items lang and items
+###############################################################################
 # Melt
 itemsLang.melt=itemsLang%>%
 	melt(
@@ -457,8 +488,7 @@ itemsLang.melt.f=itemsLang.melt%>%
 	as_tibble();
 
 # See if it worked
-itemsLang.melt.f%>%
-	slice((1:20)+20*4);
+itemsLang.melt.f%>%chunk(4)
 
 # Nothing miss maptched
 itemsLang.melt.f%>%
