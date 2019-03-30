@@ -222,7 +222,8 @@ items_Gen7LG=ItemRaw_ItemIDs%>%
 rm(ItemRaw_ItemIDs, ItemRaw_Items);
 
 ###############################################################################
-# Convert color to game
+# 										Convert color to game
+###############################################################################
 items_Gen2%<>%
 	mutate(
 		Sub_Game=case_when(
@@ -300,7 +301,8 @@ items_Gen7LG%<>%
 	);
 
 ###############################################################################
-# Convert to long table
+# 										Convert to long table
+###############################################################################
 # Skip gen 1 for now
 items_Gen1%>%
 	add_column(
@@ -323,7 +325,7 @@ itemsIDs=items_Gen2%>%
 		items_Gen3Colo%>%
 			add_column(
 				Gen=3L,
-				Game="Colo"
+				Game="Colosseum"
 			)
 	)%>%
 	union(
@@ -365,7 +367,7 @@ itemsIDs=items_Gen2%>%
 		items_Gen7LG%>%
 			add_column(
 				Gen=7L,
-				Game="LG"
+				Game="Let's Go"
 			)
 	);
 
@@ -435,6 +437,18 @@ itemsIDs%<>%
 	mutate(
 		Game=if_else(Game=="",NA_character_,Game)
 	);
+###############################################################################
+#													Remove pocket and unknown pocket
+###############################################################################
+itemsIDs%<>%
+	mutate(
+		Pokcet=if_else(
+			Pokcet=="Unknown pocket",
+			NA_character_,
+			gsub(" pocket","",Pokcet)
+		)
+	);
+
 
 ###############################################################################
 # Try joining them
@@ -665,7 +679,3 @@ write_csv(items,"items/items.csv",na="");
 
 # Export item ids
 write_csv(itemsIDs,"items/itemIDs.csv",na="");
-
-
-
-
