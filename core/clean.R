@@ -265,9 +265,10 @@ exc=PokemonRaw_Core_Pokemon%>%
 
 # Save
 habatat=exc[1:7];
+PokemonRaw_Core_Pokemon=exc%>%
+	select(-(1:7));
 
-iq=exc%>%
-	select(-(1:7))%>%
+exc=PokemonRaw_Core_Pokemon%>%
 	rename(
 		Name=Name_12,
 		Type=Type_2,
@@ -281,10 +282,39 @@ iq=exc%>%
 	mutate(
 		Group=gsub("Group\\s*","",Group),
 		Dex=as.integer(Dex)
-	)%>%
+	);
+
+# Save
+iq=exc[1:6]%>%
 	filter(
 		!is.na(Dex)
 	);
+height=exc%>%
+	select(-(1:6))%>%
+	rename(
+		Name=Name_13,
+		ID_Ext=ID_Ext_4
+	)%>%
+	filter(
+		!is.na(Name)
+	)%>%
+	extract(
+		ID_Ext,
+		into=into,
+		regex=reg
+	)%>%
+	separate(
+		HeightFtIn,
+		into=c("Ft","In"),
+		extra="drop"
+	)%>%
+	mutate(
+		Dex=as.integer(Dex),
+		Ft=as.integer(Ft),
+		In=as.integer(In),
+		HeightM=as.double(gsub("\\s*m","",HeightM))
+	);
+
 
 rm(exc, PokemonRaw_Core_Pokemon, reg, into, agg.j, agg.comp, dex.j);
 

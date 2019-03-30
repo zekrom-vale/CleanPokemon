@@ -732,4 +732,111 @@ agg%<>%
 		by=c("Name", "Dex")
 	);
 
-rm(ability, call, evolution, friend, iq, color, agg.rec, habatat);
+###############################################################################
+# 															Join with height
+###############################################################################
+# Extract name into pre and suff
+height%<>%
+	extract(
+		Name,
+		into=c("Pre", "Name"),
+		regex="(Alolan|Mega|Primal|Ultra|\\S+ Size|Original Color)?\\s*(.*)"
+	)%>%extract(
+		Name,
+		into=c("Name","Suff"),
+		regex="(.*?)\\s*(X|Y|Unbound|Confined|\\S++\\s++(?:Forme?|Kyurem|Wings))?\\s*$",
+		perl=TRUE
+	);
+
+# Try joining it
+
+agg.j=agg%>%
+	inner_join(
+		height,
+		by=c("Name", "Dex"),
+		suffix=c("",".d")
+	)%>%
+	filter(
+		Dex_Suffix==Dex_Suffix.d|
+		is.na(Dex_Suffix)&is.na(Dex_Suffix)&is.na(Pre)&is.na(Suff)|
+		Class==Pre|
+		Class==Suff
+	);
+
+
+# What is suplicated
+agg.j%>%
+	not_distinct(Name, Dex, Dex_Suffix, Class);
+
+# See what we missed
+agg.j2=agg%>%
+	setdiff(
+		agg.j%>%select(-c(Ft, In, HeightM, Dex_Suffix.d, Pre, Suff))
+	)%>%
+	inner_join(
+		height%>%
+			select(-c(Dex_Suffix)),
+		by=c("Name", "Dex")
+	);
+# Missing Meganium as it has Mega in it's name
+
+# See if nothing is not distinct
+agg.j2%>%
+	not_distinct(Name, Dex, Dex_Suffix, Class);
+
+# Union them
+
+agg.f=agg.j%>%
+	select(-Dex_Suffix.d)%>%
+	union(
+		agg.j2
+	);
+
+# See what is not distinct
+
+agg.f%>%
+	not_distinct(Name, Dex, Dex_Suffix, Class);
+
+# Add Meganium
+agg.f%<>%
+	union(
+		agg%>%
+			filter(Dex==154)%>%
+			inner_join(
+				height%>%
+					select(-c(Name, Dex_Suffix)),
+				by=Dex
+			)
+	);
+
+# Remove duplicates (Two exist)
+# Magearna Necrozma Meowstic
+
+agg.f%>%
+	not_distinct(Name, Dex, Dex_Suffix, Class)%>%
+	select(Name, Dex, Dex_Suffix, Class, Color, HeightM)%>%
+	arrange(Dex);
+
+	# Fix Meowstic
+	agg.f%<>%
+		mutate(
+			Dex_Suffix=if_else(Dex==678&Color=="White","F",Dex_Suffix),
+			Class=if_else(Dex==678,if_else(Color=="White","Female","Male"),Class)
+		);
+
+# Kill duplicates by just using distinct and .keepAll
+
+agg=agg.f%>%
+	distinct(
+		Name, Dex, Dex_Suffix, Class, .keep_all=TRUE
+	);
+# Perfect, same count!
+
+# Remove Pre and Suff
+agg%<>%
+	select(
+		-Pre, -Suff
+	);
+
+
+rm(ability, call, evolution, friend, iq, color, agg.rec, habatat, agg.f, agg.j, agg.j2);
