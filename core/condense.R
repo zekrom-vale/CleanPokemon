@@ -60,3 +60,5 @@ agg%<>%
 # Decode pos 3 = x%/%2^2
 # Decode pos 2 = x%/%2%%2
 # Decode pos 1 = x%%2
+
+rm(dexes, dexsuff, types.agg, types.agg.j);

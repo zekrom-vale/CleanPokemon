@@ -26,5 +26,5 @@ source("ability/cleanAbility.R", encoding="UTF-8");
 
 library(reshape2);
 # Items
-source("items/cleanItems.R");
+source("items/cleanItems.R", encoding="UTF-8");#NS
 

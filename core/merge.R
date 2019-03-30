@@ -544,8 +544,9 @@ agg%>%
 agg=.Last.value;
 
 rm(agg.t);
-
-# Merge with exp
+###############################################################################
+# 															Merge with exp
+###############################################################################
 
 agg%>%
 	inner_join(
@@ -624,4 +625,4 @@ agg%>%
 agg=.Last.value;
 
 
-rm(body, weight, eggGroup, gender, dex);
+rm(body, weight, eggGroup, gender, dex, exp);

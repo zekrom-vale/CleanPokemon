@@ -627,28 +627,45 @@ items.j%>%
 
 # Save
 items=items.j;
-rm(items.j);
+rm(items.j, itemsLang);
 
 # Add NameStar to Star
 items%<>%
 	mutate(
-		Star=if_else(!is.na(NameStar),NameStar*2^11+if_else(!is.na(Star),Star,0), Star),
+		Star=if_else(!is.na(NameStar),NameStar*2^11+if_else(!is.na(Star),Star,0L), Star),
 		NameStar=NULL
 	);
 
+###############################################################################
+# See if all items are in items
+itemsIDs%>%
+	inner_join(
+		items,
+		by="Name"
+	);
+
+# No, many items are missed
+
+# How many?
+itemsIDs%>%
+	anti_join(
+		items,
+		by="Name"
+	)%>%
+	distinct(Name)%>%
+	`$`(Name);
+
+# Too many and includes glitch items as well as TMs and dev items
+# Items also have aleses
+
+###############################################################################
+
 # Export list of items
 write_csv(items,"items/items.csv",na="");
-###############################################################################
 
 # Export item ids
 write_csv(itemsIDs,"items/itemIDs.csv",na="");
 
 
-# See if all items are in items
-itemsIDs%>%
-	inner_join(
-		items,
-		by=c(Name="Name")
-	);
 
-# No, many items are missed
+

@@ -1,4 +1,3 @@
-library(tidyverse);
 AbilityRaw_Ability_Data=read_csv("ability/AbilityRaw - Ability Data.csv");
 # Fix ID and Index to int
 AbilityRaw_Ability_Data=AbilityRaw_Ability_Data%>%
@@ -14,6 +13,8 @@ abilityKey=AbilityRaw_Ability_Data[1:7]%>%
 			select(-(1:7)),
 		by=c(ID="Index")
 	);
+
+rm(AbilityRaw_Ability_Data);
 
 # Change Generation to int
 abilityKey%>%
