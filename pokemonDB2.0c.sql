@@ -47,7 +47,8 @@ CONSTRAINT ck_Gen3 check(Gen>3 and Steps_Gen3 is null or Gen<=3), --Ensure the P
 CONSTRAINT ck_Gen4 check(Gen>4 and Steps_Gen4 is null or Gen<=4), --Ensure the Pokemon exists in the Generation
 CONSTRAINT ck_Gen5 check(Gen>6 and Steps_Gen5 is null or Gen<=6), --Ensure the Pokemon exists in the Generation, includes Gen 5 and 6
 CONSTRAINT ck_Gen7 check(Gen>7 and Steps_Gen7 is null or Gen<=7) --Ensure the Pokemon exists in the Generation
-);create or replace trigger
+);
+create or replace trigger
 before insert on Pokemon
 for each row
 begin  --Ensure weight is compleat if it exists

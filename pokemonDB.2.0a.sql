@@ -299,7 +299,8 @@ values('G');
 insert into GENDER_RATIO(KEY, UNBREEDABLE)
 values('GU', 'T');
 insert into GENDER_RATIO(KEY, UNBREEDABLE)
-values('G*', '*');begin
+values('G*', '*');
+begin
 TYPE_FINAL();
 end;
 /create table ABILITY(
