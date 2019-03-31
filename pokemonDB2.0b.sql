@@ -25,7 +25,7 @@ POKCET varchar2(50), --The location of the item, in the bag
 GAME varchar2(200), --The game the item is limited to, null if not
 GEN number(2,0) references GENERATION(GEN) check(gen>0), --The generation the ID and item corisponds to
 CONSTRAINT un_ID unique(ID, GEN, GAME), --Ensure no duplicates per GEN and GAME, by ID
-CONSTRAINT un_ID_NAME unique(NAME, GEN, GAME) --Ensure no duplicates per GEN and GAME, by NAME
+CONSTRAINT un_ID_NAME unique(ID, NAME, GEN, GAME) --Ensure no duplicates per GEN and GAME, by NAME (And ID)
 );
 insert into ITEMS(NAME, GEN, DESCRIPTION, JAPANESE_KANA, JAPANESE_ROMAJI, FRENCH, GERMAN, ITALIAN, SPANISH, STAR)
 values(q'|Blu ID Badge|', 3, q'|One of four keys needed to unlock the north door of Realgam Tower.|', nq'|ＩＤバッジあお|', nq'|ID Badge Ao|', nq'|Passe Bleu|', nq'|Blaue ID-Marke|', nq'|Pass Blu|', nq'|Pase Azul|', 0);
