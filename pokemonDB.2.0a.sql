@@ -138,7 +138,7 @@ end;
 
 create or replace trigger GENDER_RATIO_KEY_TRG
 before insert or update on GENDER_RATIO
-for each row when(new.KEY is not null)
+for each row when(new.key='ph')
 begin
 :new.KEY:= :new.MALE||':'||:new.FEMALE||
 case :new.UNBREEDABLE
