@@ -449,6 +449,15 @@ itemsIDs%<>%
 		)
 	);
 
+###############################################################################
+#															Remove NA items
+###############################################################################
+
+itemsIDs%<>%
+	filter(
+		!is.na(Name)
+	);
+
 
 ###############################################################################
 # Try joining them
@@ -646,7 +655,16 @@ rm(items.j, itemsLang);
 # Add NameStar to Star
 items%<>%
 	mutate(
-		Star=if_else(!is.na(NameStar),NameStar*2^11+if_else(!is.na(Star),Star,0L), Star),
+		Star=if_else(
+			!is.na(NameStar),
+			as.integer(NameStar*2^11)+
+				if_else(
+					!is.na(Star),
+					as.integer(Star),
+					0L
+				),
+			Star
+		),
 		NameStar=NULL
 	);
 
@@ -671,6 +689,7 @@ itemsIDs%>%
 
 # Too many and includes glitch items as well as TMs and dev items
 # Items also have aleses
+
 
 ###############################################################################
 

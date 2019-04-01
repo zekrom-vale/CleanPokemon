@@ -17,13 +17,13 @@ source("util.R");
 source("core/clean.R");
 source("core/manageAlts.R", encoding="UTF-8");
 source("core/merge.R"); #NS
-source("core/merge2.R"); #?NS
-source("core/condense.R");
+source("core/merge2.R"); #NS
+source("core/condense.R"); #NS (Incorect)
 
 # Abilities
 source("ability/cleanAbility.R", encoding="UTF-8");
 
 library(reshape2);
 # Items
-source("items/cleanItems.R", encoding="UTF-8");#NS
+source("items/cleanItems.R", encoding="UTF-8");
 

@@ -47,15 +47,18 @@ agg%<>%
 # Save
 agg%<>%
 	mutate(
-		Star=as.integer(Star),
-		Ability1Star=as.integer(Ability1Star),
-		Ability2Star=if_else(is.na(Ability2Star),0L,as.integer(Ability2Star))
-	)%>%
-	mutate(
-		Star=Star*2^2+Ability1Star*2^1+Ability2Star*2^0,
+		Star=if_else(is.na(Star), 0L, as.integer(Star*2^3))+
+			if_else(is.na(Ability1Star), 0L, as.integer(Ability1Star*2^2))+
+			if_else(is.na(Ability2Star), 0L, as.integer(Ability2Star*2^1))+
+			if_else(is.na(HiddenAbilityStar), 0L, as.integer(HiddenAbilityStar*2^0)),
 		Ability1Star=NULL,
-		Ability2Star=NULL
+		Ability2Star=NULL,
+		HiddenAbilityStar=NULL
 	);
+
+# Decode pos 3 = x%/%2^2
+# Decode pos 2 = x%/%2%%2
+# Decode pos 1 = x%%2
 
 # Remove junk
 agg%<>%
@@ -64,9 +67,11 @@ agg%<>%
 		-Alt
 	);
 
-# Decode pos 3 = x%/%2^2
-# Decode pos 2 = x%/%2%%2
-# Decode pos 1 = x%%2
+# Fix mega Rayquaza
+agg%<>%
+	mutate(
+		Item=if_else(str_detect(Item, "\\*")&Name=="Rayquaza", "Meteorite", Item)
+	);
 
 rm(dexes, dexsuff, types.agg, types.agg.j);
 write_csv(agg,path="core/agg.csv",na="");

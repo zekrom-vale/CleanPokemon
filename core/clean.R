@@ -59,6 +59,9 @@ exc=PokemonRaw_Core_Pokemon%>%
 	rename(
 		ID=ID_2,
 		Name=Name_2
+	)%>%
+	mutate(
+		`Egg Group 2`=if_else(`Egg Group 2`=="—",NA_character_,`Egg Group 2`)
 	);
 
 # Save

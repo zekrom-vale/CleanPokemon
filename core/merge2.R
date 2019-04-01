@@ -320,6 +320,18 @@ agg.j%>%
 # Save
 agg=.Last.value;
 
+# Fix Minior
+
+agg%>%
+	not_distinct(
+		Name, Dex, Class
+	);
+
+agg%<>%
+	mutate(
+		Class=if_else(Name=="Minior", Color, Class)
+	);
+
 rm(agg.j, agg.miss);
 
 agg%>%distinct(Name, Dex, Class, Dex_Suffix)
@@ -582,7 +594,9 @@ ability%<>%
 		Ability1Star=str_detect(`Ability 1`, "\\*$"),
 		`Ability 1`=gsub("\\*$","", `Ability 1`),
 		Ability2Star=str_detect(`Ability 2`, "\\*$"),
-		`Ability 2`=gsub("\\*$","", `Ability 2`)
+		`Ability 2`=gsub("\\*$","", `Ability 2`),
+		HiddenAbilityStar=str_detect(Hidden, "\\*$"),
+		Hidden=gsub("\\*$","", Hidden)
 	);
 
 agg.j=agg%>%
