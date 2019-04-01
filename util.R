@@ -3,7 +3,7 @@ require(dplyr);
 # This function returns thae values that are not distinct
 
 print("This small utility package was developed by zekrom_vale to fill in the gaps missing.");
-not_distinct=function(df, col, ...){
+not_distinct_=function(df, col, ...){
 	nd_vars=enquos(col,...);
 	nd_col=enquo(col);
 
@@ -18,6 +18,17 @@ not_distinct=function(df, col, ...){
 	df%>%
 		filter(
 			!!nd_col%in%dups[[1]]
+		);
+}
+
+not_distinct=function(df, ...){
+	nd_vars=enquos(...);
+	df%>%
+		group_by(
+			!!!nd_vars
+		)%>%
+		filter(
+			reduce(c(!!!nd_vars), function(a,x)a&(n()>1), .init=TRUE)
 		);
 }
 
@@ -38,11 +49,18 @@ chunks=function(df,first=1, last=3, start=1, end=20){
 	}
 }
 
-panH=function(df, index=2, start=1, end=8){
-	select(df, (start:end)+end*(index-1));
+panH=function(df, index=2, start=1, end=8, frozen=NULL){
+	frozen=enquos(frozen);
+	arr=Filter(function(x)x<length(df),(start:end)+end*(index-1));
+	select(df, !!!frozen, arr);
 }
 
-pan=function(df, index=2, start=1, end=12){
-	select(df, (start:end)+end*(index-1));
+pan=function(df, index=2, start=1, end=12, frozen=NULL){
+	frozen=enquos(frozen);
+	arr=Filter(function(x)x<length(df),(start:end)+end*(index-1));
+	select(df,!!!frozen, arr);
 }
 
+v=function(.){
+	View(.)
+}
