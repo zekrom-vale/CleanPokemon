@@ -10,6 +10,7 @@
 
 library(magrittr);
 library(tidyverse);
+library(reshape2);
 # Utility
 source("util.R");
 
@@ -23,7 +24,8 @@ source("core/condense.R"); #NS (Incorect)
 # Abilities
 source("ability/cleanAbility.R", encoding="UTF-8");
 
-library(reshape2);
 # Items
 source("items/cleanItems.R", encoding="UTF-8");
 
+# Evolution
+source("evolution/clean.R");

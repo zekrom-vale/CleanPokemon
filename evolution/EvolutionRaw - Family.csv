@@ -1,0 +1,491 @@
+Reagon,Family,Dex,Name,Condition or Class,Dex_2,Name_2,Condition or Class_2,Dex_3,Name_3
+Kanto-based evolution families,Bulbasaur family,1,Bulbasaur,Level 16 →,2,Ivysaur,Level 32 →,3,Venusaur
+Kanto-based evolution families,Charmander family,4,Charmander,Level 16 →,5,Charmeleon,Level 36 →,6,Charizard
+Kanto-based evolution families,Squirtle family,7,Squirtle,Level 16 →,8,Wartortle,Level 36 →,9,Blastoise
+Kanto-based evolution families,Caterpie family,10,Caterpie,Level 7 →,11,Metapod,Level 10 →,12,Butterfree
+Kanto-based evolution families,Weedle family,13,Weedle,Level 7 →,14,Kakuna,Level 10 →,15,Beedrill
+Kanto-based evolution families,Pidgey family,16,Pidgey,Level 18 →,17,Pidgeotto,Level 36 →,18,Pidgeot
+Kanto-based evolution families,Rattata family,19,Rattata,Level 20 →,20,Raticate, ,,
+Kanto-based evolution families,Alolan Rattata family,019A,Rattata,Level 20 (night) →,020A,Raticate, ,,
+Kanto-based evolution families,Spearow family,21,Spearow,Level 20 →,22,Fearow, ,,
+Kanto-based evolution families,Ekans family,23,Ekans,Level 22 →,24,Arbok, ,,
+Kanto-based evolution families,Pikachu family,172,Pichu,Friendship →,25,Pikachu,Thunder Stone →,26,Raichu
+Kanto-based evolution families,Pikachu family,172,Pichu,Friendship →,25,Pikachu,Thunder Stone →,026A,Raichu
+Kanto-based evolution families,Sandshrew family,27,Sandshrew,Level 22 →,28,Sandslash, ,,
+Kanto-based evolution families,Alolan Sandshrew family,027A,Sandshrew,Ice Stone →,028A,Sandslash, ,,
+Kanto-based evolution families,Nidoran family*,29,Nidoran♀,Level 16 →,30,Nidorina,Moon Stone →,31,Nidoqueen
+Kanto-based evolution families,Nidoran family*,32,Nidoran♂,Level 16 →,33,Nidorino,Moon Stone →,34,Nidoking
+Kanto-based evolution families,Clefairy family,173,Cleffa,Friendship →,35,Clefairy,Moon Stone →,36,Clefable
+Kanto-based evolution families,Vulpix family,37,Vulpix,Fire Stone →,38,Ninetales, ,,
+Kanto-based evolution families,Alolan Vulpix family,037A,Vulpix,Ice Stone →,038A,Ninetales, ,,
+Kanto-based evolution families,Jigglypuff family,174,Igglybuff,Friendship →,39,Jigglypuff,Moon Stone →,40,Wigglytuff
+Kanto-based evolution families,Zubat family,41,Zubat,Level 22 →,42,Golbat,Friendship →,169,Crobat
+Kanto-based evolution families,Oddish family,43,Oddish,Level 21 →,44,Gloom,Leaf Stone →,45,Vileplume
+Kanto-based evolution families,Oddish family,43,Oddish,Level 21 →,44,Gloom,Sun Stone →,182,Bellossom
+Kanto-based evolution families,Paras family,46,Paras,Level 24 →,47,Parasect, ,,
+Kanto-based evolution families,Venonat family,48,Venonat,Level 31 →,49,Venomoth, ,,
+Kanto-based evolution families,Diglett family,50,Diglett,Level 26 →,51,Dugtrio, ,,
+Kanto-based evolution families,Alolan Diglett family,050A,Diglett,Level 26 →,051A,Dugtrio, ,,
+Kanto-based evolution families,Meowth family,52,Meowth,Level 28 →,53,Persian, ,,
+Kanto-based evolution families,Alolan Meowth family,052A,Meowth,Friendship →,053A,Persian, ,,
+Kanto-based evolution families,Psyduck family,54,Psyduck,Level 33 →,55,Golduck, ,,
+Kanto-based evolution families,Mankey family,56,Mankey,Level 28 →,57,Primeape, ,,
+Kanto-based evolution families,Growlithe family,58,Growlithe,Fire Stone →,59,Arcanine, ,,
+Kanto-based evolution families,Poliwag family,60,Poliwag,Level 25 →,61,Poliwhirl,Water Stone →,62,Poliwrath
+Kanto-based evolution families,Poliwag family,60,Poliwag,Level 25 →,61,Poliwhirl,Trade holding King's Rock →,186,Politoed
+Kanto-based evolution families,Abra family,63,Abra,Level 16 →,64,Kadabra,Trade →,65,Alakazam
+Kanto-based evolution families,Machop family,66,Machop,Level 28 →,67,Machoke,Trade →,68,Machamp
+Kanto-based evolution families,Bellsprout family,69,Bellsprout,Level 21 →,70,Weepinbell,Leaf Stone →,71,Victreebel
+Kanto-based evolution families,Tentacool family,72,Tentacool,Level 30 →,73,Tentacruel, ,,
+Kanto-based evolution families,Geodude family,74,Geodude,Level 25 →,75,Graveler,Trade →,76,Golem
+Kanto-based evolution families,Alolan Geodude family,074A,Geodude,Level 25 →,075A,Graveler,Trade →,076A,Golem
+Kanto-based evolution families,Ponyta family,77,Ponyta,Level 40 →,78,Rapidash, ,,
+Kanto-based evolution families,Slowpoke family,79,Slowpoke,Level 37 →,80,Slowbro, ,,
+Kanto-based evolution families,Slowpoke family,79,Slowpoke,Trade holding King's Rock →,199,Slowking, ,,
+Kanto-based evolution families,Magnemite family,81,Magnemite,Level 30 →,82,Magneton,Level up in a special magnetic field →,462,Magnezone
+Kanto-based evolution families,Farfetch'd family,83,Farfetch'd, ,,,,,
+Kanto-based evolution families,Doduo family,84,Doduo,Level 31 →,85,Dodrio, ,,
+Kanto-based evolution families,Seel family,86,Seel,Level 34 →,87,Dewgong, ,,
+Kanto-based evolution families,Grimer family,88,Grimer,Level 38 →,89,Muk, ,,
+Kanto-based evolution families,Alolan Grimer family,088A,Grimer,Level 38 →,089A,Muk, ,,
+Kanto-based evolution families,Shellder family,90,Shellder,Water Stone →,91,Cloyster, ,,
+Kanto-based evolution families,Gastly family,92,Gastly,Level 25 →,93,Haunter,Trade →,94,Gengar
+Kanto-based evolution families,Onix family,95,Onix,Trade holding Metal Coat →,208,Steelix, ,,
+Kanto-based evolution families,Drowzee family,96,Drowzee,Level 26 →,97,Hypno, ,,
+Kanto-based evolution families,Krabby family,98,Krabby,Level 28 →,99,Kingler, ,,
+Kanto-based evolution families,Voltorb family,100,Voltorb,Level 30 →,101,Electrode, ,,
+Kanto-based evolution families,Exeggcute family,102,Exeggcute,Leaf Stone →,103,Exeggutor, ,,
+Kanto-based evolution families,Exeggcute family,102,Exeggcute,Leaf Stone →,103A,Exeggutor, ,,
+Kanto-based evolution families,Cubone family,104,Cubone,Level 28 →,105,Marowak, ,,
+Kanto-based evolution families,Cubone family,104,Cubone,Level 28 (night) →,105A,Marowak, ,,
+Kanto-based evolution families,Hitmon family,236,Tyrogue,Level 20 (Attack > Defense) →,106,Hitmonlee, ,,
+Kanto-based evolution families,Hitmon family,236,Tyrogue,Level 20 (Attack < Defense) →,107,Hitmonchan, ,,
+Kanto-based evolution families,Hitmon family,236,Tyrogue,Level 20 (Attack = Defense) →,237,Hitmontop, ,,
+Kanto-based evolution families,Lickitung family,108,Lickitung,Level up knowing Rollout →,463,Lickilicky, ,,
+Kanto-based evolution families,Koffing family,109,Koffing,Level 35 →,110,Weezing, ,,
+Kanto-based evolution families,Rhyhorn family,111,Rhyhorn,Level 42 →,112,Rhydon,Trade holding Protector →,464,Rhyperior
+Kanto-based evolution families,Chansey family,440,Happiny,Level up holding Oval Stone (day) →,113,Chansey,Friendship →,242,Blissey
+Kanto-based evolution families,Tangela family,114,Tangela,Level up knowing Ancient Power →,465,Tangrowth, ,,
+Kanto-based evolution families,Kangaskhan family,115,Kangaskhan, ,,,,,
+Kanto-based evolution families,Horsea family,116,Horsea,Level 32 →,117,Seadra,Trade holding Dragon Scale →,230,Kingdra
+Kanto-based evolution families,Goldeen family,118,Goldeen,Level 33 →,119,Seaking, ,,
+Kanto-based evolution families,Staryu family,120,Staryu,Water Stone →,121,Starmie, ,,
+Kanto-based evolution families,Mr. Mime family,439,Mime Jr.,Level up knowing Mimic →,122,Mr. Mime, ,,
+Kanto-based evolution families,Scyther family,123,Scyther,Trade holding Metal Coat →,212,Scizor, ,,
+Kanto-based evolution families,Jynx family,238,Smoochum,Level 30 →,124,Jynx, ,,
+Kanto-based evolution families,Electabuzz family,239,Elekid,Level 30 →,125,Electabuzz,Trade holding Electirizer →,466,Electivire
+Kanto-based evolution families,Magmar family,240,Magby,Level 30 →,126,Magmar,Trade holding Magmarizer →,467,Magmortar
+Kanto-based evolution families,Pinsir family,127,Pinsir, ,,,,,
+Kanto-based evolution families,Tauros family,128,Tauros, ,,,,,
+Kanto-based evolution families,Magikarp family,129,Magikarp,Level 20 →,130,Gyarados, ,,
+Kanto-based evolution families,Lapras family,131,Lapras, ,,,,,
+Kanto-based evolution families,Ditto family,132,Ditto, ,,,,,
+Kanto-based evolution families,Eeveelution family,133,Eevee,Water Stone →,134,Vaporeon, ,,
+Kanto-based evolution families,Eeveelution family,133,Eevee,Thunder Stone →,135,Jolteon, ,,
+Kanto-based evolution families,Eeveelution family,133,Eevee,Fire Stone →,136,Flareon, ,,
+Kanto-based evolution families,Eeveelution family,133,Eevee,"Friendship (day)
+Level up with Sun ShardXD →",196,Espeon, ,,
+Kanto-based evolution families,Eeveelution family,133,Eevee,"Friendship (night)
+Level up with Moon ShardXD →",197,Umbreon, ,,
+Kanto-based evolution families,Eeveelution family,133,Eevee,Level up near Moss Rock →,470,Leafeon, ,,
+Kanto-based evolution families,Eeveelution family,133,Eevee,Level up near Ice Rock →,471,Glaceon, ,,
+Kanto-based evolution families,Eeveelution family,133,Eevee,"Level up with two hearts of Affection
+and know a Fairy-type move →",700,Sylveon," 
+
+
+",,
+Kanto-based evolution families,Porygon family,137,Porygon,Trade holding Up-Grade →,233,Porygon2,Trade holding Dubious Disc →,474,Porygon-Z
+Kanto-based evolution families,Omanyte family,138,Omanyte,Level 40 →,139,Omastar, ,,
+Kanto-based evolution families,Kabuto family,140,Kabuto,Level 40 →,141,Kabutops, ,,
+Kanto-based evolution families,Aerodactyl family,142,Aerodactyl, ,,,,,
+Kanto-based evolution families,Snorlax family,446,Munchlax,Friendship →,143,Snorlax, ,,
+Kanto-based evolution families,Articuno family,144,Articuno, ,,,,,
+Kanto-based evolution families,Zapdos family,145,Zapdos, ,,,,,
+Kanto-based evolution families,Moltres family,146,Moltres, ,,,,,
+Kanto-based evolution families,Dratini family,147,Dratini,Level 30 →,148,Dragonair,Level 55 →,149,Dragonite
+Kanto-based evolution families,Mewtwo family,150,Mewtwo, ,,,,,
+Kanto-based evolution families,Mew family,151,Mew, ,,,,,
+Kanto-based evolution families,Meltan family,808,Meltan,400 Meltan Candy in Pokémon Go →,809,Melmetal, ,,
+Johto-based evolution families,Chikorita family,152,Chikorita,Level 16 →,153,Bayleef,Level 32 →,154,Meganium
+Johto-based evolution families,Cyndaquil family,155,Cyndaquil,Level 14 →,156,Quilava,Level 36 →,157,Typhlosion
+Johto-based evolution families,Totodile family,158,Totodile,Level 18 →,159,Croconaw,Level 30 →,160,Feraligatr
+Johto-based evolution families,Sentret family,161,Sentret,Level 15 →,162,Furret, ,,
+Johto-based evolution families,Hoothoot family,163,Hoothoot,Level 20 →,164,Noctowl, ,,
+Johto-based evolution families,Ledyba family,165,Ledyba,Level 18 →,166,Ledian, ,,
+Johto-based evolution families,Spinarak family,167,Spinarak,Level 22 →,168,Ariados, ,,
+Johto-based evolution families,Chinchou family,170,Chinchou,Level 27 →,171,Lanturn, ,,
+Johto-based evolution families,Togepi family,175,Togepi,Friendship →,176,Togetic,Shiny Stone →,468,Togekiss
+Johto-based evolution families,Natu family,177,Natu,Level 25 →,178,Xatu, ,,
+Johto-based evolution families,Mareep family,179,Mareep,Level 15 →,180,Flaaffy,Level 30 →,181,Ampharos
+Johto-based evolution families,Marill family,298,Azurill,Friendship →,183,Marill,Level 18 →,184,Azumarill
+Johto-based evolution families,Sudowoodo family,438,Bonsly,Level up knowing Mimic →,185,Sudowoodo, ,,
+Johto-based evolution families,Hoppip family,187,Hoppip,Level 18 →,188,Skiploom,Level 27 →,189,Jumpluff
+Johto-based evolution families,Aipom family,190,Aipom,Level up knowing Double Hit →,424,Ambipom, ,,
+Johto-based evolution families,Sunkern family,191,Sunkern,Sun Stone →,192,Sunflora, ,,
+Johto-based evolution families,Yanma family,193,Yanma,Level up knowing Ancient Power →,469,Yanmega, ,,
+Johto-based evolution families,Wooper family,194,Wooper,Level 20 →,195,Quagsire, ,,
+Johto-based evolution families,Murkrow family,198,Murkrow,Dusk Stone →,430,Honchkrow, ,,
+Johto-based evolution families,Misdreavus family,200,Misdreavus,Dusk Stone →,429,Mismagius, ,,
+Johto-based evolution families,Unown,201,Unown A,,201K,Unown K,,201U,Unown U
+Johto-based evolution families,Unown,201B,Unown B,,201L,Unown L,,201V,Unown V
+Johto-based evolution families,Unown,201C,Unown C,,201M,Unown M,,201W,Unown W
+Johto-based evolution families,Unown,201D,Unown D,,201N,Unown N,,201X,Unown X
+Johto-based evolution families,Unown,201E,Unown E,,201O,Unown O,,201Y,Unown Y
+Johto-based evolution families,Unown,201F,Unown F,,201P,Unown P,,201Z,Unown Z
+Johto-based evolution families,Unown,201G,Unown G,,201Q,Unown Q,,201EX,Unown !
+Johto-based evolution families,Unown,201H,Unown H,,201R,Unown R,,201QU,Unown ?
+Johto-based evolution families,Unown,201I,Unown I,,201S,Unown S,,,
+Johto-based evolution families,Unown,201J,Unown J,,201T,Unown T,,,
+Johto-based evolution families,Wobbuffet family,360,Wynaut,Level 15 →,202,Wobbuffet, ,,
+Johto-based evolution families,Girafarig family,203,Girafarig, ,,,,,
+Johto-based evolution families,Pineco family,204,Pineco,Level 31 →,205,Forretress, ,,
+Johto-based evolution families,Dunsparce family,206,Dunsparce, ,,,,,
+Johto-based evolution families,Gligar family,207,Gligar,Level up holding Razor Fang at night →,472,Gliscor, ,,
+Johto-based evolution families,Snubbull family,209,Snubbull,Level 23 →,210,Granbull, ,,
+Johto-based evolution families,Qwilfish family,211,Qwilfish, ,,,,,
+Johto-based evolution families,Shuckle family,213,Shuckle, ,,,,,
+Johto-based evolution families,Heracross family,214,Heracross, ,,,,,
+Johto-based evolution families,Sneasel family,215,Sneasel,Level up holding Razor Claw at night →,461,Weavile, ,,
+Johto-based evolution families,Teddiursa family,216,Teddiursa,Level 30 →,217,Ursaring, ,,
+Johto-based evolution families,Slugma family,218,Slugma,Level 38 →,219,Magcargo, ,,
+Johto-based evolution families,Swinub family,220,Swinub,Level 33 →,221,Piloswine,Level up knowing Ancient Power →,473,Mamoswine
+Johto-based evolution families,Corsola family,222,Corsola, ,,,,,
+Johto-based evolution families,Remoraid family,223,Remoraid,Level 25 →,224,Octillery, ,,
+Johto-based evolution families,Delibird family,225,Delibird, ,,,,,
+Johto-based evolution families,Mantine family,458,Mantyke,Level up with Remoraid in party →,226,Mantine, ,,
+Johto-based evolution families,Skarmory family,227,Skarmory, ,,,,,
+Johto-based evolution families,Houndour family,228,Houndour,Level 24 →,229,Houndoom, ,,
+Johto-based evolution families,Phanpy family,231,Phanpy,Level 25 →,232,Donphan, ,,
+Johto-based evolution families,Stantler family,234,Stantler, ,,,,,
+Johto-based evolution families,Smeargle family,235,Smeargle, ,,,,,
+Johto-based evolution families,Miltank family,241,Miltank, ,,,,,
+Johto-based evolution families,Raikou family,243,Raikou, ,,,,,
+Johto-based evolution families,Entei family,244,Entei, ,,,,,
+Johto-based evolution families,Suicune family,245,Suicune, ,,,,,
+Johto-based evolution families,Larvitar family,246,Larvitar,Level 30 →,247,Pupitar,Level 55 →,248,Tyranitar
+Johto-based evolution families,Lugia family,249,Lugia, ,,,,,
+Johto-based evolution families,Ho-Oh family,250,Ho-Oh, ,,,,,
+Johto-based evolution families,Celebi family,251,Celebi, ,,,,,
+Hoenn-based evolution families,Treecko family,252,Treecko,Level 16 →,253,Grovyle,Level 36 →,254,Sceptile
+Hoenn-based evolution families,Torchic family,255,Torchic,Level 16 →,256,Combusken,Level 36 →,257,Blaziken
+Hoenn-based evolution families,Mudkip family,258,Mudkip,Level 16 →,259,Marshtomp,Level 36 →,260,Swampert
+Hoenn-based evolution families,Poochyena family,261,Poochyena,Level 18 →,262,Mightyena, ,,
+Hoenn-based evolution families,Zigzagoon family,263,Zigzagoon,Level 20 →,264,Linoone, ,,
+Hoenn-based evolution families,Wurmple family,265,Wurmple,Level 7 →,266,Silcoon,Level 10 →,267,Beautifly
+Hoenn-based evolution families,Wurmple family,265,Wurmple,Level 7 →,268,Cascoon,Level 10 →,269,Dustox
+Hoenn-based evolution families,Lotad family,270,Lotad,Level 14 →,271,Lombre,Water Stone →,272,Ludicolo
+Hoenn-based evolution families,Seedot family,273,Seedot,Level 14 →,274,Nuzleaf,Leaf Stone →,275,Shiftry
+Hoenn-based evolution families,Taillow family,276,Taillow,Level 22 →,277,Swellow, ,,
+Hoenn-based evolution families,Wingull family,278,Wingull,Level 25 →,279,Pelipper, ,,
+Hoenn-based evolution families,Ralts family,280,Ralts,Level 20 →,281,Kirlia,Level 30 →,282,Gardevoir
+Hoenn-based evolution families,Ralts family,280,Ralts,Level 20 →,281,Kirlia,Dawn Stone (male) →,475,Gallade
+Hoenn-based evolution families,Surskit family,283,Surskit,Level 22 →,284,Masquerain, ,,
+Hoenn-based evolution families,Shroomish family,285,Shroomish,Level 23 →,286,Breloom, ,,
+Hoenn-based evolution families,Slakoth family,287,Slakoth,Level 18 →,288,Vigoroth,Level 36 →,289,Slaking
+Hoenn-based evolution families,Nincada family,290,Nincada,Level 20 →,291,Ninjask, ,,
+Hoenn-based evolution families,Nincada family,290,Nincada,"Free space
+Additional Poké Ball →",292,Shedinja, ,,
+Hoenn-based evolution families,Whismur family,293,Whismur,Level 20 →,294,Loudred,Level 40 →,295,Exploud
+Hoenn-based evolution families,Makuhita family,296,Makuhita,Level 24 →,297,Hariyama, ,,
+Hoenn-based evolution families,Nosepass family,299,Nosepass,Level up in a special magnetic field →,476,Probopass, ,,
+Hoenn-based evolution families,Skitty family,300,Skitty,Moon Stone →,301,Delcatty, ,,
+Hoenn-based evolution families,Sableye family,302,Sableye, ,,,,,
+Hoenn-based evolution families,Mawile family,303,Mawile, ,,,,,
+Hoenn-based evolution families,Aron family,304,Aron,Level 32 →,305,Lairon,Level 42 →,306,Aggron
+Hoenn-based evolution families,Meditite family,307,Meditite,Level 37 →,308,Medicham, ,,
+Hoenn-based evolution families,Electrike family,309,Electrike,Level 26 →,310,Manectric, ,,
+Hoenn-based evolution families,Plusle family,311,Plusle, ,,,,,
+Hoenn-based evolution families,Minun family,312,Minun, ,,,,,
+Hoenn-based evolution families,Volbeat and Illumise* family,313,Volbeat, ,,,,,
+Hoenn-based evolution families,Volbeat and Illumise* family,314,Illumise, ,,,,,
+Hoenn-based evolution families,Roselia family,406,Budew,Friendship (day) →,315,Roselia,Shiny Stone →,407,Roserade
+Hoenn-based evolution families,Gulpin family,316,Gulpin,Level 26 →,317,Swalot, ,,
+Hoenn-based evolution families,Carvanha family,318,Carvanha,Level 30 →,319,Sharpedo, ,,
+Hoenn-based evolution families,Wailmer family,320,Wailmer,Level 40 →,321,Wailord, ,,
+Hoenn-based evolution families,Numel family,322,Numel,Level 33 →,323,Camerupt, ,,
+Hoenn-based evolution families,Torkoal family,324,Torkoal, ,,,,,
+Hoenn-based evolution families,Spoink family,325,Spoink,Level 32 →,326,Grumpig, ,,
+Hoenn-based evolution families,Spinda family,327,Spinda, ,,,,,
+Hoenn-based evolution families,Trapinch family,328,Trapinch,Level 35 →,329,Vibrava,Level 45 →,330,Flygon
+Hoenn-based evolution families,Cacnea family,331,Cacnea,Level 32 →,332,Cacturne, ,,
+Hoenn-based evolution families,Swablu family,333,Swablu,Level 35 →,334,Altaria, ,,
+Hoenn-based evolution families,Zangoose family,335,Zangoose, ,,,,,
+Hoenn-based evolution families,Seviper family,336,Seviper, ,,,,,
+Hoenn-based evolution families,Lunatone family,337,Lunatone, ,,,,,
+Hoenn-based evolution families,Solrock family,338,Solrock, ,,,,,
+Hoenn-based evolution families,Barboach family,339,Barboach,Level 30 →,340,Whiscash, ,,
+Hoenn-based evolution families,Corphish family,341,Corphish,Level 30 →,342,Crawdaunt, ,,
+Hoenn-based evolution families,Baltoy family,343,Baltoy,Level 36 →,344,Claydol, ,,
+Hoenn-based evolution families,Lileep family,345,Lileep,Level 40 →,346,Cradily, ,,
+Hoenn-based evolution families,Anorith family,347,Anorith,Level 40 →,348,Armaldo, ,,
+Hoenn-based evolution families,Feebas family,349,Feebas,"Level up with maximum Beauty
+Trade holding Prism Scale →",350,Milotic, ,,
+Hoenn-based evolution families,Castform family,351,Castform, ,,,,,
+Hoenn-based evolution families,Kecleon family,352,Kecleon, ,,,,,
+Hoenn-based evolution families,Shuppet family,353,Shuppet,Level 37 →,354,Banette, ,,
+Hoenn-based evolution families,Duskull family,355,Duskull,Level 37 →,356,Dusclops,Trade holding Reaper Cloth →,477,Dusknoir
+Hoenn-based evolution families,Tropius family,357,Tropius, ,,,,,
+Hoenn-based evolution families,Chimecho family,433,Chingling,Friendship (night) →,358,Chimecho, ,,
+Hoenn-based evolution families,Absol family,359,Absol, ,,,,,
+Hoenn-based evolution families,Snorunt family,361,Snorunt,Level 42 →,362,Glalie, ,,
+Hoenn-based evolution families,Snorunt family,361,Snorunt,Dawn Stone (female) →,478,Froslass, ,,
+Hoenn-based evolution families,Spheal family,363,Spheal,Level 32 →,364,Sealeo,Level 44 →,365,Walrein
+Hoenn-based evolution families,Clamperl family,366,Clamperl,Trade holding Deep Sea Tooth →,367,Huntail, ,,
+Hoenn-based evolution families,Clamperl family,366,Clamperl,Trade holding Deep Sea Scale →,368,Gorebyss, ,,
+Hoenn-based evolution families,Relicanth family,369,Relicanth, ,,,,,
+Hoenn-based evolution families,Luvdisc family,370,Luvdisc, ,,,,,
+Hoenn-based evolution families,Bagon family,371,Bagon,Level 30 →,372,Shelgon,Level 50 →,373,Salamence
+Hoenn-based evolution families,Beldum family,374,Beldum,Level 20 →,375,Metang,Level 45 →,376,Metagross
+Hoenn-based evolution families,Regirock family,377,Regirock, ,,,,,
+Hoenn-based evolution families,Regice family,378,Regice, ,,,,,
+Hoenn-based evolution families,Registeel family,379,Registeel, ,,,,,
+Hoenn-based evolution families,Latias family,380,Latias, ,,,,,
+Hoenn-based evolution families,Latios family,381,Latios, ,,,,,
+Hoenn-based evolution families,Kyogre family,382,Kyogre, ,,,,,
+Hoenn-based evolution families,Groudon family,383,Groudon, ,,,,,
+Hoenn-based evolution families,Rayquaza family,384,Rayquaza, ,,,,,
+Hoenn-based evolution families,Jirachi family,385,Jirachi, ,,,,,
+Hoenn-based evolution families,Deoxys,386,Deoxys,Normal Forme, ,,,,
+Hoenn-based evolution families,Deoxys,386A,Deoxys,Attack Forme, ,,,,
+Hoenn-based evolution families,Deoxys,386D,Deoxys,Defense Forme, ,,,,
+Hoenn-based evolution families,Deoxys,386S,Deoxys,Speed Forme, ,,,,
+Sinnoh-based evolution families,Turtwig family,387,Turtwig,Level 18 →,388,Grotle,Level 32 →,389,Torterra
+Sinnoh-based evolution families,Chimchar family,390,Chimchar,Level 14 →,391,Monferno,Level 36 →,392,Infernape
+Sinnoh-based evolution families,Piplup family,393,Piplup,Level 16 →,394,Prinplup,Level 36 →,395,Empoleon
+Sinnoh-based evolution families,Starly family,396,Starly,Level 14 →,397,Staravia,Level 34 →,398,Staraptor
+Sinnoh-based evolution families,Bidoof family,399,Bidoof,Level 15 →,400,Bibarel, ,,
+Sinnoh-based evolution families,Kricketot family,401,Kricketot,Level 10 →,402,Kricketune, ,,
+Sinnoh-based evolution families,Shinx family,403,Shinx,Level 15 →,404,Luxio,Level 30 →,405,Luxray
+Sinnoh-based evolution families,Cranidos family,408,Cranidos,Level 30 →,409,Rampardos, ,,
+Sinnoh-based evolution families,Shieldon family,410,Shieldon,Level 30 →,411,Bastiodon, ,,
+Sinnoh-based evolution families,Burmy family,412S,Burmy,"Level 20 (female, Plant Cloak) →",413,Wormadam, ,,
+Sinnoh-based evolution families,Burmy family,412S,Burmy,"Level 20 (female, Sandy Cloak) →",413G,Wormadam, ,,
+Sinnoh-based evolution families,Burmy family,412S,Burmy,"Level 20 (female, Trash Cloak) →",413S,Wormadam, ,,
+Sinnoh-based evolution families,Burmy family,412S,Burmy,Level 20 (male) →,414,Mothim, ,,
+Sinnoh-based evolution families,Combee family,415,Combee,Level 21 (female) →,416,Vespiquen, ,,
+Sinnoh-based evolution families,Pachirisu family,417,Pachirisu, ,,,,,
+Sinnoh-based evolution families,Buizel family,418,Buizel,Level 26 →,419,Floatzel, ,,
+Sinnoh-based evolution families,Cherubi family,420,Cherubi,Level 25 →,421,Cherrim, ,,
+Sinnoh-based evolution families,Shellos family,422,Shellos,Level 30 →,423,Gastrodon,West Sea,,
+Sinnoh-based evolution families,Shellos family,422E,Shellos,Level 30 →,423E,Gastrodon,East Sea,,
+Sinnoh-based evolution families,Drifloon family,425,Drifloon,Level 28 →,426,Drifblim, ,,
+Sinnoh-based evolution families,Buneary family,427,Buneary,Friendship →,428,Lopunny, ,,
+Sinnoh-based evolution families,Glameow family,431,Glameow,Level 38 →,432,Purugly, ,,
+Sinnoh-based evolution families,Stunky family,434,Stunky,Level 34 →,435,Skuntank, ,,
+Sinnoh-based evolution families,Bronzor family,436,Bronzor,Level 33 →,437,Bronzong, ,,
+Sinnoh-based evolution families,Chatot family,441,Chatot, ,,,,,
+Sinnoh-based evolution families,Spiritomb family,442,Spiritomb, ,,,,,
+Sinnoh-based evolution families,Gible family,443,Gible,Level 24 →,444,Gabite,Level 48 →,445,Garchomp
+Sinnoh-based evolution families,Riolu family,447,Riolu,Friendship (day) →,448,Lucario, ,,
+Sinnoh-based evolution families,Hippopotas family,449,Hippopotas,Level 34 →,450,Hippowdon, ,,
+Sinnoh-based evolution families,Skorupi family,451,Skorupi,Level 40 →,452,Drapion, ,,
+Sinnoh-based evolution families,Croagunk family,453,Croagunk,Level 37 →,454,Toxicroak, ,,
+Sinnoh-based evolution families,Carnivine family,455,Carnivine, ,,,,,
+Sinnoh-based evolution families,Finneon family,456,Finneon,Level 31 →,457,Lumineon, ,,
+Sinnoh-based evolution families,Snover family,459,Snover,Level 40 →,460,Abomasnow, ,,
+Sinnoh-based evolution families,Rotom,479,Rotom,Normal Rotom, ,,,,
+Sinnoh-based evolution families,Rotom,479O,Rotom,Heat Rotom, ,,,,
+Sinnoh-based evolution families,Rotom,479W,Rotom,Wash Rotom, ,,,,
+Sinnoh-based evolution families,Rotom,479R,Rotom,Frost Rotom, ,,,,
+Sinnoh-based evolution families,Rotom,479F,Rotom,Fan Rotom, ,,,,
+Sinnoh-based evolution families,Rotom,479L,Rotom,Mow Rotom, ,,,,
+Sinnoh-based evolution families,Uxie family,480,Uxie, ,,,,,
+Sinnoh-based evolution families,Mesprit family,481,Mesprit, ,,,,,
+Sinnoh-based evolution families,Azelf family,482,Azelf, ,,,,,
+Sinnoh-based evolution families,Dialga family,483,Dialga, ,,,,,
+Sinnoh-based evolution families,Palkia family,484,Palkia, ,,,,,
+Sinnoh-based evolution families,Heatran family,485,Heatran, ,,,,,
+Sinnoh-based evolution families,Regigigas family,486,Regigigas, ,,,,,
+Sinnoh-based evolution families,Giratina,487,Giratina,Altered Forme, ,,,,
+Sinnoh-based evolution families,Giratina,487O,Giratina,Origin Forme, ,,,,
+Sinnoh-based evolution families,Cresselia family,488,Cresselia, ,,,,,
+Sinnoh-based evolution families,Manaphy* family,489,Phione, ,,,,,
+Sinnoh-based evolution families,Manaphy* family,490,Manaphy, ,,,,,
+Sinnoh-based evolution families,Darkrai family,491,Darkrai, ,,,,,
+Sinnoh-based evolution families,Shaymin family,492,Shaymin,Land Forme, ,,,,
+Sinnoh-based evolution families,Shaymin family,492S,Shaymin,Sky Forme, ,,,,
+Sinnoh-based evolution families,Arceus family,493,Arceus, ,,,,,
+Unova-based evolution families,Victini family,494,Victini, ,,,,,
+Unova-based evolution families,Snivy family,495,Snivy,Level 17 →,496,Servine,Level 36 →,497,Serperior
+Unova-based evolution families,Tepig family,498,Tepig,Level 17 →,499,Pignite,Level 36 →,500,Emboar
+Unova-based evolution families,Oshawott family,501,Oshawott,Level 17 →,502,Dewott,Level 36 →,503,Samurott
+Unova-based evolution families,Patrat family,504,Patrat,Level 20 →,505,Watchog, ,,
+Unova-based evolution families,Lillipup family,506,Lillipup,Level 16 →,507,Herdier,Level 32 →,508,Stoutland
+Unova-based evolution families,Purrloin family,509,Purrloin,Level 20 →,510,Liepard, ,,
+Unova-based evolution families,Pansage family,511,Pansage,Leaf Stone →,512,Simisage, ,,
+Unova-based evolution families,Pansear family,513,Pansear,Fire Stone →,514,Simisear, ,,
+Unova-based evolution families,Panpour family,515,Panpour,Water Stone →,516,Simipour, ,,
+Unova-based evolution families,Munna family,517,Munna,Moon Stone →,518,Musharna, ,,
+Unova-based evolution families,Pidove family,519,Pidove,Level 21 →,520,Tranquill,Level 32 →,521,Unfezant
+Unova-based evolution families,Blitzle family,522,Blitzle,Level 27 →,523,Zebstrika, ,,
+Unova-based evolution families,Roggenrola family,524,Roggenrola,Level 25 →,525,Boldore,Trade →,526,Gigalith
+Unova-based evolution families,Woobat family,527,Woobat,Friendship →,528,Swoobat, ,,
+Unova-based evolution families,Drilbur family,529,Drilbur,Level 31 →,530,Excadrill, ,,
+Unova-based evolution families,Audino family,531,Audino, ,,,,,
+Unova-based evolution families,Timburr family,532,Timburr,Level 25 →,533,Gurdurr,Trade →,534,Conkeldurr
+Unova-based evolution families,Tympole family,535,Tympole,Level 25 →,536,Palpitoad,Level 36 →,537,Seismitoad
+Unova-based evolution families,Throh family,538,Throh, ,,,,,
+Unova-based evolution families,Sawk family,539,Sawk, ,,,,,
+Unova-based evolution families,Sewaddle family,540,Sewaddle,Level 20 →,541,Swadloon,Friendship →,542,Leavanny
+Unova-based evolution families,Venipede family,543,Venipede,Level 22 →,544,Whirlipede,Level 30 →,545,Scolipede
+Unova-based evolution families,Cottonee family,546,Cottonee,Sun Stone →,547,Whimsicott, ,,
+Unova-based evolution families,Petilil family,548,Petilil,Sun Stone →,549,Lilligant, ,,
+Unova-based evolution families,Basculin family,550,Basculin,Red Stripe, ,,,,
+Unova-based evolution families,Basculin family,550B,Basculin,Blue Stripe, ,,,,
+Unova-based evolution families,Sandile family,551,Sandile,Level 29 →,552,Krokorok,Level 40 →,553,Krookodile
+Unova-based evolution families,Darumaka family,554,Darumaka,Level 35 →,555,Darmanitan, ,,
+Unova-based evolution families,Maractus family,556,Maractus, ,,,,,
+Unova-based evolution families,Dwebble family,557,Dwebble,Level 34 →,558,Crustle, ,,
+Unova-based evolution families,Scraggy family,559,Scraggy,Level 39 →,560,Scrafty, ,,
+Unova-based evolution families,Sigilyph family,561,Sigilyph, ,,,,,
+Unova-based evolution families,Yamask family,562,Yamask,Level 34 →,563,Cofagrigus, ,,
+Unova-based evolution families,Tirtouga family,564,Tirtouga,Level 37 →,565,Carracosta, ,,
+Unova-based evolution families,Archen family,566,Archen,Level 37 →,567,Archeops, ,,
+Unova-based evolution families,Trubbish family,568,Trubbish,Level 36 →,569,Garbodor, ,,
+Unova-based evolution families,Zorua family,570,Zorua,Level 30 →,571,Zoroark, ,,
+Unova-based evolution families,Minccino family,572,Minccino,Shiny Stone →,573,Cinccino, ,,
+Unova-based evolution families,Gothita family,574,Gothita,Level 32 →,575,Gothorita,Level 41 →,576,Gothitelle
+Unova-based evolution families,Solosis family,577,Solosis,Level 32 →,578,Duosion,Level 41 →,579,Reuniclus
+Unova-based evolution families,Ducklett family,580,Ducklett,Level 35 →,581,Swanna, ,,
+Unova-based evolution families,Vanillite family,582,Vanillite,Level 35 →,583,Vanillish,Level 47 →,584,Vanilluxe
+Unova-based evolution families,Deerling family,585,Deerling,Level 34 →,586,Sawsbuck,Spring Form,,
+Unova-based evolution families,Deerling family,585S,Deerling,Level 34 →,586S,Sawsbuck,Summer Form,,
+Unova-based evolution families,Deerling family,585A,Deerling,Level 34 →,586A,Sawsbuck,Autumn Form,,
+Unova-based evolution families,Deerling family,585W,Deerling,Level 34 →,586W,Sawsbuck,Winter Form,,
+Unova-based evolution families,Emolga family,587,Emolga, ,,,,,
+Unova-based evolution families,Karrablast family,588,Karrablast,Trade for Shelmet →,589,Escavalier, ,,
+Unova-based evolution families,Foongus family,590,Foongus,Level 39 →,591,Amoonguss, ,,
+Unova-based evolution families,Frillish family,592,Frillish,Level 40 →,593,Jellicent, ,,
+Unova-based evolution families,Alomomola family,594,Alomomola, ,,,,,
+Unova-based evolution families,Joltik family,595,Joltik,Level 36 →,596,Galvantula, ,,
+Unova-based evolution families,Ferroseed family,597,Ferroseed,Level 40 →,598,Ferrothorn, ,,
+Unova-based evolution families,Klink family,599,Klink,Level 38 →,600,Klang,Level 49 →,601,Klinklang
+Unova-based evolution families,Tynamo family,602,Tynamo,Level 39 →,603,Eelektrik,Thunder Stone →,604,Eelektross
+Unova-based evolution families,Elgyem family,605,Elgyem,Level 42 →,606,Beheeyem, ,,
+Unova-based evolution families,Litwick family,607,Litwick,Level 41 →,608,Lampent,Dusk Stone →,609,Chandelure
+Unova-based evolution families,Axew family,610,Axew,Level 38 →,611,Fraxure,Level 48 →,612,Haxorus
+Unova-based evolution families,Cubchoo family,613,Cubchoo,Level 37 →,614,Beartic, ,,
+Unova-based evolution families,Cryogonal family,615,Cryogonal, ,,,,,
+Unova-based evolution families,Shelmet family,616,Shelmet,Trade for Karrablast →,617,Accelgor, ,,
+Unova-based evolution families,Stunfisk family,618,Stunfisk, ,,,,,
+Unova-based evolution families,Mienfoo family,619,Mienfoo,Level 50 →,620,Mienshao, ,,
+Unova-based evolution families,Druddigon family,621,Druddigon, ,,,,,
+Unova-based evolution families,Golett family,622,Golett,Level 43 →,623,Golurk, ,,
+Unova-based evolution families,Pawniard family,624,Pawniard,Level 52 →,625,Bisharp, ,,
+Unova-based evolution families,Bouffalant family,626,Bouffalant, ,,,,,
+Unova-based evolution families,Rufflet family,627,Rufflet,Level 54 →,628,Braviary, ,,
+Unova-based evolution families,Vullaby family,629,Vullaby,Level 54 →,630,Mandibuzz, ,,
+Unova-based evolution families,Heatmor family,631,Heatmor, ,,,,,
+Unova-based evolution families,Durant family,632,Durant, ,,,,,
+Unova-based evolution families,Deino family,633,Deino,Level 50 →,634,Zweilous,Level 64 →,635,Hydreigon
+Unova-based evolution families,Larvesta family,636,Larvesta,Level 59 →,637,Volcarona, ,,
+Unova-based evolution families,Cobalion family,638,Cobalion, ,,,,,
+Unova-based evolution families,Terrakion family,639,Terrakion, ,,,,,
+Unova-based evolution families,Virizion family,640,Virizion, ,,,,,
+Unova-based evolution families,Tornadus family,641,Tornadus, ,,,,,
+Unova-based evolution families,Thundurus family,642,Thundurus, ,,,,,
+Unova-based evolution families,Reshiram family,643,Reshiram, ,,,,,
+Unova-based evolution families,Zekrom family,644,Zekrom, ,,,,,
+Unova-based evolution families,Landorus family,645,Landorus, ,,,,,
+Unova-based evolution families,Kyurem family,646,Kyurem, ,,,,,
+Unova-based evolution families,Keldeo family,647,Keldeo, ,,,,,
+Unova-based evolution families,Meloetta family,648,Meloetta,Aria Forme, ,,,,
+Unova-based evolution families,Meloetta family,648P,Meloetta,Pirouette Forme, ,,,,
+Unova-based evolution families,Genesect family,649,Genesect, ,,,,,
+Kalos-based evolution families,Chespin family,650,Chespin,Level 16 →,651,Quilladin,Level 36 →,652,Chesnaught
+Kalos-based evolution families,Fennekin family,653,Fennekin,Level 16 →,654,Braixen,Level 36 →,655,Delphox
+Kalos-based evolution families,Froakie family,656,Froakie,Level 16 →,657,Frogadier,Level 36 →,658,Greninja
+Kalos-based evolution families,Bunnelby family,659,Bunnelby,Level 20 →,660,Diggersby, ,,
+Kalos-based evolution families,Fletchling family,661,Fletchling,Level 17 →,662,Fletchinder,Level 35 →,663,Talonflame
+Kalos-based evolution families,Scatterbug family,664,Scatterbug,Level 9 →,665,Spewpa,Level 12 →,666,Vivillon
+Kalos-based evolution families,Litleo family,667,Litleo,Level 35 →,668,Pyroar, ,,
+Kalos-based evolution families,Flabébé family,669,Flabébé,Level 19 →,670,Floette,Shiny Stone →,671,Florges
+Kalos-based evolution families,Skiddo family,672,Skiddo,Level 32 →,673,Gogoat, ,,
+Kalos-based evolution families,Pancham family,674,Pancham,Level 32 with Dark-type in party →,675,Pangoro, ,,
+Kalos-based evolution families,Furfrou family,676,Furfrou, ,,,,,
+Kalos-based evolution families,Espurr family,677,Espurr,Level 25 →,678,Meowstic, ,,
+Kalos-based evolution families,Honedge family,679,Honedge,Level 35 →,680,Doublade,Dusk Stone →,681,Aegislash
+Kalos-based evolution families,Spritzee family,682,Spritzee,Trade holding Sachet →,683,Aromatisse, ,,
+Kalos-based evolution families,Swirlix family,684,Swirlix,Trade holding Whipped Dream →,685,Slurpuff, ,,
+Kalos-based evolution families,Inkay family,686,Inkay,Level 30 with 3DS held upside down →,687,Malamar, ,,
+Kalos-based evolution families,Binacle family,688,Binacle,Level 39 →,689,Barbaracle, ,,
+Kalos-based evolution families,Skrelp family,690,Skrelp,Level 48 →,691,Dragalge, ,,
+Kalos-based evolution families,Clauncher family,692,Clauncher,Level 37 →,693,Clawitzer, ,,
+Kalos-based evolution families,Helioptile family,694,Helioptile,Sun Stone →,695,Heliolisk, ,,
+Kalos-based evolution families,Tyrunt family,696,Tyrunt,Level 39 (day) →,697,Tyrantrum, ,,
+Kalos-based evolution families,Amaura family,698,Amaura,Level 39 (night) →,699,Aurorus, ,,
+Kalos-based evolution families,Hawlucha family,701,Hawlucha, ,,,,,
+Kalos-based evolution families,Dedenne family,702,Dedenne, ,,,,,
+Kalos-based evolution families,Carbink family,703,Carbink, ,,,,,
+Kalos-based evolution families,Goomy family,704,Goomy,Level 40 →,705,Sliggoo,Level 50 in rain or fog →,706,Goodra
+Kalos-based evolution families,Klefki family,707,Klefki, ,,,,,
+Kalos-based evolution families,Phantump family,708,Phantump,Trade →,709,Trevenant, ,,
+Kalos-based evolution families,Pumpkaboo family,710,Pumpkaboo,Trade →,711,Gourgeist, ,,
+Kalos-based evolution families,Bergmite family,712,Bergmite,Level 37 →,713,Avalugg, ,,
+Kalos-based evolution families,Noibat family,714,Noibat,Level 48 →,715,Noivern, ,,
+Kalos-based evolution families,Xerneas family,716,Xerneas, ,,,,,
+Kalos-based evolution families,Yveltal family,717,Yveltal, ,,,,,
+Kalos-based evolution families,Zygarde family,718,Zygarde, ,,,,,
+Kalos-based evolution families,Diancie family,719,Diancie, ,,,,,
+Kalos-based evolution families,Hoopa family,720,Hoopa, ,,,,,
+Kalos-based evolution families,Volcanion family,721,Volcanion, ,,,,,
+Alola-based evolution families,Rowlet family,722,Rowlet,Level 17 →,723,Dartrix,Level 34 →,724,Decidueye
+Alola-based evolution families,Litten family,725,Litten,Level 17 →,726,Torracat,Level 34 →,727,Incineroar
+Alola-based evolution families,Popplio family,728,Popplio,Level 17 →,729,Brionne,Level 34 →,730,Primarina
+Alola-based evolution families,Pikipek family,731,Pikipek,Level 14 →,732,Trumbeak,Level 28 →,733,Toucannon
+Alola-based evolution families,Yungoos family,734,Yungoos,Level 20 (day) →,735,Gumshoos, ,,
+Alola-based evolution families,Grubbin family,736,Grubbin,Level 20 →,737,Charjabug,Level up in a special magnetic field →,738,Vikavolt
+Alola-based evolution families,Crabrawler family,739,Crabrawler,Level up at Mount Lanakila →,740,Crabominable, ,,
+Alola-based evolution families,Oricorio,741,Oricorio,Baile Style, ,,,,
+Alola-based evolution families,Oricorio,741Po,Oricorio,Pom-Pom Style, ,,,,
+Alola-based evolution families,Oricorio,741Pa,Oricorio,Pa'u Style, ,,,,
+Alola-based evolution families,Oricorio,741Se,Oricorio,Sensu Style, ,,,,
+Alola-based evolution families,Cutiefly family,742,Cutiefly,Level 25 →,743,Ribombee, ,,
+Alola-based evolution families,Rockruff family,744,Rockruff,Level 25 (Pokémon Sun and Ultra Sun; day) →,745,Lycanroc, ,,
+Alola-based evolution families,Rockruff family,744,Rockruff,Level 25 (Pokémon Moon and Ultra Moon; night) →,745Mn,Lycanroc, ,,
+Alola-based evolution families,Special Rockruff family,744,Rockruff,Level 25 (between 5:00 and 5:59 PM) →,745D,Lycanroc, ,,
+Alola-based evolution families,Wishiwashi family,746,Wishiwashi, ,,,,,
+Alola-based evolution families,Mareanie family,747,Mareanie,Level 38 →,748,Toxapex, ,,
+Alola-based evolution families,Mudbray family,749,Mudbray,Level 30 →,750,Mudsdale, ,,
+Alola-based evolution families,Dewpider family,751,Dewpider,Level 22 →,752,Araquanid, ,,
+Alola-based evolution families,Fomantis family,753,Fomantis,Level 34 (day) →,754,Lurantis, ,,
+Alola-based evolution families,Morelull family,755,Morelull,Level 24 →,756,Shiinotic, ,,
+Alola-based evolution families,Salandit family,757,Salandit,Level 33 (female) →,758,Salazzle, ,,
+Alola-based evolution families,Stufful family,759,Stufful,Level 27 →,760,Bewear, ,,
+Alola-based evolution families,Bounsweet family,761,Bounsweet,Level 18 →,762,Steenee,Level up knowing Stomp →,763,Tsareena
+Alola-based evolution families,Comfey family,764,Comfey, ,,,,,
+Alola-based evolution families,Oranguru family,765,Oranguru, ,,,,,
+Alola-based evolution families,Passimian family,766,Passimian, ,,,,,
+Alola-based evolution families,Wimpod family,767,Wimpod,Level 30 →,768,Golisopod, ,,
+Alola-based evolution families,Sandygast family,769,Sandygast,Level 42 →,770,Palossand, ,,
+Alola-based evolution families,Pyukumuku family,771,Pyukumuku, ,,,,,
+Alola-based evolution families,Type: Null family,772,Type: Null,Friendship →,773,Silvally, ,,
+Alola-based evolution families,Minior family,774,Minior, ,,,,,
+Alola-based evolution families,Komala family,775,Komala, ,,,,,
+Alola-based evolution families,Turtonator family,776,Turtonator, ,,,,,
+Alola-based evolution families,Togedemaru family,777,Togedemaru, ,,,,,
+Alola-based evolution families,Mimikyu family,778,Mimikyu, ,,,,,
+Alola-based evolution families,Bruxish family,779,Bruxish, ,,,,,
+Alola-based evolution families,Drampa family,780,Drampa, ,,,,,
+Alola-based evolution families,Dhelmise family,781,Dhelmise, ,,,,,
+Alola-based evolution families,Jangmo-o family,782,Jangmo-o,Level 35 →,783,Hakamo-o,Level 45 →,784,Kommo-o
+Alola-based evolution families,Tapu Koko family,785,Tapu Koko, ,,,,,
+Alola-based evolution families,Tapu Lele family,786,Tapu Lele, ,,,,,
+Alola-based evolution families,Tapu Bulu family,787,Tapu Bulu, ,,,,,
+Alola-based evolution families,Tapu Fini family,788,Tapu Fini, ,,,,,
+Alola-based evolution families,Cosmog family,789,Cosmog,Level 43 →,790,Cosmoem,Level 53 (Pokémon Sun and Ultra Sun) →,791,Solgaleo
+Alola-based evolution families,Cosmog family,789,Cosmog,Level 43 →,790,Cosmoem,Level 53 (Pokémon Moon and Ultra Moon) →,792,Lunala
+Alola-based evolution families,Nihilego family,793,Nihilego, ,,,,,
+Alola-based evolution families,Buzzwole family,794,Buzzwole, ,,,,,
+Alola-based evolution families,Pheromosa family,795,Pheromosa, ,,,,,
+Alola-based evolution families,Xurkitree family,796,Xurkitree, ,,,,,
+Alola-based evolution families,Celesteela family,797,Celesteela, ,,,,,
+Alola-based evolution families,Kartana family,798,Kartana, ,,,,,
+Alola-based evolution families,Guzzlord family,799,Guzzlord, ,,,,,
+Alola-based evolution families,Necrozma family,800,Necrozma, ,,,,,
+Alola-based evolution families,Magearna family,801,Magearna, ,,,,,
+Alola-based evolution families,Marshadow family,802,Marshadow, ,,,,,
+Alola-based evolution families,Poipole family,803,Poipole,Level up knowing Dragon Pulse →,804,Naganadel, ,,
+Alola-based evolution families,Stakataka family,805,Stakataka, ,,,,,
+Alola-based evolution families,Blacephalon family,806,Blacephalon, ,,,,,
+Alola-based evolution families,Zeraora family,807,Zeraora, ,,,,,
