@@ -12,7 +12,7 @@ library(magrittr);
 library(tidyverse);
 library(reshape2);
 # Utility
-source("util.R");
+library(zUtil);
 
 # Core DB
 source("core/clean.R");
