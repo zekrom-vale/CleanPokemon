@@ -1,0 +1,26 @@
+ID,Nature,Japanese,Increased stat,Decreased stat,Favorite flavor,Disliked flavor,English,Japanese Kana,Japanese Rōmaji,French,German,Italian,Spanish,Korean Hangul,Korean Romanized,Chinese Hànzì,Chinese Romanized
+0,Hardy,がんばりや,—,—,—,—,Adamant,いじっぱり,Ijippari,Rigide,Hart,Decisa,Firme,고집,Gojip,固執 / 固执,Gùzhí / Gujāp
+1,Lonely,さみしがり,Attack,Defense,Spicy,Sour,Bashful,てれや,Tereya,Pudique,Zaghaft,Ritrosa,Tímida,수줍음,Sujup-eum,害羞,Hàixiū / Hoihsāu
+2,Brave,ゆうかん,Attack,Speed,Spicy,Sweet,Bold,ずぶとい,Zubutoi,Assuré,Kühn,Sicura,Osada,대담,Daedam,大膽 / 大胆,Dàdǎn / Daaihdáam
+3,Adamant,いじっぱり,Attack,Sp. Attack,Spicy,Dry,Brave,ゆうかん,Yūkan,Brave,Mutig,Audace,Audaz,용감,Yonggam,勇敢,Yǒnggǎn / Yúhnggám
+4,Naughty,やんちゃ,Attack,Sp. Defense,Spicy,Bitter,Calm,おだやか,Odayaka,Calme,Still,Calma,Serena,차분,Chabun,溫和 / 温和,Wēnhé / Wānwòh
+5,Bold,ずぶとい,Defense,Attack,Sour,Spicy,Careful,しんちょう,Shinchō,Prudent,Sacht,Cauta,Cauta,신중,Sinjung,慎重,Shènzhòng / Sahnjuhng
+6,Docile,すなお,—,—,—,—,Docile,すなお,Sunao,Docile,Sanft,Docile,Dócil,온순,Onsun,坦率,Tǎnshuài / Táansēut
+7,Relaxed,のんき,Defense,Speed,Sour,Sweet,Gentle,おとなしい,Otonashii,Gentil,Zart,Gentile,Amable,얌전,Yamjeon,溫順 / 温顺,Wēnshùn / Wānseuhn
+8,Impish,わんぱく,Defense,Sp. Attack,Sour,Dry,Hardy,がんばりや,Ganbariya,Hardi,Robust,Ardita,Fuerte,노력,Noryeok,勤奮 / 勤奋,Qínfèn / Kàhnfáhn
+9,Lax,のうてんき,Defense,Sp. Defense,Sour,Bitter,Hasty,せっかち,Sekkachi,Pressé,Hastig,Lesta,Activa,성급,Seonggeup,急躁,Jízào / Gāpchou
+10,Timid,おくびょう,Speed,Attack,Sweet,Spicy,Impish,わんぱく,Wanpaku,Malin,Pfiffig,Scaltra,Agitada,장난꾸러기,Jangnankkureogi,淘氣 / 淘气,Táoqì / Tòuhhei
+11,Hasty,せっかち,Speed,Defense,Sweet,Sour,Jolly,ようき,Yōki,Jovial,Froh,Allegra,Alegre,명랑,Myeongrang,爽朗,Shuǎnglǎng / Sónglóhng
+12,Serious,まじめ,—,—,—,—,Lax,のうてんき,Nōtenki,Lâche,Lasch,Fiacca,Floja,촐랑,Chullang,樂天 / 乐天,Lètiān / Lohktīn
+13,Jolly,ようき,Speed,Sp. Attack,Sweet,Dry,Lonely,さみしがり,Samishigari,Solo,Solo,Schiva,Huraña,외로움,Oeroum,怕寂寞,Pàjímò / Pàjìmò / Pajihkmohk
+14,Naive,むじゃき,Speed,Sp. Defense,Sweet,Bitter,Mild,おっとり,Ottori,Doux,Mild,Mite,Afable,의젓,Yijeot,慢吞吞,Màntūntūn / Maahntāntān
+15,Modest,ひかえめ,Sp. Attack,Attack,Dry,Spicy,Modest,ひかえめ,Hikaeme,Modeste,Mäßig,Modesta,Modesta,조심,Josim,內斂 / 内敛,Nèiliàn / Nèiliǎn / Noihlihm
+16,Mild,おっとり,Sp. Attack,Defense,Dry,Sour,Naive,むじゃき,Mujaki,Naïf,Naiv,Ingenua,Ingenua,천진난만,Cheonjinnanman,天真,Tiānzhēn / Tīnjān
+17,Quiet,れいせい,Sp. Attack,Speed,Dry,Sweet,Naughty,やんちゃ,Yancha,Mauvais,Frech,Birbona,Pícara,개구쟁이,Gaegujaeng-i,頑皮 / 顽皮,Wánpí / Wàahnpèih
+18,Bashful,てれや,—,—,—,—,Quiet,れいせい,Reisei,Discret,Ruhig,Quieta,Mansa,냉정,Naengjeong,冷靜 / 冷静,Lěngjìng / Láahngjihng
+19,Rash,うっかりや,Sp. Attack,Sp. Defense,Dry,Bitter,Quirky,きまぐれ,Kimagure,Bizarre,Kauzig,Furba,Rara,변덕,Byeongdeok,浮躁,Fúzào / Fàuhchou
+20,Calm,おだやか,Sp. Defense,Attack,Bitter,Spicy,Rash,うっかりや,Ukkariya,Foufou,Hitzig,Ardente,Alocada,덜렁,Deolleong,馬虎 / 马虎,Mǎhū / Mǎhu / Māfū
+21,Gentle,おとなしい,Sp. Defense,Defense,Bitter,Sour,Relaxed,のんき,Nonki,Relax,Locker,Placida,Plácida,무사태평,Musataepyeong,悠閒 / 悠闲,Yōuxián / Yàuhhàahn
+22,Sassy,なまいき,Sp. Defense,Speed,Bitter,Sweet,Sassy,なまいき,Namaiki,Malpoli,Forsch,Vivace,Grosera,건방,Geonbang,自大,Zìdà / Jihdaaih
+23,Careful,しんちょう,Sp. Defense,Sp. Attack,Bitter,Dry,Serious,まじめ,Majime,Sérieux,Ernst,Seria,Seria,성실,Seongsil,認真 / 认真,Rènzhēn / Yihngjān
+24,Quirky,きまぐれ,—,—,—,—,Timid,おくびょう,Okubyō,Timide,Scheu,Timida,Miedosa,겁쟁이,Geopjaeng-i,膽小 / 胆小,Dǎnxiǎo / Dáamsíu
