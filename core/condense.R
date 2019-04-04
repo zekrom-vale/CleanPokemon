@@ -75,3 +75,7 @@ agg%<>%
 
 rm(dexes, dexsuff, types.agg, types.agg.j);
 write_csv(agg,path="core/agg.csv",na="");
+
+# Pass to pokemon
+pokemon=agg;
+rm(agg);

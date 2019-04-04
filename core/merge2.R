@@ -853,4 +853,4 @@ agg%<>%
 	);
 
 
-rm(ability, call, evolution, friend, iq, color, agg.rec, habatat, agg.f, agg.j, agg.j2);
+rm(ability, call, evolution, friend, iq, color, agg.rec, habatat, agg.f, agg.j, agg.j2, height);
