@@ -73,9 +73,10 @@ agg%<>%
 		Item=if_else(str_detect(Item, "\\*")&Name=="Rayquaza", "Meteorite", Item)
 	);
 
-rm(dexes, dexsuff, types.agg, types.agg.j);
-write_csv(agg,path="core/agg.csv",na="");
+# Fix egg group 2
+agg%<>%
+	mutate(
+		`Egg Group 2`=if_else(`Egg Group 2`=="—", NA_character_, `Egg Group 2`)
+	);
 
-# Pass to pokemon
-pokemon=agg;
-rm(agg);
+rm(dexes, dexsuff, types.agg, types.agg.j);
