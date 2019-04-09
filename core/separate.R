@@ -21,6 +21,8 @@ species=agg%>%
 	select(
 		Name,
 		Dex,
+		Class,
+		Dex_Suffix,
 		Item,
 		`Egg Group 1`,
 		`Egg Group 2`,
