@@ -262,7 +262,7 @@ family%<>%
 family%<>%
 	mutate(
 		Class=if_else(str_detect(Name,"^Unown [A-Z!?]$"),str_extract(Name, "(?<= )[A-Z!?]"),Class),
-		Name=if_else(str_detect(Name,"^Unown [A-Z!?]$"),"Unown",Class)
+		Name=if_else(str_detect(Name,"^Unown [A-Z!?]$"),"Unown",Name)
 	);
 
 rm(evolutions1, evolutions2, evolutions3, family.o);
@@ -300,7 +300,12 @@ species.j%>%
 		Class!=Class.d|
 		Dex_Suffix!=Dex_Suffix.d
 	)%>%View();
-# Only Unknowns
+# Need to fix them
+
+
+#
+#
+#
 
 species.j%>%
 	filter(
