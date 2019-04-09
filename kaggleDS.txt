@@ -1,8 +1,20 @@
-All the following datasets has less data than the one I am creating.
+All the following datasets has less data than the one I am creating.  You can see the data I have scraped and already processed at https://github.com/zekrom-vale/PokemonDB Do note, that I am using a custom package at https://github.com/zekrom-vale/zUtil.R
 
 
 Alternative data sets
-From https://www.kaggle.com/datasets?sortBy=relevance&group=public&search=pokemon&page=1&pageSize=20&size=all&filetype=all&license=all
+From
+
+https://www.kaggle.com/datasets?sortBy=relevance&group=public&search=pokemon&page=1&pageSize=20&size=all&filetype=all&license=all
+
+This data set has the information that I am interested in and a topic I like.  However, more limited than my own.
 https://www.kaggle.com/abcsds/pokemon
+
+This data set is slightly better than the previous one, but still not to the degree that I have.
 https://www.kaggle.com/alopez247/pokemon#pokemon_alopez247.csv
+
+This data set has much more information than the previous ones about Pokemon, but it is limited to 7th generation 
 https://www.kaggle.com/mylesoneill/pokemon-sun-and-moon-gen-7-stats#pokemon.csv
+
+
+This data set is an alternative topic, instead of Pokemon, it is about crypto-currency.  This has 83.2k rows and 8 columns in long format.  It would be interesting trying to predict the future of each currency.  (I already know I would want to wrap by Currency).
+https://www.kaggle.com/philmohun/cryptocurrency-financial-data
