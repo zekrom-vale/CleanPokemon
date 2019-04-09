@@ -258,7 +258,87 @@ family%<>%
 			)
 	);#%>%not_distinct(Dex, Dex_Suffix, Name);# Nothing not distinct
 
+# Fix Unknown
+family%<>%
+	mutate(
+		Class=if_else(str_detect(Name,"^Unown [A-Z!?]$"),str_extract(Name, "(?<= )[A-Z!?]"),Class),
+		Name=if_else(str_detect(Name,"^Unown [A-Z!?]$"),"Unown",Class)
+	);
+
 rm(evolutions1, evolutions2, evolutions3, family.o);
 
 write_csv(evolutions, "evolution/evolutions.csv",na="");
 write_csv(family, "evolution/family.csv",na="");
+
+
+##################################################################################
+#																Join with species
+##################################################################################
+
+species.j=species%>%
+	left_join(
+		family%>%
+			left_join(
+				evolutions,
+				by=c("Dex", "Dex_Suffix", "Name", "Class", "Region", "Family")
+			),
+		by=c("Dex", "Name"),
+		suffix=c("", ".d")
+	)%>%
+	filter(
+		Class==Class.d|
+		Dex_Suffix==Dex_Suffix.d|
+		is.na(Class)|
+		is.na(Dex_Suffix)|
+		is.na(Class.d)|
+		is.na(Dex_Suffix.d)
+	);
+
+# See what did not match
+species.j%>%
+	filter(
+		Class!=Class.d|
+		Dex_Suffix!=Dex_Suffix.d
+	)%>%View();
+# Only Unknowns
+
+species.j%>%
+	filter(
+	is.na(Class)&!is.na(Class.d)|
+	is.na(Class)&!is.na(Class.d)
+);
+# Only Unknowns
+
+species.j%>%
+	filter(
+		is.na(Dex_Suffix)&!is.na(Dex_Suffix.d)|
+		is.na(Dex_Suffix.d)&!is.na(Dex_Suffix)
+	)%>%View();
+# Many things here
+# Don't think it is an issue
+
+# Unite class and account for compound classes
+species.j%<>%
+	mutate(
+		Class=if_else(is.na(Class),"",Class),
+		Class.d=if_else(is.na(Class.d),"",Class.d)
+	)%>%
+	unite(
+		Class, Class.d,
+		sep=" "
+	)%>%
+	mutate(
+		Class=trimws(Class)
+	);
+
+# Unite Dex_Suffix
+species.j%<>%
+	mutate(
+		Dex_Suffix=if_else(is.na(Dex_Suffix),Dex_Suffix.d, Dex_Suffix),
+		Dex_Suffix.d=NULL
+	);
+# Export and save
+species=species.j;
+rm(species.j);
+
+write_csv(species, "core/species.csv",na="");
