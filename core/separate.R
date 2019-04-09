@@ -67,7 +67,7 @@ pokemon%<>%
 			filter_not_na(LDex)
 	);
 
-write_csv(pokemon, path="core/pokemon.csv",na="");
-write_csv(species, path="core/species.csv",na="");
+write_csv(pokemon, path="datasets/pokemon.csv",na="");
+write_csv(species, path="datasets/species.csv",na="");
 
 rm(agg);

@@ -694,7 +694,7 @@ itemsIDs%>%
 ###############################################################################
 
 # Export list of items
-write_csv(items,"items/items.csv",na="");
+write_csv(items,"datasets/items.csv",na="");
 
 # Export item ids
-write_csv(itemsIDs,"items/itemIDs.csv",na="");
+write_csv(itemsIDs,"datasets/itemIDs.csv",na="");

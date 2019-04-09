@@ -139,4 +139,4 @@ pokemon%>%
 	);
 # Does not work that well, will be complicated to join
 
-write_csv(base, "IV/base.csv", na="");
+write_csv(base, "datasets/base.csv", na="");

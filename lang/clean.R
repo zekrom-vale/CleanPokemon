@@ -101,5 +101,5 @@ pokemonLang%<>%
 		ID=if_else(str_detect(ID, "\\?{3}"),-1L, as.integer(ID))
 	);
 
-write_csv(pokemonLang, "lang/pokemonLang.csv", na="");
-write_csv(pokemonLang%>%filter(!is.na(ID),ID>=0), "lang/pokemonLang_noNA.csv", na="");
+write_csv(pokemonLang, "datasets/pokemonLang.csv", na="");
+write_csv(pokemonLang%>%filter(!is.na(ID),ID>=0), "datasets/pokemonLang_noNA.csv", na="");
