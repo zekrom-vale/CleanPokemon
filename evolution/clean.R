@@ -303,18 +303,34 @@ species.j%>%
 # Need to fix them
 
 
-#
-#
-#
+species.j.f=species.j%>%
+	group_by(Name, Dex)%>%
+	filter(
+		(
+			all(is.na(Dex_Suffix.d))|
+			all(is.na(Dex_Suffix))|
+			(
+				Dex_Suffix==Dex_Suffix.d|
+				is.na(Dex_Suffix)&is.na(Dex_Suffix.d)
+			)
+		)&(
+			all(is.na(Class.d))|
+			all(is.na(Class))|
+			(
+				Class==Class.d|
+				is.na(Class)&is.na(Class.d)
+			)
+		)
+	);
 
-species.j%>%
+species.j.f%>%
 	filter(
 	is.na(Class)&!is.na(Class.d)|
 	is.na(Class)&!is.na(Class.d)
 );
 # Only Unknowns
 
-species.j%>%
+species.j.f%>%
 	filter(
 		is.na(Dex_Suffix)&!is.na(Dex_Suffix.d)|
 		is.na(Dex_Suffix.d)&!is.na(Dex_Suffix)
@@ -323,27 +339,36 @@ species.j%>%
 # Don't think it is an issue
 
 # Unite class and account for compound classes
-species.j%<>%
+species.j.f%<>%
 	mutate(
 		Class=if_else(is.na(Class),"",Class),
 		Class.d=if_else(is.na(Class.d),"",Class.d)
 	)%>%
 	unite(
-		Class, Class.d,
+		Class, Class, Class.d,
 		sep=" "
 	)%>%
 	mutate(
-		Class=trimws(Class)
+		Class=trimws(Class),
+		Class=if_else(Class=="", NA_character_, Class)
 	);
 
 # Unite Dex_Suffix
-species.j%<>%
+species.j.f%<>%
 	mutate(
 		Dex_Suffix=if_else(is.na(Dex_Suffix),Dex_Suffix.d, Dex_Suffix),
 		Dex_Suffix.d=NULL
 	);
+
+species.j.f%>%
+	not_distinct(Name, Dex, Dex_Suffix, Class, Next_Dex, Next_Name, Previous_Dex, Previous_Name)%>%
+	arrange(Name)%>%
+	View();
+# Anomoly with Burmy
+
 # Export and save
-species=species.j;
-rm(species.j);
+species=species.j.f;
+rm(species.j, species.j.f);
+
 
 write_csv(species, "datasets/species.csv",na="");
