@@ -1,722 +1,722 @@
 Region,Family,Dex,Dex_Suffix,Name,Class,Condition,Sub_Condition,Level,Next_Dex,Next_Name,Previous_Dex,Previous_Name,Stage
-Sinnoh,Bronzor family,437,,Bronzong,,,,,,,436,Bronzor,2
-Hoenn,Electrike family,310,,Manectric,,,,,,,309,Electrike,2
-Hoenn,Snorunt family,362,,Glalie,,,,,,,361,Snorunt,2
-Unova,Sewaddle family,540,,Sewaddle,,,,20,541,Swadloon,,,1
-Kanto,Nidoran family*,32,,Nidoran♂,,,,16,33,Nidorino,,,1
-Hoenn,Makuhita family,296,,Makuhita,,,,24,297,Hariyama,,,1
-Kanto,Gastly family,92,,Gastly,,,,25,93,Haunter,,,1
-Hoenn,Feebas family,349,,Feebas,,"Level up with maximum Beauty
-Trade holding Prism Scale",,,350,Milotic,,,1
-Alola,Yungoos family,735,,Gumshoos,,,,,,,734,Yungoos,2
-Unova,Panpour family,515,,Panpour,,Water Stone,,,516,Simipour,,,1
-Johto,Mantine family,458,,Mantyke,,Level up with Remoraid in party,,,226,Mantine,,,1
-Hoenn,Duskull family,355,,Duskull,,,,37,356,Dusclops,,,1
-Hoenn,Skitty family,300,,Skitty,,Moon Stone,,,301,Delcatty,,,1
-Unova,Tynamo family,604,,Eelektross,,,,,,,603,Eelektrik,3
-Hoenn,Gulpin family,317,,Swalot,,,,,,,316,Gulpin,2
-Kanto,Krabby family,99,,Kingler,,,,,,,98,Krabby,2
-Kanto,Weedle family,13,,Weedle,,,,7,14,Kakuna,,,1
-Kalos,Helioptile family,695,,Heliolisk,,,,,,,694,Helioptile,2
-Johto,Mareep family,181,,Ampharos,,,,,,,180,Flaaffy,3
-Kanto,Caterpie family,11,,Metapod,,,,10,12,Butterfree,10,Caterpie,2
-Kanto,Electabuzz family,125,,Electabuzz,,Trade holding Electirizer,,,466,Electivire,239,Elekid,2
-Johto,Spinarak family,168,,Ariados,,,,,,,167,Spinarak,2
-Kanto,Eeveelution family,133,,Eevee,,Level up near Ice Rock,,,471,Glaceon,,,1
-Kanto,Paras family,47,,Parasect,,,,,,,46,Paras,2
-Kanto,Gastly family,94,,Gengar,,,,,,,93,Haunter,3
-Johto,Ledyba family,165,,Ledyba,,,,18,166,Ledian,,,1
-Kanto,Eeveelution family,471,,Glaceon,,,,,,,133,Eevee,2
-Alola,Mudbray family,749,,Mudbray,,,,30,750,Mudsdale,,,1
-Unova,Timburr family,533,,Gurdurr,,Trade,,,534,Conkeldurr,532,Timburr,2
-Kanto,Alolan Geodude family,74,A,Geodude,,,,25,75,Graveler,,,1
-Hoenn,Torchic family,255,,Torchic,,,,16,256,Combusken,,,1
-Unova,Darumaka family,555,,Darmanitan,,,,,,,554,Darumaka,2
-Unova,Archen family,567,,Archeops,,,,,,,566,Archen,2
-Kanto,Ponyta family,77,,Ponyta,,,,40,78,Rapidash,,,1
-Unova,Roggenrola family,524,,Roggenrola,,,,25,525,Boldore,,,1
-Sinnoh,Turtwig family,389,,Torterra,,,,,,,388,Grotle,3
-Kanto,Cubone family,104,A,Cubone,,,night,28,105,Marowak,,,1
-Alola,Bounsweet family,761,,Bounsweet,,,,18,762,Steenee,,,1
-Sinnoh,Cherubi family,420,,Cherubi,,,,25,421,Cherrim,,,1
-Kanto,Krabby family,98,,Krabby,,,,28,99,Kingler,,,1
-Unova,Yamask family,562,,Yamask,,,,34,563,Cofagrigus,,,1
-Johto,Cyndaquil family,156,,Quilava,,,,36,157,Typhlosion,155,Cyndaquil,2
-Kanto,Pikachu family,25,,Pikachu,,Thunder Stone,,,26,Raichu,172,Pichu,2
-Kalos,Helioptile family,694,,Helioptile,,Sun Stone,,,695,Heliolisk,,,1
-Unova,Deino family,635,,Hydreigon,,,,,,,634,Zweilous,3
-Kanto,Cubone family,104,,Cubone,,,,28,105,Marowak,,,1
-Alola,Popplio family,728,,Popplio,,,,17,729,Brionne,,,1
-Unova,Vanillite family,583,,Vanillish,,,,47,584,Vanilluxe,582,Vanillite,2
-Unova,Axew family,611,,Fraxure,,,,48,612,Haxorus,610,Axew,2
-Alola,Pikipek family,732,,Trumbeak,,,,28,733,Toucannon,731,Pikipek,2
-Kanto,Eeveelution family,700,,Sylveon,,,,,,,133,Eevee,2
-Sinnoh,Cranidos family,408,,Cranidos,,,,30,409,Rampardos,,,1
-Kanto,Alolan Meowth family,53,A,Persian,,,,,,,52,Meowth,2
-Kanto,Jynx family,238,,Smoochum,,,,30,124,Jynx,,,1
-Kalos,Scatterbug family,666,,Vivillon,,,,,,,665,Spewpa,3
-Kanto,Slowpoke family,79,,Slowpoke,,,,37,80,Slowbro,,,1
-Kanto,Shellder family,91,,Cloyster,,,,,,,90,Shellder,2
-Kanto,Exeggcute family,102,,Exeggcute,,Leaf Stone,,,103,Exeggutor,,,1
-Kanto,Nidoran family*,31,,Nidoqueen,,,,,,,30,Nidorina,3
-Unova,Scraggy family,559,,Scraggy,,,,39,560,Scrafty,,,1
-Kalos,Pumpkaboo family,711,,Gourgeist,,,,,,,710,Pumpkaboo,2
-Alola,Rockruff family,745,Mn,Lycanroc,,,,,,,744,Rockruff,2
-Kanto,Chansey family,440,,Happiny,,Level up holding Oval Stone,day,,113,Chansey,,,1
-Kanto,Tentacool family,73,,Tentacruel,,,,,,,72,Tentacool,2
-Hoenn,Seedot family,273,,Seedot,,,,14,274,Nuzleaf,,,1
-Kanto,Abra family,65,,Alakazam,,,,,,,64,Kadabra,3
-Kanto,Eeveelution family,133,,Eevee,,Thunder Stone,,,135,Jolteon,,,1
-Kalos,Chespin family,650,,Chespin,,,,16,651,Quilladin,,,1
-Hoenn,Bagon family,372,,Shelgon,,,,50,373,Salamence,371,Bagon,2
-Kalos,Bergmite family,712,,Bergmite,,,,37,713,Avalugg,,,1
-Johto,Remoraid family,223,,Remoraid,,,,25,224,Octillery,,,1
-Kanto,Nidoran family*,33,,Nidorino,,Moon Stone,,,34,Nidoking,32,Nidoran♂,2
-Unova,Pidove family,521,,Unfezant,,,,,,,520,Tranquill,3
-Kanto,Eeveelution family,133,,Eevee,,Fire Stone,,,136,Flareon,,,1
-Johto,Togepi family,468,,Togekiss,,,,,,,176,Togetic,3
-Johto,Pineco family,204,,Pineco,,,,31,205,Forretress,,,1
-Johto,Wooper family,194,,Wooper,,,,20,195,Quagsire,,,1
-Unova,Tympole family,535,,Tympole,,,,25,536,Palpitoad,,,1
-Kanto,Ponyta family,78,,Rapidash,,,,,,,77,Ponyta,2
-Hoenn,Treecko family,252,,Treecko,,,,16,253,Grovyle,,,1
-Kanto,Alolan Geodude family,76,A,Golem,,,,,,,75,Graveler,3
-Kanto,Pidgey family,16,,Pidgey,,,,18,17,Pidgeotto,,,1
-Sinnoh,Shellos family,422,,Shellos,West Sea,,,30,423,Gastrodon,,,1
-Unova,Sandile family,553,,Krookodile,,,,,,,552,Krokorok,3
-Kalos,Goomy family,706,,Goodra,,,,,,,705,Sliggoo,3
-Hoenn,Nincada family,292,,Shedinja,,,,,,,290,Nincada,2
-Johto,Yanma family,193,,Yanma,,Level up knowing Ancient Power,,,469,Yanmega,,,1
-Kanto,Eeveelution family,133,,Eevee,,Level up near Moss Rock,,,470,Leafeon,,,1
-Unova,Klink family,601,,Klinklang,,,,,,,600,Klang,3
-Kanto,Pidgey family,18,,Pidgeot,,,,,,,17,Pidgeotto,3
-Unova,Solosis family,577,,Solosis,,,,32,578,Duosion,,,1
-Sinnoh,Skorupi family,451,,Skorupi,,,,40,452,Drapion,,,1
-Hoenn,Whismur family,293,,Whismur,,,,20,294,Loudred,,,1
-Johto,Gligar family,472,,Gliscor,,,,,,,207,Gligar,2
-Kanto,Charmander family,5,,Charmeleon,,,,36,6,Charizard,4,Charmander,2
-Kanto,Drowzee family,97,,Hypno,,,,,,,96,Drowzee,2
-Kalos,Swirlix family,685,,Slurpuff,,,,,,,684,Swirlix,2
-Kanto,Oddish family,44,,Gloom,,Leaf Stone,,,45,Vileplume,43,Oddish,2
-Kanto,Growlithe family,59,,Arcanine,,,,,,,58,Growlithe,2
-Hoenn,Whismur family,294,,Loudred,,,,40,295,Exploud,293,Whismur,2
-Unova,Petilil family,549,,Lilligant,,,,,,,548,Petilil,2
-Kalos,Flabébé family,670,,Floette,,Shiny Stone,,,671,Florges,669,Flabébé,2
-Sinnoh,Hippopotas family,449,,Hippopotas,,,,34,450,Hippowdon,,,1
-Hoenn,Wurmple family,266,,Silcoon,,,,10,267,Beautifly,265,Wurmple,2
-Alola,Litten family,726,,Torracat,,,,34,727,Incineroar,725,Litten,2
-Hoenn,Chimecho family,433,,Chingling,,Friendship,night,,358,Chimecho,,,1
-Unova,Deerling family,585,W,Deerling,Winter Form,,,34,586,Sawsbuck,,,1
-Kanto,Sandshrew family,27,,Sandshrew,,,,22,28,Sandslash,,,1
-Sinnoh,Croagunk family,454,,Toxicroak,,,,,,,453,Croagunk,2
-Unova,Drilbur family,529,,Drilbur,,,,31,530,Excadrill,,,1
-Kanto,Eeveelution family,134,,Vaporeon,,,,,,,133,Eevee,2
-Kanto,Machop family,67,,Machoke,,Trade,,,68,Machamp,66,Machop,2
-Alola,Litten family,725,,Litten,,,,17,726,Torracat,,,1
-Sinnoh,Stunky family,434,,Stunky,,,,34,435,Skuntank,,,1
-Unova,Shelmet family,617,,Accelgor,,,,,,,616,Shelmet,2
-Kanto,Abra family,63,,Abra,,,,16,64,Kadabra,,,1
-Sinnoh,Turtwig family,387,,Turtwig,,,,18,388,Grotle,,,1
-Kanto,Magmar family,126,,Magmar,,Trade holding Magmarizer,,,467,Magmortar,240,Magby,2
-Sinnoh,Buizel family,419,,Floatzel,,,,,,,418,Buizel,2
-Johto,Yanma family,469,,Yanmega,,,,,,,193,Yanma,2
-Alola,Special Rockruff family,745,D,Lycanroc,,,,,,,744,Rockruff,2
-Kanto,Bulbasaur family,3,,Venusaur,,,,,,,2,Ivysaur,3
-Kanto,Jigglypuff family,40,,Wigglytuff,,,,,,,39,Jigglypuff,3
-Kanto,Poliwag family,186,,Politoed,,,,,,,61,Poliwhirl,3
-Kanto,Eeveelution family,133,,Eevee,,Water Stone,,,134,Vaporeon,,,1
-Kalos,Froakie family,656,,Froakie,,,,16,657,Frogadier,,,1
-Hoenn,Seedot family,274,,Nuzleaf,,Leaf Stone,,,275,Shiftry,273,Seedot,2
-Kanto,Jynx family,124,,Jynx,,,,,,,238,Smoochum,2
-Kanto,Magnemite family,82,,Magneton,,Level up in a special magnetic field,,,462,Magnezone,81,Magnemite,2
-Hoenn,Clamperl family,367,,Huntail,,,,,,,366,Clamperl,2
-Kanto,Rhyhorn family,111,,Rhyhorn,,,,42,112,Rhydon,,,1
-Kanto,Nidoran family*,30,,Nidorina,,Moon Stone,,,31,Nidoqueen,29,Nidoran♀,2
-Unova,Archen family,566,,Archen,,,,37,567,Archeops,,,1
-Kalos,Espurr family,677,,Espurr,,,,25,678,Meowstic,,,1
-Unova,Tympole family,537,,Seismitoad,,,,,,,536,Palpitoad,3
-Kanto,Jigglypuff family,39,,Jigglypuff,,Moon Stone,,,40,Wigglytuff,174,Igglybuff,2
-Unova,Golett family,623,,Golurk,,,,,,,622,Golett,2
-Kanto,Doduo family,84,,Doduo,,,,31,85,Dodrio,,,1
-Hoenn,Clamperl family,368,,Gorebyss,,,,,,,366,Clamperl,2
-Hoenn,Carvanha family,318,,Carvanha,,,,30,319,Sharpedo,,,1
-Kanto,Exeggcute family,103,,Exeggutor,,,,,,,102,Exeggcute,2
-Kanto,Oddish family,45,,Vileplume,,,,,,,44,Gloom,3
-Alola,Sandygast family,769,,Sandygast,,,,42,770,Palossand,,,1
-Hoenn,Meditite family,307,,Meditite,,,,37,308,Medicham,,,1
-Sinnoh,Burmy family,412,S,Burmy,,,male,20,414,Mothim,,,1
-Kanto,Mr. Mime family,122,,Mr. Mime,,,,,,,439,Mime Jr.,2
-Kalos,Skiddo family,672,,Skiddo,,,,32,673,Gogoat,,,1
-Kanto,Rhyhorn family,112,,Rhydon,,Trade holding Protector,,,464,Rhyperior,111,Rhyhorn,2
-Hoenn,Aron family,304,,Aron,,,,32,305,Lairon,,,1
-Unova,Darumaka family,554,,Darumaka,,,,35,555,Darmanitan,,,1
-Kalos,Scatterbug family,664,,Scatterbug,,,,9,665,Spewpa,,,1
-Unova,Mienfoo family,620,,Mienshao,,,,,,,619,Mienfoo,2
-Unova,Blitzle family,522,,Blitzle,,,,27,523,Zebstrika,,,1
-Johto,Chinchou family,171,,Lanturn,,,,,,,170,Chinchou,2
-Hoenn,Snorunt family,478,,Froslass,,,,,,,361,Snorunt,2
-Sinnoh,Bidoof family,399,,Bidoof,,,,15,400,Bibarel,,,1
-Unova,Klink family,600,,Klang,,,,49,601,Klinklang,599,Klink,2
-Kanto,Electabuzz family,239,,Elekid,,,,30,125,Electabuzz,,,1
-Sinnoh,Snover family,459,,Snover,,,,40,460,Abomasnow,,,1
-Kanto,Mankey family,57,,Primeape,,,,,,,56,Mankey,2
-Johto,Natu family,178,,Xatu,,,,,,,177,Natu,2
-Kanto,Alolan Grimer family,88,A,Grimer,,,,38,89,Muk,,,1
-Kanto,Magikarp family,129,,Magikarp,,,,20,130,Gyarados,,,1
-Sinnoh,Chimchar family,390,,Chimchar,,,,14,391,Monferno,,,1
-Kanto,Porygon family,137,,Porygon,,Trade holding Up-Grade,,,233,Porygon2,,,1
-Johto,Swinub family,220,,Swinub,,,,33,221,Piloswine,,,1
-Kanto,Alolan Geodude family,75,A,Graveler,,Trade,,,76,Golem,74,Geodude,2
-Unova,Cubchoo family,614,,Beartic,,,,,,,613,Cubchoo,2
-Hoenn,Whismur family,295,,Exploud,,,,,,,294,Loudred,3
-Johto,Chikorita family,152,,Chikorita,,,,16,153,Bayleef,,,1
-Kanto,Voltorb family,101,,Electrode,,,,,,,100,Voltorb,2
-Kanto,Caterpie family,10,,Caterpie,,,,7,11,Metapod,,,1
-Hoenn,Makuhita family,297,,Hariyama,,,,,,,296,Makuhita,2
-Unova,Oshawott family,503,,Samurott,,,,,,,502,Dewott,3
-Kanto,Jigglypuff family,174,,Igglybuff,,Friendship,,,39,Jigglypuff,,,1
-Johto,Cyndaquil family,157,,Typhlosion,,,,,,,156,Quilava,3
-Johto,Sentret family,162,,Furret,,,,,,,161,Sentret,2
-Kanto,Onix family,95,,Onix,,Trade holding Metal Coat,,,208,Steelix,,,1
-Kalos,Pancham family,675,,Pangoro,,,,,,,674,Pancham,2
-Unova,Deerling family,585,,Deerling,Spring Form,,,34,586,Sawsbuck,,,1
-Kalos,Pancham family,674,,Pancham,, with Dark-type in party,,32,675,Pangoro,,,1
-Hoenn,Trapinch family,330,,Flygon,,,,,,,329,Vibrava,3
-Hoenn,Lotad family,271,,Lombre,,Water Stone,,,272,Ludicolo,270,Lotad,2
-Kanto,Poliwag family,61,,Poliwhirl,,Trade holding King's Rock,,,186,Politoed,60,Poliwag,2
-Johto,Remoraid family,224,,Octillery,,,,,,,223,Remoraid,2
-Unova,Tepig family,498,,Tepig,,,,17,499,Pignite,,,1
-Alola,Grubbin family,736,,Grubbin,,,,20,737,Charjabug,,,1
-Alola,Cutiefly family,743,,Ribombee,,,,,,,742,Cutiefly,2
-Alola,Rowlet family,723,,Dartrix,,,,34,724,Decidueye,722,Rowlet,2
-Sinnoh,Piplup family,393,,Piplup,,,,16,394,Prinplup,,,1
-Hoenn,Wingull family,278,,Wingull,,,,25,279,Pelipper,,,1
-Hoenn,Trapinch family,329,,Vibrava,,,,45,330,Flygon,328,Trapinch,2
-Kalos,Bunnelby family,660,,Diggersby,,,,,,,659,Bunnelby,2
-Kanto,Koffing family,110,,Weezing,,,,,,,109,Koffing,2
-Johto,Hoppip family,187,,Hoppip,,,,18,188,Skiploom,,,1
-Johto,Mareep family,180,,Flaaffy,,,,30,181,Ampharos,179,Mareep,2
-Sinnoh,Gible family,444,,Gabite,,,,48,445,Garchomp,443,Gible,2
-Alola,Poipole family,804,,Naganadel,,,,,,,803,Poipole,2
-Unova,Elgyem family,605,,Elgyem,,,,42,606,Beheeyem,,,1
-Hoenn,Mudkip family,259,,Marshtomp,,,,36,260,Swampert,258,Mudkip,2
-Unova,Lillipup family,508,,Stoutland,,,,,,,507,Herdier,3
-Sinnoh,Shinx family,404,,Luxio,,,,30,405,Luxray,403,Shinx,2
-Kanto,Alolan Grimer family,89,A,Muk,,,,,,,88,Grimer,2
-Sinnoh,Glameow family,432,,Purugly,,,,,,,431,Glameow,2
-Unova,Mienfoo family,619,,Mienfoo,,,,50,620,Mienshao,,,1
-Alola,Cosmog family,791,,Solgaleo,,,,,,,790,Cosmoem,3
-Alola,Rockruff family,744,,Rockruff,,,Pokémon Sun and Ultra Sun; day,25,745,Lycanroc,,,1
-Kanto,Meltan family,809,,Melmetal,,,,,,,808,Meltan,2
-Unova,Panpour family,516,,Simipour,,,,,,,515,Panpour,2
-Kanto,Ekans family,24,,Arbok,,,,,,,23,Ekans,2
-Kanto,Nidoran family*,29,,Nidoran♀,,,,16,30,Nidorina,,,1
-Sinnoh,Shellos family,423,E,Gastrodon,East Sea,,,,,,422,Shellos,2
-Kanto,Mankey family,56,,Mankey,,,,28,57,Primeape,,,1
-Unova,Sandile family,551,,Sandile,,,,29,552,Krokorok,,,1
-Unova,Vullaby family,629,,Vullaby,,,,54,630,Mandibuzz,,,1
-Kanto,Horsea family,117,,Seadra,,Trade holding Dragon Scale,,,230,Kingdra,116,Horsea,2
-Alola,Bounsweet family,762,,Steenee,,Level up knowing Stomp,,,763,Tsareena,761,Bounsweet,2
-Sinnoh,Piplup family,394,,Prinplup,,,,36,395,Empoleon,393,Piplup,2
-Alola,Cosmog family,792,,Lunala,,,,,,,790,Cosmoem,3
-Kalos,Spritzee family,682,,Spritzee,,Trade holding Sachet,,,683,Aromatisse,,,1
-Hoenn,Duskull family,356,,Dusclops,,Trade holding Reaper Cloth,,,477,Dusknoir,355,Duskull,2
-Kanto,Charmander family,4,,Charmander,,,,16,5,Charmeleon,,,1
-Kanto,Squirtle family,8,,Wartortle,,,,36,9,Blastoise,7,Squirtle,2
-Kanto,Diglett family,50,,Diglett,,,,26,51,Dugtrio,,,1
-Johto,Sudowoodo family,438,,Bonsly,,Level up knowing Mimic,,,185,Sudowoodo,,,1
-Johto,Aipom family,424,,Ambipom,,,,,,,190,Aipom,2
-Unova,Yamask family,563,,Cofagrigus,,,,,,,562,Yamask,2
-Sinnoh,Gible family,445,,Garchomp,,,,,,,444,Gabite,3
-Kanto,Alolan Diglett family,50,A,Diglett,,,,26,51,Dugtrio,,,1
-Johto,Chikorita family,153,,Bayleef,,,,32,154,Meganium,152,Chikorita,2
-Kanto,Doduo family,85,,Dodrio,,,,,,,84,Doduo,2
-Hoenn,Baltoy family,344,,Claydol,,,,,,,343,Baltoy,2
-Unova,Pansage family,512,,Simisage,,,,,,,511,Pansage,2
-Unova,Venipede family,545,,Scolipede,,,,,,,544,Whirlipede,3
-Unova,Woobat family,527,,Woobat,,Friendship,,,528,Swoobat,,,1
-Unova,Litwick family,607,,Litwick,,,,41,608,Lampent,,,1
-Unova,Axew family,610,,Axew,,,,38,611,Fraxure,,,1
-Sinnoh,Kricketot family,402,,Kricketune,,,,,,,401,Kricketot,2
-Alola,Mudbray family,750,,Mudsdale,,,,,,,749,Mudbray,2
-Alola,Dewpider family,751,,Dewpider,,,,22,752,Araquanid,,,1
-Hoenn,Shroomish family,286,,Breloom,,,,,,,285,Shroomish,2
-Johto,Togepi family,175,,Togepi,,Friendship,,,176,Togetic,,,1
-Alola,Wimpod family,767,,Wimpod,,,,30,768,Golisopod,,,1
-Unova,Ferroseed family,598,,Ferrothorn,,,,,,,597,Ferroseed,2
-Kanto,Hitmon family,236,,Tyrogue,,,Attack = Defense,20,237,Hitmontop,,,1
-Kanto,Pidgey family,17,,Pidgeotto,,,,36,18,Pidgeot,16,Pidgey,2
-Hoenn,Barboach family,340,,Whiscash,,,,,,,339,Barboach,2
-Johto,Spinarak family,167,,Spinarak,,,,22,168,Ariados,,,1
-Hoenn,Corphish family,342,,Crawdaunt,,,,,,,341,Corphish,2
-Johto,Larvitar family,246,,Larvitar,,,,30,247,Pupitar,,,1
-Hoenn,Cacnea family,331,,Cacnea,,,,32,332,Cacturne,,,1
-Kanto,Chansey family,113,,Chansey,,Friendship,,,242,Blissey,440,Happiny,2
-Johto,Swinub family,473,,Mamoswine,,,,,,,221,Piloswine,3
-Kanto,Goldeen family,119,,Seaking,,,,,,,118,Goldeen,2
-Kanto,Omanyte family,139,,Omastar,,,,,,,138,Omanyte,2
-Unova,Deerling family,586,,Sawsbuck,Spring Form,,,,,,585,Deerling,2
-Hoenn,Trapinch family,328,,Trapinch,,,,35,329,Vibrava,,,1
-Alola,Poipole family,803,,Poipole,,Level up knowing Dragon Pulse,,,804,Naganadel,,,1
-Kanto,Exeggcute family,103,A,Exeggutor,,,,,,,102,Exeggcute,2
-Kanto,Staryu family,121,,Starmie,,,,,,,120,Staryu,2
-Johto,Teddiursa family,217,,Ursaring,,,,,,,216,Teddiursa,2
-Hoenn,Taillow family,276,,Taillow,,,,22,277,Swellow,,,1
-Kanto,Kabuto family,141,,Kabutops,,,,,,,140,Kabuto,2
-Unova,Sewaddle family,541,,Swadloon,,Friendship,,,542,Leavanny,540,Sewaddle,2
-Kalos,Flabébé family,669,,Flabébé,,,,19,670,Floette,,,1
-Alola,Rockruff family,745,,Lycanroc,,,,,,,744,Rockruff,2
-Kanto,Machop family,68,,Machamp,,,,,,,67,Machoke,3
-Hoenn,Surskit family,284,,Masquerain,,,,,,,283,Surskit,2
-Unova,Joltik family,596,,Galvantula,,,,,,,595,Joltik,2
-Unova,Vanillite family,582,,Vanillite,,,,35,583,Vanillish,,,1
-Hoenn,Taillow family,277,,Swellow,,,,,,,276,Taillow,2
-Sinnoh,Shellos family,422,E,Shellos,East Sea,,,30,423,Gastrodon,,,1
-Unova,Deerling family,586,W,Sawsbuck,Winter Form,,,,,,585,Deerling,2
-Kanto,Drowzee family,96,,Drowzee,,,,26,97,Hypno,,,1
 Hoenn,Bagon family,373,,Salamence,,,,,,,372,Shelgon,3
-Unova,Trubbish family,569,,Garbodor,,,,,,,568,Trubbish,2
-Kanto,Scyther family,212,,Scizor,,,,,,,123,Scyther,2
-Kalos,Skiddo family,673,,Gogoat,,,,,,,672,Skiddo,2
-Johto,Mareep family,179,,Mareep,,,,15,180,Flaaffy,,,1
-Kanto,Tangela family,114,,Tangela,,Level up knowing Ancient Power,,,465,Tangrowth,,,1
-Kanto,Growlithe family,58,,Growlithe,,Fire Stone,,,59,Arcanine,,,1
-Johto,Hoothoot family,164,,Noctowl,,,,,,,163,Hoothoot,2
-Johto,Marill family,183,,Marill,,,,18,184,Azumarill,298,Azurill,2
-Unova,Venipede family,543,,Venipede,,,,22,544,Whirlipede,,,1
-Kanto,Grimer family,89,,Muk,,,,,,,88,Grimer,2
-Kanto,Alolan Rattata family,20,A,Raticate,,,,,,,19,Rattata,2
-Kanto,Alolan Sandshrew family,28,A,Sandslash,,,,,,,27,Sandshrew,2
-Johto,Larvitar family,248,,Tyranitar,,,,,,,247,Pupitar,3
-Hoenn,Anorith family,347,,Anorith,,,,40,348,Armaldo,,,1
-Hoenn,Wurmple family,269,,Dustox,,,,,,,268,Cascoon,3
+Kanto,Pidgey family,18,,Pidgeot,,,,,,,17,Pidgeotto,3
+Kalos,Fennekin family,655,,Delphox,,,,,,,654,Braixen,3
+Alola,Litten family,725,,Litten,,,,17,726,Torracat,,,1
+Kanto,Slowpoke family,199,,Slowking,,,,,,,79,Slowpoke,2
+Kalos,Spritzee family,683,,Aromatisse,,,,,,,682,Spritzee,2
+Sinnoh,Shieldon family,411,,Bastiodon,,,,,,,410,Shieldon,2
+Unova,Gothita family,575,,Gothorita,,,,41,576,Gothitelle,574,Gothita,2
+Kanto,Mankey family,56,,Mankey,,,,28,57,Primeape,,,1
+Unova,Axew family,611,,Fraxure,,,,48,612,Haxorus,610,Axew,2
+Sinnoh,Cherubi family,420,,Cherubi,,,,25,421,Cherrim,,,1
+Hoenn,Snorunt family,361,,Snorunt,,Dawn Stone,female,,478,Froslass,,,1
+Kanto,Ponyta family,78,,Rapidash,,,,,,,77,Ponyta,2
+Alola,Mudbray family,749,,Mudbray,,,,30,750,Mudsdale,,,1
+Hoenn,Ralts family,280,,Ralts,,,,20,281,Kirlia,,,1
+Kanto,Eeveelution family,471,,Glaceon,,,,,,,133,Eevee,2
+Kanto,Nidoran family*,30,,Nidorina,,Moon Stone,,,31,Nidoqueen,29,Nidoran♀,2
+Alola,Grubbin family,737,,Charjabug,,Level up in a special magnetic field,,,738,Vikavolt,736,Grubbin,2
+Sinnoh,Stunky family,434,,Stunky,,,,34,435,Skuntank,,,1
+Sinnoh,Turtwig family,387,,Turtwig,,,,18,388,Grotle,,,1
+Sinnoh,Shieldon family,410,,Shieldon,,,,30,411,Bastiodon,,,1
+Unova,Ducklett family,581,,Swanna,,,,,,,580,Ducklett,2
+Kanto,Cubone family,104,,Cubone,,,,28,105,Marowak,,,1
+Alola,Poipole family,803,,Poipole,,Level up knowing Dragon Pulse,,,804,Naganadel,,,1
+Kanto,Pikachu family,25,,Pikachu,,Thunder Stone,,,26,Raichu,172,Pichu,2
+Kanto,Oddish family,45,,Vileplume,,,,,,,44,Gloom,3
+Sinnoh,Cranidos family,408,,Cranidos,,,,30,409,Rampardos,,,1
+Kanto,Charmander family,6,,Charizard,,,,,,,5,Charmeleon,3
+Kalos,Scatterbug family,664,,Scatterbug,,,,9,665,Spewpa,,,1
+Kanto,Jynx family,124,,Jynx,,,,,,,238,Smoochum,2
+Unova,Deino family,634,,Zweilous,,,,64,635,Hydreigon,633,Deino,2
+Hoenn,Anorith family,348,,Armaldo,,,,,,,347,Anorith,2
+Unova,Foongus family,590,,Foongus,,,,39,591,Amoonguss,,,1
+Kalos,Flabébé family,669,,Flabébé,,,,19,670,Floette,,,1
+Kanto,Bulbasaur family,1,,Bulbasaur,,,,16,2,Ivysaur,,,1
+Kalos,Espurr family,677,,Espurr,,,,25,678,Meowstic,,,1
+Kanto,Pikachu family,26,,Raichu,,,,,,,25,Pikachu,3
+Alola,Stufful family,760,,Bewear,,,,,,,759,Stufful,2
+Hoenn,Electrike family,309,,Electrike,,,,26,310,Manectric,,,1
+Kanto,Alolan Diglett family,50,A,Diglett,,,,26,51,Dugtrio,,,1
+Sinnoh,Combee family,415,,Combee,,,female,21,416,Vespiquen,,,1
+Alola,Fomantis family,754,,Lurantis,,,,,,,753,Fomantis,2
+Hoenn,Bagon family,372,,Shelgon,,,,50,373,Salamence,371,Bagon,2
+Kanto,Exeggcute family,103,A,Exeggutor,,,,,,,102,Exeggcute,2
+Hoenn,Wurmple family,268,,Cascoon,,,,10,269,Dustox,265,Wurmple,2
+Sinnoh,Shellos family,423,,Gastrodon,West Sea,,,,,,422,Shellos,2
+Kanto,Shellder family,90,,Shellder,,Water Stone,,,91,Cloyster,,,1
 Kanto,Snorlax family,446,,Munchlax,,Friendship,,,143,Snorlax,,,1
-Kalos,Clauncher family,692,,Clauncher,,,,37,693,Clawitzer,,,1
-Johto,Chinchou family,170,,Chinchou,,,,27,171,Lanturn,,,1
-Alola,Type: Null family,772,,Type: Null,,Friendship,,,773,Silvally,,,1
-Alola,Pikipek family,731,,Pikipek,,,,14,732,Trumbeak,,,1
-Kanto,Magnemite family,462,,Magnezone,,,,,,,82,Magneton,3
-Unova,Purrloin family,509,,Purrloin,,,,20,510,Liepard,,,1
-Unova,Tympole family,536,,Palpitoad,,,,36,537,Seismitoad,535,Tympole,2
-Hoenn,Ralts family,282,,Gardevoir,,,,,,,281,Kirlia,3
-Johto,Marill family,298,,Azurill,,Friendship,,,183,Marill,,,1
-Kanto,Rattata family,19,,Rattata,,,,20,20,Raticate,,,1
-Unova,Deerling family,585,A,Deerling,Autumn Form,,,34,586,Sawsbuck,,,1
-Sinnoh,Piplup family,395,,Empoleon,,,,,,,394,Prinplup,3
-Hoenn,Poochyena family,262,,Mightyena,,,,,,,261,Poochyena,2
-Kanto,Alolan Diglett family,51,A,Dugtrio,,,,,,,50,Diglett,2
-Alola,Popplio family,729,,Brionne,,,,34,730,Primarina,728,Popplio,2
-Alola,Pikipek family,733,,Toucannon,,,,,,,732,Trumbeak,3
-Kanto,Goldeen family,118,,Goldeen,,,,33,119,Seaking,,,1
-Kalos,Fletchling family,663,,Talonflame,,,,,,,662,Fletchinder,3
-Hoenn,Meditite family,308,,Medicham,,,,,,,307,Meditite,2
-Alola,Salandit family,757,,Salandit,,,female,33,758,Salazzle,,,1
-Sinnoh,Turtwig family,388,,Grotle,,,,32,389,Torterra,387,Turtwig,2
-Kalos,Skrelp family,691,,Dragalge,,,,,,,690,Skrelp,2
-Alola,Dewpider family,752,,Araquanid,,,,,,,751,Dewpider,2
-Hoenn,Numel family,322,,Numel,,,,33,323,Camerupt,,,1
-Unova,Cottonee family,546,,Cottonee,,Sun Stone,,,547,Whimsicott,,,1
-Johto,Swinub family,221,,Piloswine,,Level up knowing Ancient Power,,,473,Mamoswine,220,Swinub,2
-Kanto,Tangela family,465,,Tangrowth,,,,,,,114,Tangela,2
-Hoenn,Clamperl family,366,,Clamperl,,Trade holding Deep Sea Tooth,,,367,Huntail,,,1
-Sinnoh,Starly family,398,,Staraptor,,,,,,,397,Staravia,3
-Hoenn,Zigzagoon family,263,,Zigzagoon,,,,20,264,Linoone,,,1
-Kanto,Cubone family,105,,Marowak,,,,,,,104,Cubone,2
-Hoenn,Torchic family,257,,Blaziken,,,,,,,256,Combusken,3
-Kanto,Eeveelution family,470,,Leafeon,,,,,,,133,Eevee,2
-Unova,Pidove family,520,,Tranquill,,,,32,521,Unfezant,519,Pidove,2
-Sinnoh,Burmy family,412,S,Burmy,,,"female, Plant Cloak",20,413,Wormadam,,,1
-Kanto,Magmar family,467,,Magmortar,,,,,,,126,Magmar,3
-Kanto,Eeveelution family,136,,Flareon,,,,,,,133,Eevee,2
-Alola,Yungoos family,734,,Yungoos,,,day,20,735,Gumshoos,,,1
-Kanto,Hitmon family,236,,Tyrogue,,,Attack < Defense,20,107,Hitmonchan,,,1
-Unova,Cubchoo family,613,,Cubchoo,,,,37,614,Beartic,,,1
-Kalos,Clauncher family,693,,Clawitzer,,,,,,,692,Clauncher,2
-Kanto,Zubat family,42,,Golbat,,Friendship,,,169,Crobat,41,Zubat,2
-Unova,Klink family,599,,Klink,,,,38,600,Klang,,,1
+Unova,Lillipup family,507,,Herdier,,,,32,508,Stoutland,506,Lillipup,2
+Johto,Totodile family,159,,Croconaw,,,,30,160,Feraligatr,158,Totodile,2
+Unova,Blitzle family,522,,Blitzle,,,,27,523,Zebstrika,,,1
 Sinnoh,Buizel family,418,,Buizel,,,,26,419,Floatzel,,,1
+Kanto,Eeveelution family,470,,Leafeon,,,,,,,133,Eevee,2
+Kanto,Horsea family,116,,Horsea,,,,32,117,Seadra,,,1
+Johto,Natu family,178,,Xatu,,,,,,,177,Natu,2
+Kanto,Alolan Vulpix family,37,A,Vulpix,,Ice Stone,,,38,Ninetales,,,1
+Hoenn,Surskit family,283,,Surskit,,,,22,284,Masquerain,,,1
+Unova,Pawniard family,624,,Pawniard,,,,52,625,Bisharp,,,1
+Kalos,Honedge family,680,,Doublade,,Dusk Stone,,,681,Aegislash,679,Honedge,2
+Kanto,Cubone family,105,A,Marowak,,,,,,,104,Cubone,2
+Unova,Cubchoo family,613,,Cubchoo,,,,37,614,Beartic,,,1
+Kanto,Poliwag family,61,,Poliwhirl,,Water Stone,,,62,Poliwrath,60,Poliwag,2
+Unova,Vanillite family,584,,Vanilluxe,,,,,,,583,Vanillish,3
+Kanto,Jynx family,238,,Smoochum,,,,30,124,Jynx,,,1
+Sinnoh,Shinx family,404,,Luxio,,,,30,405,Luxray,403,Shinx,2
+Johto,Wobbuffet family,360,,Wynaut,,,,15,202,Wobbuffet,,,1
+Kanto,Magikarp family,129,,Magikarp,,,,20,130,Gyarados,,,1
+Kanto,Omanyte family,138,,Omanyte,,,,40,139,Omastar,,,1
+Kanto,Magnemite family,82,,Magneton,,Level up in a special magnetic field,,,462,Magnezone,81,Magnemite,2
+Kanto,Onix family,208,,Steelix,,,,,,,95,Onix,2
+Hoenn,Spheal family,365,,Walrein,,,,,,,364,Sealeo,3
+Kanto,Electabuzz family,466,,Electivire,,,,,,,125,Electabuzz,3
+Hoenn,Feebas family,350,,Milotic,,,,,,,349,Feebas,2
+Kanto,Eeveelution family,133,,Eevee,,,day,,197,Umbreon,,,1
+Alola,Special Rockruff family,744,D,Rockruff,,,between 5:00 and 5:59 PM,25,745,Lycanroc,,,1
+Unova,Shelmet family,617,,Accelgor,,,,,,,616,Shelmet,2
+Unova,Vanillite family,583,,Vanillish,,,,47,584,Vanilluxe,582,Vanillite,2
+Alola,Stufful family,759,,Stufful,,,,27,760,Bewear,,,1
+Unova,Tynamo family,602,,Tynamo,,,,39,603,Eelektrik,,,1
+Kanto,Electabuzz family,125,,Electabuzz,,Trade holding Electirizer,,,466,Electivire,239,Elekid,2
+Hoenn,Cacnea family,332,,Cacturne,,,,,,,331,Cacnea,2
+Johto,Sunkern family,192,,Sunflora,,,,,,,191,Sunkern,2
+Sinnoh,Chimchar family,390,,Chimchar,,,,14,391,Monferno,,,1
+Johto,Misdreavus family,200,,Misdreavus,,Dusk Stone,,,429,Mismagius,,,1
+Alola,Jangmo-o family,783,,Hakamo-o,,,,45,784,Kommo-o,782,Jangmo-o,2
+Kalos,Fletchling family,661,,Fletchling,,,,17,662,Fletchinder,,,1
+Kanto,Pikachu family,172,,Pichu,,Friendship,,,25,Pikachu,,,1
+Unova,Petilil family,548,,Petilil,,Sun Stone,,,549,Lilligant,,,1
+Hoenn,Clamperl family,366,,Clamperl,,Trade holding Deep Sea Scale,,,368,Gorebyss,,,1
+Johto,Slugma family,218,,Slugma,,,,38,219,Magcargo,,,1
+Johto,Mantine family,226,,Mantine,,,,,,,458,Mantyke,2
+Hoenn,Baltoy family,344,,Claydol,,,,,,,343,Baltoy,2
+Unova,Zorua family,570,,Zorua,,,,30,571,Zoroark,,,1
+Unova,Sewaddle family,541,,Swadloon,,Friendship,,,542,Leavanny,540,Sewaddle,2
+Hoenn,Barboach family,340,,Whiscash,,,,,,,339,Barboach,2
+Alola,Sandygast family,769,,Sandygast,,,,42,770,Palossand,,,1
+Hoenn,Trapinch family,328,,Trapinch,,,,35,329,Vibrava,,,1
+Sinnoh,Hippopotas family,449,,Hippopotas,,,,34,450,Hippowdon,,,1
+Kanto,Cubone family,105,,Marowak,,,,,,,104,Cubone,2
+Alola,Cosmog family,789,,Cosmog,,,,43,790,Cosmoem,,,1
+Hoenn,Torchic family,255,,Torchic,,,,16,256,Combusken,,,1
+Johto,Totodile family,158,,Totodile,,,,18,159,Croconaw,,,1
+Hoenn,Ralts family,475,,Gallade,,,,,,,281,Kirlia,3
+Johto,Sudowoodo family,438,,Bonsly,,Level up knowing Mimic,,,185,Sudowoodo,,,1
+Kanto,Koffing family,109,,Koffing,,,,35,110,Weezing,,,1
+Unova,Trubbish family,568,,Trubbish,,,,36,569,Garbodor,,,1
+Kanto,Meowth family,52,,Meowth,,,,28,53,Persian,,,1
+Johto,Wooper family,195,,Quagsire,,,,,,,194,Wooper,2
+Hoenn,Nincada family,291,,Ninjask,,,,,,,290,Nincada,2
+Kanto,Lickitung family,108,,Lickitung,,Level up knowing Rollout,,,463,Lickilicky,,,1
+Hoenn,Duskull family,477,,Dusknoir,,,,,,,356,Dusclops,3
+Kanto,Horsea family,230,,Kingdra,,,,,,,117,Seadra,3
+Kanto,Psyduck family,54,,Psyduck,,,,33,55,Golduck,,,1
+Hoenn,Wurmple family,265,,Wurmple,,,,7,266,Silcoon,,,1
+Johto,Togepi family,468,,Togekiss,,,,,,,176,Togetic,3
+Kanto,Geodude family,74,,Geodude,,,,25,75,Graveler,,,1
+Unova,Rufflet family,628,,Braviary,,,,,,,627,Rufflet,2
+Kanto,Gastly family,93,,Haunter,,Trade,,,94,Gengar,92,Gastly,2
+Kalos,Froakie family,656,,Froakie,,,,16,657,Frogadier,,,1
+Kalos,Skiddo family,672,,Skiddo,,,,32,673,Gogoat,,,1
+Unova,Deerling family,585,A,Deerling,Autumn Form,,,34,586,Sawsbuck,,,1
+Kanto,Alolan Vulpix family,38,A,Ninetales,,,,,,,37,Vulpix,2
+Hoenn,Chimecho family,433,,Chingling,,Friendship,night,,358,Chimecho,,,1
+Hoenn,Duskull family,355,,Duskull,,,,37,356,Dusclops,,,1
+Unova,Minccino family,572,,Minccino,,Shiny Stone,,,573,Cinccino,,,1
+Sinnoh,Turtwig family,389,,Torterra,,,,,,,388,Grotle,3
+Kanto,Doduo family,84,,Doduo,,,,31,85,Dodrio,,,1
+Unova,Trubbish family,569,,Garbodor,,,,,,,568,Trubbish,2
+Sinnoh,Chimchar family,391,,Monferno,,,,36,392,Infernape,390,Chimchar,2
+Johto,Pineco family,205,,Forretress,,,,,,,204,Pineco,2
+Kanto,Goldeen family,118,,Goldeen,,,,33,119,Seaking,,,1
+Kalos,Goomy family,706,,Goodra,,,,,,,705,Sliggoo,3
+Hoenn,Bagon family,371,,Bagon,,,,30,372,Shelgon,,,1
+Kanto,Rhyhorn family,464,,Rhyperior,,,,,,,112,Rhydon,3
+Kanto,Sandshrew family,27,,Sandshrew,,,,22,28,Sandslash,,,1
+Kanto,Nidoran family*,31,,Nidoqueen,,,,,,,30,Nidorina,3
+Kanto,Magnemite family,462,,Magnezone,,,,,,,82,Magneton,3
+Unova,Solosis family,577,,Solosis,,,,32,578,Duosion,,,1
+Hoenn,Electrike family,310,,Manectric,,,,,,,309,Electrike,2
+Hoenn,Duskull family,356,,Dusclops,,Trade holding Reaper Cloth,,,477,Dusknoir,355,Duskull,2
+Sinnoh,Turtwig family,388,,Grotle,,,,32,389,Torterra,387,Turtwig,2
+Kalos,Inkay family,687,,Malamar,,,,,,,686,Inkay,2
+Kalos,Pancham family,674,,Pancham,, with Dark-type in party,,32,675,Pangoro,,,1
+Alola,Salandit family,757,,Salandit,,,female,33,758,Salazzle,,,1
+Sinnoh,Bidoof family,399,,Bidoof,,,,15,400,Bibarel,,,1
+Kanto,Hitmon family,107,,Hitmonchan,,,,,,,236,Tyrogue,2
+Kanto,Horsea family,117,,Seadra,,Trade holding Dragon Scale,,,230,Kingdra,116,Horsea,2
+Hoenn,Mudkip family,259,,Marshtomp,,,,36,260,Swampert,258,Mudkip,2
+Hoenn,Whismur family,294,,Loudred,,,,40,295,Exploud,293,Whismur,2
+Unova,Elgyem family,606,,Beheeyem,,,,,,,605,Elgyem,2
+Johto,Gligar family,472,,Gliscor,,,,,,,207,Gligar,2
+Kalos,Fletchling family,663,,Talonflame,,,,,,,662,Fletchinder,3
+Unova,Sewaddle family,540,,Sewaddle,,,,20,541,Swadloon,,,1
+Alola,Pikipek family,731,,Pikipek,,,,14,732,Trumbeak,,,1
+Alola,Rockruff family,745,Mn,Lycanroc,,,,,,,744,Rockruff,2
+Johto,Natu family,177,,Natu,,,,25,178,Xatu,,,1
+Kanto,Growlithe family,58,,Growlithe,,Fire Stone,,,59,Arcanine,,,1
+Sinnoh,Buneary family,427,,Buneary,,Friendship,,,428,Lopunny,,,1
+Hoenn,Surskit family,284,,Masquerain,,,,,,,283,Surskit,2
+Kanto,Pikachu family,172,A,Pichu,,Friendship,,,25,Pikachu,,,1
+Kanto,Eeveelution family,133,,Eevee,,,night,,196,Espeon,,,1
+Unova,Pansear family,513,,Pansear,,Fire Stone,,,514,Simisear,,,1
+Kanto,Hitmon family,236,,Tyrogue,,,Attack < Defense,20,107,Hitmonchan,,,1
 Kanto,Eeveelution family,133,,Eevee,,"Level up with two hearts of Affection
 and know a Fairy-type move",,,700,Sylveon,,,1
-Kalos,Amaura family,699,,Aurorus,,,,,,,698,Amaura,2
-Sinnoh,Hippopotas family,450,,Hippowdon,,,,,,,449,Hippopotas,2
-Sinnoh,Shinx family,405,,Luxray,,,,,,,404,Luxio,3
-Unova,Tepig family,500,,Emboar,,,,,,,499,Pignite,3
-Johto,Togepi family,176,,Togetic,,Shiny Stone,,,468,Togekiss,175,Togepi,2
-Kanto,Hitmon family,237,,Hitmontop,,,,,,,236,Tyrogue,2
-Hoenn,Cacnea family,332,,Cacturne,,,,,,,331,Cacnea,2
-Alola,Jangmo-o family,782,,Jangmo-o,,,,35,783,Hakamo-o,,,1
-Johto,Sneasel family,461,,Weavile,,,,,,,215,Sneasel,2
-Kanto,Staryu family,120,,Staryu,,Water Stone,,,121,Starmie,,,1
-Johto,Totodile family,159,,Croconaw,,,,30,160,Feraligatr,158,Totodile,2
-Kalos,Fletchling family,662,,Fletchinder,,,,35,663,Talonflame,661,Fletchling,2
-Unova,Roggenrola family,525,,Boldore,,Trade,,,526,Gigalith,524,Roggenrola,2
-Sinnoh,Burmy family,412,S,Burmy,,,"female, Sandy Cloak",20,413,Wormadam,,,1
-Kalos,Froakie family,657,,Frogadier,,,,36,658,Greninja,656,Froakie,2
-Kanto,Porygon family,474,,Porygon-Z,,,,,,,233,Porygon2,3
-Unova,Rufflet family,628,,Braviary,,,,,,,627,Rufflet,2
-Kanto,Geodude family,74,,Geodude,,,,25,75,Graveler,,,1
-Alola,Stufful family,759,,Stufful,,,,27,760,Bewear,,,1
-Alola,Mareanie family,747,,Mareanie,,,,38,748,Toxapex,,,1
-Hoenn,Shuppet family,354,,Banette,,,,,,,353,Shuppet,2
-Sinnoh,Starly family,396,,Starly,,,,14,397,Staravia,,,1
-Sinnoh,Bronzor family,436,,Bronzor,,,,33,437,Bronzong,,,1
-Unova,Gothita family,575,,Gothorita,,,,41,576,Gothitelle,574,Gothita,2
-Unova,Tynamo family,602,,Tynamo,,,,39,603,Eelektrik,,,1
-Hoenn,Surskit family,283,,Surskit,,,,22,284,Masquerain,,,1
-Unova,Axew family,612,,Haxorus,,,,,,,611,Fraxure,3
-Kanto,Psyduck family,54,,Psyduck,,,,33,55,Golduck,,,1
-Sinnoh,Croagunk family,453,,Croagunk,,,,37,454,Toxicroak,,,1
-Unova,Foongus family,590,,Foongus,,,,39,591,Amoonguss,,,1
-Kalos,Fennekin family,653,,Fennekin,,,,16,654,Braixen,,,1
-Kalos,Phantump family,709,,Trevenant,,,,,,,708,Phantump,2
-Johto,Sentret family,161,,Sentret,,,,15,162,Furret,,,1
-Unova,Scraggy family,560,,Scrafty,,,,,,,559,Scraggy,2
-Hoenn,Swablu family,333,,Swablu,,,,35,334,Altaria,,,1
-Johto,Slugma family,218,,Slugma,,,,38,219,Magcargo,,,1
-Alola,Mareanie family,748,,Toxapex,,,,,,,747,Mareanie,2
-Johto,Phanpy family,231,,Phanpy,,,,25,232,Donphan,,,1
-Kalos,Chespin family,651,,Quilladin,,,,36,652,Chesnaught,650,Chespin,2
-Kanto,Lickitung family,463,,Lickilicky,,,,,,,108,Lickitung,2
-Alola,Litten family,727,,Incineroar,,,,,,,726,Torracat,3
-Kanto,Bulbasaur family,1,,Bulbasaur,,,,16,2,Ivysaur,,,1
-Hoenn,Baltoy family,343,,Baltoy,,,,36,344,Claydol,,,1
-Unova,Solosis family,579,,Reuniclus,,,,,,,578,Duosion,3
-Alola,Popplio family,730,,Primarina,,,,,,,729,Brionne,3
-Kanto,Bellsprout family,71,,Victreebel,,,,,,,70,Weepinbell,3
-Hoenn,Ralts family,281,,Kirlia,,,,30,282,Gardevoir,280,Ralts,2
-Alola,Cosmog family,789,,Cosmog,,,,43,790,Cosmoem,,,1
-Johto,Sneasel family,215,,Sneasel,,Level up holding Razor Claw at night,,,461,Weavile,,,1
-Kanto,Meowth family,53,,Persian,,,,,,,52,Meowth,2
-Hoenn,Lileep family,346,,Cradily,,,,,,,345,Lileep,2
-Unova,Pansage family,511,,Pansage,,Leaf Stone,,,512,Simisage,,,1
-Alola,Wimpod family,768,,Golisopod,,,,,,,767,Wimpod,2
-Kalos,Honedge family,679,,Honedge,,,,35,680,Doublade,,,1
-Kanto,Tentacool family,72,,Tentacool,,,,30,73,Tentacruel,,,1
-Kanto,Spearow family,22,,Fearow,,,,,,,21,Spearow,2
-Unova,Litwick family,609,,Chandelure,,,,,,,608,Lampent,3
-Hoenn,Wailmer family,320,,Wailmer,,,,40,321,Wailord,,,1
-Kanto,Magikarp family,130,,Gyarados,,,,,,,129,Magikarp,2
-Johto,Hoppip family,189,,Jumpluff,,,,,,,188,Skiploom,3
-Johto,Larvitar family,247,,Pupitar,,,,55,248,Tyranitar,246,Larvitar,2
-Unova,Solosis family,578,,Duosion,,,,41,579,Reuniclus,577,Solosis,2
-Hoenn,Barboach family,339,,Barboach,,,,30,340,Whiscash,,,1
-Johto,Snubbull family,210,,Granbull,,,,,,,209,Snubbull,2
-Hoenn,Treecko family,254,,Sceptile,,,,,,,253,Grovyle,3
-Kanto,Bellsprout family,69,,Bellsprout,,,,21,70,Weepinbell,,,1
-Kanto,Magmar family,240,,Magby,,,,30,126,Magmar,,,1
-Kanto,Omanyte family,138,,Omanyte,,,,40,139,Omastar,,,1
-Kanto,Zubat family,169,,Crobat,,,,,,,42,Golbat,3
-Kanto,Mr. Mime family,439,,Mime Jr.,,Level up knowing Mimic,,,122,Mr. Mime,,,1
-Unova,Frillish family,592,,Frillish,,,,40,593,Jellicent,,,1
-Hoenn,Wingull family,279,,Pelipper,,,,,,,278,Wingull,2
-Unova,Timburr family,534,,Conkeldurr,,,,,,,533,Gurdurr,3
-Johto,Totodile family,158,,Totodile,,,,18,159,Croconaw,,,1
-Hoenn,Beldum family,376,,Metagross,,,,,,,375,Metang,3
-Johto,Sunkern family,192,,Sunflora,,,,,,,191,Sunkern,2
-Kanto,Kabuto family,140,,Kabuto,,,,40,141,Kabutops,,,1
+Unova,Tepig family,498,,Tepig,,,,17,499,Pignite,,,1
+Kanto,Weedle family,13,,Weedle,,,,7,14,Kakuna,,,1
 Kanto,Alolan Meowth family,52,A,Meowth,,Friendship,,,53,Persian,,,1
-Alola,Crabrawler family,739,,Crabrawler,,Level up at Mount Lanakila,,,740,Crabominable,,,1
-Kalos,Inkay family,687,,Malamar,,,,,,,686,Inkay,2
-Sinnoh,Stunky family,435,,Skuntank,,,,,,,434,Stunky,2
-Unova,Deino family,634,,Zweilous,,,,64,635,Hydreigon,633,Deino,2
-Alola,Rowlet family,724,,Decidueye,,,,,,,723,Dartrix,3
-Kalos,Bunnelby family,659,,Bunnelby,,,,20,660,Diggersby,,,1
-Kanto,Venonat family,49,,Venomoth,,,,,,,48,Venonat,2
-Johto,Phanpy family,232,,Donphan,,,,,,,231,Phanpy,2
-Hoenn,Wurmple family,268,,Cascoon,,,,10,269,Dustox,265,Wurmple,2
-Kalos,Litleo family,668,,Pyroar,,,,,,,667,Litleo,2
-Sinnoh,Riolu family,448,,Lucario,,,,,,,447,Riolu,2
-Hoenn,Shuppet family,353,,Shuppet,,,,37,354,Banette,,,1
-Sinnoh,Finneon family,456,,Finneon,,,,31,457,Lumineon,,,1
-Hoenn,Seedot family,275,,Shiftry,,,,,,,274,Nuzleaf,3
-Sinnoh,Cranidos family,409,,Rampardos,,,,,,,408,Cranidos,2
-Sinnoh,Kricketot family,401,,Kricketot,,,,10,402,Kricketune,,,1
-Kanto,Grimer family,88,,Grimer,,,,38,89,Muk,,,1
-Johto,Teddiursa family,216,,Teddiursa,,,,30,217,Ursaring,,,1
-Unova,Munna family,518,,Musharna,,,,,,,517,Munna,2
-Kanto,Pikachu family,172,A,Pichu,,Friendship,,,25,Pikachu,,,1
-Kanto,Poliwag family,60,,Poliwag,,,,25,61,Poliwhirl,,,1
-Kanto,Chansey family,242,,Blissey,,,,,,,113,Chansey,3
-Hoenn,Skitty family,301,,Delcatty,,,,,,,300,Skitty,2
-Sinnoh,Shellos family,423,,Gastrodon,West Sea,,,,,,422,Shellos,2
-Johto,Pineco family,205,,Forretress,,,,,,,204,Pineco,2
-Kalos,Honedge family,680,,Doublade,,Dusk Stone,,,681,Aegislash,679,Honedge,2
-Kanto,Magnemite family,81,,Magnemite,,,,30,82,Magneton,,,1
-Kanto,Voltorb family,100,,Voltorb,,,,30,101,Electrode,,,1
-Sinnoh,Riolu family,447,,Riolu,,Friendship,day,,448,Lucario,,,1
-Hoenn,Feebas family,350,,Milotic,,,,,,,349,Feebas,2
-Hoenn,Torchic family,256,,Combusken,,,,36,257,Blaziken,255,Torchic,2
-Kanto,Zubat family,41,,Zubat,,,,22,42,Golbat,,,1
-Johto,Misdreavus family,200,,Misdreavus,,Dusk Stone,,,429,Mismagius,,,1
-Sinnoh,Shieldon family,411,,Bastiodon,,,,,,,410,Shieldon,2
-Hoenn,Bagon family,371,,Bagon,,,,30,372,Shelgon,,,1
-Unova,Snivy family,497,,Serperior,,,,,,,496,Servine,3
-Unova,Vullaby family,630,,Mandibuzz,,,,,,,629,Vullaby,2
+Kanto,Psyduck family,55,,Golduck,,,,,,,54,Psyduck,2
+Kalos,Froakie family,657,,Frogadier,,,,36,658,Greninja,656,Froakie,2
+Sinnoh,Shellos family,422,E,Shellos,East Sea,,,30,423,Gastrodon,,,1
+Hoenn,Aron family,305,,Lairon,,,,42,306,Aggron,304,Aron,2
+Kalos,Phantump family,709,,Trevenant,,,,,,,708,Phantump,2
+Kalos,Noibat family,715,,Noivern,,,,,,,714,Noibat,2
+Alola,Rockruff family,744,Mn,Rockruff,,,Pokémon Moon and Ultra Moon; night,25,745,Lycanroc,,,1
+Hoenn,Nincada family,290,,Nincada,,,,20,291,Ninjask,,,1
+Sinnoh,Starly family,396,,Starly,,,,14,397,Staravia,,,1
+Hoenn,Roselia family,407,,Roserade,,,,,,,315,Roselia,3
 Unova,Sewaddle family,542,,Leavanny,,,,,,,541,Swadloon,3
-Sinnoh,Buneary family,428,,Lopunny,,,,,,,427,Buneary,2
-Kanto,Eeveelution family,135,,Jolteon,,,,,,,133,Eevee,2
+Sinnoh,Burmy family,412,S,Burmy,,,"female, Sandy Cloak",20,413,Wormadam,,,1
+Kalos,Swirlix family,685,,Slurpuff,,,,,,,684,Swirlix,2
+Sinnoh,Glameow family,431,,Glameow,,,,38,432,Purugly,,,1
+Kanto,Jigglypuff family,174,,Igglybuff,,Friendship,,,39,Jigglypuff,,,1
+Alola,Grubbin family,736,,Grubbin,,,,20,737,Charjabug,,,1
+Sinnoh,Stunky family,435,,Skuntank,,,,,,,434,Stunky,2
+Kanto,Machop family,68,,Machamp,,,,,,,67,Machoke,3
+Kanto,Slowpoke family,79,,Slowpoke,,Trade holding King's Rock,,,199,Slowking,,,1
+Unova,Pidove family,520,,Tranquill,,,,32,521,Unfezant,519,Pidove,2
+Unova,Drilbur family,529,,Drilbur,,,,31,530,Excadrill,,,1
+Alola,Bounsweet family,763,,Tsareena,,,,,,,762,Steenee,3
+Kalos,Phantump family,708,,Phantump,,Trade,,,709,Trevenant,,,1
+Johto,Chikorita family,152,,Chikorita,,,,16,153,Bayleef,,,1
 Unova,Lillipup family,506,,Lillipup,,,,16,507,Herdier,,,1
-Kalos,Skrelp family,690,,Skrelp,,,,48,691,Dragalge,,,1
-Kalos,Bergmite family,713,,Avalugg,,,,,,,712,Bergmite,2
-Hoenn,Spoink family,325,,Spoink,,,,32,326,Grumpig,,,1
+Unova,Axew family,610,,Axew,,,,38,611,Fraxure,,,1
+Hoenn,Spheal family,364,,Sealeo,,,,44,365,Walrein,363,Spheal,2
+Kanto,Rhyhorn family,112,,Rhydon,,Trade holding Protector,,,464,Rhyperior,111,Rhyhorn,2
+Hoenn,Gulpin family,317,,Swalot,,,,,,,316,Gulpin,2
+Hoenn,Whismur family,295,,Exploud,,,,,,,294,Loudred,3
+Unova,Deerling family,586,A,Sawsbuck,Autumn Form,,,,,,585,Deerling,2
+Johto,Totodile family,160,,Feraligatr,,,,,,,159,Croconaw,3
+Johto,Murkrow family,430,,Honchkrow,,,,,,,198,Murkrow,2
+Kanto,Cubone family,104,A,Cubone,,,night,28,105,Marowak,,,1
+Hoenn,Barboach family,339,,Barboach,,,,30,340,Whiscash,,,1
+Kanto,Dratini family,148,,Dragonair,,,,55,149,Dragonite,147,Dratini,2
+Kanto,Growlithe family,59,,Arcanine,,,,,,,58,Growlithe,2
+Sinnoh,Finneon family,457,,Lumineon,,,,,,,456,Finneon,2
+Hoenn,Shuppet family,354,,Banette,,,,,,,353,Shuppet,2
+Hoenn,Nosepass family,476,,Probopass,,,,,,,299,Nosepass,2
+Unova,Karrablast family,589,,Escavalier,,,,,,,588,Karrablast,2
+Unova,Munna family,518,,Musharna,,,,,,,517,Munna,2
+Kanto,Kabuto family,141,,Kabutops,,,,,,,140,Kabuto,2
+Kalos,Pancham family,675,,Pangoro,,,,,,,674,Pancham,2
+Hoenn,Taillow family,276,,Taillow,,,,22,277,Swellow,,,1
+Sinnoh,Snover family,459,,Snover,,,,40,460,Abomasnow,,,1
+Kanto,Grimer family,89,,Muk,,,,,,,88,Grimer,2
+Hoenn,Slakoth family,289,,Slaking,,,,,,,288,Vigoroth,3
+Hoenn,Taillow family,277,,Swellow,,,,,,,276,Taillow,2
+Kanto,Staryu family,120,,Staryu,,Water Stone,,,121,Starmie,,,1
+Kanto,Pikachu family,26,A,Raichu,,,,,,,25,Pikachu,3
+Hoenn,Seedot family,274,,Nuzleaf,,Leaf Stone,,,275,Shiftry,273,Seedot,2
+Kalos,Amaura family,699,,Aurorus,,,,,,,698,Amaura,2
+Kanto,Alolan Rattata family,19,A,Rattata,,,night,20,20,Raticate,,,1
+Johto,Hoothoot family,164,,Noctowl,,,,,,,163,Hoothoot,2
+Kanto,Tangela family,465,,Tangrowth,,,,,,,114,Tangela,2
+Sinnoh,Combee family,416,,Vespiquen,,,,,,,415,Combee,2
+Kanto,Porygon family,474,,Porygon-Z,,,,,,,233,Porygon2,3
+Kanto,Porygon family,137,,Porygon,,Trade holding Up-Grade,,,233,Porygon2,,,1
+Kanto,Charmander family,4,,Charmander,,,,16,5,Charmeleon,,,1
+Hoenn,Swablu family,333,,Swablu,,,,35,334,Altaria,,,1
+Unova,Dwebble family,558,,Crustle,,,,,,,557,Dwebble,2
+Johto,Mantine family,458,,Mantyke,,Level up with Remoraid in party,,,226,Mantine,,,1
+Kanto,Geodude family,76,,Golem,,,,,,,75,Graveler,3
+Kanto,Vulpix family,37,,Vulpix,,Fire Stone,,,38,Ninetales,,,1
+Unova,Venipede family,544,,Whirlipede,,,,30,545,Scolipede,543,Venipede,2
+Hoenn,Clamperl family,366,,Clamperl,,Trade holding Deep Sea Tooth,,,367,Huntail,,,1
+Kalos,Pumpkaboo family,710,,Pumpkaboo,,Trade,,,711,Gourgeist,,,1
+Kanto,Alolan Rattata family,20,A,Raticate,,,,,,,19,Rattata,2
+Unova,Zorua family,571,,Zoroark,,,,,,,570,Zorua,2
+Hoenn,Makuhita family,296,,Makuhita,,,,24,297,Hariyama,,,1
+Alola,Dewpider family,752,,Araquanid,,,,,,,751,Dewpider,2
+Hoenn,Wurmple family,267,,Beautifly,,,,,,,266,Silcoon,3
+Kanto,Clefairy family,36,,Clefable,,,,,,,35,Clefairy,3
+Unova,Elgyem family,605,,Elgyem,,,,42,606,Beheeyem,,,1
+Hoenn,Corphish family,342,,Crawdaunt,,,,,,,341,Corphish,2
+Alola,Popplio family,729,,Brionne,,,,34,730,Primarina,728,Popplio,2
+Kanto,Eeveelution family,135,,Jolteon,,,,,,,133,Eevee,2
+Sinnoh,Riolu family,447,,Riolu,,Friendship,day,,448,Lucario,,,1
+Kanto,Diglett family,50,,Diglett,,,,26,51,Dugtrio,,,1
+Unova,Joltik family,595,,Joltik,,,,36,596,Galvantula,,,1
+Sinnoh,Finneon family,456,,Finneon,,,,31,457,Lumineon,,,1
+Kanto,Alolan Meowth family,53,A,Persian,,,,,,,52,Meowth,2
+Hoenn,Slakoth family,288,,Vigoroth,,,,36,289,Slaking,287,Slakoth,2
+Kanto,Alolan Grimer family,89,A,Muk,,,,,,,88,Grimer,2
+Kanto,Hitmon family,237,,Hitmontop,,,,,,,236,Tyrogue,2
+Kanto,Dratini family,149,,Dragonite,,,,,,,148,Dragonair,3
+Hoenn,Swablu family,334,,Altaria,,,,,,,333,Swablu,2
+Alola,Popplio family,728,,Popplio,,,,17,729,Brionne,,,1
+Unova,Pansage family,512,,Simisage,,,,,,,511,Pansage,2
+Kalos,Pumpkaboo family,711,,Gourgeist,,,,,,,710,Pumpkaboo,2
 Kanto,Venonat family,48,,Venonat,,,,31,49,Venomoth,,,1
-Kanto,Lickitung family,108,,Lickitung,,Level up knowing Rollout,,,463,Lickilicky,,,1
-Johto,Murkrow family,198,,Murkrow,,Dusk Stone,,,430,Honchkrow,,,1
-Kalos,Amaura family,698,,Amaura,,,night,39,699,Aurorus,,,1
-Kalos,Noibat family,714,,Noibat,,,,48,715,Noivern,,,1
-Unova,Trubbish family,568,,Trubbish,,,,36,569,Garbodor,,,1
+Hoenn,Nincada family,292,,Shedinja,,,,,,,290,Nincada,2
+Johto,Ledyba family,166,,Ledian,,,,,,,165,Ledyba,2
+Unova,Pansear family,514,,Simisear,,,,,,,513,Pansear,2
+Unova,Solosis family,579,,Reuniclus,,,,,,,578,Duosion,3
+Johto,Swinub family,221,,Piloswine,,Level up knowing Ancient Power,,,473,Mamoswine,220,Swinub,2
+Alola,Cosmog family,790,,Cosmoem,,,Pokémon Sun and Ultra Sun,53,791,Solgaleo,789,Cosmog,2
+Unova,Foongus family,591,,Amoonguss,,,,,,,590,Foongus,2
+Alola,Litten family,727,,Incineroar,,,,,,,726,Torracat,3
+Alola,Wimpod family,767,,Wimpod,,,,30,768,Golisopod,,,1
+Alola,Cutiefly family,743,,Ribombee,,,,,,,742,Cutiefly,2
+Johto,Wobbuffet family,202,,Wobbuffet,,,,,,,360,Wynaut,2
+Hoenn,Trapinch family,329,,Vibrava,,,,45,330,Flygon,328,Trapinch,2
+Unova,Solosis family,578,,Duosion,,,,41,579,Reuniclus,577,Solosis,2
+Kanto,Caterpie family,11,,Metapod,,,,10,12,Butterfree,10,Caterpie,2
+Alola,Fomantis family,753,,Fomantis,,,day,34,754,Lurantis,,,1
+Hoenn,Trapinch family,330,,Flygon,,,,,,,329,Vibrava,3
+Sinnoh,Shinx family,405,,Luxray,,,,,,,404,Luxio,3
+Kanto,Gastly family,94,,Gengar,,,,,,,93,Haunter,3
+Hoenn,Feebas family,349,,Feebas,,"Level up with maximum Beauty
+Trade holding Prism Scale",,,350,Milotic,,,1
+Kanto,Mankey family,57,,Primeape,,,,,,,56,Mankey,2
+Kanto,Koffing family,110,,Weezing,,,,,,,109,Koffing,2
+Kalos,Fletchling family,662,,Fletchinder,,,,35,663,Talonflame,661,Fletchling,2
+Unova,Joltik family,596,,Galvantula,,,,,,,595,Joltik,2
+Hoenn,Aron family,306,,Aggron,,,,,,,305,Lairon,3
+Unova,Roggenrola family,526,,Gigalith,,,,,,,525,Boldore,3
+Hoenn,Treecko family,252,,Treecko,,,,16,253,Grovyle,,,1
+Kanto,Squirtle family,8,,Wartortle,,,,36,9,Blastoise,7,Squirtle,2
+Alola,Type: Null family,773,,Silvally,,,,,,,772,Type: Null,2
+Sinnoh,Kricketot family,401,,Kricketot,,,,10,402,Kricketune,,,1
+Kanto,Magnemite family,81,,Magnemite,,,,30,82,Magneton,,,1
+Sinnoh,Piplup family,394,,Prinplup,,,,36,395,Empoleon,393,Piplup,2
+Hoenn,Cacnea family,331,,Cacnea,,,,32,332,Cacturne,,,1
+Hoenn,Anorith family,347,,Anorith,,,,40,348,Armaldo,,,1
+Unova,Deerling family,586,W,Sawsbuck,Winter Form,,,,,,585,Deerling,2
+Sinnoh,Chimchar family,392,,Infernape,,,,,,,391,Monferno,3
+Unova,Oshawott family,503,,Samurott,,,,,,,502,Dewott,3
+Unova,Ferroseed family,597,,Ferroseed,,,,40,598,Ferrothorn,,,1
+Kalos,Fennekin family,653,,Fennekin,,,,16,654,Braixen,,,1
+Hoenn,Lileep family,346,,Cradily,,,,,,,345,Lileep,2
+Sinnoh,Skorupi family,452,,Drapion,,,,,,,451,Skorupi,2
+Kanto,Krabby family,98,,Krabby,,,,28,99,Kingler,,,1
+Unova,Pidove family,521,,Unfezant,,,,,,,520,Tranquill,3
+Johto,Wooper family,194,,Wooper,,,,20,195,Quagsire,,,1
+Johto,Mareep family,180,,Flaaffy,,,,30,181,Ampharos,179,Mareep,2
+Alola,Cosmog family,792,,Lunala,,,,,,,790,Cosmoem,3
+Hoenn,Torchic family,257,,Blaziken,,,,,,,256,Combusken,3
+Sinnoh,Cherubi family,421,,Cherrim,,,,,,,420,Cherubi,2
+Kalos,Bunnelby family,659,,Bunnelby,,,,20,660,Diggersby,,,1
+Unova,Yamask family,562,,Yamask,,,,34,563,Cofagrigus,,,1
+Johto,Togepi family,175,,Togepi,,Friendship,,,176,Togetic,,,1
+Johto,Chikorita family,153,,Bayleef,,,,32,154,Meganium,152,Chikorita,2
+Kanto,Rhyhorn family,111,,Rhyhorn,,,,42,112,Rhydon,,,1
+Kanto,Rattata family,20,,Raticate,,,,,,,19,Rattata,2
+Kanto,Exeggcute family,102,A,Exeggcute,,Leaf Stone,,,103,Exeggutor,,,1
+Kanto,Caterpie family,10,,Caterpie,,,,7,11,Metapod,,,1
+Unova,Blitzle family,523,,Zebstrika,,,,,,,522,Blitzle,2
+Johto,Houndour family,229,,Houndoom,,,,,,,228,Houndour,2
+Unova,Oshawott family,502,,Dewott,,,,36,503,Samurott,501,Oshawott,2
+Unova,Pawniard family,625,,Bisharp,,,,,,,624,Pawniard,2
+Johto,Marill family,184,,Azumarill,,,,,,,183,Marill,3
+Unova,Ferroseed family,598,,Ferrothorn,,,,,,,597,Ferroseed,2
+Sinnoh,Drifloon family,426,,Drifblim,,,,,,,425,Drifloon,2
+Kanto,Bellsprout family,71,,Victreebel,,,,,,,70,Weepinbell,3
+Kanto,Hitmon family,236,,Tyrogue,,,Attack > Defense,20,106,Hitmonlee,,,1
+Unova,Tepig family,500,,Emboar,,,,,,,499,Pignite,3
+Unova,Deerling family,585,W,Deerling,Winter Form,,,34,586,Sawsbuck,,,1
+Kanto,Abra family,64,,Kadabra,,Trade,,,65,Alakazam,63,Abra,2
+Sinnoh,Cranidos family,409,,Rampardos,,,,,,,408,Cranidos,2
+Unova,Woobat family,527,,Woobat,,Friendship,,,528,Swoobat,,,1
+Unova,Tympole family,536,,Palpitoad,,,,36,537,Seismitoad,535,Tympole,2
+Alola,Litten family,726,,Torracat,,,,34,727,Incineroar,725,Litten,2
+Kalos,Honedge family,681,,Aegislash,,,,,,,680,Doublade,3
+Kanto,Tentacool family,73,,Tentacruel,,,,,,,72,Tentacool,2
+Kalos,Chespin family,652,,Chesnaught,,,,,,,651,Quilladin,3
+Johto,Cyndaquil family,155,,Cyndaquil,,,,14,156,Quilava,,,1
+Johto,Marill family,298,,Azurill,,Friendship,,,183,Marill,,,1
+Alola,Mareanie family,748,,Toxapex,,,,,,,747,Mareanie,2
+Kanto,Ekans family,24,,Arbok,,,,,,,23,Ekans,2
+Unova,Sandile family,553,,Krookodile,,,,,,,552,Krokorok,3
+Kanto,Oddish family,44,,Gloom,,Leaf Stone,,,45,Vileplume,43,Oddish,2
+Kanto,Magmar family,126,,Magmar,,Trade holding Magmarizer,,,467,Magmortar,240,Magby,2
+Alola,Morelull family,756,,Shiinotic,,,,,,,755,Morelull,2
+Kanto,Spearow family,21,,Spearow,,,,20,22,Fearow,,,1
+Sinnoh,Burmy family,413,S,Wormadam,,,,,,,412,Burmy,2
+Alola,Sandygast family,770,,Palossand,,,,,,,769,Sandygast,2
+Unova,Vullaby family,629,,Vullaby,,,,54,630,Mandibuzz,,,1
+Kanto,Scyther family,123,,Scyther,,Trade holding Metal Coat,,,212,Scizor,,,1
+Kanto,Dratini family,147,,Dratini,,,,30,148,Dragonair,,,1
+Hoenn,Beldum family,375,,Metang,,,,45,376,Metagross,374,Beldum,2
+Sinnoh,Bronzor family,437,,Bronzong,,,,,,,436,Bronzor,2
+Kanto,Shellder family,91,,Cloyster,,,,,,,90,Shellder,2
+Kanto,Meltan family,808,,Meltan,, Meltan Candy in Pokémon Go,,400,809,Melmetal,,,1
+Sinnoh,Burmy family,412,S,Burmy,,,"female, Trash Cloak",20,413,Wormadam,,,1
+Kanto,Abra family,65,,Alakazam,,,,,,,64,Kadabra,3
+Kanto,Drowzee family,96,,Drowzee,,,,26,97,Hypno,,,1
+Alola,Popplio family,730,,Primarina,,,,,,,729,Brionne,3
+Hoenn,Corphish family,341,,Corphish,,,,30,342,Crawdaunt,,,1
+Unova,Frillish family,592,,Frillish,,,,40,593,Jellicent,,,1
+Johto,Chikorita family,154,,Meganium,,,,,,,153,Bayleef,3
+Kanto,Voltorb family,100,,Voltorb,,,,30,101,Electrode,,,1
+Kanto,Porygon family,233,,Porygon2,,Trade holding Dubious Disc,,,474,Porygon-Z,137,Porygon,2
+Kalos,Scatterbug family,666,,Vivillon,,,,,,,665,Spewpa,3
+Kanto,Hitmon family,106,,Hitmonlee,,,,,,,236,Tyrogue,2
+Unova,Scraggy family,559,,Scraggy,,,,39,560,Scrafty,,,1
+Alola,Rowlet family,722,,Rowlet,,,,17,723,Dartrix,,,1
+Hoenn,Lotad family,271,,Lombre,,Water Stone,,,272,Ludicolo,270,Lotad,2
+Hoenn,Nosepass family,299,,Nosepass,,Level up in a special magnetic field,,,476,Probopass,,,1
+Johto,Remoraid family,223,,Remoraid,,,,25,224,Octillery,,,1
+Unova,Pidove family,519,,Pidove,,,,21,520,Tranquill,,,1
+Kanto,Vulpix family,38,,Ninetales,,,,,,,37,Vulpix,2
+Unova,Darumaka family,555,,Darmanitan,,,,,,,554,Darumaka,2
+Unova,Sandile family,551,,Sandile,,,,29,552,Krokorok,,,1
+Hoenn,Meditite family,308,,Medicham,,,,,,,307,Meditite,2
+Johto,Sudowoodo family,185,,Sudowoodo,,,,,,,438,Bonsly,2
+Johto,Larvitar family,248,,Tyranitar,,,,,,,247,Pupitar,3
+Unova,Purrloin family,510,,Liepard,,,,,,,509,Purrloin,2
+Kanto,Clefairy family,173,,Cleffa,,Friendship,,,35,Clefairy,,,1
+Hoenn,Shroomish family,286,,Breloom,,,,,,,285,Shroomish,2
+Unova,Litwick family,608,,Lampent,,Dusk Stone,,,609,Chandelure,607,Litwick,2
+Hoenn,Beldum family,374,,Beldum,,,,20,375,Metang,,,1
+Sinnoh,Shellos family,423,E,Gastrodon,East Sea,,,,,,422,Shellos,2
+Johto,Phanpy family,231,,Phanpy,,,,25,232,Donphan,,,1
+Unova,Tepig family,499,,Pignite,,,,36,500,Emboar,498,Tepig,2
+Kanto,Eeveelution family,197,,Umbreon,,,,,,,133,Eevee,2
+Johto,Gligar family,207,,Gligar,,Level up holding Razor Fang at night,,,472,Gliscor,,,1
+Alola,Rockruff family,744,,Rockruff,,,Pokémon Sun and Ultra Sun; day,25,745,Lycanroc,,,1
+Kanto,Mr. Mime family,439,,Mime Jr.,,Level up knowing Mimic,,,122,Mr. Mime,,,1
+Johto,Swinub family,473,,Mamoswine,,,,,,,221,Piloswine,3
+Unova,Dwebble family,557,,Dwebble,,,,34,558,Crustle,,,1
+Unova,Ducklett family,580,,Ducklett,,,,35,581,Swanna,,,1
+Kanto,Zubat family,42,,Golbat,,Friendship,,,169,Crobat,41,Zubat,2
+Unova,Litwick family,607,,Litwick,,,,41,608,Lampent,,,1
+Kanto,Poliwag family,62,,Poliwrath,,,,,,,61,Poliwhirl,3
+Kalos,Fennekin family,654,,Braixen,,,,36,655,Delphox,653,Fennekin,2
+Unova,Roggenrola family,525,,Boldore,,Trade,,,526,Gigalith,524,Roggenrola,2
+Sinnoh,Shinx family,403,,Shinx,,,,15,404,Luxio,,,1
+Kanto,Oddish family,44,,Gloom,,Sun Stone,,,182,Bellossom,43,Oddish,2
+Alola,Rowlet family,724,,Decidueye,,,,,,,723,Dartrix,3
+Hoenn,Seedot family,275,,Shiftry,,,,,,,274,Nuzleaf,3
+Hoenn,Skitty family,300,,Skitty,,Moon Stone,,,301,Delcatty,,,1
+Unova,Cottonee family,547,,Whimsicott,,,,,,,546,Cottonee,2
+Hoenn,Spheal family,363,,Spheal,,,,32,364,Sealeo,,,1
+Kanto,Alolan Diglett family,51,A,Dugtrio,,,,,,,50,Diglett,2
+Johto,Chinchou family,170,,Chinchou,,,,27,171,Lanturn,,,1
+Hoenn,Snorunt family,361,,Snorunt,,,,42,362,Glalie,,,1
+Sinnoh,Burmy family,412,S,Burmy,,,male,20,414,Mothim,,,1
+Kanto,Geodude family,75,,Graveler,,Trade,,,76,Golem,74,Geodude,2
+Kanto,Slowpoke family,79,,Slowpoke,,,,37,80,Slowbro,,,1
+Hoenn,Spoink family,325,,Spoink,,,,32,326,Grumpig,,,1
+Alola,Dewpider family,751,,Dewpider,,,,22,752,Araquanid,,,1
+Johto,Yanma family,193,,Yanma,,Level up knowing Ancient Power,,,469,Yanmega,,,1
+Kanto,Eeveelution family,196,,Espeon,,,,,,,133,Eevee,2
+Kalos,Chespin family,651,,Quilladin,,,,36,652,Chesnaught,650,Chespin,2
+Hoenn,Roselia family,406,,Budew,,Friendship,day,,315,Roselia,,,1
+Unova,Oshawott family,501,,Oshawott,,,,17,502,Dewott,,,1
+Unova,Deerling family,585,,Deerling,Spring Form,,,34,586,Sawsbuck,,,1
+Kalos,Binacle family,688,,Binacle,,,,39,689,Barbaracle,,,1
+Unova,Drilbur family,530,,Excadrill,,,,,,,529,Drilbur,2
+Kanto,Oddish family,182,,Bellossom,,,,,,,44,Gloom,3
+Johto,Cyndaquil family,157,,Typhlosion,,,,,,,156,Quilava,3
+Kalos,Skiddo family,673,,Gogoat,,,,,,,672,Skiddo,2
+Kanto,Machop family,66,,Machop,,,,28,67,Machoke,,,1
+Kanto,Magmar family,240,,Magby,,,,30,126,Magmar,,,1
+Hoenn,Spoink family,326,,Grumpig,,,,,,,325,Spoink,2
 Hoenn,Shroomish family,285,,Shroomish,,,,23,286,Breloom,,,1
 Kalos,Espurr family,678,,Meowstic,,,,,,,677,Espurr,2
-Alola,Grubbin family,738,,Vikavolt,,,,,,,737,Charjabug,3
-Kanto,Seel family,87,,Dewgong,,,,,,,86,Seel,2
-Kanto,Pikachu family,26,,Raichu,,,,,,,25,Pikachu,3
-Hoenn,Spheal family,363,,Spheal,,,,32,364,Sealeo,,,1
-Unova,Litwick family,608,,Lampent,,Dusk Stone,,,609,Chandelure,607,Litwick,2
-Alola,Fomantis family,753,,Fomantis,,,day,34,754,Lurantis,,,1
-Hoenn,Mudkip family,260,,Swampert,,,,,,,259,Marshtomp,3
-Sinnoh,Buneary family,427,,Buneary,,Friendship,,,428,Lopunny,,,1
-Kanto,Meowth family,52,,Meowth,,,,28,53,Persian,,,1
-Johto,Totodile family,160,,Feraligatr,,,,,,,159,Croconaw,3
-Kanto,Horsea family,116,,Horsea,,,,32,117,Seadra,,,1
-Hoenn,Ralts family,281,,Kirlia,,Dawn Stone,male,,475,Gallade,280,Ralts,2
-Kanto,Shellder family,90,,Shellder,,Water Stone,,,91,Cloyster,,,1
-Unova,Karrablast family,589,,Escavalier,,,,,,,588,Karrablast,2
-Kanto,Sandshrew family,28,,Sandslash,,,,,,,27,Sandshrew,2
-Kanto,Snorlax family,143,,Snorlax,,,,,,,446,Munchlax,2
-Johto,Aipom family,190,,Aipom,,Level up knowing Double Hit,,,424,Ambipom,,,1
-Hoenn,Wurmple family,265,,Wurmple,,,,7,268,Cascoon,,,1
-Kanto,Bellsprout family,70,,Weepinbell,,Leaf Stone,,,71,Victreebel,69,Bellsprout,2
-Hoenn,Beldum family,375,,Metang,,,,45,376,Metagross,374,Beldum,2
-Hoenn,Mudkip family,258,,Mudkip,,,,16,259,Marshtomp,,,1
-Johto,Chikorita family,154,,Meganium,,,,,,,153,Bayleef,3
-Unova,Drilbur family,530,,Excadrill,,,,,,,529,Drilbur,2
-Sinnoh,Burmy family,413,S,Wormadam,,,,,,,412,Burmy,2
-Unova,Patrat family,504,,Patrat,,,,20,505,Watchog,,,1
-Kanto,Ekans family,23,,Ekans,,,,22,24,Arbok,,,1
-Sinnoh,Shinx family,403,,Shinx,,,,15,404,Luxio,,,1
-Unova,Shelmet family,616,,Shelmet,,Trade for Karrablast,,,617,Accelgor,,,1
-Unova,Pawniard family,625,,Bisharp,,,,,,,624,Pawniard,2
-Kanto,Geodude family,76,,Golem,,,,,,,75,Graveler,3
-Alola,Cosmog family,790,,Cosmoem,,,Pokémon Sun and Ultra Sun,53,791,Solgaleo,789,Cosmog,2
-Unova,Deino family,633,,Deino,,,,50,634,Zweilous,,,1
-Kanto,Vulpix family,38,,Ninetales,,,,,,,37,Vulpix,2
-Kanto,Bulbasaur family,2,,Ivysaur,,,,32,3,Venusaur,1,Bulbasaur,2
-Unova,Pansear family,513,,Pansear,,Fire Stone,,,514,Simisear,,,1
-Kalos,Chespin family,652,,Chesnaught,,,,,,,651,Quilladin,3
-Alola,Cutiefly family,742,,Cutiefly,,,,25,743,Ribombee,,,1
-Johto,Misdreavus family,429,,Mismagius,,,,,,,200,Misdreavus,2
-Kanto,Alolan Rattata family,19,A,Rattata,,,night,20,20,Raticate,,,1
-Unova,Deerling family,585,S,Deerling,Summer Form,,,34,586,Sawsbuck,,,1
-Johto,Hoppip family,188,,Skiploom,,,,27,189,Jumpluff,187,Hoppip,2
-Kalos,Tyrunt family,696,,Tyrunt,,,day,39,697,Tyrantrum,,,1
-Hoenn,Clamperl family,366,,Clamperl,,Trade holding Deep Sea Scale,,,368,Gorebyss,,,1
-Alola,Cosmog family,790,,Cosmoem,,,Pokémon Moon and Ultra Moon,53,792,Lunala,789,Cosmog,2
-Unova,Oshawott family,501,,Oshawott,,,,17,502,Dewott,,,1
-Kanto,Poliwag family,61,,Poliwhirl,,Water Stone,,,62,Poliwrath,60,Poliwag,2
-Unova,Deerling family,586,S,Sawsbuck,Summer Form,,,,,,585,Deerling,2
-Unova,Gothita family,576,,Gothitelle,,,,,,,575,Gothorita,3
-Unova,Roggenrola family,526,,Gigalith,,,,,,,525,Boldore,3
-Kalos,Noibat family,715,,Noivern,,,,,,,714,Noibat,2
-Kanto,Pikachu family,25,A,Pikachu,,Thunder Stone,,,26,Raichu,172,Pichu,2
-Kanto,Oddish family,43,,Oddish,,,,21,44,Gloom,,,1
-Alola,Jangmo-o family,783,,Hakamo-o,,,,45,784,Kommo-o,782,Jangmo-o,2
-Hoenn,Spheal family,364,,Sealeo,,,,44,365,Walrein,363,Spheal,2
-Unova,Minccino family,572,,Minccino,,Shiny Stone,,,573,Cinccino,,,1
-Kanto,Clefairy family,173,,Cleffa,,Friendship,,,35,Clefairy,,,1
-Kanto,Vulpix family,37,,Vulpix,,Fire Stone,,,38,Ninetales,,,1
-Unova,Patrat family,505,,Watchog,,,,,,,504,Patrat,2
-Hoenn,Nincada family,291,,Ninjask,,,,,,,290,Nincada,2
-Unova,Tepig family,499,,Pignite,,,,36,500,Emboar,498,Tepig,2
-Kanto,Exeggcute family,102,A,Exeggcute,,Leaf Stone,,,103,Exeggutor,,,1
-Unova,Gothita family,574,,Gothita,,,,32,575,Gothorita,,,1
-Kanto,Charmander family,6,,Charizard,,,,,,,5,Charmeleon,3
-Unova,Frillish family,593,,Jellicent,,,,,,,592,Frillish,2
-Kanto,Hitmon family,107,,Hitmonchan,,,,,,,236,Tyrogue,2
-Kanto,Rhyhorn family,464,,Rhyperior,,,,,,,112,Rhydon,3
-Kanto,Nidoran family*,34,,Nidoking,,,,,,,33,Nidorino,3
-Kanto,Alolan Sandshrew family,27,A,Sandshrew,,Ice Stone,,,28,Sandslash,,,1
-Unova,Timburr family,532,,Timburr,,,,25,533,Gurdurr,,,1
-Sinnoh,Chimchar family,392,,Infernape,,,,,,,391,Monferno,3
-Hoenn,Ralts family,475,,Gallade,,,,,,,281,Kirlia,3
-Kanto,Machop family,66,,Machop,,,,28,67,Machoke,,,1
-Johto,Slugma family,219,,Magcargo,,,,,,,218,Slugma,2
-Johto,Mantine family,226,,Mantine,,,,,,,458,Mantyke,2
-Kanto,Clefairy family,35,,Clefairy,,Moon Stone,,,36,Clefable,173,Cleffa,2
-Kanto,Weedle family,14,,Kakuna,,,,10,15,Beedrill,13,Weedle,2
-Kanto,Pikachu family,172,,Pichu,,Friendship,,,25,Pikachu,,,1
-Unova,Pawniard family,624,,Pawniard,,,,52,625,Bisharp,,,1
-Kalos,Pumpkaboo family,710,,Pumpkaboo,,Trade,,,711,Gourgeist,,,1
-Sinnoh,Drifloon family,426,,Drifblim,,,,,,,425,Drifloon,2
-Hoenn,Aron family,305,,Lairon,,,,42,306,Aggron,304,Aron,2
-Kalos,Goomy family,705,,Sliggoo,, in rain or fog,,50,706,Goodra,704,Goomy,2
-Unova,Pidove family,519,,Pidove,,,,21,520,Tranquill,,,1
-Unova,Foongus family,591,,Amoonguss,,,,,,,590,Foongus,2
-Kanto,Paras family,46,,Paras,,,,24,47,Parasect,,,1
-Johto,Natu family,177,,Natu,,,,25,178,Xatu,,,1
-Kanto,Oddish family,44,,Gloom,,Sun Stone,,,182,Bellossom,43,Oddish,2
-Hoenn,Wurmple family,265,,Wurmple,,,,7,266,Silcoon,,,1
-Unova,Joltik family,595,,Joltik,,,,36,596,Galvantula,,,1
+Kalos,Noibat family,714,,Noibat,,,,48,715,Noivern,,,1
+Johto,Ledyba family,165,,Ledyba,,,,18,166,Ledian,,,1
+Kalos,Swirlix family,684,,Swirlix,,Trade holding Whipped Dream,,,685,Slurpuff,,,1
+Alola,Poipole family,804,,Naganadel,,,,,,,803,Poipole,2
+Alola,Morelull family,755,,Morelull,,,,24,756,Shiinotic,,,1
+Hoenn,Makuhita family,297,,Hariyama,,,,,,,296,Makuhita,2
 Kalos,Litleo family,667,,Litleo,,,,35,668,Pyroar,,,1
-Johto,Sunkern family,191,,Sunkern,,Sun Stone,,,192,Sunflora,,,1
-Kanto,Alolan Vulpix family,37,A,Vulpix,,Ice Stone,,,38,Ninetales,,,1
-Sinnoh,Glameow family,431,,Glameow,,,,38,432,Purugly,,,1
-Alola,Rockruff family,744,Mn,Rockruff,,,Pokémon Moon and Ultra Moon; night,25,745,Lycanroc,,,1
-Johto,Ledyba family,166,,Ledian,,,,,,,165,Ledyba,2
-Kalos,Honedge family,681,,Aegislash,,,,,,,680,Doublade,3
+Sinnoh,Riolu family,448,,Lucario,,,,,,,447,Riolu,2
+Unova,Patrat family,504,,Patrat,,,,20,505,Watchog,,,1
+Johto,Snubbull family,209,,Snubbull,,,,23,210,Granbull,,,1
+Kanto,Bellsprout family,70,,Weepinbell,,Leaf Stone,,,71,Victreebel,69,Bellsprout,2
+Alola,Jangmo-o family,784,,Kommo-o,,,,,,,783,Hakamo-o,3
+Kalos,Goomy family,704,,Goomy,,,,40,705,Sliggoo,,,1
 Hoenn,Nincada family,290,,Nincada,,"Free space
 Additional Poké Ball",,,292,Shedinja,,,1
-Johto,Marill family,184,,Azumarill,,,,,,,183,Marill,3
-Unova,Purrloin family,510,,Liepard,,,,,,,509,Purrloin,2
-Kanto,Electabuzz family,466,,Electivire,,,,,,,125,Electabuzz,3
-Hoenn,Anorith family,348,,Armaldo,,,,,,,347,Anorith,2
-Unova,Deerling family,586,A,Sawsbuck,Autumn Form,,,,,,585,Deerling,2
-Kanto,Hitmon family,236,,Tyrogue,,,Attack > Defense,20,106,Hitmonlee,,,1
-Kalos,Inkay family,686,,Inkay,, with DS held upside down,,30,687,Malamar,,,1
-Hoenn,Snorunt family,361,,Snorunt,,Dawn Stone,female,,478,Froslass,,,1
-Johto,Gligar family,207,,Gligar,,Level up holding Razor Fang at night,,,472,Gliscor,,,1
-Kanto,Onix family,208,,Steelix,,,,,,,95,Onix,2
-Sinnoh,Chimchar family,391,,Monferno,,,,36,392,Infernape,390,Chimchar,2
-Hoenn,Roselia family,407,,Roserade,,,,,,,315,Roselia,3
-Kanto,Weedle family,15,,Beedrill,,,,,,,14,Kakuna,3
+Unova,Venipede family,543,,Venipede,,,,22,544,Whirlipede,,,1
+Kanto,Seel family,87,,Dewgong,,,,,,,86,Seel,2
+Kanto,Machop family,67,,Machoke,,Trade,,,68,Machamp,66,Machop,2
 Unova,Tynamo family,603,,Eelektrik,,Thunder Stone,,,604,Eelektross,602,Tynamo,2
-Kanto,Geodude family,75,,Graveler,,Trade,,,76,Golem,74,Geodude,2
-Kanto,Dratini family,148,,Dragonair,,,,55,149,Dragonite,147,Dratini,2
-Kalos,Fennekin family,654,,Braixen,,,,36,655,Delphox,653,Fennekin,2
-Kalos,Spritzee family,683,,Aromatisse,,,,,,,682,Spritzee,2
-Kanto,Alolan Vulpix family,38,A,Ninetales,,,,,,,37,Vulpix,2
-Kanto,Spearow family,21,,Spearow,,,,20,22,Fearow,,,1
-Kanto,Scyther family,123,,Scyther,,Trade holding Metal Coat,,,212,Scizor,,,1
-Hoenn,Ralts family,280,,Ralts,,,,20,281,Kirlia,,,1
-Hoenn,Nosepass family,299,,Nosepass,,Level up in a special magnetic field,,,476,Probopass,,,1
-Unova,Petilil family,548,,Petilil,,Sun Stone,,,549,Lilligant,,,1
-Alola,Salandit family,758,,Salazzle,,,,,,,757,Salandit,2
-Sinnoh,Burmy family,414,S,Mothim,,,,,,,412,Burmy,2
-Sinnoh,Skorupi family,452,,Drapion,,,,,,,451,Skorupi,2
-Unova,Snivy family,496,,Servine,,,,36,497,Serperior,495,Snivy,2
-Unova,Elgyem family,606,,Beheeyem,,,,,,,605,Elgyem,2
-Johto,Sudowoodo family,185,,Sudowoodo,,,,,,,438,Bonsly,2
-Kanto,Psyduck family,55,,Golduck,,,,,,,54,Psyduck,2
-Johto,Wobbuffet family,202,,Wobbuffet,,,,,,,360,Wynaut,2
-Sinnoh,Burmy family,412,S,Burmy,,,"female, Trash Cloak",20,413,Wormadam,,,1
-Hoenn,Nosepass family,476,,Probopass,,,,,,,299,Nosepass,2
-Unova,Dwebble family,557,,Dwebble,,,,34,558,Crustle,,,1
-Unova,Ducklett family,581,,Swanna,,,,,,,580,Ducklett,2
-Johto,Hoothoot family,163,,Hoothoot,,,,20,164,Noctowl,,,1
-Alola,Rowlet family,722,,Rowlet,,,,17,723,Dartrix,,,1
-Unova,Tirtouga family,564,,Tirtouga,,,,37,565,Carracosta,,,1
-Unova,Tirtouga family,565,,Carracosta,,,,,,,564,Tirtouga,2
-Sinnoh,Gible family,443,,Gible,,,,24,444,Gabite,,,1
-Hoenn,Roselia family,315,,Roselia,,Shiny Stone,,,407,Roserade,406,Budew,2
-Kanto,Eeveelution family,196,,Espeon,,,,,,,133,Eevee,2
-Unova,Lillipup family,507,,Herdier,,,,32,508,Stoutland,506,Lillipup,2
-Sinnoh,Shieldon family,410,,Shieldon,,,,30,411,Bastiodon,,,1
-Kanto,Meltan family,808,,Meltan,, Meltan Candy in Pokémon Go,,400,809,Melmetal,,,1
-Unova,Blitzle family,523,,Zebstrika,,,,,,,522,Blitzle,2
-Sinnoh,Drifloon family,425,,Drifloon,,,,28,426,Drifblim,,,1
-Kalos,Fletchling family,661,,Fletchling,,,,17,662,Fletchinder,,,1
-Kalos,Binacle family,688,,Binacle,,,,39,689,Barbaracle,,,1
-Kanto,Squirtle family,9,,Blastoise,,,,,,,8,Wartortle,3
-Johto,Cyndaquil family,155,,Cyndaquil,,,,14,156,Quilava,,,1
-Hoenn,Slakoth family,288,,Vigoroth,,,,36,289,Slaking,287,Slakoth,2
-Unova,Cottonee family,547,,Whimsicott,,,,,,,546,Cottonee,2
-Kanto,Cubone family,105,A,Marowak,,,,,,,104,Cubone,2
-Sinnoh,Starly family,397,,Staravia,,,,34,398,Staraptor,396,Starly,2
-Hoenn,Corphish family,341,,Corphish,,,,30,342,Crawdaunt,,,1
-Hoenn,Lotad family,270,,Lotad,,,,14,271,Lombre,,,1
-Kalos,Phantump family,708,,Phantump,,Trade,,,709,Trevenant,,,1
-Hoenn,Spoink family,326,,Grumpig,,,,,,,325,Spoink,2
-Alola,Bounsweet family,763,,Tsareena,,,,,,,762,Steenee,3
-Hoenn,Wurmple family,267,,Beautifly,,,,,,,266,Silcoon,3
-Johto,Wobbuffet family,360,,Wynaut,,,,15,202,Wobbuffet,,,1
-Sinnoh,Combee family,415,,Combee,,,female,21,416,Vespiquen,,,1
-Kanto,Squirtle family,7,,Squirtle,,,,16,8,Wartortle,,,1
-Kanto,Dratini family,147,,Dratini,,,,30,148,Dragonair,,,1
-Hoenn,Spheal family,365,,Walrein,,,,,,,364,Sealeo,3
-Alola,Grubbin family,737,,Charjabug,,Level up in a special magnetic field,,,738,Vikavolt,736,Grubbin,2
-Unova,Rufflet family,627,,Rufflet,,,,54,628,Braviary,,,1
-Hoenn,Lotad family,272,,Ludicolo,,,,,,,271,Lombre,3
-Kanto,Slowpoke family,80,,Slowbro,,,,,,,79,Slowpoke,2
-Kanto,Pikachu family,26,A,Raichu,,,,,,,25,Pikachu,3
-Johto,Houndour family,228,,Houndour,,,,24,229,Houndoom,,,1
-Johto,Murkrow family,430,,Honchkrow,,,,,,,198,Murkrow,2
-Unova,Woobat family,528,,Swoobat,,,,,,,527,Woobat,2
-Hoenn,Chimecho family,358,,Chimecho,,,,,,,433,Chingling,2
-Unova,Golett family,622,,Golett,,,,43,623,Golurk,,,1
-Johto,Wooper family,195,,Quagsire,,,,,,,194,Wooper,2
-Unova,Oshawott family,502,,Dewott,,,,36,503,Samurott,501,Oshawott,2
-Unova,Venipede family,544,,Whirlipede,,,,30,545,Scolipede,543,Venipede,2
-Hoenn,Roselia family,406,,Budew,,Friendship,day,,315,Roselia,,,1
-Hoenn,Beldum family,374,,Beldum,,,,20,375,Metang,,,1
-Unova,Snivy family,495,,Snivy,,,,17,496,Servine,,,1
-Kanto,Seel family,86,,Seel,,,,34,87,Dewgong,,,1
-Kanto,Slowpoke family,79,,Slowpoke,,Trade holding King's Rock,,,199,Slowking,,,1
-Johto,Snubbull family,209,,Snubbull,,,,23,210,Granbull,,,1
-Unova,Karrablast family,588,,Karrablast,,Trade for Shelmet,,,589,Escavalier,,,1
-Kanto,Abra family,64,,Kadabra,,Trade,,,65,Alakazam,63,Abra,2
-Kanto,Hitmon family,106,,Hitmonlee,,,,,,,236,Tyrogue,2
-Hoenn,Wailmer family,321,,Wailord,,,,,,,320,Wailmer,2
-Hoenn,Aron family,306,,Aggron,,,,,,,305,Lairon,3
-Kanto,Rattata family,20,,Raticate,,,,,,,19,Rattata,2
-Kalos,Binacle family,689,,Barbaracle,,,,,,,688,Binacle,2
-Hoenn,Poochyena family,261,,Poochyena,,,,18,262,Mightyena,,,1
-Kanto,Eeveelution family,197,,Umbreon,,,,,,,133,Eevee,2
-Alola,Crabrawler family,740,,Crabominable,,,,,,,739,Crabrawler,2
-Johto,Houndour family,229,,Houndoom,,,,,,,228,Houndour,2
-Hoenn,Snorunt family,361,,Snorunt,,,,42,362,Glalie,,,1
-Hoenn,Zigzagoon family,264,,Linoone,,,,,,,263,Zigzagoon,2
-Kanto,Gastly family,93,,Haunter,,Trade,,,94,Gengar,92,Gastly,2
-Kanto,Eeveelution family,133,,Eevee,,,night,,196,Espeon,,,1
-Hoenn,Treecko family,253,,Grovyle,,,,36,254,Sceptile,252,Treecko,2
-Hoenn,Electrike family,309,,Electrike,,,,26,310,Manectric,,,1
-Kanto,Eeveelution family,133,,Eevee,,,day,,197,Umbreon,,,1
-Unova,Munna family,517,,Munna,,Moon Stone,,,518,Musharna,,,1
-Kanto,Slowpoke family,199,,Slowking,,,,,,,79,Slowpoke,2
-Kanto,Porygon family,233,,Porygon2,,Trade holding Dubious Disc,,,474,Porygon-Z,137,Porygon,2
-Hoenn,Carvanha family,319,,Sharpedo,,,,,,,318,Carvanha,2
-Hoenn,Swablu family,334,,Altaria,,,,,,,333,Swablu,2
-Kalos,Flabébé family,671,,Florges,,,,,,,670,Floette,3
-Sinnoh,Combee family,416,,Vespiquen,,,,,,,415,Combee,2
-Sinnoh,Snover family,460,,Abomasnow,,,,,,,459,Snover,2
-Unova,Minccino family,573,,Cinccino,,,,,,,572,Minccino,2
-Alola,Fomantis family,754,,Lurantis,,,,,,,753,Fomantis,2
-Kanto,Diglett family,51,,Dugtrio,,,,,,,50,Diglett,2
-Hoenn,Duskull family,477,,Dusknoir,,,,,,,356,Dusclops,3
-Unova,Sandile family,552,,Krokorok,,,,40,553,Krookodile,551,Sandile,2
-Alola,Jangmo-o family,784,,Kommo-o,,,,,,,783,Hakamo-o,3
-Hoenn,Lileep family,345,,Lileep,,,,40,346,Cradily,,,1
-Kalos,Goomy family,704,,Goomy,,,,40,705,Sliggoo,,,1
-Alola,Special Rockruff family,744,D,Rockruff,,,between 5:00 and 5:59 PM,25,745,Lycanroc,,,1
-Unova,Dwebble family,558,,Crustle,,,,,,,557,Dwebble,2
-Kanto,Koffing family,109,,Koffing,,,,35,110,Weezing,,,1
-Alola,Morelull family,756,,Shiinotic,,,,,,,755,Morelull,2
-Kanto,Poliwag family,62,,Poliwrath,,,,,,,61,Poliwhirl,3
-Kanto,Dratini family,149,,Dragonite,,,,,,,148,Dragonair,3
-Sinnoh,Bidoof family,400,,Bibarel,,,,,,,399,Bidoof,2
-Kanto,Horsea family,230,,Kingdra,,,,,,,117,Seadra,3
-Hoenn,Nincada family,290,,Nincada,,,,20,291,Ninjask,,,1
-Alola,Morelull family,755,,Morelull,,,,24,756,Shiinotic,,,1
-Unova,Larvesta family,637,,Volcarona,,,,,,,636,Larvesta,2
-Alola,Type: Null family,773,,Silvally,,,,,,,772,Type: Null,2
-Kalos,Fennekin family,655,,Delphox,,,,,,,654,Braixen,3
-Kalos,Swirlix family,684,,Swirlix,,Trade holding Whipped Dream,,,685,Slurpuff,,,1
-Unova,Pansear family,514,,Simisear,,,,,,,513,Pansear,2
-Alola,Stufful family,760,,Bewear,,,,,,,759,Stufful,2
-Unova,Ducklett family,580,,Ducklett,,,,35,581,Swanna,,,1
-Kanto,Oddish family,182,,Bellossom,,,,,,,44,Gloom,3
-Sinnoh,Finneon family,457,,Lumineon,,,,,,,456,Finneon,2
-Unova,Larvesta family,636,,Larvesta,,,,59,637,Volcarona,,,1
-Unova,Ferroseed family,597,,Ferroseed,,,,40,598,Ferrothorn,,,1
-Kalos,Tyrunt family,697,,Tyrantrum,,,,,,,696,Tyrunt,2
-Kalos,Scatterbug family,665,,Spewpa,,,,12,666,Vivillon,664,Scatterbug,2
-Hoenn,Slakoth family,287,,Slakoth,,,,18,288,Vigoroth,,,1
-Sinnoh,Cherubi family,421,,Cherrim,,,,,,,420,Cherubi,2
-Unova,Zorua family,570,,Zorua,,,,30,571,Zoroark,,,1
-Kanto,Caterpie family,12,,Butterfree,,,,,,,11,Metapod,3
-Kalos,Froakie family,658,,Greninja,,,,,,,657,Frogadier,3
-Hoenn,Numel family,323,,Camerupt,,,,,,,322,Numel,2
-Alola,Sandygast family,770,,Palossand,,,,,,,769,Sandygast,2
-Unova,Vanillite family,584,,Vanilluxe,,,,,,,583,Vanillish,3
-Unova,Zorua family,571,,Zoroark,,,,,,,570,Zorua,2
-Kanto,Clefairy family,36,,Clefable,,,,,,,35,Clefairy,3
+Unova,Axew family,612,,Haxorus,,,,,,,611,Fraxure,3
+Kanto,Jigglypuff family,40,,Wigglytuff,,,,,,,39,Jigglypuff,3
+Johto,Sneasel family,215,,Sneasel,,Level up holding Razor Claw at night,,,461,Weavile,,,1
+Kalos,Flabébé family,670,,Floette,,Shiny Stone,,,671,Florges,669,Flabébé,2
+Kanto,Paras family,47,,Parasect,,,,,,,46,Paras,2
+Unova,Deerling family,586,S,Sawsbuck,Summer Form,,,,,,585,Deerling,2
+Kanto,Abra family,63,,Abra,,,,16,64,Kadabra,,,1
 Hoenn,Gulpin family,316,,Gulpin,,,,26,317,Swalot,,,1
-Hoenn,Slakoth family,289,,Slaking,,,,,,,288,Vigoroth,3
+Johto,Togepi family,176,,Togetic,,Shiny Stone,,,468,Togekiss,175,Togepi,2
+Hoenn,Shuppet family,353,,Shuppet,,,,37,354,Banette,,,1
+Sinnoh,Gible family,445,,Garchomp,,,,,,,444,Gabite,3
+Hoenn,Wailmer family,320,,Wailmer,,,,40,321,Wailord,,,1
+Kalos,Inkay family,686,,Inkay,, with DS held upside down,,30,687,Malamar,,,1
+Kalos,Helioptile family,694,,Helioptile,,Sun Stone,,,695,Heliolisk,,,1
+Kanto,Magmar family,467,,Magmortar,,,,,,,126,Magmar,3
+Unova,Snivy family,497,,Serperior,,,,,,,496,Servine,3
+Kalos,Goomy family,705,,Sliggoo,, in rain or fog,,50,706,Goodra,704,Goomy,2
+Alola,Mareanie family,747,,Mareanie,,,,38,748,Toxapex,,,1
+Alola,Yungoos family,734,,Yungoos,,,day,20,735,Gumshoos,,,1
+Kanto,Bellsprout family,69,,Bellsprout,,,,21,70,Weepinbell,,,1
+Unova,Cottonee family,546,,Cottonee,,Sun Stone,,,547,Whimsicott,,,1
+Alola,Cutiefly family,742,,Cutiefly,,,,25,743,Ribombee,,,1
+Kanto,Charmander family,5,,Charmeleon,,,,36,6,Charizard,4,Charmander,2
+Unova,Timburr family,534,,Conkeldurr,,,,,,,533,Gurdurr,3
+Kalos,Spritzee family,682,,Spritzee,,Trade holding Sachet,,,683,Aromatisse,,,1
+Hoenn,Seedot family,273,,Seedot,,,,14,274,Nuzleaf,,,1
+Kanto,Venonat family,49,,Venomoth,,,,,,,48,Venonat,2
+Johto,Mareep family,179,,Mareep,,,,15,180,Flaaffy,,,1
+Johto,Teddiursa family,217,,Ursaring,,,,,,,216,Teddiursa,2
+Unova,Frillish family,593,,Jellicent,,,,,,,592,Frillish,2
+Kanto,Eeveelution family,134,,Vaporeon,,,,,,,133,Eevee,2
+Hoenn,Aron family,304,,Aron,,,,32,305,Lairon,,,1
+Sinnoh,Burmy family,414,S,Mothim,,,,,,,412,Burmy,2
+Kanto,Zubat family,41,,Zubat,,,,22,42,Golbat,,,1
+Kanto,Goldeen family,119,,Seaking,,,,,,,118,Goldeen,2
+Unova,Yamask family,563,,Cofagrigus,,,,,,,562,Yamask,2
+Hoenn,Wailmer family,321,,Wailord,,,,,,,320,Wailmer,2
+Unova,Purrloin family,509,,Purrloin,,,,20,510,Liepard,,,1
+Kalos,Amaura family,698,,Amaura,,,night,39,699,Aurorus,,,1
+Kanto,Exeggcute family,102,,Exeggcute,,Leaf Stone,,,103,Exeggutor,,,1
+Johto,Sunkern family,191,,Sunkern,,Sun Stone,,,192,Sunflora,,,1
+Unova,Timburr family,532,,Timburr,,,,25,533,Gurdurr,,,1
+Kanto,Exeggcute family,103,,Exeggutor,,,,,,,102,Exeggcute,2
+Kanto,Chansey family,113,,Chansey,,Friendship,,,242,Blissey,440,Happiny,2
+Kanto,Poliwag family,186,,Politoed,,,,,,,61,Poliwhirl,3
+Johto,Larvitar family,247,,Pupitar,,,,55,248,Tyranitar,246,Larvitar,2
+Kanto,Grimer family,88,,Grimer,,,,38,89,Muk,,,1
+Kanto,Spearow family,22,,Fearow,,,,,,,21,Spearow,2
+Kanto,Alolan Geodude family,76,A,Golem,,,,,,,75,Graveler,3
+Alola,Crabrawler family,740,,Crabominable,,,,,,,739,Crabrawler,2
+Johto,Spinarak family,167,,Spinarak,,,,22,168,Ariados,,,1
+Unova,Tirtouga family,565,,Carracosta,,,,,,,564,Tirtouga,2
+Sinnoh,Starly family,398,,Staraptor,,,,,,,397,Staravia,3
+Johto,Larvitar family,246,,Larvitar,,,,30,247,Pupitar,,,1
+Unova,Venipede family,545,,Scolipede,,,,,,,544,Whirlipede,3
+Hoenn,Zigzagoon family,264,,Linoone,,,,,,,263,Zigzagoon,2
+Kanto,Nidoran family*,32,,Nidoran♂,,,,16,33,Nidorino,,,1
+Alola,Wimpod family,768,,Golisopod,,,,,,,767,Wimpod,2
+Kanto,Tentacool family,72,,Tentacool,,,,30,73,Tentacruel,,,1
+Unova,Shelmet family,616,,Shelmet,,Trade for Karrablast,,,617,Accelgor,,,1
+Unova,Klink family,600,,Klang,,,,49,601,Klinklang,599,Klink,2
+Unova,Gothita family,576,,Gothitelle,,,,,,,575,Gothorita,3
+Kanto,Diglett family,51,,Dugtrio,,,,,,,50,Diglett,2
+Hoenn,Poochyena family,262,,Mightyena,,,,,,,261,Poochyena,2
+Unova,Darumaka family,554,,Darumaka,,,,35,555,Darmanitan,,,1
+Hoenn,Mudkip family,260,,Swampert,,,,,,,259,Marshtomp,3
+Johto,Slugma family,219,,Magcargo,,,,,,,218,Slugma,2
+Hoenn,Roselia family,315,,Roselia,,Shiny Stone,,,407,Roserade,406,Budew,2
+Unova,Mienfoo family,619,,Mienfoo,,,,50,620,Mienshao,,,1
+Kanto,Sandshrew family,28,,Sandslash,,,,,,,27,Sandshrew,2
+Unova,Mienfoo family,620,,Mienshao,,,,,,,619,Mienfoo,2
+Kanto,Alolan Geodude family,74,A,Geodude,,,,25,75,Graveler,,,1
+Sinnoh,Burmy family,412,S,Burmy,,,"female, Plant Cloak",20,413,Wormadam,,,1
+Unova,Deino family,633,,Deino,,,,50,634,Zweilous,,,1
+Alola,Crabrawler family,739,,Crabrawler,,Level up at Mount Lanakila,,,740,Crabominable,,,1
+Kanto,Ponyta family,77,,Ponyta,,,,40,78,Rapidash,,,1
+Alola,Grubbin family,738,,Vikavolt,,,,,,,737,Charjabug,3
+Johto,Yanma family,469,,Yanmega,,,,,,,193,Yanma,2
+Johto,Aipom family,424,,Ambipom,,,,,,,190,Aipom,2
+Kanto,Poliwag family,60,,Poliwag,,,,25,61,Poliwhirl,,,1
+Unova,Munna family,517,,Munna,,Moon Stone,,,518,Musharna,,,1
+Hoenn,Treecko family,253,,Grovyle,,,,36,254,Sceptile,252,Treecko,2
+Kalos,Tyrunt family,696,,Tyrunt,,,day,39,697,Tyrantrum,,,1
+Kanto,Eeveelution family,133,,Eevee,,Level up near Moss Rock,,,470,Leafeon,,,1
+Unova,Pansage family,511,,Pansage,,Leaf Stone,,,512,Simisage,,,1
+Hoenn,Torchic family,256,,Combusken,,,,36,257,Blaziken,255,Torchic,2
+Johto,Pineco family,204,,Pineco,,,,31,205,Forretress,,,1
+Sinnoh,Piplup family,393,,Piplup,,,,16,394,Prinplup,,,1
+Johto,Marill family,183,,Marill,,,,18,184,Azumarill,298,Azurill,2
+Sinnoh,Starly family,397,,Staravia,,,,34,398,Staraptor,396,Starly,2
+Hoenn,Clamperl family,368,,Gorebyss,,,,,,,366,Clamperl,2
+Kalos,Tyrunt family,697,,Tyrantrum,,,,,,,696,Tyrunt,2
+Hoenn,Wurmple family,269,,Dustox,,,,,,,268,Cascoon,3
+Johto,Aipom family,190,,Aipom,,Level up knowing Double Hit,,,424,Ambipom,,,1
+Johto,Sneasel family,461,,Weavile,,,,,,,215,Sneasel,2
+Kanto,Eeveelution family,133,,Eevee,,Fire Stone,,,136,Flareon,,,1
+Sinnoh,Croagunk family,453,,Croagunk,,,,37,454,Toxicroak,,,1
+Kalos,Chespin family,650,,Chespin,,,,16,651,Quilladin,,,1
+Unova,Archen family,567,,Archeops,,,,,,,566,Archen,2
+Sinnoh,Buneary family,428,,Lopunny,,,,,,,427,Buneary,2
+Sinnoh,Shellos family,422,,Shellos,West Sea,,,30,423,Gastrodon,,,1
+Unova,Klink family,601,,Klinklang,,,,,,,600,Klang,3
+Hoenn,Snorunt family,478,,Froslass,,,,,,,361,Snorunt,2
+Kanto,Chansey family,440,,Happiny,,Level up holding Oval Stone,day,,113,Chansey,,,1
+Johto,Hoppip family,187,,Hoppip,,,,18,188,Skiploom,,,1
+Kanto,Rattata family,19,,Rattata,,,,20,20,Raticate,,,1
+Hoenn,Whismur family,293,,Whismur,,,,20,294,Loudred,,,1
+Johto,Murkrow family,198,,Murkrow,,Dusk Stone,,,430,Honchkrow,,,1
+Kanto,Alolan Sandshrew family,27,A,Sandshrew,,Ice Stone,,,28,Sandslash,,,1
+Kanto,Nidoran family*,29,,Nidoran♀,,,,16,30,Nidorina,,,1
+Hoenn,Mudkip family,258,,Mudkip,,,,16,259,Marshtomp,,,1
+Kanto,Alolan Geodude family,75,A,Graveler,,Trade,,,76,Golem,74,Geodude,2
+Alola,Pikipek family,733,,Toucannon,,,,,,,732,Trumbeak,3
+Kanto,Electabuzz family,239,,Elekid,,,,30,125,Electabuzz,,,1
+Unova,Karrablast family,588,,Karrablast,,Trade for Shelmet,,,589,Escavalier,,,1
+Unova,Tirtouga family,564,,Tirtouga,,,,37,565,Carracosta,,,1
+Kanto,Zubat family,169,,Crobat,,,,,,,42,Golbat,3
+Kanto,Eeveelution family,133,,Eevee,,Water Stone,,,134,Vaporeon,,,1
+Kalos,Binacle family,689,,Barbaracle,,,,,,,688,Binacle,2
+Johto,Teddiursa family,216,,Teddiursa,,,,30,217,Ursaring,,,1
+Kanto,Gastly family,92,,Gastly,,,,25,93,Haunter,,,1
+Kanto,Tangela family,114,,Tangela,,Level up knowing Ancient Power,,,465,Tangrowth,,,1
+Sinnoh,Bidoof family,400,,Bibarel,,,,,,,399,Bidoof,2
+Hoenn,Numel family,322,,Numel,,,,33,323,Camerupt,,,1
+Unova,Woobat family,528,,Swoobat,,,,,,,527,Woobat,2
+Kalos,Helioptile family,695,,Heliolisk,,,,,,,694,Helioptile,2
+Kanto,Voltorb family,101,,Electrode,,,,,,,100,Voltorb,2
+Hoenn,Numel family,323,,Camerupt,,,,,,,322,Numel,2
+Kanto,Nidoran family*,33,,Nidorino,,Moon Stone,,,34,Nidoking,32,Nidoran♂,2
+Alola,Bounsweet family,761,,Bounsweet,,,,18,762,Steenee,,,1
+Kanto,Ekans family,23,,Ekans,,,,22,24,Arbok,,,1
+Kanto,Lickitung family,463,,Lickilicky,,,,,,,108,Lickitung,2
+Unova,Larvesta family,637,,Volcarona,,,,,,,636,Larvesta,2
+Sinnoh,Glameow family,432,,Purugly,,,,,,,431,Glameow,2
+Kanto,Seel family,86,,Seel,,,,34,87,Dewgong,,,1
+Johto,Hoppip family,188,,Skiploom,,,,27,189,Jumpluff,187,Hoppip,2
+Kanto,Squirtle family,7,,Squirtle,,,,16,8,Wartortle,,,1
+Unova,Deino family,635,,Hydreigon,,,,,,,634,Zweilous,3
+Johto,Hoothoot family,163,,Hoothoot,,,,20,164,Noctowl,,,1
+Sinnoh,Snover family,460,,Abomasnow,,,,,,,459,Snover,2
+Sinnoh,Drifloon family,425,,Drifloon,,,,28,426,Drifblim,,,1
+Johto,Sentret family,161,,Sentret,,,,15,162,Furret,,,1
+Unova,Sandile family,552,,Krokorok,,,,40,553,Krookodile,551,Sandile,2
+Unova,Roggenrola family,524,,Roggenrola,,,,25,525,Boldore,,,1
+Alola,Rowlet family,723,,Dartrix,,,,34,724,Decidueye,722,Rowlet,2
+Kanto,Pidgey family,17,,Pidgeotto,,,,36,18,Pidgeot,16,Pidgey,2
+Kalos,Skrelp family,691,,Dragalge,,,,,,,690,Skrelp,2
+Johto,Remoraid family,224,,Octillery,,,,,,,223,Remoraid,2
+Kanto,Clefairy family,35,,Clefairy,,Moon Stone,,,36,Clefable,173,Cleffa,2
+Kanto,Paras family,46,,Paras,,,,24,47,Parasect,,,1
+Sinnoh,Kricketot family,402,,Kricketune,,,,,,,401,Kricketot,2
+Alola,Cosmog family,790,,Cosmoem,,,Pokémon Moon and Ultra Moon,53,792,Lunala,789,Cosmog,2
+Hoenn,Slakoth family,287,,Slakoth,,,,18,288,Vigoroth,,,1
+Johto,Chinchou family,171,,Lanturn,,,,,,,170,Chinchou,2
+Kalos,Scatterbug family,665,,Spewpa,,,,12,666,Vivillon,664,Scatterbug,2
+Kanto,Eeveelution family,700,,Sylveon,,,,,,,133,Eevee,2
+Kanto,Kabuto family,140,,Kabuto,,,,40,141,Kabutops,,,1
+Kanto,Doduo family,85,,Dodrio,,,,,,,84,Doduo,2
+Kalos,Bunnelby family,660,,Diggersby,,,,,,,659,Bunnelby,2
+Unova,Tympole family,535,,Tympole,,,,25,536,Palpitoad,,,1
+Unova,Scraggy family,560,,Scrafty,,,,,,,559,Scraggy,2
+Unova,Lillipup family,508,,Stoutland,,,,,,,507,Herdier,3
+Hoenn,Beldum family,376,,Metagross,,,,,,,375,Metang,3
+Sinnoh,Gible family,443,,Gible,,,,24,444,Gabite,,,1
+Hoenn,Poochyena family,261,,Poochyena,,,,18,262,Mightyena,,,1
+Alola,Yungoos family,735,,Gumshoos,,,,,,,734,Yungoos,2
+Johto,Cyndaquil family,156,,Quilava,,,,36,157,Typhlosion,155,Cyndaquil,2
+Sinnoh,Buizel family,419,,Floatzel,,,,,,,418,Buizel,2
+Alola,Mudbray family,750,,Mudsdale,,,,,,,749,Mudbray,2
+Johto,Hoppip family,189,,Jumpluff,,,,,,,188,Skiploom,3
+Kanto,Omanyte family,139,,Omastar,,,,,,,138,Omanyte,2
+Hoenn,Carvanha family,319,,Sharpedo,,,,,,,318,Carvanha,2
+Kanto,Eeveelution family,136,,Flareon,,,,,,,133,Eevee,2
+Hoenn,Chimecho family,358,,Chimecho,,,,,,,433,Chingling,2
+Kanto,Squirtle family,9,,Blastoise,,,,,,,8,Wartortle,3
+Kanto,Eeveelution family,133,,Eevee,,Level up near Ice Rock,,,471,Glaceon,,,1
+Sinnoh,Hippopotas family,450,,Hippowdon,,,,,,,449,Hippopotas,2
+Kanto,Mr. Mime family,122,,Mr. Mime,,,,,,,439,Mime Jr.,2
+Johto,Sentret family,162,,Furret,,,,,,,161,Sentret,2
+Hoenn,Wingull family,279,,Pelipper,,,,,,,278,Wingull,2
+Alola,Special Rockruff family,745,D,Lycanroc,,,,,,,744,Rockruff,2
+Unova,Rufflet family,627,,Rufflet,,,,54,628,Braviary,,,1
+Kalos,Froakie family,658,,Greninja,,,,,,,657,Frogadier,3
+Unova,Deerling family,586,,Sawsbuck,Spring Form,,,,,,585,Deerling,2
+Hoenn,Skitty family,301,,Delcatty,,,,,,,300,Skitty,2
+Hoenn,Wurmple family,266,,Silcoon,,,,10,267,Beautifly,265,Wurmple,2
+Hoenn,Ralts family,281,,Kirlia,,Dawn Stone,male,,475,Gallade,280,Ralts,2
+Hoenn,Wurmple family,265,,Wurmple,,,,7,268,Cascoon,,,1
+Unova,Patrat family,505,,Watchog,,,,,,,504,Patrat,2
+Sinnoh,Piplup family,395,,Empoleon,,,,,,,394,Prinplup,3
+Kanto,Nidoran family*,34,,Nidoking,,,,,,,33,Nidorino,3
+Johto,Houndour family,228,,Houndour,,,,24,229,Houndoom,,,1
+Johto,Misdreavus family,429,,Mismagius,,,,,,,200,Misdreavus,2
+Unova,Panpour family,516,,Simipour,,,,,,,515,Panpour,2
+Alola,Rockruff family,745,,Lycanroc,,,,,,,744,Rockruff,2
+Sinnoh,Gible family,444,,Gabite,,,,48,445,Garchomp,443,Gible,2
+Hoenn,Wingull family,278,,Wingull,,,,25,279,Pelipper,,,1
+Kalos,Clauncher family,692,,Clauncher,,,,37,693,Clawitzer,,,1
+Alola,Jangmo-o family,782,,Jangmo-o,,,,35,783,Hakamo-o,,,1
+Johto,Phanpy family,232,,Donphan,,,,,,,231,Phanpy,2
+Hoenn,Treecko family,254,,Sceptile,,,,,,,253,Grovyle,3
+Unova,Timburr family,533,,Gurdurr,,Trade,,,534,Conkeldurr,532,Timburr,2
+Hoenn,Lotad family,272,,Ludicolo,,,,,,,271,Lombre,3
+Hoenn,Lotad family,270,,Lotad,,,,14,271,Lombre,,,1
+Sinnoh,Bronzor family,436,,Bronzor,,,,33,437,Bronzong,,,1
+Kanto,Alolan Sandshrew family,28,A,Sandslash,,,,,,,27,Sandshrew,2
+Kalos,Honedge family,679,,Honedge,,,,35,680,Doublade,,,1
+Unova,Vullaby family,630,,Mandibuzz,,,,,,,629,Vullaby,2
+Kanto,Onix family,95,,Onix,,Trade holding Metal Coat,,,208,Steelix,,,1
+Hoenn,Baltoy family,343,,Baltoy,,,,36,344,Claydol,,,1
+Kanto,Drowzee family,97,,Hypno,,,,,,,96,Drowzee,2
+Unova,Panpour family,515,,Panpour,,Water Stone,,,516,Simipour,,,1
+Unova,Vanillite family,582,,Vanillite,,,,35,583,Vanillish,,,1
+Kanto,Meowth family,53,,Persian,,,,,,,52,Meowth,2
+Kanto,Snorlax family,143,,Snorlax,,,,,,,446,Munchlax,2
+Johto,Mareep family,181,,Ampharos,,,,,,,180,Flaaffy,3
+Unova,Archen family,566,,Archen,,,,37,567,Archeops,,,1
+Kanto,Krabby family,99,,Kingler,,,,,,,98,Krabby,2
+Unova,Litwick family,609,,Chandelure,,,,,,,608,Lampent,3
+Unova,Klink family,599,,Klink,,,,38,600,Klang,,,1
+Johto,Snubbull family,210,,Granbull,,,,,,,209,Snubbull,2
+Unova,Tympole family,537,,Seismitoad,,,,,,,536,Palpitoad,3
+Kanto,Weedle family,14,,Kakuna,,,,10,15,Beedrill,13,Weedle,2
+Johto,Swinub family,220,,Swinub,,,,33,221,Piloswine,,,1
+Kanto,Chansey family,242,,Blissey,,,,,,,113,Chansey,3
+Kalos,Skrelp family,690,,Skrelp,,,,48,691,Dragalge,,,1
+Kanto,Meltan family,809,,Melmetal,,,,,,,808,Meltan,2
+Kanto,Slowpoke family,80,,Slowbro,,,,,,,79,Slowpoke,2
+Kanto,Staryu family,121,,Starmie,,,,,,,120,Staryu,2
+Alola,Cosmog family,791,,Solgaleo,,,,,,,790,Cosmoem,3
+Kanto,Eeveelution family,133,,Eevee,,Thunder Stone,,,135,Jolteon,,,1
+Johto,Spinarak family,168,,Ariados,,,,,,,167,Spinarak,2
+Unova,Snivy family,495,,Snivy,,,,17,496,Servine,,,1
+Kanto,Hitmon family,236,,Tyrogue,,,Attack = Defense,20,237,Hitmontop,,,1
+Unova,Golett family,622,,Golett,,,,43,623,Golurk,,,1
+Kalos,Bergmite family,713,,Avalugg,,,,,,,712,Bergmite,2
+Kanto,Scyther family,212,,Scizor,,,,,,,123,Scyther,2
+Kanto,Poliwag family,61,,Poliwhirl,,Trade holding King's Rock,,,186,Politoed,60,Poliwag,2
+Kanto,Bulbasaur family,2,,Ivysaur,,,,32,3,Venusaur,1,Bulbasaur,2
+Unova,Cubchoo family,614,,Beartic,,,,,,,613,Cubchoo,2
+Kalos,Flabébé family,671,,Florges,,,,,,,670,Floette,3
+Unova,Petilil family,549,,Lilligant,,,,,,,548,Petilil,2
+Hoenn,Zigzagoon family,263,,Zigzagoon,,,,20,264,Linoone,,,1
+Unova,Deerling family,585,S,Deerling,Summer Form,,,34,586,Sawsbuck,,,1
+Unova,Tynamo family,604,,Eelektross,,,,,,,603,Eelektrik,3
+Alola,Bounsweet family,762,,Steenee,,Level up knowing Stomp,,,763,Tsareena,761,Bounsweet,2
+Kanto,Magikarp family,130,,Gyarados,,,,,,,129,Magikarp,2
+Kanto,Bulbasaur family,3,,Venusaur,,,,,,,2,Ivysaur,3
+Kanto,Oddish family,43,,Oddish,,,,21,44,Gloom,,,1
+Unova,Larvesta family,636,,Larvesta,,,,59,637,Volcarona,,,1
+Alola,Salandit family,758,,Salazzle,,,,,,,757,Salandit,2
+Kanto,Caterpie family,12,,Butterfree,,,,,,,11,Metapod,3
+Kanto,Pidgey family,16,,Pidgey,,,,18,17,Pidgeotto,,,1
+Kalos,Bergmite family,712,,Bergmite,,,,37,713,Avalugg,,,1
+Unova,Golett family,623,,Golurk,,,,,,,622,Golett,2
+Unova,Minccino family,573,,Cinccino,,,,,,,572,Minccino,2
+Hoenn,Snorunt family,362,,Glalie,,,,,,,361,Snorunt,2
+Hoenn,Clamperl family,367,,Huntail,,,,,,,366,Clamperl,2
+Hoenn,Ralts family,281,,Kirlia,,,,30,282,Gardevoir,280,Ralts,2
+Unova,Gothita family,574,,Gothita,,,,32,575,Gothorita,,,1
+Hoenn,Lileep family,345,,Lileep,,,,40,346,Cradily,,,1
+Kanto,Weedle family,15,,Beedrill,,,,,,,14,Kakuna,3
+Kanto,Alolan Grimer family,88,A,Grimer,,,,38,89,Muk,,,1
+Unova,Snivy family,496,,Servine,,,,36,497,Serperior,495,Snivy,2
+Hoenn,Ralts family,282,,Gardevoir,,,,,,,281,Kirlia,3
+Hoenn,Meditite family,307,,Meditite,,,,37,308,Medicham,,,1
+Sinnoh,Croagunk family,454,,Toxicroak,,,,,,,453,Croagunk,2
+Sinnoh,Skorupi family,451,,Skorupi,,,,40,452,Drapion,,,1
+Kalos,Clauncher family,693,,Clawitzer,,,,,,,692,Clauncher,2
+Alola,Type: Null family,772,,Type: Null,,Friendship,,,773,Silvally,,,1
+Kanto,Jigglypuff family,39,,Jigglypuff,,Moon Stone,,,40,Wigglytuff,174,Igglybuff,2
+Kalos,Litleo family,668,,Pyroar,,,,,,,667,Litleo,2
+Kanto,Pikachu family,25,A,Pikachu,,Thunder Stone,,,26,Raichu,172,Pichu,2
+Alola,Pikipek family,732,,Trumbeak,,,,28,733,Toucannon,731,Pikipek,2
+Hoenn,Carvanha family,318,,Carvanha,,,,30,319,Sharpedo,,,1
