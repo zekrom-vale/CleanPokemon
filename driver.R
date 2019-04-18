@@ -17,9 +17,9 @@ library(zUtil);
 # Core DB
 source("core/clean.R");
 source("core/manageAlts.R", encoding="UTF-8");
-source("core/merge.R"); #NS
-source("core/merge2.R"); #NS
-source("core/condense.R"); #NS (Incorect)
+source("core/merge.R");
+source("core/merge2.R");
+source("core/condense.R");
 source("core/separate.R");
 
 # Lang DB

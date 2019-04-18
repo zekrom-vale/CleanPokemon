@@ -291,7 +291,7 @@ agg%>%
 			)
 	);
 
-agg%>%
+agg%<>%
 	filter(
 		Name!="Greninja"&Name!="Necrozma"
 	)%>%
@@ -319,8 +319,6 @@ agg%>%
 					)
 			)
 	)%>%distinct(Dex, Class, .keep_all=TRUE);# No duplicates!
-# Save
-agg=.Last.value;
 
 test=agg%>%distinct(Dex, Class);
 ###############################################################################
@@ -508,7 +506,7 @@ agg%>%
 # Unoin them now
 
 
-agg%>%
+agg%<>%
 	setdiff(
 		agg.t%>%
 			select(
@@ -539,9 +537,6 @@ agg%>%
 	union(
 		agg.t
 	);
-
-# Save
-agg=.Last.value;
 
 rm(agg.t);
 ###############################################################################
@@ -607,7 +602,7 @@ agg%>%
 #																 Add gen
 ###############################################################################
 
-agg%>%
+agg%<>%
 	mutate(
 		Gen=case_when(
 			Dex<=151~1,
@@ -619,10 +614,5 @@ agg%>%
 			TRUE~7
 		)
 	);
-
-# Save
-
-agg=.Last.value;
-
 
 rm(body, weight, eggGroup, gender, dex, exp);

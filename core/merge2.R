@@ -311,14 +311,12 @@ agg.miss%<>%
 
 # Union them
 
-agg.j%>%
+agg=agg.j%>%
 	union(
 		agg.miss%>%
 			select(-c(Class1,Class2,Dex_Suffix.d))
 	);
 
-# Save
-agg=.Last.value;
 
 # Fix Minior
 
@@ -483,7 +481,7 @@ evolution%<>%
 	distinct();
 
 # Join
-agg%>%
+agg%<>%
 	left_join(
 		evolution%>%
 			select(-Dex_Suffix)%>%
@@ -492,8 +490,6 @@ agg%>%
 	);
 
 # Now the same size
-
-agg=.Last.value;
 
 rm(evolution.dup);
 ###############################################################################
@@ -557,7 +553,7 @@ agg.j=agg%>%
 		suffix=c("",".d")
 	);
 
-agg.j%>%
+agg.j%<>%
 	filter(
 		Dex==670&(
 			Class==Class.d|
@@ -573,9 +569,8 @@ agg.j%>%
 	)%>%
 	select(-c(Class.d));
 
-# No duplicates so
-# Save
-agg=.Last.value;
+# No duplicates so Save
+agg=agg.j;
 
 rm(agg.j, call.f, call.dup, dex.j);
 
@@ -625,7 +620,7 @@ agg%>%
 	select(Name, Dex, Dex_Suffix, Dex_Suffix.d, Class, `Ability 1`, `Ability 2`, Hidden);
 
 # Union them
-agg%>%
+agg%<>%
 	inner_join(
 		ability,
 		by=dexsuff,
@@ -645,8 +640,6 @@ agg%>%
 			)%>%
 			select(-Dex_Suffix.d)
 	);
-# Save
-agg.j=.Last.value;
 
 agg.j%>%
 	not_distinct(Name, Dex, Dex_Suffix, Class);
@@ -691,7 +684,7 @@ agg.j%<>%
 				by=c("Dex","Dex_Suffix"),
 				suffix=c("",".d")
 			)%>%
-			select(-Name.d)
+			select(-c(Name.d, `Ability1Star.d`, `Ability 2.d`, `Star.d`, `Ability 1.d`, `Ability2Star.d`, `HiddenAbilityStar.d`, `Hidden.d`))
 	);
 
 agg.j%>%
@@ -819,7 +812,7 @@ agg.f%<>%
 			inner_join(
 				height%>%
 					select(-c(Name, Dex_Suffix)),
-				by=Dex
+				by="Dex"
 			)
 	);
 
