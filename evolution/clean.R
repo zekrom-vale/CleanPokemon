@@ -304,9 +304,11 @@ species.j%>%
 
 
 species.j.f=species.j%>%
-	group_by(Name, Dex)%>%
-	filter(
-		(
+	group_by(Name, Dex, Next_Dex, Next_Name)%>%
+	filter(# Do Burmy manualy
+		str_detect(Sub_Condition, Class)&Next_Name=="Wormadam"|
+		Next_Name=="Mothim"|
+		Name!="Burmy"&(
 			all(is.na(Dex_Suffix.d))|
 			all(is.na(Dex_Suffix))|
 			(
@@ -361,14 +363,12 @@ species.j.f%<>%
 	);
 
 species.j.f%>%
-	not_distinct(Name, Dex, Dex_Suffix, Class, Next_Dex, Next_Name, Previous_Dex, Previous_Name)%>%
-	arrange(Name)%>%
-	View();
-# Anomoly with Burmy
+	not_distinct(Name, Dex, Dex_Suffix, Class, Next_Dex, Next_Name)%>%
+	arrange(Name);
+# Nothing now
 
-# Export and save
+# Save and Export
 species=species.j.f;
 rm(species.j, species.j.f);
-
 
 write_csv(species, "datasets/species.csv",na="");
