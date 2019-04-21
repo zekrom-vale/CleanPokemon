@@ -275,7 +275,7 @@ write_csv(family, "datasets/family.csv",na="");
 #																Join with species
 ##################################################################################
 
-species.j=species%>%
+evolutions=species%>%
 	left_join(
 		family%>%
 			left_join(
@@ -295,7 +295,7 @@ species.j=species%>%
 	);
 
 # See what did not match
-species.j%>%
+evolutions%>%
 	filter(
 		Class!=Class.d|
 		Dex_Suffix!=Dex_Suffix.d
@@ -303,7 +303,7 @@ species.j%>%
 # Need to fix them
 
 
-species.j.f=species.j%>%
+evolutions.f=evolutions%>%
 	group_by(Name, Dex, Next_Dex, Next_Name)%>%
 	filter(# Do Burmy manualy
 		str_detect(Sub_Condition, Class)&Next_Name=="Wormadam"|
@@ -325,14 +325,14 @@ species.j.f=species.j%>%
 		)
 	);
 
-species.j.f%>%
+evolutions.f%>%
 	filter(
 	is.na(Class)&!is.na(Class.d)|
 	is.na(Class)&!is.na(Class.d)
 );
 # Only Unknowns
 
-species.j.f%>%
+evolutions.f%>%
 	filter(
 		is.na(Dex_Suffix)&!is.na(Dex_Suffix.d)|
 		is.na(Dex_Suffix.d)&!is.na(Dex_Suffix)
@@ -341,7 +341,7 @@ species.j.f%>%
 # Don't think it is an issue
 
 # Unite class and account for compound classes
-species.j.f%<>%
+evolutions.f%<>%
 	mutate(
 		Class=if_else(is.na(Class),"",Class),
 		Class.d=if_else(is.na(Class.d),"",Class.d)
@@ -356,19 +356,24 @@ species.j.f%<>%
 	);
 
 # Unite Dex_Suffix
-species.j.f%<>%
+evolutions.f%<>%
 	mutate(
 		Dex_Suffix=if_else(is.na(Dex_Suffix),Dex_Suffix.d, Dex_Suffix),
 		Dex_Suffix.d=NULL
 	);
 
-species.j.f%>%
+evolutions.f%>%
 	not_distinct(Name, Dex, Dex_Suffix, Class, Next_Dex, Next_Name)%>%
 	arrange(Name);
 # Nothing now
 
-# Save and Export
-species=species.j.f;
-rm(species.j, species.j.f);
+# Remove columns defined in species
 
-write_csv(species, "datasets/species.csv",na="");
+evolutions=evolutions.f%>%
+	select(1:4,25:34);
+
+# Export
+rm(evolutions.f);
+
+write_csv(species, "datasets/evolutions.csv",na="");
+

@@ -1,722 +1,942 @@
-Region,Family,Dex,Dex_Suffix,Name,Class,Condition,Sub_Condition,Level,Next_Dex,Next_Name,Previous_Dex,Previous_Name,Stage
-Hoenn,Bagon family,373,,Salamence,,,,,,,372,Shelgon,3
-Kanto,Pidgey family,18,,Pidgeot,,,,,,,17,Pidgeotto,3
-Kalos,Fennekin family,655,,Delphox,,,,,,,654,Braixen,3
-Alola,Litten family,725,,Litten,,,,17,726,Torracat,,,1
-Kanto,Slowpoke family,199,,Slowking,,,,,,,79,Slowpoke,2
-Kalos,Spritzee family,683,,Aromatisse,,,,,,,682,Spritzee,2
-Sinnoh,Shieldon family,411,,Bastiodon,,,,,,,410,Shieldon,2
-Unova,Gothita family,575,,Gothorita,,,,41,576,Gothitelle,574,Gothita,2
-Kanto,Mankey family,56,,Mankey,,,,28,57,Primeape,,,1
-Unova,Axew family,611,,Fraxure,,,,48,612,Haxorus,610,Axew,2
-Sinnoh,Cherubi family,420,,Cherubi,,,,25,421,Cherrim,,,1
-Hoenn,Snorunt family,361,,Snorunt,,Dawn Stone,female,,478,Froslass,,,1
-Kanto,Ponyta family,78,,Rapidash,,,,,,,77,Ponyta,2
-Alola,Mudbray family,749,,Mudbray,,,,30,750,Mudsdale,,,1
-Hoenn,Ralts family,280,,Ralts,,,,20,281,Kirlia,,,1
-Kanto,Eeveelution family,471,,Glaceon,,,,,,,133,Eevee,2
-Kanto,Nidoran family*,30,,Nidorina,,Moon Stone,,,31,Nidoqueen,29,Nidoran♀,2
-Alola,Grubbin family,737,,Charjabug,,Level up in a special magnetic field,,,738,Vikavolt,736,Grubbin,2
-Sinnoh,Stunky family,434,,Stunky,,,,34,435,Skuntank,,,1
-Sinnoh,Turtwig family,387,,Turtwig,,,,18,388,Grotle,,,1
-Sinnoh,Shieldon family,410,,Shieldon,,,,30,411,Bastiodon,,,1
-Unova,Ducklett family,581,,Swanna,,,,,,,580,Ducklett,2
-Kanto,Cubone family,104,,Cubone,,,,28,105,Marowak,,,1
-Alola,Poipole family,803,,Poipole,,Level up knowing Dragon Pulse,,,804,Naganadel,,,1
-Kanto,Pikachu family,25,,Pikachu,,Thunder Stone,,,26,Raichu,172,Pichu,2
-Kanto,Oddish family,45,,Vileplume,,,,,,,44,Gloom,3
-Sinnoh,Cranidos family,408,,Cranidos,,,,30,409,Rampardos,,,1
-Kanto,Charmander family,6,,Charizard,,,,,,,5,Charmeleon,3
-Kalos,Scatterbug family,664,,Scatterbug,,,,9,665,Spewpa,,,1
-Kanto,Jynx family,124,,Jynx,,,,,,,238,Smoochum,2
-Unova,Deino family,634,,Zweilous,,,,64,635,Hydreigon,633,Deino,2
-Hoenn,Anorith family,348,,Armaldo,,,,,,,347,Anorith,2
-Unova,Foongus family,590,,Foongus,,,,39,591,Amoonguss,,,1
-Kalos,Flabébé family,669,,Flabébé,,,,19,670,Floette,,,1
-Kanto,Bulbasaur family,1,,Bulbasaur,,,,16,2,Ivysaur,,,1
-Kalos,Espurr family,677,,Espurr,,,,25,678,Meowstic,,,1
-Kanto,Pikachu family,26,,Raichu,,,,,,,25,Pikachu,3
-Alola,Stufful family,760,,Bewear,,,,,,,759,Stufful,2
-Hoenn,Electrike family,309,,Electrike,,,,26,310,Manectric,,,1
-Kanto,Alolan Diglett family,50,A,Diglett,,,,26,51,Dugtrio,,,1
-Sinnoh,Combee family,415,,Combee,,,female,21,416,Vespiquen,,,1
-Alola,Fomantis family,754,,Lurantis,,,,,,,753,Fomantis,2
-Hoenn,Bagon family,372,,Shelgon,,,,50,373,Salamence,371,Bagon,2
-Kanto,Exeggcute family,103,A,Exeggutor,,,,,,,102,Exeggcute,2
-Hoenn,Wurmple family,268,,Cascoon,,,,10,269,Dustox,265,Wurmple,2
-Sinnoh,Shellos family,423,,Gastrodon,West Sea,,,,,,422,Shellos,2
-Kanto,Shellder family,90,,Shellder,,Water Stone,,,91,Cloyster,,,1
-Kanto,Snorlax family,446,,Munchlax,,Friendship,,,143,Snorlax,,,1
-Unova,Lillipup family,507,,Herdier,,,,32,508,Stoutland,506,Lillipup,2
-Johto,Totodile family,159,,Croconaw,,,,30,160,Feraligatr,158,Totodile,2
-Unova,Blitzle family,522,,Blitzle,,,,27,523,Zebstrika,,,1
-Sinnoh,Buizel family,418,,Buizel,,,,26,419,Floatzel,,,1
-Kanto,Eeveelution family,470,,Leafeon,,,,,,,133,Eevee,2
-Kanto,Horsea family,116,,Horsea,,,,32,117,Seadra,,,1
-Johto,Natu family,178,,Xatu,,,,,,,177,Natu,2
-Kanto,Alolan Vulpix family,37,A,Vulpix,,Ice Stone,,,38,Ninetales,,,1
-Hoenn,Surskit family,283,,Surskit,,,,22,284,Masquerain,,,1
-Unova,Pawniard family,624,,Pawniard,,,,52,625,Bisharp,,,1
-Kalos,Honedge family,680,,Doublade,,Dusk Stone,,,681,Aegislash,679,Honedge,2
-Kanto,Cubone family,105,A,Marowak,,,,,,,104,Cubone,2
-Unova,Cubchoo family,613,,Cubchoo,,,,37,614,Beartic,,,1
-Kanto,Poliwag family,61,,Poliwhirl,,Water Stone,,,62,Poliwrath,60,Poliwag,2
-Unova,Vanillite family,584,,Vanilluxe,,,,,,,583,Vanillish,3
-Kanto,Jynx family,238,,Smoochum,,,,30,124,Jynx,,,1
-Sinnoh,Shinx family,404,,Luxio,,,,30,405,Luxray,403,Shinx,2
-Johto,Wobbuffet family,360,,Wynaut,,,,15,202,Wobbuffet,,,1
-Kanto,Magikarp family,129,,Magikarp,,,,20,130,Gyarados,,,1
-Kanto,Omanyte family,138,,Omanyte,,,,40,139,Omastar,,,1
-Kanto,Magnemite family,82,,Magneton,,Level up in a special magnetic field,,,462,Magnezone,81,Magnemite,2
-Kanto,Onix family,208,,Steelix,,,,,,,95,Onix,2
-Hoenn,Spheal family,365,,Walrein,,,,,,,364,Sealeo,3
-Kanto,Electabuzz family,466,,Electivire,,,,,,,125,Electabuzz,3
-Hoenn,Feebas family,350,,Milotic,,,,,,,349,Feebas,2
-Kanto,Eeveelution family,133,,Eevee,,,day,,197,Umbreon,,,1
-Alola,Special Rockruff family,744,D,Rockruff,,,between 5:00 and 5:59 PM,25,745,Lycanroc,,,1
-Unova,Shelmet family,617,,Accelgor,,,,,,,616,Shelmet,2
-Unova,Vanillite family,583,,Vanillish,,,,47,584,Vanilluxe,582,Vanillite,2
-Alola,Stufful family,759,,Stufful,,,,27,760,Bewear,,,1
-Unova,Tynamo family,602,,Tynamo,,,,39,603,Eelektrik,,,1
-Kanto,Electabuzz family,125,,Electabuzz,,Trade holding Electirizer,,,466,Electivire,239,Elekid,2
-Hoenn,Cacnea family,332,,Cacturne,,,,,,,331,Cacnea,2
-Johto,Sunkern family,192,,Sunflora,,,,,,,191,Sunkern,2
-Sinnoh,Chimchar family,390,,Chimchar,,,,14,391,Monferno,,,1
-Johto,Misdreavus family,200,,Misdreavus,,Dusk Stone,,,429,Mismagius,,,1
-Alola,Jangmo-o family,783,,Hakamo-o,,,,45,784,Kommo-o,782,Jangmo-o,2
-Kalos,Fletchling family,661,,Fletchling,,,,17,662,Fletchinder,,,1
-Kanto,Pikachu family,172,,Pichu,,Friendship,,,25,Pikachu,,,1
-Unova,Petilil family,548,,Petilil,,Sun Stone,,,549,Lilligant,,,1
-Hoenn,Clamperl family,366,,Clamperl,,Trade holding Deep Sea Scale,,,368,Gorebyss,,,1
-Johto,Slugma family,218,,Slugma,,,,38,219,Magcargo,,,1
-Johto,Mantine family,226,,Mantine,,,,,,,458,Mantyke,2
-Hoenn,Baltoy family,344,,Claydol,,,,,,,343,Baltoy,2
-Unova,Zorua family,570,,Zorua,,,,30,571,Zoroark,,,1
-Unova,Sewaddle family,541,,Swadloon,,Friendship,,,542,Leavanny,540,Sewaddle,2
-Hoenn,Barboach family,340,,Whiscash,,,,,,,339,Barboach,2
-Alola,Sandygast family,769,,Sandygast,,,,42,770,Palossand,,,1
-Hoenn,Trapinch family,328,,Trapinch,,,,35,329,Vibrava,,,1
-Sinnoh,Hippopotas family,449,,Hippopotas,,,,34,450,Hippowdon,,,1
-Kanto,Cubone family,105,,Marowak,,,,,,,104,Cubone,2
-Alola,Cosmog family,789,,Cosmog,,,,43,790,Cosmoem,,,1
-Hoenn,Torchic family,255,,Torchic,,,,16,256,Combusken,,,1
-Johto,Totodile family,158,,Totodile,,,,18,159,Croconaw,,,1
-Hoenn,Ralts family,475,,Gallade,,,,,,,281,Kirlia,3
-Johto,Sudowoodo family,438,,Bonsly,,Level up knowing Mimic,,,185,Sudowoodo,,,1
-Kanto,Koffing family,109,,Koffing,,,,35,110,Weezing,,,1
-Unova,Trubbish family,568,,Trubbish,,,,36,569,Garbodor,,,1
-Kanto,Meowth family,52,,Meowth,,,,28,53,Persian,,,1
-Johto,Wooper family,195,,Quagsire,,,,,,,194,Wooper,2
-Hoenn,Nincada family,291,,Ninjask,,,,,,,290,Nincada,2
-Kanto,Lickitung family,108,,Lickitung,,Level up knowing Rollout,,,463,Lickilicky,,,1
-Hoenn,Duskull family,477,,Dusknoir,,,,,,,356,Dusclops,3
-Kanto,Horsea family,230,,Kingdra,,,,,,,117,Seadra,3
-Kanto,Psyduck family,54,,Psyduck,,,,33,55,Golduck,,,1
-Hoenn,Wurmple family,265,,Wurmple,,,,7,266,Silcoon,,,1
-Johto,Togepi family,468,,Togekiss,,,,,,,176,Togetic,3
-Kanto,Geodude family,74,,Geodude,,,,25,75,Graveler,,,1
-Unova,Rufflet family,628,,Braviary,,,,,,,627,Rufflet,2
-Kanto,Gastly family,93,,Haunter,,Trade,,,94,Gengar,92,Gastly,2
-Kalos,Froakie family,656,,Froakie,,,,16,657,Frogadier,,,1
-Kalos,Skiddo family,672,,Skiddo,,,,32,673,Gogoat,,,1
-Unova,Deerling family,585,A,Deerling,Autumn Form,,,34,586,Sawsbuck,,,1
-Kanto,Alolan Vulpix family,38,A,Ninetales,,,,,,,37,Vulpix,2
-Hoenn,Chimecho family,433,,Chingling,,Friendship,night,,358,Chimecho,,,1
-Hoenn,Duskull family,355,,Duskull,,,,37,356,Dusclops,,,1
-Unova,Minccino family,572,,Minccino,,Shiny Stone,,,573,Cinccino,,,1
-Sinnoh,Turtwig family,389,,Torterra,,,,,,,388,Grotle,3
-Kanto,Doduo family,84,,Doduo,,,,31,85,Dodrio,,,1
-Unova,Trubbish family,569,,Garbodor,,,,,,,568,Trubbish,2
-Sinnoh,Chimchar family,391,,Monferno,,,,36,392,Infernape,390,Chimchar,2
-Johto,Pineco family,205,,Forretress,,,,,,,204,Pineco,2
-Kanto,Goldeen family,118,,Goldeen,,,,33,119,Seaking,,,1
-Kalos,Goomy family,706,,Goodra,,,,,,,705,Sliggoo,3
-Hoenn,Bagon family,371,,Bagon,,,,30,372,Shelgon,,,1
-Kanto,Rhyhorn family,464,,Rhyperior,,,,,,,112,Rhydon,3
-Kanto,Sandshrew family,27,,Sandshrew,,,,22,28,Sandslash,,,1
-Kanto,Nidoran family*,31,,Nidoqueen,,,,,,,30,Nidorina,3
-Kanto,Magnemite family,462,,Magnezone,,,,,,,82,Magneton,3
-Unova,Solosis family,577,,Solosis,,,,32,578,Duosion,,,1
-Hoenn,Electrike family,310,,Manectric,,,,,,,309,Electrike,2
-Hoenn,Duskull family,356,,Dusclops,,Trade holding Reaper Cloth,,,477,Dusknoir,355,Duskull,2
-Sinnoh,Turtwig family,388,,Grotle,,,,32,389,Torterra,387,Turtwig,2
-Kalos,Inkay family,687,,Malamar,,,,,,,686,Inkay,2
-Kalos,Pancham family,674,,Pancham,, with Dark-type in party,,32,675,Pangoro,,,1
-Alola,Salandit family,757,,Salandit,,,female,33,758,Salazzle,,,1
-Sinnoh,Bidoof family,399,,Bidoof,,,,15,400,Bibarel,,,1
-Kanto,Hitmon family,107,,Hitmonchan,,,,,,,236,Tyrogue,2
-Kanto,Horsea family,117,,Seadra,,Trade holding Dragon Scale,,,230,Kingdra,116,Horsea,2
-Hoenn,Mudkip family,259,,Marshtomp,,,,36,260,Swampert,258,Mudkip,2
-Hoenn,Whismur family,294,,Loudred,,,,40,295,Exploud,293,Whismur,2
-Unova,Elgyem family,606,,Beheeyem,,,,,,,605,Elgyem,2
-Johto,Gligar family,472,,Gliscor,,,,,,,207,Gligar,2
-Kalos,Fletchling family,663,,Talonflame,,,,,,,662,Fletchinder,3
-Unova,Sewaddle family,540,,Sewaddle,,,,20,541,Swadloon,,,1
-Alola,Pikipek family,731,,Pikipek,,,,14,732,Trumbeak,,,1
-Alola,Rockruff family,745,Mn,Lycanroc,,,,,,,744,Rockruff,2
-Johto,Natu family,177,,Natu,,,,25,178,Xatu,,,1
-Kanto,Growlithe family,58,,Growlithe,,Fire Stone,,,59,Arcanine,,,1
-Sinnoh,Buneary family,427,,Buneary,,Friendship,,,428,Lopunny,,,1
-Hoenn,Surskit family,284,,Masquerain,,,,,,,283,Surskit,2
-Kanto,Pikachu family,172,A,Pichu,,Friendship,,,25,Pikachu,,,1
-Kanto,Eeveelution family,133,,Eevee,,,night,,196,Espeon,,,1
-Unova,Pansear family,513,,Pansear,,Fire Stone,,,514,Simisear,,,1
-Kanto,Hitmon family,236,,Tyrogue,,,Attack < Defense,20,107,Hitmonchan,,,1
-Kanto,Eeveelution family,133,,Eevee,,"Level up with two hearts of Affection
-and know a Fairy-type move",,,700,Sylveon,,,1
-Unova,Tepig family,498,,Tepig,,,,17,499,Pignite,,,1
-Kanto,Weedle family,13,,Weedle,,,,7,14,Kakuna,,,1
-Kanto,Alolan Meowth family,52,A,Meowth,,Friendship,,,53,Persian,,,1
-Kanto,Psyduck family,55,,Golduck,,,,,,,54,Psyduck,2
-Kalos,Froakie family,657,,Frogadier,,,,36,658,Greninja,656,Froakie,2
-Sinnoh,Shellos family,422,E,Shellos,East Sea,,,30,423,Gastrodon,,,1
-Hoenn,Aron family,305,,Lairon,,,,42,306,Aggron,304,Aron,2
-Kalos,Phantump family,709,,Trevenant,,,,,,,708,Phantump,2
-Kalos,Noibat family,715,,Noivern,,,,,,,714,Noibat,2
-Alola,Rockruff family,744,Mn,Rockruff,,,Pokémon Moon and Ultra Moon; night,25,745,Lycanroc,,,1
-Hoenn,Nincada family,290,,Nincada,,,,20,291,Ninjask,,,1
-Sinnoh,Starly family,396,,Starly,,,,14,397,Staravia,,,1
-Hoenn,Roselia family,407,,Roserade,,,,,,,315,Roselia,3
-Unova,Sewaddle family,542,,Leavanny,,,,,,,541,Swadloon,3
-Sinnoh,Burmy family,412,S,Burmy,,,"female, Sandy Cloak",20,413,Wormadam,,,1
-Kalos,Swirlix family,685,,Slurpuff,,,,,,,684,Swirlix,2
-Sinnoh,Glameow family,431,,Glameow,,,,38,432,Purugly,,,1
-Kanto,Jigglypuff family,174,,Igglybuff,,Friendship,,,39,Jigglypuff,,,1
-Alola,Grubbin family,736,,Grubbin,,,,20,737,Charjabug,,,1
-Sinnoh,Stunky family,435,,Skuntank,,,,,,,434,Stunky,2
-Kanto,Machop family,68,,Machamp,,,,,,,67,Machoke,3
-Kanto,Slowpoke family,79,,Slowpoke,,Trade holding King's Rock,,,199,Slowking,,,1
-Unova,Pidove family,520,,Tranquill,,,,32,521,Unfezant,519,Pidove,2
-Unova,Drilbur family,529,,Drilbur,,,,31,530,Excadrill,,,1
-Alola,Bounsweet family,763,,Tsareena,,,,,,,762,Steenee,3
-Kalos,Phantump family,708,,Phantump,,Trade,,,709,Trevenant,,,1
-Johto,Chikorita family,152,,Chikorita,,,,16,153,Bayleef,,,1
-Unova,Lillipup family,506,,Lillipup,,,,16,507,Herdier,,,1
-Unova,Axew family,610,,Axew,,,,38,611,Fraxure,,,1
-Hoenn,Spheal family,364,,Sealeo,,,,44,365,Walrein,363,Spheal,2
-Kanto,Rhyhorn family,112,,Rhydon,,Trade holding Protector,,,464,Rhyperior,111,Rhyhorn,2
-Hoenn,Gulpin family,317,,Swalot,,,,,,,316,Gulpin,2
-Hoenn,Whismur family,295,,Exploud,,,,,,,294,Loudred,3
-Unova,Deerling family,586,A,Sawsbuck,Autumn Form,,,,,,585,Deerling,2
-Johto,Totodile family,160,,Feraligatr,,,,,,,159,Croconaw,3
-Johto,Murkrow family,430,,Honchkrow,,,,,,,198,Murkrow,2
-Kanto,Cubone family,104,A,Cubone,,,night,28,105,Marowak,,,1
-Hoenn,Barboach family,339,,Barboach,,,,30,340,Whiscash,,,1
-Kanto,Dratini family,148,,Dragonair,,,,55,149,Dragonite,147,Dratini,2
-Kanto,Growlithe family,59,,Arcanine,,,,,,,58,Growlithe,2
-Sinnoh,Finneon family,457,,Lumineon,,,,,,,456,Finneon,2
-Hoenn,Shuppet family,354,,Banette,,,,,,,353,Shuppet,2
-Hoenn,Nosepass family,476,,Probopass,,,,,,,299,Nosepass,2
-Unova,Karrablast family,589,,Escavalier,,,,,,,588,Karrablast,2
-Unova,Munna family,518,,Musharna,,,,,,,517,Munna,2
-Kanto,Kabuto family,141,,Kabutops,,,,,,,140,Kabuto,2
-Kalos,Pancham family,675,,Pangoro,,,,,,,674,Pancham,2
-Hoenn,Taillow family,276,,Taillow,,,,22,277,Swellow,,,1
-Sinnoh,Snover family,459,,Snover,,,,40,460,Abomasnow,,,1
-Kanto,Grimer family,89,,Muk,,,,,,,88,Grimer,2
-Hoenn,Slakoth family,289,,Slaking,,,,,,,288,Vigoroth,3
-Hoenn,Taillow family,277,,Swellow,,,,,,,276,Taillow,2
-Kanto,Staryu family,120,,Staryu,,Water Stone,,,121,Starmie,,,1
-Kanto,Pikachu family,26,A,Raichu,,,,,,,25,Pikachu,3
-Hoenn,Seedot family,274,,Nuzleaf,,Leaf Stone,,,275,Shiftry,273,Seedot,2
-Kalos,Amaura family,699,,Aurorus,,,,,,,698,Amaura,2
-Kanto,Alolan Rattata family,19,A,Rattata,,,night,20,20,Raticate,,,1
-Johto,Hoothoot family,164,,Noctowl,,,,,,,163,Hoothoot,2
-Kanto,Tangela family,465,,Tangrowth,,,,,,,114,Tangela,2
-Sinnoh,Combee family,416,,Vespiquen,,,,,,,415,Combee,2
-Kanto,Porygon family,474,,Porygon-Z,,,,,,,233,Porygon2,3
-Kanto,Porygon family,137,,Porygon,,Trade holding Up-Grade,,,233,Porygon2,,,1
-Kanto,Charmander family,4,,Charmander,,,,16,5,Charmeleon,,,1
-Hoenn,Swablu family,333,,Swablu,,,,35,334,Altaria,,,1
-Unova,Dwebble family,558,,Crustle,,,,,,,557,Dwebble,2
-Johto,Mantine family,458,,Mantyke,,Level up with Remoraid in party,,,226,Mantine,,,1
-Kanto,Geodude family,76,,Golem,,,,,,,75,Graveler,3
-Kanto,Vulpix family,37,,Vulpix,,Fire Stone,,,38,Ninetales,,,1
-Unova,Venipede family,544,,Whirlipede,,,,30,545,Scolipede,543,Venipede,2
-Hoenn,Clamperl family,366,,Clamperl,,Trade holding Deep Sea Tooth,,,367,Huntail,,,1
-Kalos,Pumpkaboo family,710,,Pumpkaboo,,Trade,,,711,Gourgeist,,,1
-Kanto,Alolan Rattata family,20,A,Raticate,,,,,,,19,Rattata,2
-Unova,Zorua family,571,,Zoroark,,,,,,,570,Zorua,2
-Hoenn,Makuhita family,296,,Makuhita,,,,24,297,Hariyama,,,1
-Alola,Dewpider family,752,,Araquanid,,,,,,,751,Dewpider,2
-Hoenn,Wurmple family,267,,Beautifly,,,,,,,266,Silcoon,3
-Kanto,Clefairy family,36,,Clefable,,,,,,,35,Clefairy,3
-Unova,Elgyem family,605,,Elgyem,,,,42,606,Beheeyem,,,1
-Hoenn,Corphish family,342,,Crawdaunt,,,,,,,341,Corphish,2
-Alola,Popplio family,729,,Brionne,,,,34,730,Primarina,728,Popplio,2
-Kanto,Eeveelution family,135,,Jolteon,,,,,,,133,Eevee,2
-Sinnoh,Riolu family,447,,Riolu,,Friendship,day,,448,Lucario,,,1
-Kanto,Diglett family,50,,Diglett,,,,26,51,Dugtrio,,,1
-Unova,Joltik family,595,,Joltik,,,,36,596,Galvantula,,,1
-Sinnoh,Finneon family,456,,Finneon,,,,31,457,Lumineon,,,1
-Kanto,Alolan Meowth family,53,A,Persian,,,,,,,52,Meowth,2
-Hoenn,Slakoth family,288,,Vigoroth,,,,36,289,Slaking,287,Slakoth,2
-Kanto,Alolan Grimer family,89,A,Muk,,,,,,,88,Grimer,2
-Kanto,Hitmon family,237,,Hitmontop,,,,,,,236,Tyrogue,2
-Kanto,Dratini family,149,,Dragonite,,,,,,,148,Dragonair,3
-Hoenn,Swablu family,334,,Altaria,,,,,,,333,Swablu,2
-Alola,Popplio family,728,,Popplio,,,,17,729,Brionne,,,1
-Unova,Pansage family,512,,Simisage,,,,,,,511,Pansage,2
-Kalos,Pumpkaboo family,711,,Gourgeist,,,,,,,710,Pumpkaboo,2
-Kanto,Venonat family,48,,Venonat,,,,31,49,Venomoth,,,1
-Hoenn,Nincada family,292,,Shedinja,,,,,,,290,Nincada,2
-Johto,Ledyba family,166,,Ledian,,,,,,,165,Ledyba,2
-Unova,Pansear family,514,,Simisear,,,,,,,513,Pansear,2
-Unova,Solosis family,579,,Reuniclus,,,,,,,578,Duosion,3
-Johto,Swinub family,221,,Piloswine,,Level up knowing Ancient Power,,,473,Mamoswine,220,Swinub,2
-Alola,Cosmog family,790,,Cosmoem,,,Pokémon Sun and Ultra Sun,53,791,Solgaleo,789,Cosmog,2
-Unova,Foongus family,591,,Amoonguss,,,,,,,590,Foongus,2
-Alola,Litten family,727,,Incineroar,,,,,,,726,Torracat,3
-Alola,Wimpod family,767,,Wimpod,,,,30,768,Golisopod,,,1
-Alola,Cutiefly family,743,,Ribombee,,,,,,,742,Cutiefly,2
-Johto,Wobbuffet family,202,,Wobbuffet,,,,,,,360,Wynaut,2
-Hoenn,Trapinch family,329,,Vibrava,,,,45,330,Flygon,328,Trapinch,2
-Unova,Solosis family,578,,Duosion,,,,41,579,Reuniclus,577,Solosis,2
-Kanto,Caterpie family,11,,Metapod,,,,10,12,Butterfree,10,Caterpie,2
-Alola,Fomantis family,753,,Fomantis,,,day,34,754,Lurantis,,,1
-Hoenn,Trapinch family,330,,Flygon,,,,,,,329,Vibrava,3
-Sinnoh,Shinx family,405,,Luxray,,,,,,,404,Luxio,3
-Kanto,Gastly family,94,,Gengar,,,,,,,93,Haunter,3
-Hoenn,Feebas family,349,,Feebas,,"Level up with maximum Beauty
-Trade holding Prism Scale",,,350,Milotic,,,1
-Kanto,Mankey family,57,,Primeape,,,,,,,56,Mankey,2
-Kanto,Koffing family,110,,Weezing,,,,,,,109,Koffing,2
-Kalos,Fletchling family,662,,Fletchinder,,,,35,663,Talonflame,661,Fletchling,2
-Unova,Joltik family,596,,Galvantula,,,,,,,595,Joltik,2
-Hoenn,Aron family,306,,Aggron,,,,,,,305,Lairon,3
-Unova,Roggenrola family,526,,Gigalith,,,,,,,525,Boldore,3
-Hoenn,Treecko family,252,,Treecko,,,,16,253,Grovyle,,,1
-Kanto,Squirtle family,8,,Wartortle,,,,36,9,Blastoise,7,Squirtle,2
-Alola,Type: Null family,773,,Silvally,,,,,,,772,Type: Null,2
-Sinnoh,Kricketot family,401,,Kricketot,,,,10,402,Kricketune,,,1
-Kanto,Magnemite family,81,,Magnemite,,,,30,82,Magneton,,,1
-Sinnoh,Piplup family,394,,Prinplup,,,,36,395,Empoleon,393,Piplup,2
-Hoenn,Cacnea family,331,,Cacnea,,,,32,332,Cacturne,,,1
-Hoenn,Anorith family,347,,Anorith,,,,40,348,Armaldo,,,1
-Unova,Deerling family,586,W,Sawsbuck,Winter Form,,,,,,585,Deerling,2
-Sinnoh,Chimchar family,392,,Infernape,,,,,,,391,Monferno,3
-Unova,Oshawott family,503,,Samurott,,,,,,,502,Dewott,3
-Unova,Ferroseed family,597,,Ferroseed,,,,40,598,Ferrothorn,,,1
-Kalos,Fennekin family,653,,Fennekin,,,,16,654,Braixen,,,1
-Hoenn,Lileep family,346,,Cradily,,,,,,,345,Lileep,2
-Sinnoh,Skorupi family,452,,Drapion,,,,,,,451,Skorupi,2
-Kanto,Krabby family,98,,Krabby,,,,28,99,Kingler,,,1
-Unova,Pidove family,521,,Unfezant,,,,,,,520,Tranquill,3
-Johto,Wooper family,194,,Wooper,,,,20,195,Quagsire,,,1
-Johto,Mareep family,180,,Flaaffy,,,,30,181,Ampharos,179,Mareep,2
-Alola,Cosmog family,792,,Lunala,,,,,,,790,Cosmoem,3
-Hoenn,Torchic family,257,,Blaziken,,,,,,,256,Combusken,3
-Sinnoh,Cherubi family,421,,Cherrim,,,,,,,420,Cherubi,2
-Kalos,Bunnelby family,659,,Bunnelby,,,,20,660,Diggersby,,,1
-Unova,Yamask family,562,,Yamask,,,,34,563,Cofagrigus,,,1
-Johto,Togepi family,175,,Togepi,,Friendship,,,176,Togetic,,,1
-Johto,Chikorita family,153,,Bayleef,,,,32,154,Meganium,152,Chikorita,2
-Kanto,Rhyhorn family,111,,Rhyhorn,,,,42,112,Rhydon,,,1
-Kanto,Rattata family,20,,Raticate,,,,,,,19,Rattata,2
-Kanto,Exeggcute family,102,A,Exeggcute,,Leaf Stone,,,103,Exeggutor,,,1
-Kanto,Caterpie family,10,,Caterpie,,,,7,11,Metapod,,,1
-Unova,Blitzle family,523,,Zebstrika,,,,,,,522,Blitzle,2
-Johto,Houndour family,229,,Houndoom,,,,,,,228,Houndour,2
-Unova,Oshawott family,502,,Dewott,,,,36,503,Samurott,501,Oshawott,2
-Unova,Pawniard family,625,,Bisharp,,,,,,,624,Pawniard,2
-Johto,Marill family,184,,Azumarill,,,,,,,183,Marill,3
-Unova,Ferroseed family,598,,Ferrothorn,,,,,,,597,Ferroseed,2
-Sinnoh,Drifloon family,426,,Drifblim,,,,,,,425,Drifloon,2
-Kanto,Bellsprout family,71,,Victreebel,,,,,,,70,Weepinbell,3
-Kanto,Hitmon family,236,,Tyrogue,,,Attack > Defense,20,106,Hitmonlee,,,1
-Unova,Tepig family,500,,Emboar,,,,,,,499,Pignite,3
-Unova,Deerling family,585,W,Deerling,Winter Form,,,34,586,Sawsbuck,,,1
-Kanto,Abra family,64,,Kadabra,,Trade,,,65,Alakazam,63,Abra,2
-Sinnoh,Cranidos family,409,,Rampardos,,,,,,,408,Cranidos,2
-Unova,Woobat family,527,,Woobat,,Friendship,,,528,Swoobat,,,1
-Unova,Tympole family,536,,Palpitoad,,,,36,537,Seismitoad,535,Tympole,2
-Alola,Litten family,726,,Torracat,,,,34,727,Incineroar,725,Litten,2
-Kalos,Honedge family,681,,Aegislash,,,,,,,680,Doublade,3
-Kanto,Tentacool family,73,,Tentacruel,,,,,,,72,Tentacool,2
-Kalos,Chespin family,652,,Chesnaught,,,,,,,651,Quilladin,3
-Johto,Cyndaquil family,155,,Cyndaquil,,,,14,156,Quilava,,,1
-Johto,Marill family,298,,Azurill,,Friendship,,,183,Marill,,,1
-Alola,Mareanie family,748,,Toxapex,,,,,,,747,Mareanie,2
-Kanto,Ekans family,24,,Arbok,,,,,,,23,Ekans,2
-Unova,Sandile family,553,,Krookodile,,,,,,,552,Krokorok,3
-Kanto,Oddish family,44,,Gloom,,Leaf Stone,,,45,Vileplume,43,Oddish,2
-Kanto,Magmar family,126,,Magmar,,Trade holding Magmarizer,,,467,Magmortar,240,Magby,2
-Alola,Morelull family,756,,Shiinotic,,,,,,,755,Morelull,2
-Kanto,Spearow family,21,,Spearow,,,,20,22,Fearow,,,1
-Sinnoh,Burmy family,413,S,Wormadam,,,,,,,412,Burmy,2
-Alola,Sandygast family,770,,Palossand,,,,,,,769,Sandygast,2
-Unova,Vullaby family,629,,Vullaby,,,,54,630,Mandibuzz,,,1
-Kanto,Scyther family,123,,Scyther,,Trade holding Metal Coat,,,212,Scizor,,,1
-Kanto,Dratini family,147,,Dratini,,,,30,148,Dragonair,,,1
-Hoenn,Beldum family,375,,Metang,,,,45,376,Metagross,374,Beldum,2
-Sinnoh,Bronzor family,437,,Bronzong,,,,,,,436,Bronzor,2
-Kanto,Shellder family,91,,Cloyster,,,,,,,90,Shellder,2
-Kanto,Meltan family,808,,Meltan,, Meltan Candy in Pokémon Go,,400,809,Melmetal,,,1
-Sinnoh,Burmy family,412,S,Burmy,,,"female, Trash Cloak",20,413,Wormadam,,,1
-Kanto,Abra family,65,,Alakazam,,,,,,,64,Kadabra,3
-Kanto,Drowzee family,96,,Drowzee,,,,26,97,Hypno,,,1
-Alola,Popplio family,730,,Primarina,,,,,,,729,Brionne,3
-Hoenn,Corphish family,341,,Corphish,,,,30,342,Crawdaunt,,,1
-Unova,Frillish family,592,,Frillish,,,,40,593,Jellicent,,,1
-Johto,Chikorita family,154,,Meganium,,,,,,,153,Bayleef,3
-Kanto,Voltorb family,100,,Voltorb,,,,30,101,Electrode,,,1
-Kanto,Porygon family,233,,Porygon2,,Trade holding Dubious Disc,,,474,Porygon-Z,137,Porygon,2
-Kalos,Scatterbug family,666,,Vivillon,,,,,,,665,Spewpa,3
-Kanto,Hitmon family,106,,Hitmonlee,,,,,,,236,Tyrogue,2
-Unova,Scraggy family,559,,Scraggy,,,,39,560,Scrafty,,,1
-Alola,Rowlet family,722,,Rowlet,,,,17,723,Dartrix,,,1
-Hoenn,Lotad family,271,,Lombre,,Water Stone,,,272,Ludicolo,270,Lotad,2
-Hoenn,Nosepass family,299,,Nosepass,,Level up in a special magnetic field,,,476,Probopass,,,1
-Johto,Remoraid family,223,,Remoraid,,,,25,224,Octillery,,,1
-Unova,Pidove family,519,,Pidove,,,,21,520,Tranquill,,,1
-Kanto,Vulpix family,38,,Ninetales,,,,,,,37,Vulpix,2
-Unova,Darumaka family,555,,Darmanitan,,,,,,,554,Darumaka,2
-Unova,Sandile family,551,,Sandile,,,,29,552,Krokorok,,,1
-Hoenn,Meditite family,308,,Medicham,,,,,,,307,Meditite,2
-Johto,Sudowoodo family,185,,Sudowoodo,,,,,,,438,Bonsly,2
-Johto,Larvitar family,248,,Tyranitar,,,,,,,247,Pupitar,3
-Unova,Purrloin family,510,,Liepard,,,,,,,509,Purrloin,2
-Kanto,Clefairy family,173,,Cleffa,,Friendship,,,35,Clefairy,,,1
-Hoenn,Shroomish family,286,,Breloom,,,,,,,285,Shroomish,2
-Unova,Litwick family,608,,Lampent,,Dusk Stone,,,609,Chandelure,607,Litwick,2
-Hoenn,Beldum family,374,,Beldum,,,,20,375,Metang,,,1
-Sinnoh,Shellos family,423,E,Gastrodon,East Sea,,,,,,422,Shellos,2
-Johto,Phanpy family,231,,Phanpy,,,,25,232,Donphan,,,1
-Unova,Tepig family,499,,Pignite,,,,36,500,Emboar,498,Tepig,2
-Kanto,Eeveelution family,197,,Umbreon,,,,,,,133,Eevee,2
-Johto,Gligar family,207,,Gligar,,Level up holding Razor Fang at night,,,472,Gliscor,,,1
-Alola,Rockruff family,744,,Rockruff,,,Pokémon Sun and Ultra Sun; day,25,745,Lycanroc,,,1
-Kanto,Mr. Mime family,439,,Mime Jr.,,Level up knowing Mimic,,,122,Mr. Mime,,,1
-Johto,Swinub family,473,,Mamoswine,,,,,,,221,Piloswine,3
-Unova,Dwebble family,557,,Dwebble,,,,34,558,Crustle,,,1
-Unova,Ducklett family,580,,Ducklett,,,,35,581,Swanna,,,1
-Kanto,Zubat family,42,,Golbat,,Friendship,,,169,Crobat,41,Zubat,2
-Unova,Litwick family,607,,Litwick,,,,41,608,Lampent,,,1
-Kanto,Poliwag family,62,,Poliwrath,,,,,,,61,Poliwhirl,3
-Kalos,Fennekin family,654,,Braixen,,,,36,655,Delphox,653,Fennekin,2
-Unova,Roggenrola family,525,,Boldore,,Trade,,,526,Gigalith,524,Roggenrola,2
-Sinnoh,Shinx family,403,,Shinx,,,,15,404,Luxio,,,1
-Kanto,Oddish family,44,,Gloom,,Sun Stone,,,182,Bellossom,43,Oddish,2
-Alola,Rowlet family,724,,Decidueye,,,,,,,723,Dartrix,3
-Hoenn,Seedot family,275,,Shiftry,,,,,,,274,Nuzleaf,3
-Hoenn,Skitty family,300,,Skitty,,Moon Stone,,,301,Delcatty,,,1
-Unova,Cottonee family,547,,Whimsicott,,,,,,,546,Cottonee,2
-Hoenn,Spheal family,363,,Spheal,,,,32,364,Sealeo,,,1
-Kanto,Alolan Diglett family,51,A,Dugtrio,,,,,,,50,Diglett,2
-Johto,Chinchou family,170,,Chinchou,,,,27,171,Lanturn,,,1
-Hoenn,Snorunt family,361,,Snorunt,,,,42,362,Glalie,,,1
-Sinnoh,Burmy family,412,S,Burmy,,,male,20,414,Mothim,,,1
-Kanto,Geodude family,75,,Graveler,,Trade,,,76,Golem,74,Geodude,2
-Kanto,Slowpoke family,79,,Slowpoke,,,,37,80,Slowbro,,,1
-Hoenn,Spoink family,325,,Spoink,,,,32,326,Grumpig,,,1
-Alola,Dewpider family,751,,Dewpider,,,,22,752,Araquanid,,,1
-Johto,Yanma family,193,,Yanma,,Level up knowing Ancient Power,,,469,Yanmega,,,1
-Kanto,Eeveelution family,196,,Espeon,,,,,,,133,Eevee,2
-Kalos,Chespin family,651,,Quilladin,,,,36,652,Chesnaught,650,Chespin,2
-Hoenn,Roselia family,406,,Budew,,Friendship,day,,315,Roselia,,,1
-Unova,Oshawott family,501,,Oshawott,,,,17,502,Dewott,,,1
-Unova,Deerling family,585,,Deerling,Spring Form,,,34,586,Sawsbuck,,,1
-Kalos,Binacle family,688,,Binacle,,,,39,689,Barbaracle,,,1
-Unova,Drilbur family,530,,Excadrill,,,,,,,529,Drilbur,2
-Kanto,Oddish family,182,,Bellossom,,,,,,,44,Gloom,3
-Johto,Cyndaquil family,157,,Typhlosion,,,,,,,156,Quilava,3
-Kalos,Skiddo family,673,,Gogoat,,,,,,,672,Skiddo,2
-Kanto,Machop family,66,,Machop,,,,28,67,Machoke,,,1
-Kanto,Magmar family,240,,Magby,,,,30,126,Magmar,,,1
-Hoenn,Spoink family,326,,Grumpig,,,,,,,325,Spoink,2
-Hoenn,Shroomish family,285,,Shroomish,,,,23,286,Breloom,,,1
-Kalos,Espurr family,678,,Meowstic,,,,,,,677,Espurr,2
-Kalos,Noibat family,714,,Noibat,,,,48,715,Noivern,,,1
-Johto,Ledyba family,165,,Ledyba,,,,18,166,Ledian,,,1
-Kalos,Swirlix family,684,,Swirlix,,Trade holding Whipped Dream,,,685,Slurpuff,,,1
-Alola,Poipole family,804,,Naganadel,,,,,,,803,Poipole,2
-Alola,Morelull family,755,,Morelull,,,,24,756,Shiinotic,,,1
-Hoenn,Makuhita family,297,,Hariyama,,,,,,,296,Makuhita,2
-Kalos,Litleo family,667,,Litleo,,,,35,668,Pyroar,,,1
-Sinnoh,Riolu family,448,,Lucario,,,,,,,447,Riolu,2
-Unova,Patrat family,504,,Patrat,,,,20,505,Watchog,,,1
-Johto,Snubbull family,209,,Snubbull,,,,23,210,Granbull,,,1
-Kanto,Bellsprout family,70,,Weepinbell,,Leaf Stone,,,71,Victreebel,69,Bellsprout,2
-Alola,Jangmo-o family,784,,Kommo-o,,,,,,,783,Hakamo-o,3
-Kalos,Goomy family,704,,Goomy,,,,40,705,Sliggoo,,,1
-Hoenn,Nincada family,290,,Nincada,,"Free space
-Additional Poké Ball",,,292,Shedinja,,,1
-Unova,Venipede family,543,,Venipede,,,,22,544,Whirlipede,,,1
-Kanto,Seel family,87,,Dewgong,,,,,,,86,Seel,2
-Kanto,Machop family,67,,Machoke,,Trade,,,68,Machamp,66,Machop,2
-Unova,Tynamo family,603,,Eelektrik,,Thunder Stone,,,604,Eelektross,602,Tynamo,2
-Unova,Axew family,612,,Haxorus,,,,,,,611,Fraxure,3
-Kanto,Jigglypuff family,40,,Wigglytuff,,,,,,,39,Jigglypuff,3
-Johto,Sneasel family,215,,Sneasel,,Level up holding Razor Claw at night,,,461,Weavile,,,1
-Kalos,Flabébé family,670,,Floette,,Shiny Stone,,,671,Florges,669,Flabébé,2
-Kanto,Paras family,47,,Parasect,,,,,,,46,Paras,2
-Unova,Deerling family,586,S,Sawsbuck,Summer Form,,,,,,585,Deerling,2
-Kanto,Abra family,63,,Abra,,,,16,64,Kadabra,,,1
-Hoenn,Gulpin family,316,,Gulpin,,,,26,317,Swalot,,,1
-Johto,Togepi family,176,,Togetic,,Shiny Stone,,,468,Togekiss,175,Togepi,2
-Hoenn,Shuppet family,353,,Shuppet,,,,37,354,Banette,,,1
-Sinnoh,Gible family,445,,Garchomp,,,,,,,444,Gabite,3
-Hoenn,Wailmer family,320,,Wailmer,,,,40,321,Wailord,,,1
-Kalos,Inkay family,686,,Inkay,, with DS held upside down,,30,687,Malamar,,,1
-Kalos,Helioptile family,694,,Helioptile,,Sun Stone,,,695,Heliolisk,,,1
-Kanto,Magmar family,467,,Magmortar,,,,,,,126,Magmar,3
-Unova,Snivy family,497,,Serperior,,,,,,,496,Servine,3
-Kalos,Goomy family,705,,Sliggoo,, in rain or fog,,50,706,Goodra,704,Goomy,2
-Alola,Mareanie family,747,,Mareanie,,,,38,748,Toxapex,,,1
-Alola,Yungoos family,734,,Yungoos,,,day,20,735,Gumshoos,,,1
-Kanto,Bellsprout family,69,,Bellsprout,,,,21,70,Weepinbell,,,1
-Unova,Cottonee family,546,,Cottonee,,Sun Stone,,,547,Whimsicott,,,1
-Alola,Cutiefly family,742,,Cutiefly,,,,25,743,Ribombee,,,1
-Kanto,Charmander family,5,,Charmeleon,,,,36,6,Charizard,4,Charmander,2
-Unova,Timburr family,534,,Conkeldurr,,,,,,,533,Gurdurr,3
-Kalos,Spritzee family,682,,Spritzee,,Trade holding Sachet,,,683,Aromatisse,,,1
-Hoenn,Seedot family,273,,Seedot,,,,14,274,Nuzleaf,,,1
-Kanto,Venonat family,49,,Venomoth,,,,,,,48,Venonat,2
-Johto,Mareep family,179,,Mareep,,,,15,180,Flaaffy,,,1
-Johto,Teddiursa family,217,,Ursaring,,,,,,,216,Teddiursa,2
-Unova,Frillish family,593,,Jellicent,,,,,,,592,Frillish,2
-Kanto,Eeveelution family,134,,Vaporeon,,,,,,,133,Eevee,2
-Hoenn,Aron family,304,,Aron,,,,32,305,Lairon,,,1
-Sinnoh,Burmy family,414,S,Mothim,,,,,,,412,Burmy,2
-Kanto,Zubat family,41,,Zubat,,,,22,42,Golbat,,,1
-Kanto,Goldeen family,119,,Seaking,,,,,,,118,Goldeen,2
-Unova,Yamask family,563,,Cofagrigus,,,,,,,562,Yamask,2
-Hoenn,Wailmer family,321,,Wailord,,,,,,,320,Wailmer,2
-Unova,Purrloin family,509,,Purrloin,,,,20,510,Liepard,,,1
-Kalos,Amaura family,698,,Amaura,,,night,39,699,Aurorus,,,1
-Kanto,Exeggcute family,102,,Exeggcute,,Leaf Stone,,,103,Exeggutor,,,1
-Johto,Sunkern family,191,,Sunkern,,Sun Stone,,,192,Sunflora,,,1
-Unova,Timburr family,532,,Timburr,,,,25,533,Gurdurr,,,1
-Kanto,Exeggcute family,103,,Exeggutor,,,,,,,102,Exeggcute,2
-Kanto,Chansey family,113,,Chansey,,Friendship,,,242,Blissey,440,Happiny,2
-Kanto,Poliwag family,186,,Politoed,,,,,,,61,Poliwhirl,3
-Johto,Larvitar family,247,,Pupitar,,,,55,248,Tyranitar,246,Larvitar,2
-Kanto,Grimer family,88,,Grimer,,,,38,89,Muk,,,1
-Kanto,Spearow family,22,,Fearow,,,,,,,21,Spearow,2
-Kanto,Alolan Geodude family,76,A,Golem,,,,,,,75,Graveler,3
-Alola,Crabrawler family,740,,Crabominable,,,,,,,739,Crabrawler,2
-Johto,Spinarak family,167,,Spinarak,,,,22,168,Ariados,,,1
-Unova,Tirtouga family,565,,Carracosta,,,,,,,564,Tirtouga,2
-Sinnoh,Starly family,398,,Staraptor,,,,,,,397,Staravia,3
-Johto,Larvitar family,246,,Larvitar,,,,30,247,Pupitar,,,1
-Unova,Venipede family,545,,Scolipede,,,,,,,544,Whirlipede,3
-Hoenn,Zigzagoon family,264,,Linoone,,,,,,,263,Zigzagoon,2
-Kanto,Nidoran family*,32,,Nidoran♂,,,,16,33,Nidorino,,,1
-Alola,Wimpod family,768,,Golisopod,,,,,,,767,Wimpod,2
-Kanto,Tentacool family,72,,Tentacool,,,,30,73,Tentacruel,,,1
-Unova,Shelmet family,616,,Shelmet,,Trade for Karrablast,,,617,Accelgor,,,1
-Unova,Klink family,600,,Klang,,,,49,601,Klinklang,599,Klink,2
-Unova,Gothita family,576,,Gothitelle,,,,,,,575,Gothorita,3
-Kanto,Diglett family,51,,Dugtrio,,,,,,,50,Diglett,2
-Hoenn,Poochyena family,262,,Mightyena,,,,,,,261,Poochyena,2
-Unova,Darumaka family,554,,Darumaka,,,,35,555,Darmanitan,,,1
-Hoenn,Mudkip family,260,,Swampert,,,,,,,259,Marshtomp,3
-Johto,Slugma family,219,,Magcargo,,,,,,,218,Slugma,2
-Hoenn,Roselia family,315,,Roselia,,Shiny Stone,,,407,Roserade,406,Budew,2
-Unova,Mienfoo family,619,,Mienfoo,,,,50,620,Mienshao,,,1
-Kanto,Sandshrew family,28,,Sandslash,,,,,,,27,Sandshrew,2
-Unova,Mienfoo family,620,,Mienshao,,,,,,,619,Mienfoo,2
-Kanto,Alolan Geodude family,74,A,Geodude,,,,25,75,Graveler,,,1
-Sinnoh,Burmy family,412,S,Burmy,,,"female, Plant Cloak",20,413,Wormadam,,,1
-Unova,Deino family,633,,Deino,,,,50,634,Zweilous,,,1
-Alola,Crabrawler family,739,,Crabrawler,,Level up at Mount Lanakila,,,740,Crabominable,,,1
-Kanto,Ponyta family,77,,Ponyta,,,,40,78,Rapidash,,,1
-Alola,Grubbin family,738,,Vikavolt,,,,,,,737,Charjabug,3
-Johto,Yanma family,469,,Yanmega,,,,,,,193,Yanma,2
-Johto,Aipom family,424,,Ambipom,,,,,,,190,Aipom,2
-Kanto,Poliwag family,60,,Poliwag,,,,25,61,Poliwhirl,,,1
-Unova,Munna family,517,,Munna,,Moon Stone,,,518,Musharna,,,1
-Hoenn,Treecko family,253,,Grovyle,,,,36,254,Sceptile,252,Treecko,2
-Kalos,Tyrunt family,696,,Tyrunt,,,day,39,697,Tyrantrum,,,1
-Kanto,Eeveelution family,133,,Eevee,,Level up near Moss Rock,,,470,Leafeon,,,1
-Unova,Pansage family,511,,Pansage,,Leaf Stone,,,512,Simisage,,,1
-Hoenn,Torchic family,256,,Combusken,,,,36,257,Blaziken,255,Torchic,2
-Johto,Pineco family,204,,Pineco,,,,31,205,Forretress,,,1
-Sinnoh,Piplup family,393,,Piplup,,,,16,394,Prinplup,,,1
-Johto,Marill family,183,,Marill,,,,18,184,Azumarill,298,Azurill,2
-Sinnoh,Starly family,397,,Staravia,,,,34,398,Staraptor,396,Starly,2
-Hoenn,Clamperl family,368,,Gorebyss,,,,,,,366,Clamperl,2
-Kalos,Tyrunt family,697,,Tyrantrum,,,,,,,696,Tyrunt,2
-Hoenn,Wurmple family,269,,Dustox,,,,,,,268,Cascoon,3
-Johto,Aipom family,190,,Aipom,,Level up knowing Double Hit,,,424,Ambipom,,,1
-Johto,Sneasel family,461,,Weavile,,,,,,,215,Sneasel,2
-Kanto,Eeveelution family,133,,Eevee,,Fire Stone,,,136,Flareon,,,1
-Sinnoh,Croagunk family,453,,Croagunk,,,,37,454,Toxicroak,,,1
-Kalos,Chespin family,650,,Chespin,,,,16,651,Quilladin,,,1
-Unova,Archen family,567,,Archeops,,,,,,,566,Archen,2
-Sinnoh,Buneary family,428,,Lopunny,,,,,,,427,Buneary,2
-Sinnoh,Shellos family,422,,Shellos,West Sea,,,30,423,Gastrodon,,,1
-Unova,Klink family,601,,Klinklang,,,,,,,600,Klang,3
-Hoenn,Snorunt family,478,,Froslass,,,,,,,361,Snorunt,2
-Kanto,Chansey family,440,,Happiny,,Level up holding Oval Stone,day,,113,Chansey,,,1
-Johto,Hoppip family,187,,Hoppip,,,,18,188,Skiploom,,,1
-Kanto,Rattata family,19,,Rattata,,,,20,20,Raticate,,,1
-Hoenn,Whismur family,293,,Whismur,,,,20,294,Loudred,,,1
-Johto,Murkrow family,198,,Murkrow,,Dusk Stone,,,430,Honchkrow,,,1
-Kanto,Alolan Sandshrew family,27,A,Sandshrew,,Ice Stone,,,28,Sandslash,,,1
-Kanto,Nidoran family*,29,,Nidoran♀,,,,16,30,Nidorina,,,1
-Hoenn,Mudkip family,258,,Mudkip,,,,16,259,Marshtomp,,,1
-Kanto,Alolan Geodude family,75,A,Graveler,,Trade,,,76,Golem,74,Geodude,2
-Alola,Pikipek family,733,,Toucannon,,,,,,,732,Trumbeak,3
-Kanto,Electabuzz family,239,,Elekid,,,,30,125,Electabuzz,,,1
-Unova,Karrablast family,588,,Karrablast,,Trade for Shelmet,,,589,Escavalier,,,1
-Unova,Tirtouga family,564,,Tirtouga,,,,37,565,Carracosta,,,1
-Kanto,Zubat family,169,,Crobat,,,,,,,42,Golbat,3
-Kanto,Eeveelution family,133,,Eevee,,Water Stone,,,134,Vaporeon,,,1
-Kalos,Binacle family,689,,Barbaracle,,,,,,,688,Binacle,2
-Johto,Teddiursa family,216,,Teddiursa,,,,30,217,Ursaring,,,1
-Kanto,Gastly family,92,,Gastly,,,,25,93,Haunter,,,1
-Kanto,Tangela family,114,,Tangela,,Level up knowing Ancient Power,,,465,Tangrowth,,,1
-Sinnoh,Bidoof family,400,,Bibarel,,,,,,,399,Bidoof,2
-Hoenn,Numel family,322,,Numel,,,,33,323,Camerupt,,,1
-Unova,Woobat family,528,,Swoobat,,,,,,,527,Woobat,2
-Kalos,Helioptile family,695,,Heliolisk,,,,,,,694,Helioptile,2
-Kanto,Voltorb family,101,,Electrode,,,,,,,100,Voltorb,2
-Hoenn,Numel family,323,,Camerupt,,,,,,,322,Numel,2
-Kanto,Nidoran family*,33,,Nidorino,,Moon Stone,,,34,Nidoking,32,Nidoran♂,2
-Alola,Bounsweet family,761,,Bounsweet,,,,18,762,Steenee,,,1
-Kanto,Ekans family,23,,Ekans,,,,22,24,Arbok,,,1
-Kanto,Lickitung family,463,,Lickilicky,,,,,,,108,Lickitung,2
-Unova,Larvesta family,637,,Volcarona,,,,,,,636,Larvesta,2
-Sinnoh,Glameow family,432,,Purugly,,,,,,,431,Glameow,2
-Kanto,Seel family,86,,Seel,,,,34,87,Dewgong,,,1
-Johto,Hoppip family,188,,Skiploom,,,,27,189,Jumpluff,187,Hoppip,2
-Kanto,Squirtle family,7,,Squirtle,,,,16,8,Wartortle,,,1
-Unova,Deino family,635,,Hydreigon,,,,,,,634,Zweilous,3
-Johto,Hoothoot family,163,,Hoothoot,,,,20,164,Noctowl,,,1
-Sinnoh,Snover family,460,,Abomasnow,,,,,,,459,Snover,2
-Sinnoh,Drifloon family,425,,Drifloon,,,,28,426,Drifblim,,,1
-Johto,Sentret family,161,,Sentret,,,,15,162,Furret,,,1
-Unova,Sandile family,552,,Krokorok,,,,40,553,Krookodile,551,Sandile,2
-Unova,Roggenrola family,524,,Roggenrola,,,,25,525,Boldore,,,1
-Alola,Rowlet family,723,,Dartrix,,,,34,724,Decidueye,722,Rowlet,2
-Kanto,Pidgey family,17,,Pidgeotto,,,,36,18,Pidgeot,16,Pidgey,2
-Kalos,Skrelp family,691,,Dragalge,,,,,,,690,Skrelp,2
-Johto,Remoraid family,224,,Octillery,,,,,,,223,Remoraid,2
-Kanto,Clefairy family,35,,Clefairy,,Moon Stone,,,36,Clefable,173,Cleffa,2
-Kanto,Paras family,46,,Paras,,,,24,47,Parasect,,,1
-Sinnoh,Kricketot family,402,,Kricketune,,,,,,,401,Kricketot,2
-Alola,Cosmog family,790,,Cosmoem,,,Pokémon Moon and Ultra Moon,53,792,Lunala,789,Cosmog,2
-Hoenn,Slakoth family,287,,Slakoth,,,,18,288,Vigoroth,,,1
-Johto,Chinchou family,171,,Lanturn,,,,,,,170,Chinchou,2
-Kalos,Scatterbug family,665,,Spewpa,,,,12,666,Vivillon,664,Scatterbug,2
-Kanto,Eeveelution family,700,,Sylveon,,,,,,,133,Eevee,2
-Kanto,Kabuto family,140,,Kabuto,,,,40,141,Kabutops,,,1
-Kanto,Doduo family,85,,Dodrio,,,,,,,84,Doduo,2
-Kalos,Bunnelby family,660,,Diggersby,,,,,,,659,Bunnelby,2
-Unova,Tympole family,535,,Tympole,,,,25,536,Palpitoad,,,1
-Unova,Scraggy family,560,,Scrafty,,,,,,,559,Scraggy,2
-Unova,Lillipup family,508,,Stoutland,,,,,,,507,Herdier,3
-Hoenn,Beldum family,376,,Metagross,,,,,,,375,Metang,3
-Sinnoh,Gible family,443,,Gible,,,,24,444,Gabite,,,1
-Hoenn,Poochyena family,261,,Poochyena,,,,18,262,Mightyena,,,1
-Alola,Yungoos family,735,,Gumshoos,,,,,,,734,Yungoos,2
-Johto,Cyndaquil family,156,,Quilava,,,,36,157,Typhlosion,155,Cyndaquil,2
-Sinnoh,Buizel family,419,,Floatzel,,,,,,,418,Buizel,2
-Alola,Mudbray family,750,,Mudsdale,,,,,,,749,Mudbray,2
-Johto,Hoppip family,189,,Jumpluff,,,,,,,188,Skiploom,3
-Kanto,Omanyte family,139,,Omastar,,,,,,,138,Omanyte,2
-Hoenn,Carvanha family,319,,Sharpedo,,,,,,,318,Carvanha,2
-Kanto,Eeveelution family,136,,Flareon,,,,,,,133,Eevee,2
-Hoenn,Chimecho family,358,,Chimecho,,,,,,,433,Chingling,2
-Kanto,Squirtle family,9,,Blastoise,,,,,,,8,Wartortle,3
-Kanto,Eeveelution family,133,,Eevee,,Level up near Ice Rock,,,471,Glaceon,,,1
-Sinnoh,Hippopotas family,450,,Hippowdon,,,,,,,449,Hippopotas,2
-Kanto,Mr. Mime family,122,,Mr. Mime,,,,,,,439,Mime Jr.,2
-Johto,Sentret family,162,,Furret,,,,,,,161,Sentret,2
-Hoenn,Wingull family,279,,Pelipper,,,,,,,278,Wingull,2
-Alola,Special Rockruff family,745,D,Lycanroc,,,,,,,744,Rockruff,2
-Unova,Rufflet family,627,,Rufflet,,,,54,628,Braviary,,,1
-Kalos,Froakie family,658,,Greninja,,,,,,,657,Frogadier,3
-Unova,Deerling family,586,,Sawsbuck,Spring Form,,,,,,585,Deerling,2
-Hoenn,Skitty family,301,,Delcatty,,,,,,,300,Skitty,2
-Hoenn,Wurmple family,266,,Silcoon,,,,10,267,Beautifly,265,Wurmple,2
-Hoenn,Ralts family,281,,Kirlia,,Dawn Stone,male,,475,Gallade,280,Ralts,2
-Hoenn,Wurmple family,265,,Wurmple,,,,7,268,Cascoon,,,1
-Unova,Patrat family,505,,Watchog,,,,,,,504,Patrat,2
-Sinnoh,Piplup family,395,,Empoleon,,,,,,,394,Prinplup,3
-Kanto,Nidoran family*,34,,Nidoking,,,,,,,33,Nidorino,3
-Johto,Houndour family,228,,Houndour,,,,24,229,Houndoom,,,1
-Johto,Misdreavus family,429,,Mismagius,,,,,,,200,Misdreavus,2
-Unova,Panpour family,516,,Simipour,,,,,,,515,Panpour,2
-Alola,Rockruff family,745,,Lycanroc,,,,,,,744,Rockruff,2
-Sinnoh,Gible family,444,,Gabite,,,,48,445,Garchomp,443,Gible,2
-Hoenn,Wingull family,278,,Wingull,,,,25,279,Pelipper,,,1
-Kalos,Clauncher family,692,,Clauncher,,,,37,693,Clawitzer,,,1
-Alola,Jangmo-o family,782,,Jangmo-o,,,,35,783,Hakamo-o,,,1
-Johto,Phanpy family,232,,Donphan,,,,,,,231,Phanpy,2
-Hoenn,Treecko family,254,,Sceptile,,,,,,,253,Grovyle,3
-Unova,Timburr family,533,,Gurdurr,,Trade,,,534,Conkeldurr,532,Timburr,2
-Hoenn,Lotad family,272,,Ludicolo,,,,,,,271,Lombre,3
-Hoenn,Lotad family,270,,Lotad,,,,14,271,Lombre,,,1
-Sinnoh,Bronzor family,436,,Bronzor,,,,33,437,Bronzong,,,1
-Kanto,Alolan Sandshrew family,28,A,Sandslash,,,,,,,27,Sandshrew,2
-Kalos,Honedge family,679,,Honedge,,,,35,680,Doublade,,,1
-Unova,Vullaby family,630,,Mandibuzz,,,,,,,629,Vullaby,2
-Kanto,Onix family,95,,Onix,,Trade holding Metal Coat,,,208,Steelix,,,1
-Hoenn,Baltoy family,343,,Baltoy,,,,36,344,Claydol,,,1
-Kanto,Drowzee family,97,,Hypno,,,,,,,96,Drowzee,2
-Unova,Panpour family,515,,Panpour,,Water Stone,,,516,Simipour,,,1
-Unova,Vanillite family,582,,Vanillite,,,,35,583,Vanillish,,,1
-Kanto,Meowth family,53,,Persian,,,,,,,52,Meowth,2
-Kanto,Snorlax family,143,,Snorlax,,,,,,,446,Munchlax,2
-Johto,Mareep family,181,,Ampharos,,,,,,,180,Flaaffy,3
-Unova,Archen family,566,,Archen,,,,37,567,Archeops,,,1
-Kanto,Krabby family,99,,Kingler,,,,,,,98,Krabby,2
-Unova,Litwick family,609,,Chandelure,,,,,,,608,Lampent,3
-Unova,Klink family,599,,Klink,,,,38,600,Klang,,,1
-Johto,Snubbull family,210,,Granbull,,,,,,,209,Snubbull,2
-Unova,Tympole family,537,,Seismitoad,,,,,,,536,Palpitoad,3
-Kanto,Weedle family,14,,Kakuna,,,,10,15,Beedrill,13,Weedle,2
-Johto,Swinub family,220,,Swinub,,,,33,221,Piloswine,,,1
-Kanto,Chansey family,242,,Blissey,,,,,,,113,Chansey,3
-Kalos,Skrelp family,690,,Skrelp,,,,48,691,Dragalge,,,1
-Kanto,Meltan family,809,,Melmetal,,,,,,,808,Meltan,2
-Kanto,Slowpoke family,80,,Slowbro,,,,,,,79,Slowpoke,2
-Kanto,Staryu family,121,,Starmie,,,,,,,120,Staryu,2
-Alola,Cosmog family,791,,Solgaleo,,,,,,,790,Cosmoem,3
-Kanto,Eeveelution family,133,,Eevee,,Thunder Stone,,,135,Jolteon,,,1
-Johto,Spinarak family,168,,Ariados,,,,,,,167,Spinarak,2
-Unova,Snivy family,495,,Snivy,,,,17,496,Servine,,,1
-Kanto,Hitmon family,236,,Tyrogue,,,Attack = Defense,20,237,Hitmontop,,,1
-Unova,Golett family,622,,Golett,,,,43,623,Golurk,,,1
-Kalos,Bergmite family,713,,Avalugg,,,,,,,712,Bergmite,2
-Kanto,Scyther family,212,,Scizor,,,,,,,123,Scyther,2
-Kanto,Poliwag family,61,,Poliwhirl,,Trade holding King's Rock,,,186,Politoed,60,Poliwag,2
-Kanto,Bulbasaur family,2,,Ivysaur,,,,32,3,Venusaur,1,Bulbasaur,2
-Unova,Cubchoo family,614,,Beartic,,,,,,,613,Cubchoo,2
-Kalos,Flabébé family,671,,Florges,,,,,,,670,Floette,3
-Unova,Petilil family,549,,Lilligant,,,,,,,548,Petilil,2
-Hoenn,Zigzagoon family,263,,Zigzagoon,,,,20,264,Linoone,,,1
-Unova,Deerling family,585,S,Deerling,Summer Form,,,34,586,Sawsbuck,,,1
-Unova,Tynamo family,604,,Eelektross,,,,,,,603,Eelektrik,3
-Alola,Bounsweet family,762,,Steenee,,Level up knowing Stomp,,,763,Tsareena,761,Bounsweet,2
-Kanto,Magikarp family,130,,Gyarados,,,,,,,129,Magikarp,2
-Kanto,Bulbasaur family,3,,Venusaur,,,,,,,2,Ivysaur,3
-Kanto,Oddish family,43,,Oddish,,,,21,44,Gloom,,,1
-Unova,Larvesta family,636,,Larvesta,,,,59,637,Volcarona,,,1
-Alola,Salandit family,758,,Salazzle,,,,,,,757,Salandit,2
-Kanto,Caterpie family,12,,Butterfree,,,,,,,11,Metapod,3
-Kanto,Pidgey family,16,,Pidgey,,,,18,17,Pidgeotto,,,1
-Kalos,Bergmite family,712,,Bergmite,,,,37,713,Avalugg,,,1
-Unova,Golett family,623,,Golurk,,,,,,,622,Golett,2
-Unova,Minccino family,573,,Cinccino,,,,,,,572,Minccino,2
-Hoenn,Snorunt family,362,,Glalie,,,,,,,361,Snorunt,2
-Hoenn,Clamperl family,367,,Huntail,,,,,,,366,Clamperl,2
-Hoenn,Ralts family,281,,Kirlia,,,,30,282,Gardevoir,280,Ralts,2
-Unova,Gothita family,574,,Gothita,,,,32,575,Gothorita,,,1
-Hoenn,Lileep family,345,,Lileep,,,,40,346,Cradily,,,1
-Kanto,Weedle family,15,,Beedrill,,,,,,,14,Kakuna,3
-Kanto,Alolan Grimer family,88,A,Grimer,,,,38,89,Muk,,,1
-Unova,Snivy family,496,,Servine,,,,36,497,Serperior,495,Snivy,2
-Hoenn,Ralts family,282,,Gardevoir,,,,,,,281,Kirlia,3
-Hoenn,Meditite family,307,,Meditite,,,,37,308,Medicham,,,1
-Sinnoh,Croagunk family,454,,Toxicroak,,,,,,,453,Croagunk,2
-Sinnoh,Skorupi family,451,,Skorupi,,,,40,452,Drapion,,,1
-Kalos,Clauncher family,693,,Clawitzer,,,,,,,692,Clauncher,2
-Alola,Type: Null family,772,,Type: Null,,Friendship,,,773,Silvally,,,1
-Kanto,Jigglypuff family,39,,Jigglypuff,,Moon Stone,,,40,Wigglytuff,174,Igglybuff,2
-Kalos,Litleo family,668,,Pyroar,,,,,,,667,Litleo,2
-Kanto,Pikachu family,25,A,Pikachu,,Thunder Stone,,,26,Raichu,172,Pichu,2
-Alola,Pikipek family,732,,Trumbeak,,,,28,733,Toucannon,731,Pikipek,2
-Hoenn,Carvanha family,318,,Carvanha,,,,30,319,Sharpedo,,,1
+Name,Dex,Class,Dex_Suffix,Item,Egg Group 1,Egg Group 2,Type,Type2,Body,Color,Call_Rate_SM,Call_Rate_USUM,Star,Gender_Ratio,Cycles,Ability 1,Ability 2,Hidden,WeightKg,WeightLbs,HeightM,Ft,In
+Fearow,22,,,,Flying,,Normal,Flying,Single pair of wings,Brown,,,0,1:1,15,Keen Eye,,Sniper,38,83.8,1.2,3,11
+Deoxys,386,Attack Forme,A,,Undiscovered,,Psychic,,"Bipedal, tailless form",Red,,,0,GU,120,Pressure,,,60.8,134,1.7,5,7
+Bunnelby,659,,,,Field,,Normal,,"Bipedal, tailed form",Brown,,,0,1:1,15,Pickup,Cheek Pouch,Huge Power,5,11,0.4,1,4
+Taillow,276,,,,Flying,,Normal,Flying,Single pair of wings,Blue,,,0,1:1,15,Guts,,Scrappy,2.3,5.1,0.3,1,0
+Virizion,640,,,,Undiscovered,,Grass,Fighting,Quadruped body,Green,,,0,GU,80,Justified,,,200,440.9,2,6,7
+Wailord,321,,,,Field,Water 2,Water,,Fins,Blue,,,0,1:1,40,Water Veil,Oblivious,Pressure,398,877.4,14.5,47,7
+Porygon-Z,474,,,,Mineral,,Normal,,Head and arms,Red,,,0,G,20,Adaptability,Download,Analytic,34,75,0.9,2,11
+Gardevoir,282,,,,Amorphous,,Psychic,Fairy,"Bipedal, tailless form",White,,,0,1:1,20,Synchronize,Trace,Telepathy,48.4,106.7,1.6,5,3
+Kartana,798,,,,Undiscovered,,Grass,Steel,"Bipedal, tailless form",White,,,0,GU,120,Beast Boost,,,0.1,0.2,0.3,1,0
+Azumarill,184,,,,Water 1,Fairy,Water,Fairy,"Bipedal, tailed form",Blue,,,0,1:1,10,Thick Fat,Huge Power,Sap Sipper,28.5,62.8,0.8,2,7
+Clauncher,692,,,,Water 1,Water 3,Water,,Insectoid body,Blue,,,0,1:1,15,Mega Launcher,,,8.3,18.3,0.5,1,8
+Tyrunt,696,,,,Monster,Dragon,Rock,Dragon,"Bipedal, tailed form",Brown,,,0,1:7,30,Strong Jaw,,Sturdy,26,57.3,0.8,2,7
+Petilil,548,,,,Grass,,Grass,,Head and a base,Green,,,0,1:0,20,Chlorophyll,Own Tempo,Leaf Guard,6.6,14.6,0.5,1,8
+Vivillon,666,Monsoon Pattern,,,Bug,,Bug,Flying,Two or more pairs of wings,White,,,0,1:1,15,Shield Dust,Compound Eyes,Friend Guard,17,37.5,1.2,3,11
+Vivillon,666,Sandstorm Pattern,,,Bug,,Bug,Flying,Two or more pairs of wings,White,,,0,1:1,15,Shield Dust,Compound Eyes,Friend Guard,17,37.5,1.2,3,11
+Charmander,4,,,,Monster,Dragon,Fire,,"Bipedal, tailed form",Red,,,0,1:7,20,Blaze,,Solar Power,8.5,18.7,0.6,2,0
+Vigoroth,288,,,,Field,,Normal,,"Bipedal, tailed form",White,,,0,1:1,15,Vital Spirit,,,46.5,102.5,1.4,4,7
+Luxray,405,,,,Field,,Electric,,Quadruped body,Blue,,,0,1:1,20,Rivalry,Intimidate,Guts,42,92.6,1.4,4,7
+Gyarados,130,,,,Water 2,Dragon,Water,Flying,Serpentine bodies,Blue,,,0,1:1,5,Intimidate,,Moxie,235,518.1,6.5,21,4
+Shelmet,616,,,,Bug,,Bug,,Head,Red,,,0,1:1,15,Hydration,Shell Armor,Overcoat,7.7,17,0.4,1,4
+Stakataka,805,,,,Undiscovered,,Rock,Steel,Quadruped body,Gray,,,0,GU,120,Beast Boost,,,820,1807.8,5.5,18,1
+Palossand,770,,,,Amorphous,,Ghost,Ground,Serpentine bodies,Brown,,,0,1:1,15,Water Compaction,,Sand Veil,250,551.2,1.3,4,3
+Palpitoad,536,,,,Water 1,,Water,Ground,"Bipedal, tailed form",Blue,,,0,1:1,20,Swift Swim,Hydration,Water Absorb,17,37.5,0.8,2,7
+Weezing,110,,,,Amorphous,,Poison,,Multiple bodies,Purple,,,0,1:1,20,Levitate,,,9.5,20.9,1.2,3,11
+Pikachu,25,,,,Field,Fairy,Electric,,Quadruped body,Yellow,,,0,1:1,10,Static,,Lightning Rod,6,13.2,0.4,1,4
+Cacnea,331,,,,Grass,Human-Like,Grass,,"Bipedal, tailless form",Green,,,0,1:1,20,Sand Veil,,Water Absorb,51.3,113.1,0.4,1,4
+Wishiwashi,746,Solo Form,,,Water 2,,Water,,Fins,Blue,,,0,1:1,15,Schooling,,,0.3,0.7,0.2,0,8
+Kakuna,14,,,,Bug,,Bug,Poison,Serpentine bodies,Yellow,,,0,1:1,15,Shed Skin,,,10,22,0.6,2,0
+Arceus,493,Type: Psychic,,,Undiscovered,,Normal,,Quadruped body,White,,,0,GU,120,Multitype,,,320,705.5,3.2,10,6
+Basculin,550,Red-Striped Form,,,Water 2,,Water,,Fins,Green,,9,0,1:1,40,Reckless,Adaptability,Mold Breaker,18,39.7,1,3,3
+Nidoran♀,29,,,,Monster,Field,Poison,,Quadruped body,Blue,,,2,1:0,20,Poison Point,Rivalry,Hustle,7,15.4,0.4,1,4
+Victini,494,,,,Undiscovered,,Psychic,Fire,"Bipedal, tailless form",Yellow,,,0,GU,120,Victory Star,,,4,8.8,0.4,1,4
+Turtonator,776,,,,Monster,Dragon,Fire,Dragon,"Bipedal, tailed form",Red,,,0,1:1,20,Shell Armor,,,212,467.4,2,6,7
+Togetic,176,,,,Flying,Fairy,Fairy,Flying,"Bipedal, tailless form",White,,,0,1:7,10,Hustle,Serene Grace,Super Luck,3.2,7.1,0.6,2,0
+Vivillon,666,High Plains Pattern,,,Bug,,Bug,Flying,Two or more pairs of wings,White,,,0,1:1,15,Shield Dust,Compound Eyes,Friend Guard,17,37.5,1.2,3,11
+Tsareena,763,,,,Grass,,Grass,,"Bipedal, tailless form",Purple,,,0,1:0,20,Leaf Guard,Queenly Majesty,Sweet Veil,21.4,47.2,1.2,3,11
+Venusaur,3,,,,Monster,Grass,Grass,Poison,Quadruped body,Green,,,0,1:7,20,Overgrow,,Chlorophyll,100,220.5,2,6,7
+Lileep,345,,,,Water 3,,Rock,Grass,Head and a base,Purple,,,0,1:7,30,Suction Cups,,Storm Drain,23.8,52.5,1,3,3
+Gourgeist,711,Small Size,,,Amorphous,,Ghost,Grass,Head and a base,Brown,,,0,1:1,20,Pickup,Frisk,Insomnia,9.5,20.9,0.7,2,4
+Mightyena,262,,,,Field,,Dark,,Quadruped body,Gray,,,2,1:1,15,Intimidate,Quick Feet,Moxie,37,81.6,1,3,3
+Poliwrath,62,,,,Water 1,,Water,Fighting,"Bipedal, tailless form",Blue,,,0,1:1,20,Water Absorb,Damp,Swift Swim,54,119,1.3,4,3
+Houndoom,229,,,,Field,,Dark,Fire,Quadruped body,Black,,,0,1:1,20,Early Bird,Flash Fire,Unnerve,35,77.2,1.4,4,7
+Skitty,300,,,,Field,Fairy,Normal,,Quadruped body,Pink,,,2,3:1,15,Cute Charm,Normalize,Wonder Skin,11,24.3,0.6,2,0
+Silvally,773,Type: Dragon,,,Undiscovered,,Normal,,Quadruped body,Gray,,,0,GU,120,RKS System,,,100.5,221.6,2.3,7,7
+Pumpkaboo,710,Small Size,,,Amorphous,,Ghost,Grass,Head,Brown,,,0,1:1,20,Pickup,Frisk,Insomnia,3.5,7.7,0.3,1,0
+Keldeo,647,Resolute Form,,,Undiscovered,,Water,Fighting,Quadruped body,Yellow,,,0,GU,80,Justified,,,48.5,106.9,1.4,4,7
+Magearna,801,Original Color,,,Undiscovered,,Steel,Fairy,"Bipedal, tailless form",Red,,,0,GU,120,Soul-Heart,,,80.5,177.5,1,3,3
+Sandslash,28,,,,Field,,Ground,,"Bipedal, tailed form",Yellow,,,0,1:1,20,Sand Veil,,Sand Rush,29.5,65,1,3,3
+Vivillon,666,Marine Pattern,,,Bug,,Bug,Flying,Two or more pairs of wings,White,,,0,1:1,15,Shield Dust,Compound Eyes,Friend Guard,17,37.5,1.2,3,11
+Sharpedo,319,,,,Water 2,,Water,Dark,Fins,Blue,,,0,1:1,20,Rough Skin,,Speed Boost,88.8,195.8,1.8,5,11
+Lunala,792,,,,Undiscovered,,Psychic,Ghost,Single pair of wings,Purple,,,0,GU,120,Shadow Shield,,,120,264.6,4,13,1
+Arceus,493,Type: Water,,,Undiscovered,,Normal,,Quadruped body,White,,,0,GU,120,Multitype,,,320,705.5,3.2,10,6
+Haxorus,612,,,,Monster,Dragon,Dragon,,"Bipedal, tailed form",Yellow,,,0,1:1,40,Rivalry,Mold Breaker,Unnerve,105.5,232.6,1.8,5,11
+Arceus,493,Type: Grass,,,Undiscovered,,Normal,,Quadruped body,White,,,0,GU,120,Multitype,,,320,705.5,3.2,10,6
+Arceus,493,Type: Fire,,,Undiscovered,,Normal,,Quadruped body,White,,,0,GU,120,Multitype,,,320,705.5,3.2,10,6
+Totodile,158,,,,Monster,Water 1,Water,,"Bipedal, tailed form",Blue,,,0,1:7,20,Torrent,,Sheer Force,9.5,20.9,0.6,2,0
+Simisage,512,,,,Field,,Grass,,"Bipedal, tailed form",Green,,,0,1:7,20,Gluttony,,Overgrow,30.5,67.2,1.1,3,7
+Anorith,347,,,,Water 3,,Rock,Bug,Insectoid body,Gray,,,0,1:7,30,Battle Armor,,Swift Swim,12.5,27.6,0.7,2,4
+Wigglytuff,40,,,,Fairy,,Normal,Fairy,"Bipedal, tailless form",Pink,,,2,3:1,10,Cute Charm,Competitive,Frisk,12,26.5,1,3,3
+Gogoat,673,,,,Field,,Grass,,Quadruped body,Brown,,,0,1:1,20,Sap Sipper,,Grass Pelt,91,200.6,1.7,5,7
+Mudbray,749,,,,Field,,Ground,,Quadruped body,Brown,,,0,1:1,20,Own Tempo,Stamina,Inner Focus,110,242.5,1,3,3
+Noivern,715,,,,Flying,,Flying,Dragon,Single pair of wings,Purple,,,0,1:1,20,Frisk,Infiltrator,Telepathy,85,187.4,1.5,4,11
+Malamar,687,,,,Water 1,Water 2,Dark,Psychic,Head and a base,Blue,,,0,1:1,20,Contrary,Suction Cups,Infiltrator,47,103.6,1.5,4,11
+Croconaw,159,,,,Monster,Water 1,Water,,"Bipedal, tailed form",Blue,,,0,1:7,20,Torrent,,Sheer Force,25,55.1,1.1,3,7
+Vivillon,666,Continental Pattern,,,Bug,,Bug,Flying,Two or more pairs of wings,White,,,0,1:1,15,Shield Dust,Compound Eyes,Friend Guard,17,37.5,1.2,3,11
+Illumise,314,,,,Bug,Human-Like,Bug,,"Bipedal, tailless form",Purple,,,2,1:0,15,Oblivious,Tinted Lens,Prankster,17.7,39,0.6,2,0
+Nidoking,34,,,,Monster,Field,Poison,Ground,"Bipedal, tailed form",Purple,,,2,0:1,20,Poison Point,Rivalry,Sheer Force,62,136.7,1.4,4,7
+Rotom,479,Mow,,,Amorphous,,Electric,Ghost,Head,Red,,,0,G,20,Levitate,,,0.3,0.7,0.3,1,0
+Arceus,493,Type: Poison,,,Undiscovered,,Normal,,Quadruped body,White,,,0,GU,120,Multitype,,,320,705.5,3.2,10,6
+Goldeen,118,,,,Water 2,,Water,,Fins,Red,,,0,1:1,20,Swift Swim,Water Veil,Lightning Rod,15,33.1,0.6,2,0
+Relicanth,369,,,,Water 1,Water 2,Water,Rock,Fins,Gray,,,0,1:7,40,Swift Swim,Rock Head,Sturdy,23.4,51.6,1,3,3
+Mr. Mime,122,,,,Human-Like,,Psychic,Fairy,"Bipedal, tailless form",Pink,,,2,1:1,25,Soundproof,Filter,Technician,54.5,120.1,1.3,4,3
+Metagross,376,,,,Mineral,,Steel,Psychic,Multiple bodies,Blue,,,0,G,40,Clear Body,,Light Metal,550,1212.5,1.6,5,3
+Ralts,280,,,,Amorphous,,Psychic,Fairy,"Bipedal, tailless form",White,,,0,1:1,20,Synchronize,Trace,Telepathy,6.6,14.6,0.4,1,4
+Silvally,773,Type: Dark,,,Undiscovered,,Normal,,Quadruped body,Gray,,,0,GU,120,RKS System,,,100.5,221.6,2.3,7,7
+Gorebyss,368,,,,Water 1,,Water,,Serpentine bodies,Pink,,,0,1:1,20,Swift Swim,,Hydration,22.6,49.8,1.8,5,11
+Hoppip,187,,,,Fairy,Grass,Grass,Flying,"Bipedal, tailed form",Pink,,,2,1:1,20,Chlorophyll,Leaf Guard,Infiltrator,0.5,1.1,0.4,1,4
+Terrakion,639,,,,Undiscovered,,Rock,Fighting,Quadruped body,Gray,,,0,GU,80,Justified,,,260,573.2,1.9,6,3
+Timburr,532,,,,Human-Like,,Fighting,,"Bipedal, tailless form",Gray,,,0,1:3,20,Guts,Sheer Force,Iron Fist,12.5,27.6,0.6,2,0
+Carracosta,565,,,,Water 1,Water 3,Water,Rock,"Bipedal, tailed form",Blue,,,0,1:7,30,Solid Rock,Sturdy,Swift Swim,81,178.6,1.2,3,11
+Pansage,511,,,,Field,,Grass,,"Bipedal, tailed form",Green,,,0,1:7,20,Gluttony,,Overgrow,10.5,23.1,0.6,2,0
+Vivillon,666,Meadow Pattern,,,Bug,,Bug,Flying,Two or more pairs of wings,White,,,0,1:1,15,Shield Dust,Compound Eyes,Friend Guard,17,37.5,1.2,3,11
+Pangoro,675,,,,Field,Human-Like,Fighting,Dark,"Bipedal, tailless form",White,,,0,1:1,25,Iron Fist,Mold Breaker,Scrappy,136,299.8,2.1,6,11
+Politoed,186,,,,Water 1,,Water,,"Bipedal, tailless form",Green,,,0,1:1,20,Water Absorb,Damp,Drizzle,33.9,74.7,1.1,3,7
+Dratini,147,,,,Water 1,Dragon,Dragon,,Serpentine bodies,Blue,,,0,1:1,40,Shed Skin,,Marvel Scale,3.3,7.3,1.8,5,11
+Exploud,295,,,,Monster,Field,Normal,,"Bipedal, tailed form",Blue,,,0,1:1,20,Soundproof,,Scrappy,84,185.2,1.5,4,11
+Numel,322,,,,Field,,Fire,Ground,Quadruped body,Yellow,,,2,1:1,20,Oblivious,Simple,Own Tempo,24,52.9,0.7,2,4
+Barbaracle,689,,,,Water 3,,Rock,Water,Multiple bodies,Brown,,,0,1:1,20,Sniper,Tough Claws,Pickpocket,96,211.6,1.3,4,3
+Darumaka,554,,,,Field,,Fire,,"Bipedal, tailless form",Red,,,0,1:1,20,Hustle,,Inner Focus,37.5,82.7,0.6,2,0
+Pheromosa,795,,,,Undiscovered,,Bug,Fighting,"Bipedal, tailless form",White,,,0,GU,120,Beast Boost,,,25,55.1,1.8,5,11
+Arceus,493,Type: Normal,,,Undiscovered,,Normal,,Quadruped body,White,,,0,GU,120,Multitype,,,320,705.5,3.2,10,6
+Maractus,556,,,,Grass,,Grass,,Head and a base,Green,,,0,1:1,20,Water Absorb,Chlorophyll,Storm Drain,28,61.7,1,3,3
+Kommo-o,784,,,,Dragon,,Dragon,Fighting,"Bipedal, tailed form",Gray,,,0,1:1,40,Bulletproof,Soundproof,Overcoat,78.2,172.4,1.6,5,3
+Smoochum,238,,,,Undiscovered,,Ice,Psychic,"Bipedal, tailless form",Pink,,,2,1:0U,25,Oblivious,Forewarn,Hydration,6,13.2,0.4,1,4
+Aron,304,,,,Monster,,Steel,Rock,Quadruped body,Gray,,,0,1:1,35,Sturdy,Rock Head,Heavy Metal,60,132.3,0.4,1,4
+Celebi,251,,,,Undiscovered,,Psychic,Grass,"Bipedal, tailless form",Green,,,0,GU,120,Natural Cure,,,5,11,0.6,2,0
+Cubone,104,,,,Monster,,Ground,,"Bipedal, tailed form",Brown,,,0,1:1,20,Rock Head,Lightning Rod,Battle Armor,6.5,14.3,0.4,1,4
+Bronzor,436,,,,Mineral,,Steel,Psychic,Head,Green,,,0,G,20,Levitate,Heatproof,Heavy Metal,60.5,133.4,0.5,1,8
+Giratina,487,Altered Forme,,,Undiscovered,,Ghost,Dragon,Tentacles or a multiped body,Black,,,0,GU,120,Pressure,,Telepathy,750,1653.5,6.9,22,8
+Pumpkaboo,710,Super Size,,,Amorphous,,Ghost,Grass,Head,Brown,,,0,1:1,20,Pickup,Frisk,Insomnia,15,33.1,0.8,2,7
+Rotom,479,Fan,,,Amorphous,,Electric,Ghost,Head,Red,,,0,G,20,Levitate,,,0.3,0.7,0.3,1,0
+Dedenne,702,,,,Field,Fairy,Electric,Fairy,"Bipedal, tailed form",Yellow,,,0,1:1,20,Cheek Pouch,Pickup,Plus,2.2,4.9,0.2,0,8
+Mismagius,429,,,,Amorphous,,Ghost,,Head,Purple,,,0,1:1,25,Levitate,,,4.4,9.7,0.9,2,11
+Ninjask,291,,,,Bug,,Bug,Flying,Two or more pairs of wings,Yellow,,,0,1:1,15,Speed Boost,,Infiltrator,12,26.5,0.8,2,7
+Misdreavus,200,,,,Amorphous,,Ghost,,Head,Gray,,,0,1:1,25,Levitate,,,1,2.2,0.7,2,4
+Drapion,452,,,,Bug,Water 3,Poison,Dark,Insectoid body,Purple,,,0,1:1,20,Battle Armor,Sniper,Keen Eye,61.5,135.6,1.3,4,3
+Yanmega,469,,,,Bug,,Bug,Flying,Two or more pairs of wings,Green,,,0,1:1,20,Speed Boost,Tinted Lens,Frisk,51.5,113.5,1.9,6,3
+Cofagrigus,563,,,,Mineral,Amorphous,Ghost,,Head and a base,Yellow,,,0,1:1,25,Mummy,,,76.5,168.7,1.7,5,7
+Tyranitar,248,,,,Monster,,Rock,Dark,"Bipedal, tailed form",Green,,,0,1:1,40,Sand Stream,,Unnerve,202,445.3,2,6,7
+Plusle,311,,,,Fairy,,Electric,,"Bipedal, tailed form",Yellow,,,1,1:1,20,Plus,,Lightning Rod,4.2,9.3,0.4,1,4
+Goomy,704,,,,Dragon,,Dragon,,Serpentine bodies,Purple,,,0,1:1,40,Sap Sipper,Hydration,Gooey,2.8,6.2,0.3,1,0
+Lickitung,108,,,,Monster,,Normal,,"Bipedal, tailed form",Pink,,,0,1:1,20,Own Tempo,Oblivious,Cloud Nine,65.5,144.4,1.2,3,11
+Karrablast,588,,,,Bug,,Bug,,"Bipedal, tailless form",Blue,,,0,1:1,15,Swarm,Shed Skin,No Guard,5.9,13,0.5,1,8
+Florges,671,Blue Flower,,,Fairy,,Fairy,,Head and arms,White,,,0,1:0,20,Flower Veil,,Symbiosis,10,22,1.1,3,7
+Klinklang,601,,,,Mineral,,Steel,,Multiple bodies,Gray,,,0,G,20,Plus,Minus,Clear Body,81,178.6,0.6,2,0
+Aurorus,699,,,,Monster,,Rock,Ice,Quadruped body,Blue,,,0,1:7,30,Refrigerate,,Snow Warning,225,496,2.7,8,10
+Inkay,686,,,,Water 1,Water 2,Dark,Psychic,Tentacles or a multiped body,Blue,,,0,1:1,20,Contrary,Suction Cups,Infiltrator,3.5,7.7,0.4,1,4
+Genesect,649,,,,Undiscovered,,Bug,Steel,"Bipedal, tailless form",Purple,,,0,GU,120,Download,,,82.5,181.9,1.5,4,11
+Squirtle,7,,,,Monster,Water 1,Water,,"Bipedal, tailed form",Blue,,,0,1:7,20,Torrent,,Rain Dish,9,19.8,0.5,1,8
+Fletchinder,662,,,,Flying,,Fire,Flying,Single pair of wings,Red,,,0,1:1,15,Flame Body,,Gale Wings,16,35.3,0.7,2,4
+Tapu Bulu,787,,,,Undiscovered,,Grass,Fairy,Head and arms,Red,,,0,GU,15,Grassy Surge,,Telepathy,45.5,100.3,1.9,6,3
+Swanna,581,,,,Water 1,Flying,Water,Flying,Single pair of wings,White,,,0,1:1,20,Keen Eye,Big Pecks,Hydration,24.2,53.4,1.3,4,3
+Feebas,349,,,,Water 1,Dragon,Water,,Fins,Brown,,,2,1:1,20,Swift Swim,Oblivious,Adaptability,7.4,16.3,0.6,2,0
+Whirlipede,544,,,,Bug,,Bug,Poison,Head,Gray,,,9,1:1,15,Poison Point,Swarm,Speed Boost,58.5,129,1.2,3,11
+Fomantis,753,,,,Grass,,Grass,,"Bipedal, tailed form",Pink,,,0,1:1,20,Leaf Guard,,Contrary,1.5,3.3,0.3,1,0
+Wormadam,413,Sandy Cloak,G,,Bug,,Bug,Ground,Head and a base,Brown,,,0,1:0,15,Anticipation,,Overcoat,6.5,14.3,0.5,1,8
+Infernape,392,,,,Field,Human-Like,Fire,Fighting,"Bipedal, tailed form",Brown,,,0,1:7,20,Blaze,,Iron Fist,55,121.3,1.2,3,11
+Lampent,608,,,,Amorphous,,Ghost,Fire,Head and arms,Black,,,9,1:1,20,Flash Fire,Flame Body,Infiltrator,13,28.7,0.6,2,0
+Jirachi,385,,,,Undiscovered,,Steel,Psychic,"Bipedal, tailless form",Yellow,,,0,GU,120,Serene Grace,,,1.1,2.4,0.3,1,0
+Trumbeak,732,,,,Flying,,Normal,Flying,Single pair of wings,Black,,,0,1:1,15,Keen Eye,Skill Link,Pickup,14.8,32.6,0.6,2,0
+Mantine,226,,,,Water 1,,Water,Flying,Single pair of wings,Purple,,,0,1:1,25,Swift Swim,Water Absorb,Water Veil,220,485,2.1,6,11
+Ampharos,181,,,,Monster,Field,Electric,,"Bipedal, tailed form",Yellow,,,0,1:1,20,Static,,Plus,61.5,135.6,1.4,4,7
+Roselia,315,,,,Fairy,Grass,Grass,Poison,"Bipedal, tailless form",Green,,,0,1:1,20,Natural Cure,Poison Point,Leaf Guard,2,4.4,0.3,1,0
+Kangaskhan,115,,,,Monster,,Normal,,"Bipedal, tailed form",Brown,,,2,1:0,20,Early Bird,Scrappy,Inner Focus,80,176.4,2.2,7,3
+Rapidash,78,,,,Field,,Fire,,Quadruped body,Yellow,,,0,1:1,20,Run Away,Flash Fire,Flame Body,95,209.4,1.7,5,7
+Shiinotic,756,,,,Grass,,Grass,Fairy,"Bipedal, tailless form",Purple,,,0,1:1,20,Illuminate,Effect Spore,Rain Dish,11.5,25.4,1,3,3
+Komala,775,,,,Field,,Normal,,"Bipedal, tailless form",Blue,,,0,1:1,20,Comatose,,,19.9,43.9,0.4,1,4
+Lunatone,337,,,,Mineral,,Rock,Psychic,Head,Yellow,,,0,G,25,Levitate,,,168,370.4,1,3,3
+Quilava,156,,,,Field,,Fire,,Quadruped body,Yellow,,,0,1:7,20,Blaze,,Flash Fire,19,41.9,0.9,2,11
+Mewtwo,150,,,,Undiscovered,,Psychic,,"Bipedal, tailed form",Purple,,,0,GU,120,Pressure,,Unnerve,122,269,2,6,7
+Magnezone,462,,,,Mineral,,Electric,Steel,Head and arms,Gray,,,0,G,20,Magnet Pull,Sturdy,Analytic,180,396.8,1.2,3,11
+Baltoy,343,,,,Mineral,,Ground,Psychic,Head and arms,Brown,,,0,G,20,Levitate,,,21.5,47.4,0.5,1,8
+Venomoth,49,,,,Bug,,Bug,Poison,Two or more pairs of wings,Purple,,,2,1:1,20,Shield Dust,Tinted Lens,Wonder Skin,12.5,27.6,1.5,4,11
+Tangela,114,,,,Grass,,Grass,,Head and legs,Blue,,,2,1:1,20,Chlorophyll,Leaf Guard,Regenerator,35,77.2,1,3,3
+Grotle,388,,,,Monster,Grass,Grass,,Quadruped body,Green,,,0,1:7,20,Overgrow,,Shell Armor,97,213.8,1.1,3,7
+Drampa,780,,,,Monster,Dragon,Normal,Dragon,Serpentine bodies,White,,,0,1:1,20,Berserk,Sap Sipper,Cloud Nine,185,407.9,3,9,10
+Staravia,397,,,,Flying,,Normal,Flying,Single pair of wings,Brown,,,0,1:1,15,Intimidate,,Reckless,15.5,34.2,0.6,2,0
+Sigilyph,561,,,,Flying,,Psychic,Flying,Single pair of wings,Black,,,0,1:1,20,Wonder Skin,Magic Guard,Tinted Lens,14,30.9,1.4,4,7
+Klink,599,,,,Mineral,,Steel,,Multiple bodies,Gray,,,0,G,20,Plus,Minus,Clear Body,21,46.3,0.3,1,0
+Torracat,726,,,,Field,,Fire,,Quadruped body,Red,,,0,1:7,15,Blaze,,Intimidate,25,55.1,0.7,2,4
+Arbok,24,,,,Field,Dragon,Poison,,Serpentine bodies,Purple,,,0,1:1,20,Intimidate,Shed Skin,Unnerve,65,143.3,3.5,11,6
+Golett,622,,,,Mineral,,Ground,Ghost,"Bipedal, tailless form",Green,,,0,G,25,Iron Fist,Klutz,No Guard,92,202.8,1,3,3
+Unown,201,One form,,,Undiscovered,,Psychic,,Head,Black,,,0,GU,40,Levitate,,,5,11,0.5,1,8
+Delibird,225,,,,Water 1,Field,Ice,Flying,Single pair of wings,Red,,,0,1:1,20,Vital Spirit,Hustle,Insomnia,16,35.3,0.9,2,11
+Monferno,391,,,,Field,Human-Like,Fire,Fighting,"Bipedal, tailed form",Brown,,,0,1:7,20,Blaze,,Iron Fist,22,48.5,0.9,2,11
+Solosis,577,,,,Amorphous,,Psychic,,Head,Green,,,0,1:1,20,Overcoat,Magic Guard,Regenerator,1,2.2,0.3,1,0
+Typhlosion,157,,,,Field,,Fire,,Quadruped body,Yellow,,,0,1:7,20,Blaze,,Flash Fire,79.5,175.3,1.7,5,7
+Alakazam,65,,,,Human-Like,,Psychic,,"Bipedal, tailless form",Brown,,,0,1:3,20,Synchronize,Inner Focus,Magic Guard,48,105.8,1.5,4,11
+Quilladin,651,,,,Field,,Grass,,"Bipedal, tailed form",Green,,,0,1:7,20,Overgrow,,Bulletproof,29,63.9,0.7,2,4
+Smeargle,235,,,,Field,,Normal,,"Bipedal, tailed form",White,,,2,1:1,20,Own Tempo,Technician,Moody,58,127.9,1.2,3,11
+Horsea,116,,,,Water 1,Dragon,Water,,Head and a base,Blue,,,2,1:1,20,Swift Swim,Sniper,Damp,8,17.6,0.4,1,4
+Silvally,773,Type: Normal,,,Undiscovered,,Normal,,Quadruped body,Gray,,,0,GU,120,RKS System,,,100.5,221.6,2.3,7,7
+Dragalge,691,,,,Water 1,Dragon,Poison,Dragon,Head and a base,Brown,,,0,1:1,20,Poison Point,Poison Touch,Adaptability,81.5,179.7,1.8,5,11
+Solrock,338,,,,Mineral,,Rock,Psychic,Head,Red,,,0,G,25,Levitate,,,154,339.5,1.2,3,11
+Machop,66,,,,Human-Like,,Fighting,,"Bipedal, tailed form",Gray,,,2,1:3,20,Guts,No Guard,Steadfast,19.5,43,0.8,2,7
+Cobalion,638,,,,Undiscovered,,Steel,Fighting,Quadruped body,Blue,,,0,GU,80,Justified,,,250,551.2,2.1,6,11
+Vivillon,666,Elegant Pattern,,,Bug,,Bug,Flying,Two or more pairs of wings,White,,,0,1:1,15,Shield Dust,Compound Eyes,Friend Guard,17,37.5,1.2,3,11
+Miltank,241,,,,Field,,Normal,,"Bipedal, tailed form",Pink,,,2,1:0,20,Thick Fat,Scrappy,Sap Sipper,75.5,166.4,1.2,3,11
+Meloetta,648,Pirouette Forme,P,,Undiscovered,,Normal,Fighting,"Bipedal, tailless form",White,,,0,GU,120,Serene Grace,,,6.5,14.3,0.6,2,0
+Burmy,412,Sandy Cloak,G,,Bug,,Bug,,Head and a base,Green,,,0,1:1,15,Shed Skin,,Overcoat,3.4,7.5,0.2,0,8
+Golduck,55,,,,Water 1,Field,Water,,"Bipedal, tailed form",Blue,,,0,1:1,20,Damp,Cloud Nine,Swift Swim,76.6,168.9,1.7,5,7
+Blitzle,522,,,,Field,,Electric,,Quadruped body,Black,,,0,1:1,20,Lightning Rod,Motor Drive,Sap Sipper,29.8,65.7,0.8,2,7
+Mankey,56,,,,Field,,Fighting,,"Bipedal, tailed form",Brown,,,2,1:1,20,Vital Spirit,Anger Point,Defiant,28,61.7,0.5,1,8
+Hariyama,297,,,,Human-Like,,Fighting,,"Bipedal, tailless form",Brown,,,0,1:3,20,Thick Fat,Guts,Sheer Force,253.8,559.5,2.3,7,7
+Reshiram,643,Overdrive mode,,,Undiscovered,,Dragon,Fire,Single pair of wings,White,,,0,GU,120,Turboblaze,,,330,727.5,3.2,10,6
+Vivillon,666,Savanna Pattern,,,Bug,,Bug,Flying,Two or more pairs of wings,White,,,0,1:1,15,Shield Dust,Compound Eyes,Friend Guard,17,37.5,1.2,3,11
+Munna,517,,,,Field,,Psychic,,Quadruped body,Pink,,,0,1:1,10,Forewarn,Synchronize,Telepathy,23.3,51.4,0.6,2,0
+Sawk,539,,,,Human-Like,,Fighting,,"Bipedal, tailless form",Blue,,,0,0:1,20,Sturdy,Inner Focus,Mold Breaker,51,112.4,1.4,4,7
+Dustox,269,,,,Bug,,Bug,Poison,Two or more pairs of wings,Green,,,0,1:1,15,Shield Dust,,Compound Eyes,31.6,69.7,1.2,3,11
+Magcargo,219,,,,Amorphous,,Fire,Rock,Serpentine bodies,Red,,,0,1:1,20,Magma Armor,Flame Body,Weak Armor,55,121.3,0.8,2,7
+Cinccino,573,,,,Field,,Normal,,Quadruped body,Gray,,,0,3:1,15,Cute Charm,Technician,Skill Link,7.5,16.5,0.5,1,8
+Phione,489,,,,Water 1,Fairy,Water,,Head and arms,Blue,,,0,G,40,Hydration,,,3.1,6.8,0.4,1,4
+Igglybuff,174,,,,Undiscovered,,Normal,Fairy,"Bipedal, tailless form",Pink,,,2,3:1U,10,Cute Charm,Competitive,Friend Guard,1,2.2,0.3,1,0
+Garchomp,445,,,,Monster,Dragon,Dragon,Ground,"Bipedal, tailed form",Blue,,,0,1:1,40,Sand Veil,,Rough Skin,95,209.4,1.9,6,3
+Krookodile,553,,,,Field,,Ground,Dark,"Bipedal, tailed form",Red,,,0,1:1,20,Intimidate,Moxie,Anger Point,96.3,212.3,1.5,4,11
+Luxio,404,,,,Field,,Electric,,Quadruped body,Blue,,,0,1:1,20,Rivalry,Intimidate,Guts,30.5,67.2,0.9,2,11
+Florges,671,Orange Flower,,,Fairy,,Fairy,,Head and arms,White,,,0,1:0,20,Flower Veil,,Symbiosis,10,22,1.1,3,7
+Steenee,762,,,,Grass,,Grass,,"Bipedal, tailless form",Purple,,,0,1:0,20,Leaf Guard,Oblivious,Sweet Veil,8.2,18.1,0.7,2,4
+Bulbasaur,1,,,,Monster,Grass,Grass,Poison,Quadruped body,Green,,,0,1:7,20,Overgrow,,Chlorophyll,6.9,15.2,0.7,2,4
+Leafeon,470,,,,Field,,Grass,,Quadruped body,Green,,,0,1:7,35,Leaf Guard,,Chlorophyll,25.5,56.2,1,3,3
+Serperior,497,,,,Field,Grass,Grass,,Serpentine bodies,Green,,,0,1:7,20,Overgrow,,Contrary,63,138.9,3.3,10,10
+Kabuto,140,,,,Water 1,Water 3,Rock,Water,Insectoid body,Brown,,,0,1:7,30,Swift Swim,Battle Armor,Weak Armor,11.5,25.4,0.5,1,8
+Cosmoem,790,,,,Undiscovered,,Psychic,,Head,Blue,,,0,GU,120,Sturdy,,,999.9,2204.4,0.1,0,4
+Cresselia,488,,,,Undiscovered,,Psychic,,Serpentine bodies,Yellow,,,0,1:0U,120,Levitate,,,85.6,188.7,1.5,4,11
+Mandibuzz,630,,,,Flying,,Dark,Flying,Single pair of wings,Brown,,,0,1:0,20,Big Pecks,Overcoat,Weak Armor,39.5,87.1,1.2,3,11
+Floette,670,Yellow Flower,,,Fairy,,Fairy,,Head and arms,White,,0,0,1:0,20,Flower Veil,,Symbiosis,0.9,2,0.2,0,8
+Girafarig,203,,,,Field,,Normal,Psychic,Quadruped body,Yellow,,,0,1:1,20,Inner Focus,Early Bird,Sap Sipper,41.5,91.5,1.5,4,11
+Clamperl,366,,,,Water 1,,Water,,Head,Blue,,,0,1:1,20,Shell Armor,,Rattled,52.5,115.7,0.4,1,4
+Keldeo,647,Ordinary Form,,,Undiscovered,,Water,Fighting,Quadruped body,Yellow,,,0,GU,80,Justified,,,48.5,106.9,1.4,4,7
+Shaymin,492,Sky Forme,S,,Undiscovered,,Grass,Flying,Quadruped body,Green,,,0,GU,120,Serene Grace,,,5.2,11.5,0.4,1,4
+Tranquill,520,,,,Flying,,Normal,Flying,Single pair of wings,Gray,,,0,1:1,15,Big Pecks,Super Luck,Rivalry,15,33.1,0.6,2,0
+Solgaleo,791,Radiant Sun phase,,,Undiscovered,,Psychic,Steel,Quadruped body,White,,,0,GU,120,Full Metal Body,,,230,507.1,3.4,11,2
+Darmanitan,555,Standard Mode,,,Field,,Fire,,Quadruped body,Red,,,0,1:1,20,Sheer Force,,Zen Mode,92.9,204.8,1.3,4,3
+Sandshrew,27,,,,Field,,Ground,,"Bipedal, tailed form",Yellow,,,0,1:1,20,Sand Veil,,Sand Rush,12,26.5,0.6,2,0
+Marill,183,,,,Water 1,Fairy,Water,Fairy,"Bipedal, tailed form",Blue,,,0,1:1,10,Thick Fat,Huge Power,Sap Sipper,8.5,18.7,0.4,1,4
+Fennekin,653,,,,Field,,Fire,,Quadruped body,Red,,,0,1:7,20,Blaze,,Magician,9.4,20.7,0.4,1,4
+Pikachu,25,Rock Star,,,Field,Fairy,Electric,,Quadruped body,Yellow,,,0,1:1,10,Static,,Lightning Rod,6,13.2,0.4,1,4
+Sentret,161,,,,Field,,Normal,,Quadruped body,Brown,,,0,1:1,15,Run Away,Keen Eye,Frisk,6,13.2,0.8,2,7
+Stunfisk,618,,,,Water 1,Amorphous,Ground,Electric,Fins,Brown,,,0,1:1,20,Static,Limber,Sand Veil,11,24.3,0.7,2,4
+Ledyba,165,,,,Bug,,Bug,Flying,Single pair of wings,Red,,,0,1:1,15,Swarm,Early Bird,Rattled,10.8,23.8,1,3,3
+Rhyperior,464,,,,Monster,Field,Ground,Rock,"Bipedal, tailed form",Gray,,,0,1:1,20,Lightning Rod,Solid Rock,Reckless,282.8,623.5,2.4,7,10
+Houndour,228,,,,Field,,Dark,Fire,Quadruped body,Black,,,0,1:1,20,Early Bird,Flash Fire,Unnerve,10.8,23.8,0.6,2,0
+Vivillon,666,Archipelago Pattern,,,Bug,,Bug,Flying,Two or more pairs of wings,White,,,0,1:1,15,Shield Dust,Compound Eyes,Friend Guard,17,37.5,1.2,3,11
+Haunter,93,,,,Amorphous,,Ghost,Poison,Head and arms,Purple,,,0,1:1,20,Levitate,,,0.1,0.2,1.6,5,3
+Hippopotas,449,,,,Field,,Ground,,Quadruped body,Brown,,,0,1:1,30,Sand Stream,,Sand Force,49.5,109.1,0.8,2,7
+Comfey,764,,,,Grass,,Fairy,,Head,Green,,,0,3:1,20,Flower Veil,Triage,Natural Cure,0.3,0.7,0.1,0,4
+Ponyta,77,,,,Field,,Fire,,Quadruped body,Yellow,,,0,1:1,20,Run Away,Flash Fire,Flame Body,30,66.1,1,3,3
+Wingull,278,,,,Water 1,Flying,Water,Flying,Single pair of wings,White,,,2,1:1,20,Keen Eye,Hydration,Rain Dish,9.5,20.9,0.6,2,0
+Boldore,525,,,,Mineral,,Rock,,Tentacles or a multiped body,Blue,,,2,1:1,15,Sturdy,Weak Armor,Sand Force,102,224.9,0.9,2,11
+Joltik,595,,,,Bug,,Bug,Electric,Insectoid body,Yellow,,,0,1:1,20,Compound Eyes,Unnerve,Swarm,0.6,1.3,0.1,0,4
+Tympole,535,,,,Water 1,,Water,,Fins,Blue,,,0,1:1,20,Swift Swim,Hydration,Water Absorb,4.5,9.9,0.5,1,8
+Ambipom,424,,,,Field,,Normal,,"Bipedal, tailed form",Purple,,,0,1:1,20,Technician,Pickup,Skill Link,20.3,44.8,1.2,3,11
+Pupitar,247,,,,Monster,,Rock,Ground,Serpentine bodies,Gray,,,0,1:1,40,Shed Skin,,,152,335.1,1.2,3,11
+Drifloon,425,,,,Amorphous,,Ghost,Flying,Head and arms,Purple,,,0,1:1,30,Aftermath,Unburden,Flare Boost,1.2,2.6,0.4,1,4
+Togekiss,468,,,,Flying,Fairy,Fairy,Flying,Single pair of wings,White,,,0,1:7,10,Hustle,Serene Grace,Super Luck,38,83.8,1.5,4,11
+Nosepass,299,,,,Mineral,,Rock,,"Bipedal, tailless form",Gray,,,0,1:1,20,Sturdy,Magnet Pull,Sand Force,97,213.8,1,3,3
+Rotom,479,,,,Amorphous,,Electric,Ghost,Head,Red,,,0,G,20,Levitate,,,0.3,0.7,0.3,1,0
+Electrike,309,,,,Field,,Electric,,Quadruped body,Green,,,0,1:1,20,Static,Lightning Rod,Minus,15.2,33.5,0.6,2,0
+Vivillon,666,Garden Pattern,,,Bug,,Bug,Flying,Two or more pairs of wings,White,,,0,1:1,15,Shield Dust,Compound Eyes,Friend Guard,17,37.5,1.2,3,11
+Beldum,374,,,,Mineral,,Steel,Psychic,Head and a base,Blue,,,0,G,40,Clear Body,,Light Metal,95.2,209.9,0.6,2,0
+Carnivine,455,,,,Grass,,Grass,,Tentacles or a multiped body,Green,,,0,1:1,25,Levitate,,,27,59.5,1.4,4,7
+Stunky,434,,,,Field,,Poison,Dark,Quadruped body,Purple,,,0,1:1,20,Stench,Aftermath,Keen Eye,19.2,42.3,0.4,1,4
+Slowpoke,79,,,,Monster,Water 1,Water,Psychic,Quadruped body,Pink,,,0,1:1,20,Oblivious,Own Tempo,Regenerator,36,79.4,1.2,3,11
+Yungoos,734,,,,Field,,Normal,,Quadruped body,Brown,,,0,1:1,15,Stakeout,Strong Jaw,Adaptability,6,13.2,0.4,1,4
+Helioptile,694,,,,Monster,Dragon,Electric,Normal,"Bipedal, tailed form",Yellow,,,0,1:1,20,Dry Skin,Sand Veil,Solar Power,6,13.2,0.5,1,8
+Silcoon,266,,,,Bug,,Bug,,Head,White,,,0,1:1,15,Shed Skin,,,10,22,0.6,2,0
+Eevee,133,,,,Field,,Normal,,Quadruped body,Brown,,,2,1:7,35,Run Away,Adaptability,Anticipation,6.5,14.3,0.3,1,0
+Gastly,92,,,,Amorphous,,Ghost,Poison,Head,Purple,,,0,1:1,20,Levitate,,,0.1,0.2,1.3,4,3
+Nidoqueen,31,,,,Undiscovered,,Poison,Ground,"Bipedal, tailed form",Blue,,,2,1:0U,20,Poison Point,Rivalry,Sheer Force,60,132.3,1.3,4,3
+Rhyhorn,111,,,,Monster,Field,Ground,Rock,Quadruped body,Gray,,,0,1:1,20,Lightning Rod,Rock Head,Reckless,115,253.5,1,3,3
+Salazzle,758,,,,Monster,Dragon,Poison,Fire,Quadruped body,Black,,,0,1:0,20,Corrosion,,Oblivious,22.2,48.9,1.2,3,11
+Torterra,389,,,,Monster,Grass,Grass,Ground,Quadruped body,Green,,,0,1:7,20,Overgrow,,Shell Armor,310,683.4,2.2,7,3
+Torkoal,324,,,,Field,,Fire,,Quadruped body,Brown,,,2,1:1,20,White Smoke,Drought,Shell Armor,80.4,177.2,0.5,1,8
+Meloetta,648,Aria Forme,,,Undiscovered,,Normal,Psychic,"Bipedal, tailless form",White,,,0,GU,120,Serene Grace,,,6.5,14.3,0.6,2,0
+Wynaut,360,,,,Undiscovered,,Psychic,,"Bipedal, tailed form",Blue,,,0,1:1U,20,Shadow Tag,,Telepathy,14,30.9,0.6,2,0
+Treecko,252,,,,Monster,Dragon,Grass,,"Bipedal, tailed form",Green,,,0,1:7,20,Overgrow,,Unburden,5,11,0.5,1,8
+Mesprit,481,,,,Undiscovered,,Psychic,,"Bipedal, tailed form",Pink,,,0,GU,80,Levitate,,,0.3,0.7,0.3,1,0
+Corphish,341,,,,Water 1,Water 3,Water,,Insectoid body,Red,,,0,1:1,15,Hyper Cutter,Shell Armor,Adaptability,11.5,25.4,0.6,2,0
+Trevenant,709,,,,Grass,Amorphous,Ghost,Grass,Tentacles or a multiped body,Brown,,,0,1:1,20,Natural Cure,Frisk,Harvest,71,156.5,1.5,4,11
+Vikavolt,738,,,,Bug,,Bug,Electric,Insectoid body,Blue,,,0,1:1,15,Levitate,,,45,99.2,1.5,4,11
+Cubchoo,613,,,,Field,,Ice,,"Bipedal, tailed form",White,,,2,1:1,20,Snow Cloak,Slush Rush,Rattled,8.5,18.7,0.5,1,8
+Yveltal,717,,,,Undiscovered,,Dark,Flying,Single pair of wings,Red,,,0,GU,120,Dark Aura,,,203,447.5,5.8,19,0
+Dugtrio,51,,,,Field,,Ground,,Multiple bodies,Brown,,,0,1:1,20,Sand Veil,Arena Trap,Sand Force,33.3,73.4,0.7,2,4
+Lurantis,754,,,,Grass,,Grass,,"Bipedal, tailless form",Pink,,,0,1:1,20,Leaf Guard,,Contrary,18.5,40.8,0.9,2,11
+Furfrou,676,Debutante Trim,,,Field,,Normal,,Quadruped body,White,,,0,1:1,20,Fur Coat,,,28,61.7,1.2,3,11
+Qwilfish,211,,,,Water 2,,Water,Poison,Fins,Gray,,,0,1:1,20,Poison Point,Swift Swim,Intimidate,3.9,8.6,0.5,1,8
+Froslass,478,,,,Fairy,Mineral,Ice,Ghost,Head and arms,White,,,0,1:0,20,Snow Cloak,,Cursed Body,26.6,58.6,1.3,4,3
+Ekans,23,,,,Field,Dragon,Poison,,Serpentine bodies,Purple,,,0,1:1,20,Intimidate,Shed Skin,Unnerve,6.9,15.2,2,6,7
+Chingling,433,,,,Undiscovered,,Psychic,,"Bipedal, tailless form",Yellow,,,0,1:1U,25,Levitate,,,0.6,1.3,0.2,0,8
+Vivillon,666,Polar Pattern,,,Bug,,Bug,Flying,Two or more pairs of wings,White,,,0,1:1,15,Shield Dust,Compound Eyes,Friend Guard,17,37.5,1.2,3,11
+Lombre,271,,,,Water 1,Grass,Water,Grass,"Bipedal, tailless form",Green,,,0,1:1,15,Swift Swim,Rain Dish,Own Tempo,32.5,71.6,1.2,3,11
+Wurmple,265,,,,Bug,,Bug,,Insectoid body,Red,,,0,1:1,15,Shield Dust,,Run Away,3.6,7.9,0.3,1,0
+Gloom,44,,,,Grass,,Grass,Poison,"Bipedal, tailless form",Blue,,,0,1:1,20,Chlorophyll,,Stench,8.6,19,0.8,2,7
+Silvally,773,Type: Fire,,,Undiscovered,,Normal,,Quadruped body,Gray,,,0,GU,120,RKS System,,,100.5,221.6,2.3,7,7
+Aegislash,681,Blade Forme,B,,Mineral,,Steel,Ghost,Head and a base,Brown,,,0,1:1,20,Stance Change,,,53,116.8,1.7,5,7
+Marshadow,802,,,,Undiscovered,,Fighting,Ghost,"Bipedal, tailless form",Gray,,,0,GU,120,Technician,,,22.2,48.9,0.7,2,4
+Silvally,773,Type: Steel,,,Undiscovered,,Normal,,Quadruped body,Gray,,,0,GU,120,RKS System,,,100.5,221.6,2.3,7,7
+Golbat,42,,,,Flying,,Poison,Flying,Single pair of wings,Purple,,,0,1:1,15,Inner Focus,,Infiltrator,55,121.3,1.6,5,3
+Spheal,363,,,,Water 1,Field,Ice,Water,Fins,Blue,,,2,1:1,20,Thick Fat,Ice Body,Oblivious,39.5,87.1,0.8,2,7
+Grubbin,736,,,,Bug,,Bug,,Insectoid body,Gray,,,0,1:1,15,Swarm,,,4.4,9.7,0.4,1,4
+Braixen,654,,,,Field,,Fire,,"Bipedal, tailed form",Red,,,0,1:7,20,Blaze,,Magician,14.5,32,1,3,3
+Elekid,239,,,,Undiscovered,,Electric,,"Bipedal, tailless form",Yellow,,,0,1:3U,25,Static,,Vital Spirit,23.5,51.8,0.6,2,0
+Silvally,773,Type: Ground,,,Undiscovered,,Normal,,Quadruped body,Gray,,,0,GU,120,RKS System,,,100.5,221.6,2.3,7,7
+Emolga,587,,,,Field,,Electric,Flying,Quadruped body,White,,,0,1:1,20,Static,,Motor Drive,5,11,0.4,1,4
+Musharna,518,,,,Field,,Psychic,,"Bipedal, tailless form",Pink,,,0,1:1,10,Forewarn,Synchronize,Telepathy,60.5,133.4,1.1,3,7
+Pikachu,25,Pop Star,,,Field,Fairy,Electric,,Quadruped body,Yellow,,,0,1:1,10,Static,,Lightning Rod,6,13.2,0.4,1,4
+Flabébé,669,White Flower,,,Fairy,,Fairy,,Head and arms,White,,,0,1:0,20,Flower Veil,,Symbiosis,0.1,0.2,0.1,0,4
+Grumpig,326,,,,Field,,Psychic,,"Bipedal, tailed form",Purple,,,0,1:1,20,Thick Fat,Own Tempo,Gluttony,71.5,157.6,0.9,2,11
+Mime Jr.,439,,,,Undiscovered,,Psychic,Fairy,"Bipedal, tailless form",Pink,,,0,1:1U,25,Soundproof,Filter,Technician,13,28.7,0.6,2,0
+Silvally,773,Type: Rock,,,Undiscovered,,Normal,,Quadruped body,Gray,,,0,GU,120,RKS System,,,100.5,221.6,2.3,7,7
+Doduo,84,,,,Flying,,Normal,Flying,Head and legs,Brown,,,0,1:1,20,Run Away,Early Bird,Tangled Feet,39.2,86.4,1.4,4,7
+Escavalier,589,,,,Bug,,Bug,Steel,Head and arms,Gray,,,0,1:1,15,Swarm,Shell Armor,Overcoat,33,72.8,1,3,3
+Slowbro,80,,,,Monster,Water 1,Water,Psychic,"Bipedal, tailed form",Pink,,,0,1:1,20,Oblivious,Own Tempo,Regenerator,78.5,173.1,1.6,5,3
+Silvally,773,Type: Water,,,Undiscovered,,Normal,,Quadruped body,Gray,,,0,GU,120,RKS System,,,100.5,221.6,2.3,7,7
+Heracross,214,,,,Bug,,Bug,Fighting,"Bipedal, tailless form",Blue,,,0,1:1,25,Swarm,Guts,Moxie,54,119,1.5,4,11
+Rowlet,722,,,,Flying,,Grass,Flying,Single pair of wings,Brown,,,0,1:7,15,Overgrow,,Long Reach,1.5,3.3,0.3,1,0
+Shellder,90,,,,Water 3,,Water,,Head,Purple,,,2,1:1,20,Shell Armor,Skill Link,Overcoat,4,8.8,0.3,1,0
+Zebstrika,523,,,,Field,,Electric,,Quadruped body,Black,,,0,1:1,20,Lightning Rod,Motor Drive,Sap Sipper,79.5,175.3,1.6,5,3
+Crawdaunt,342,,,,Water 1,Water 3,Water,Dark,Insectoid body,Red,,,0,1:1,15,Hyper Cutter,Shell Armor,Adaptability,32.8,72.3,1.1,3,7
+Forretress,205,,,,Bug,,Bug,Steel,Head,Purple,,,0,1:1,20,Sturdy,,Overcoat,125.8,277.3,1.2,3,11
+Buzzwole,794,,,,Undiscovered,,Bug,Fighting,Tentacles or a multiped body,Red,,,0,GU,120,Beast Boost,,,333.6,735.5,2.4,7,10
+Gourgeist,711,Super Size,,,Amorphous,,Ghost,Grass,Head and a base,Brown,,,0,1:1,20,Pickup,Frisk,Insomnia,39,86,1.7,5,7
+Accelgor,617,,,,Bug,,Bug,,Head and arms,Red,,,0,1:1,15,Hydration,Sticky Hold,Unburden,25.3,55.8,0.8,2,7
+Cutiefly,742,,,,Bug,Fairy,Bug,Fairy,Insectoid body,Yellow,,,0,1:1,20,Honey Gather,Shield Dust,Sweet Veil,0.2,0.4,0.1,0,4
+Archen,566,,,,Flying,Water 3,Rock,Flying,Single pair of wings,Yellow,,,0,1:7,30,Defeatist,,,9.5,20.9,0.6,2,0
+Furfrou,676,Pharaoh Trim,,,Field,,Normal,,Quadruped body,White,,,0,1:1,20,Fur Coat,,,28,61.7,1.2,3,11
+Trubbish,568,,,,Mineral,,Poison,,"Bipedal, tailless form",Green,,,0,1:1,20,Stench,Sticky Hold,Aftermath,31,68.3,0.6,2,0
+Simipour,516,,,,Field,,Water,,"Bipedal, tailed form",Blue,,,0,1:7,20,Gluttony,,Torrent,29,63.9,1,3,3
+Cherrim,421,Overcast Form,,,Fairy,Grass,Grass,,Head and legs,Purple,,,0,1:1,20,Flower Gift,,,9.3,20.5,0.5,1,8
+Avalugg,713,,,,Monster,,Ice,,Quadruped body,Blue,,,0,1:1,20,Own Tempo,Ice Body,Sturdy,505,1113.3,2,6,7
+Florges,671,Yellow Flower,,,Fairy,,Fairy,,Head and arms,White,,,0,1:0,20,Flower Veil,,Symbiosis,10,22,1.1,3,7
+Zygarde,718,50% Forme,,,Undiscovered,,Dragon,Ground,Serpentine bodies,Green,,,0,GU,120,Aura Break,Power Construct,,305,672.4,1.2,3,11
+Liepard,510,,,,Field,,Dark,,Quadruped body,Purple,,,0,1:1,20,Limber,Unburden,Prankster,37.5,82.7,1.1,3,7
+Cleffa,173,,,,Undiscovered,,Fairy,,"Bipedal, tailed form",Pink,,,2,3:1U,10,Cute Charm,Magic Guard,Friend Guard,3,6.6,0.3,1,0
+Charjabug,737,,,,Bug,,Bug,Electric,Serpentine bodies,Green,,,0,1:1,15,Battery,,,10.5,23.1,0.5,1,8
+Meowth,52,,,,Field,,Normal,,Quadruped body,Yellow,,,2,1:1,20,Pickup,Technician,Unnerve,4.2,9.3,0.4,1,4
+Tornadus,641,Incarnate Forme,,,Undiscovered,,Flying,,Head and arms,Green,,,0,0:1U,120,Prankster,,Defiant,63,138.9,1.5,4,11
+Abra,63,,,,Human-Like,,Psychic,,"Bipedal, tailed form",Brown,,,0,1:3,20,Synchronize,Inner Focus,Magic Guard,19.5,43,0.9,2,11
+Charizard,6,Normal and,,,Monster,Dragon,Fire,Flying,"Bipedal, tailed form",Red,,,0,1:7,20,Blaze,,Solar Power,90.5,199.5,1.7,5,7
+Mareep,179,,,,Monster,Field,Electric,,Quadruped body,White,,,0,1:1,20,Static,,Plus,7.8,17.2,0.6,2,0
+Yanma,193,,,,Bug,,Bug,Flying,Two or more pairs of wings,Red,,,0,1:1,20,Speed Boost,Compound Eyes,Frisk,38,83.8,1.2,3,11
+Seaking,119,,,,Water 2,,Water,,Fins,Red,,,0,1:1,20,Swift Swim,Water Veil,Lightning Rod,39,86,1.3,4,3
+Marshtomp,259,,,,Monster,Water 1,Water,Ground,"Bipedal, tailed form",Blue,,,0,1:7,20,Torrent,,Damp,28,61.7,0.7,2,4
+Minun,312,,,,Fairy,,Electric,,"Bipedal, tailed form",Yellow,,,1,1:1,20,Minus,,Volt Absorb,4.2,9.3,0.4,1,4
+Deino,633,,,,Dragon,,Dark,Dragon,Quadruped body,Blue,,,0,1:1,40,Hustle,,,17.3,38.1,0.8,2,7
+Regirock,377,,,,Undiscovered,,Rock,,"Bipedal, tailless form",Brown,,,0,GU,80,Clear Body,,Sturdy,230,507.1,1.7,5,7
+Deerling,585,Winter Form,,,Field,,Normal,Grass,Quadruped body,Pink,,,0,1:1,20,Chlorophyll,Sap Sipper,Serene Grace,19.5,43,0.6,2,0
+Surskit,283,,,,Water 1,Bug,Bug,Water,Insectoid body,Blue,,,0,1:1,15,Swift Swim,,Rain Dish,1.7,3.7,0.5,1,8
+Seviper,336,,,,Field,Dragon,Poison,,Serpentine bodies,Black,,,0,1:1,20,Shed Skin,,Infiltrator,52.5,115.7,2.7,8,10
+Duosion,578,,,,Amorphous,,Psychic,,Head,Green,,,0,1:1,20,Overcoat,Magic Guard,Regenerator,8,17.6,0.6,2,0
+Aipom,190,,,,Field,,Normal,,"Bipedal, tailed form",Purple,,,0,1:1,20,Run Away,Pickup,Skill Link,11.5,25.4,0.8,2,7
+Wooper,194,,,,Water 1,Field,Water,Ground,Head and legs,Blue,,,0,1:1,20,Damp,Water Absorb,Unaware,8.5,18.7,0.4,1,4
+Leavanny,542,,,,Bug,,Bug,Grass,"Bipedal, tailless form",Yellow,,,0,1:1,15,Swarm,Chlorophyll,Overcoat,20.5,45.2,1.2,3,11
+Ledian,166,,,,Bug,,Bug,Flying,Single pair of wings,Red,,,0,1:1,15,Swarm,Early Bird,Iron Fist,35.6,78.5,1.4,4,7
+Drowzee,96,,,,Human-Like,,Psychic,,"Bipedal, tailless form",Yellow,,,2,1:1,20,Insomnia,Forewarn,Inner Focus,32.4,71.4,1,3,3
+Cyndaquil,155,,,,Field,,Fire,,"Bipedal, tailless form",Yellow,,,0,1:7,20,Blaze,,Flash Fire,7.9,17.4,0.5,1,8
+Volbeat,313,,,,Bug,Human-Like,Bug,,"Bipedal, tailed form",Gray,,,0,0:1,15,Illuminate,Swarm,Prankster,17.7,39,0.7,2,4
+Pancham,674,,,,Field,Human-Like,Fighting,,"Bipedal, tailed form",White,,,0,1:1,25,Iron Fist,Mold Breaker,Scrappy,8,17.6,0.6,2,0
+Hydreigon,635,,,,Dragon,,Dark,Dragon,"Bipedal, tailed form",Blue,,,0,1:1,40,Levitate,,,160,352.7,1.8,5,11
+Espeon,196,,,,Field,,Psychic,,Quadruped body,Purple,,,0,1:7,35,Synchronize,,Magic Bounce,26.5,58.4,0.9,2,11
+Fletchling,661,,,,Flying,,Normal,Flying,Single pair of wings,Red,,,0,1:1,15,Big Pecks,,Gale Wings,1.7,3.7,0.3,1,0
+Eelektrik,603,,,,Amorphous,,Electric,,Fins,Blue,,,0,1:1,20,Levitate,,,22,48.5,1.2,3,11
+Skrelp,690,,,,Water 1,Dragon,Poison,Water,Head and a base,Brown,,,0,1:1,20,Poison Point,Poison Touch,Adaptability,7.3,16.1,0.5,1,8
+Jynx,124,,,,Human-Like,,Ice,Psychic,"Bipedal, tailless form",Red,,,2,1:0,25,Oblivious,Forewarn,Dry Skin,40.6,89.5,1.4,4,7
+Kabutops,141,,,,Water 1,Water 3,Rock,Water,"Bipedal, tailed form",Brown,,,0,1:7,30,Swift Swim,Battle Armor,Weak Armor,40.5,89.3,1.3,4,3
+Beedrill,15,,,,Bug,,Bug,Poison,Two or more pairs of wings,Yellow,,,0,1:1,15,Swarm,,Sniper,29.5,65,1,3,3
+Manaphy,490,,,,Water 1,Fairy,Water,,"Bipedal, tailless form",Blue,,,0,G,10,Hydration,,,1.4,3.1,0.3,1,0
+Hitmontop,237,,,,Human-Like,,Fighting,,"Bipedal, tailed form",Brown,,,2,0:1,25,Intimidate,Technician,Steadfast,48,105.8,1.4,4,7
+Arceus,493,Type: Ground,,,Undiscovered,,Normal,,Quadruped body,White,,,0,GU,120,Multitype,,,320,705.5,3.2,10,6
+Scyther,123,,,,Bug,,Bug,Flying,Two or more pairs of wings,Green,,,2,1:1,25,Swarm,Technician,Steadfast,56,123.5,1.5,4,11
+Cloyster,91,,,,Water 3,,Water,Ice,Head,Purple,,,2,1:1,20,Shell Armor,Skill Link,Overcoat,132.5,292.1,1.5,4,11
+Ho-Oh,250,,,,Undiscovered,,Fire,Flying,Single pair of wings,Red,,,0,GU,120,Pressure,,Regenerator,199,438.7,3.8,12,6
+Muk,89,,,,Amorphous,,Poison,,Head and arms,Purple,,,0,1:1,20,Stench,Sticky Hold,Poison Touch,30,66.1,1.2,3,11
+Lilligant,549,,,,Grass,,Grass,,Head and a base,Green,,,0,1:0,20,Chlorophyll,Own Tempo,Leaf Guard,16.3,35.9,1.1,3,7
+Phantump,708,,,,Grass,Amorphous,Ghost,Grass,Head and arms,Brown,,,0,1:1,20,Natural Cure,Frisk,Harvest,7,15.4,0.4,1,4
+Psyduck,54,,,,Water 1,Field,Water,,"Bipedal, tailed form",Yellow,,,0,1:1,20,Damp,Cloud Nine,Swift Swim,19.6,43.2,0.8,2,7
+Type: Null,772,,,,Undiscovered,,Normal,,Quadruped body,Gray,,,0,GU,120,Battle Armor,,,120.5,265.7,1.9,6,3
+Chandelure,609,,,,Amorphous,,Ghost,Fire,Head and arms,Black,,,9,1:1,20,Flash Fire,Flame Body,Infiltrator,34.3,75.6,1,3,3
+Hitmonchan,107,,,,Human-Like,,Fighting,,"Bipedal, tailless form",Brown,,,2,0:1,25,Keen Eye,Iron Fist,Inner Focus,50.2,110.7,1.4,4,7
+Lickilicky,463,,,,Monster,,Normal,,"Bipedal, tailless form",Pink,,,0,1:1,20,Own Tempo,Oblivious,Cloud Nine,140,308.6,1.7,5,7
+Castform,351,Rainy Form,R,,Fairy,Amorphous,Water,,Head,Blue,,,0,1:1,25,Forecast,,,0.8,1.8,0.3,1,0
+Latios,381,,,,Undiscovered,,Dragon,Psychic,Single pair of wings,Blue,,,0,0:1U,120,Levitate,,,60,132.3,2,6,7
+Swalot,317,,,,Amorphous,,Poison,,Head and arms,Purple,,,0,1:1,20,Liquid Ooze,Sticky Hold,Gluttony,80,176.4,1.7,5,7
+Kadabra,64,,,,Human-Like,,Psychic,,"Bipedal, tailed form",Brown,,,0,1:3,20,Synchronize,Inner Focus,Magic Guard,56.5,124.6,1.3,4,3
+Pansear,513,,,,Field,,Fire,,"Bipedal, tailed form",Red,,,0,1:7,20,Gluttony,,Blaze,11,24.3,0.6,2,0
+Sylveon,700,,,,Field,,Fairy,,Quadruped body,Pink,,,0,1:7,35,Cute Charm,,Pixilate,23.5,51.8,1,3,3
+Lopunny,428,,,,Field,Human-Like,Normal,,"Bipedal, tailed form",Brown,,,0,1:1,20,Cute Charm,Klutz,Limber,33.3,73.4,1.2,3,11
+Hakamo-o,783,,,,Dragon,,Dragon,Fighting,"Bipedal, tailed form",Gray,,,0,1:1,40,Bulletproof,Soundproof,Overcoat,47,103.6,1.2,3,11
+Claydol,344,,,,Mineral,,Ground,Psychic,Head and arms,Black,,,0,G,20,Levitate,,,107.9,238,1.5,4,11
+Arceus,493,Type: Ghost,,,Undiscovered,,Normal,,Quadruped body,White,,,0,GU,120,Multitype,,,320,705.5,3.2,10,6
+Lotad,270,,,,Water 1,Grass,Water,Grass,Insectoid body,Green,,,0,1:1,15,Swift Swim,Rain Dish,Own Tempo,2.6,5.7,0.5,1,8
+Bounsweet,761,,,,Grass,,Grass,,Head and legs,Purple,,,0,1:0,20,Leaf Guard,Oblivious,Sweet Veil,3.2,7.1,0.3,1,0
+Murkrow,198,,,,Flying,,Dark,Flying,Single pair of wings,Black,,,2,1:1,20,Insomnia,Super Luck,Prankster,2.1,4.6,0.5,1,8
+Spritzee,682,,,,Fairy,,Fairy,,Head and arms,Pink,,,0,1:1,20,Healer,,Aroma Veil,0.5,1.1,0.2,0,8
+Arcanine,59,,,,Field,,Fire,,Quadruped body,Brown,,,0,1:3,20,Intimidate,Flash Fire,Justified,155,341.7,1.9,6,3
+Wailmer,320,,,,Field,Water 2,Water,,Fins,Blue,,,0,1:1,40,Water Veil,Oblivious,Pressure,130,286.6,2,6,7
+Swirlix,684,,,,Fairy,,Fairy,,Head and legs,White,,,0,1:1,20,Sweet Veil,,Unburden,3.5,7.7,0.4,1,4
+Dwebble,557,,,,Bug,Mineral,Bug,Rock,Insectoid body,Red,,,0,1:1,20,Sturdy,Shell Armor,Weak Armor,14.5,32,0.3,1,0
+Prinplup,394,,,,Water 1,Field,Water,,"Bipedal, tailed form",Blue,,,0,1:7,20,Torrent,,Defiant,23,50.7,0.8,2,7
+Articuno,144,,,,Undiscovered,,Ice,Flying,Single pair of wings,Blue,,,0,GU,80,Pressure,,Snow Cloak,55.4,122.1,1.7,5,7
+Decidueye,724,,,,Flying,,Grass,Ghost,Single pair of wings,Brown,,,0,1:7,15,Overgrow,,Long Reach,36.6,80.7,1.6,5,3
+Granbull,210,,,,Field,Fairy,Fairy,,"Bipedal, tailed form",Purple,,,2,3:1,20,Intimidate,Quick Feet,Rattled,48.7,107.4,1.4,4,7
+Kirlia,281,,,,Amorphous,,Psychic,Fairy,"Bipedal, tailless form",White,,,0,1:1,20,Synchronize,Trace,Telepathy,20.2,44.5,0.8,2,7
+Stufful,759,,,,Field,,Normal,Fighting,Quadruped body,Pink,,,0,1:1,15,Fluffy,Klutz,Cute Charm,6.8,15,0.5,1,8
+Dewgong,87,,,,Water 1,Field,Water,Ice,Fins,White,,,2,1:1,20,Thick Fat,Hydration,Ice Body,120,264.6,1.7,5,7
+Absol,359,,,,Field,,Dark,,Quadruped body,White,,,2,1:1,25,Pressure,Super Luck,Justified,47,103.6,1.2,3,11
+Nuzleaf,274,,,,Field,Grass,Grass,Dark,"Bipedal, tailless form",Brown,,,0,1:1,15,Chlorophyll,Early Bird,Pickpocket,28,61.7,1,3,3
+Sunflora,192,,,,Grass,,Grass,,"Bipedal, tailless form",Yellow,,,2,1:1,20,Chlorophyll,Solar Power,Early Bird,8.5,18.7,0.8,2,7
+Heatran,485,,,,Undiscovered,,Fire,Steel,Quadruped body,Brown,,,0,1:1U,10,Flash Fire,,Flame Body,430,948,1.7,5,7
+Thundurus,642,Therian Forme,T,,Undiscovered,,Electric,Flying,"Bipedal, tailed form",Blue,,,0,0:1U,120,Volt Absorb,,,61,134.5,3,9,10
+Arceus,493,Type: Dragon,,,Undiscovered,,Normal,,Quadruped body,White,,,0,GU,120,Multitype,,,320,705.5,3.2,10,6
+Dusknoir,477,,,,Amorphous,,Ghost,,Head and arms,Black,,,1,1:1,25,Pressure,,Frisk,106.6,235,2.2,7,3
+Charmeleon,5,,,,Monster,Dragon,Fire,,"Bipedal, tailed form",Red,,,0,1:7,20,Blaze,,Solar Power,19,41.9,1.1,3,7
+Starmie,121,,,,Water 3,,Water,Psychic,Head and a base,Purple,,,0,G,20,Illuminate,Natural Cure,Analytic,80,176.4,1.1,3,7
+Jolteon,135,,,,Field,,Electric,,Quadruped body,Yellow,,,0,1:7,35,Volt Absorb,,Quick Feet,24.5,54,0.8,2,7
+Bouffalant,626,,,,Field,,Normal,,Quadruped body,Brown,,,0,1:1,20,Reckless,Sap Sipper,Soundproof,94.5,208.3,1.6,5,3
+Zangoose,335,,,,Field,,Normal,,"Bipedal, tailed form",White,,,0,1:1,20,Immunity,,Toxic Boost,40.3,88.8,1.3,4,3
+Gabite,444,,,,Monster,Dragon,Dragon,Ground,"Bipedal, tailed form",Blue,,,0,1:1,40,Sand Veil,,Rough Skin,56,123.5,1.4,4,7
+Araquanid,752,,,,Water 1,Bug,Water,Bug,Insectoid body,Green,,,0,1:1,15,Water Bubble,,Water Absorb,82,180.8,1.8,5,11
+Braviary,628,,,,Flying,,Normal,Flying,Single pair of wings,Red,,,0,0:1,20,Keen Eye,Sheer Force,Defiant,41,90.4,1.5,4,11
+Bagon,371,,,,Dragon,,Dragon,,"Bipedal, tailless form",Blue,,,0,1:1,40,Rock Head,,Sheer Force,42.1,92.8,0.6,2,0
+Drifblim,426,,,,Amorphous,,Ghost,Flying,Head and arms,Purple,,,0,1:1,30,Aftermath,Unburden,Flare Boost,15,33.1,1.2,3,11
+Machoke,67,,,,Human-Like,,Fighting,,"Bipedal, tailless form",Gray,,,2,1:3,20,Guts,No Guard,Steadfast,70.5,155.4,1.5,4,11
+Primeape,57,,,,Field,,Fighting,,"Bipedal, tailed form",Brown,,,2,1:1,20,Vital Spirit,Anger Point,Defiant,32,70.5,1,3,3
+Seel,86,,,,Water 1,Field,Water,,Fins,White,,,2,1:1,20,Thick Fat,Hydration,Ice Body,90,198.4,1.1,3,7
+Shuckle,213,,,,Bug,,Bug,Rock,Insectoid body,Yellow,,,2,1:1,20,Sturdy,Gluttony,Contrary,20.5,45.2,0.6,2,0
+Whiscash,340,,,,Water 2,,Water,Ground,Fins,Blue,,,2,1:1,20,Oblivious,Anticipation,Hydration,23.6,52,0.9,2,11
+Seedot,273,,,,Field,Grass,Grass,,Head and legs,Brown,,,0,1:1,15,Chlorophyll,Early Bird,Pickpocket,4,8.8,0.5,1,8
+Reshiram,643,,,,Undiscovered,,Dragon,Fire,Single pair of wings,White,,,0,GU,120,Turboblaze,,,330,727.5,3.2,10,6
+Jigglypuff,39,,,,Fairy,,Normal,Fairy,"Bipedal, tailless form",Pink,,,2,3:1,10,Cute Charm,Competitive,Friend Guard,5.5,12.1,0.5,1,8
+Chikorita,152,,,,Monster,Grass,Grass,,Quadruped body,Green,,,0,1:7,20,Overgrow,,Leaf Guard,6.4,14.1,0.9,2,11
+Deoxys,386,Defense Forme,D,,Undiscovered,,Psychic,,"Bipedal, tailless form",Red,,,0,GU,120,Pressure,,,60.8,134,1.7,5,7
+Darkrai,491,,,,Undiscovered,,Dark,,"Bipedal, tailless form",Black,,,0,GU,120,Bad Dreams,,,50.5,111.3,1.5,4,11
+Magmar,126,,,,Human-Like,,Fire,,"Bipedal, tailed form",Red,,,0,1:3,25,Flame Body,,Vital Spirit,44.5,98.1,1.3,4,3
+Wartortle,8,,,,Monster,Water 1,Water,,"Bipedal, tailed form",Blue,,,0,1:7,20,Torrent,,Rain Dish,22.5,49.6,1,3,3
+Honedge,679,,,,Mineral,,Steel,Ghost,Head and a base,Brown,,,0,1:1,20,No Guard,,,2,4.4,0.8,2,7
+Walrein,365,,,,Water 1,Field,Ice,Water,Quadruped body,Blue,,,2,1:1,20,Thick Fat,Ice Body,Oblivious,150.6,332,1.4,4,7
+Sudowoodo,185,,,,Mineral,,Rock,,"Bipedal, tailless form",Brown,,,0,1:1,20,Sturdy,Rock Head,Rattled,38,83.8,1.2,3,11
+Arceus,493,Type: Bug,,,Undiscovered,,Normal,,Quadruped body,White,,,0,GU,120,Multitype,,,320,705.5,3.2,10,6
+Drilbur,529,,,,Field,,Ground,,"Bipedal, tailed form",Gray,,,0,1:1,20,Sand Rush,Sand Force,Mold Breaker,8.5,18.7,0.3,1,0
+Celesteela,797,,,,Undiscovered,,Steel,Flying,"Bipedal, tailless form",Green,,,0,GU,120,Beast Boost,,,999.9,2204.4,9.2,30,2
+Blastoise,9,,,,Monster,Water 1,Water,,"Bipedal, tailed form",Blue,,,0,1:7,20,Torrent,,Rain Dish,85.5,188.5,1.6,5,3
+Trapinch,328,,,,Bug,,Ground,,Insectoid body,Brown,,,0,1:1,20,Hyper Cutter,Arena Trap,Sheer Force,15,33.1,0.7,2,4
+Guzzlord,799,,,,Undiscovered,,Dark,Dragon,"Bipedal, tailed form",Black,,,0,GU,120,Beast Boost,,,888,1957.7,5.5,18,1
+Throh,538,,,,Human-Like,,Fighting,,"Bipedal, tailless form",Red,,,0,0:1,20,Guts,Inner Focus,Mold Breaker,55.5,122.4,1.3,4,3
+Vullaby,629,,,,Flying,,Dark,Flying,Single pair of wings,Brown,,,0,1:0,20,Big Pecks,Overcoat,Weak Armor,9,19.8,0.5,1,8
+Flabébé,669,Yellow Flower,,,Fairy,,Fairy,,Head and arms,White,,,0,1:0,20,Flower Veil,,Symbiosis,0.1,0.2,0.1,0,4
+Umbreon,197,,,,Field,,Dark,,Quadruped body,Black,,,0,1:7,35,Synchronize,,Inner Focus,27,59.5,1,3,3
+Wormadam,413,Trash Cloak,S,,Bug,,Bug,Steel,Head and a base,Red,,,0,1:0,15,Anticipation,,Overcoat,6.5,14.3,0.5,1,8
+Marshadow,802,Zenith,,,Undiscovered,,Fighting,Ghost,"Bipedal, tailless form",Gray,,,0,GU,120,Technician,,,22.2,48.9,0.7,2,4
+Zigzagoon,263,,,,Field,,Normal,,Quadruped body,Brown,,,2,1:1,15,Pickup,Gluttony,Quick Feet,17.5,38.6,0.4,1,4
+Bisharp,625,,,,Human-Like,,Dark,Steel,"Bipedal, tailless form",Red,,,0,1:1,20,Defiant,Inner Focus,Pressure,70,154.3,1.6,5,3
+Sneasel,215,,,,Field,,Dark,Ice,"Bipedal, tailed form",Black,,,0,1:1,20,Inner Focus,Keen Eye,Pickpocket,28,61.7,0.9,2,11
+Riolu,447,,,,Undiscovered,,Fighting,,"Bipedal, tailed form",Blue,,,0,1:7U,25,Steadfast,Inner Focus,Prankster,20.2,44.5,0.7,2,4
+Shuppet,353,,,,Amorphous,,Ghost,,Head,Black,,,2,1:1,25,Insomnia,Frisk,Cursed Body,2.3,5.1,0.6,2,0
+Deoxys,386,Normal Forme,,,Undiscovered,,Psychic,,"Bipedal, tailless form",Red,,,0,GU,120,Pressure,,,60.8,134,1.7,5,7
+Aegislash,681,Shield Forme,,,Mineral,,Steel,Ghost,Head and a base,Brown,,,0,1:1,20,Stance Change,,,53,116.8,1.7,5,7
+Necrozma,800,,,,Undiscovered,,Psychic,,Head and arms,Black,,,0,GU,120,Prism Armor,,,230,507.1,4.2,13,9
+Vanillish,583,,,,Mineral,,Ice,,Head and a base,White,,,2,1:1,20,Ice Body,Snow Cloak,Weak Armor,41,90.4,1.1,3,7
+Vivillon,666,Icy Snow Pattern,,,Bug,,Bug,Flying,Two or more pairs of wings,White,,,0,1:1,15,Shield Dust,Compound Eyes,Friend Guard,17,37.5,1.2,3,11
+Mothim,414,,,,Bug,,Bug,Flying,Two or more pairs of wings,Yellow,,,0,0:1,15,Swarm,,Tinted Lens,23.3,51.4,0.9,2,11
+Pikachu,25,Belle,,,Field,Fairy,Electric,,Quadruped body,Yellow,,,0,1:1,10,Static,,Lightning Rod,6,13.2,0.4,1,4
+Krabby,98,,,,Water 3,,Water,,Insectoid body,Red,,,0,1:1,20,Hyper Cutter,Shell Armor,Sheer Force,6.5,14.3,0.4,1,4
+Slowking,199,,,,Monster,Water 1,Water,Psychic,"Bipedal, tailed form",Pink,,,0,1:1,20,Oblivious,Own Tempo,Regenerator,79.5,175.3,2,6,7
+Noibat,714,,,,Flying,,Flying,Dragon,Single pair of wings,Purple,,,0,1:1,20,Frisk,Infiltrator,Telepathy,8,17.6,0.5,1,8
+Tapu Fini,788,,,,Undiscovered,,Water,Fairy,Head and arms,Purple,,,0,GU,15,Misty Surge,,Telepathy,21.2,46.7,1.3,4,3
+Bayleef,153,,,,Monster,Grass,Grass,,Quadruped body,Green,,,0,1:7,20,Overgrow,,Leaf Guard,15.8,34.8,1.2,3,11
+Mawile,303,,,,Field,Fairy,Steel,Fairy,"Bipedal, tailless form",Black,,,0,1:1,20,Hyper Cutter,Intimidate,Sheer Force,11.5,25.4,0.6,2,0
+Goodra,706,,,,Dragon,,Dragon,,"Bipedal, tailed form",Purple,,,0,1:1,40,Sap Sipper,Hydration,Gooey,150.5,331.8,2,6,7
+Lairon,305,,,,Monster,,Steel,Rock,Quadruped body,Gray,,,0,1:1,35,Sturdy,Rock Head,Heavy Metal,120,264.6,0.9,2,11
+Meganium,154,,,,Monster,Grass,Grass,,Quadruped body,Green,,,0,1:7,20,Overgrow,,Leaf Guard,100.5,221.6,1.8,5,11
+Diggersby,660,,,,Field,,Normal,Ground,"Bipedal, tailed form",Brown,,,0,1:1,15,Pickup,Cheek Pouch,Huge Power,42.4,93.5,1,3,3
+Arceus,493,Type: Dark,,,Undiscovered,,Normal,,Quadruped body,White,,,0,GU,120,Multitype,,,320,705.5,3.2,10,6
+Zekrom,644,Overdrive mode,,,Undiscovered,,Dragon,Electric,"Bipedal, tailed form",Black,,,0,GU,120,Teravolt,,,345,760.6,2.9,9,6
+Dodrio,85,,,,Flying,,Normal,Flying,Head and legs,Brown,,,0,1:1,20,Run Away,Early Bird,Tangled Feet,85.2,187.8,1.8,5,11
+Octillery,224,,,,Water 1,Water 2,Water,,Tentacles or a multiped body,Red,,,2,1:1,20,Suction Cups,Sniper,Moody,28.5,62.8,0.9,2,11
+Electivire,466,,,,Human-Like,,Electric,,"Bipedal, tailed form",Yellow,,,0,1:3,25,Motor Drive,,Vital Spirit,138.6,305.6,1.8,5,11
+Mimikyu,778,Disguised Form,,,Amorphous,,Ghost,Fairy,Serpentine bodies,Yellow,,,0,1:1,20,Disguise,,,0.7,1.5,0.2,0,8
+Flygon,330,,,,Bug,,Ground,Dragon,Single pair of wings,Green,,,0,1:1,20,Levitate,,,82,180.8,2,6,7
+Arceus,493,Type: Fairy,,,Undiscovered,,Normal,,Quadruped body,White,,,0,GU,120,Multitype,,,320,705.5,3.2,10,6
+Florges,671,White Flower,,,Fairy,,Fairy,,Head and arms,White,,,0,1:0,20,Flower Veil,,Symbiosis,10,22,1.1,3,7
+Vivillon,666,Jungle Pattern,,,Bug,,Bug,Flying,Two or more pairs of wings,White,,,0,1:1,15,Shield Dust,Compound Eyes,Friend Guard,17,37.5,1.2,3,11
+Froakie,656,,,,Water 1,,Water,,Quadruped body,Blue,,,0,1:7,20,Torrent,,Protean,7,15.4,0.3,1,0
+Slakoth,287,,,,Field,,Normal,,Quadruped body,Brown,,,0,1:1,15,Truant,,,24,52.9,0.8,2,7
+Grovyle,253,,,,Monster,Dragon,Grass,,"Bipedal, tailed form",Green,,,0,1:7,20,Overgrow,,Unburden,21.6,47.6,0.9,2,11
+Gigalith,526,,,,Mineral,,Rock,,Tentacles or a multiped body,Blue,,,2,1:1,15,Sturdy,Sand Stream,Sand Force,260,573.2,1.7,5,7
+Budew,406,,,,Undiscovered,,Grass,Poison,"Bipedal, tailless form",Green,,,0,1:1U,20,Natural Cure,Poison Point,Leaf Guard,1.2,2.6,0.2,0,8
+Pineco,204,,,,Bug,,Bug,,Head,Gray,,,0,1:1,20,Sturdy,,Overcoat,7.2,15.9,0.6,2,0
+Kyurem,646,Normal,,,Undiscovered,,Dragon,Ice,"Bipedal, tailed form",Gray,,,0,GU,120,Pressure,,,325,716.5,3.3,10,10
+Tropius,357,,,,Monster,Grass,Grass,Flying,Quadruped body,Green,,,2,1:1,25,Chlorophyll,Solar Power,Harvest,100,220.5,2,6,7
+Zorua,570,,,,Field,,Dark,,Quadruped body,Gray,,,0,1:7,25,Illusion,,,12.5,27.6,0.7,2,4
+Stantler,234,,,,Field,,Normal,,Quadruped body,Brown,,,2,1:1,20,Intimidate,Frisk,Sap Sipper,71.2,157,1.4,4,7
+Barboach,339,,,,Water 2,,Water,Ground,Fins,Gray,,,2,1:1,20,Oblivious,Anticipation,Hydration,1.9,4.2,0.4,1,4
+Aggron,306,,,,Monster,,Steel,Rock,"Bipedal, tailed form",Gray,,,0,1:1,35,Sturdy,Rock Head,Heavy Metal,360,793.7,2.1,6,11
+Furfrou,676,Heart Trim,,,Field,,Normal,,Quadruped body,White,,,0,1:1,20,Fur Coat,,,28,61.7,1.2,3,11
+Blaziken,257,,,,Field,,Fire,Fighting,"Bipedal, tailed form",Red,,,0,1:7,20,Blaze,,Speed Boost,52,114.6,1.9,6,3
+Piplup,393,,,,Water 1,Field,Water,,"Bipedal, tailless form",Blue,,,0,1:7,20,Torrent,,Defiant,5.2,11.5,0.4,1,4
+Kricketune,402,,,,Bug,,Bug,,Two or more pairs of wings,Red,,,0,1:1,15,Swarm,,Technician,25.5,56.2,1,3,3
+Pidgey,16,,,,Flying,,Normal,Flying,Single pair of wings,Brown,,,2,1:1,15,Keen Eye,Tangled Feet,Big Pecks,1.8,4,0.3,1,0
+Dialga,483,,,,Undiscovered,,Steel,Dragon,Quadruped body,White,,,0,GU,120,Pressure,,Telepathy,683,1505.8,5.4,17,9
+Burmy,412,Trash Cloak,S,,Bug,,Bug,,Head and a base,Green,,,0,1:1,15,Shed Skin,,Overcoat,3.4,7.5,0.2,0,8
+Silvally,773,Type: Bug,,,Undiscovered,,Normal,,Quadruped body,Gray,,,0,GU,120,RKS System,,,100.5,221.6,2.3,7,7
+Palkia,484,,,,Undiscovered,,Water,Dragon,"Bipedal, tailed form",Purple,,,0,GU,120,Pressure,,Telepathy,336,740.8,4.2,13,9
+Dusclops,356,,,,Amorphous,,Ghost,,"Bipedal, tailless form",Black,,,1,1:1,25,Pressure,,Frisk,30.6,67.5,1.6,5,3
+Snover,459,,,,Monster,Grass,Grass,Ice,"Bipedal, tailed form",White,,,0,1:1,20,Snow Warning,,Soundproof,50.5,111.3,1,3,3
+Cranidos,408,,,,Monster,,Rock,,"Bipedal, tailed form",Blue,,,0,1:7,30,Mold Breaker,,Sheer Force,31.5,69.4,0.9,2,11
+Nihilego,793,,,,Undiscovered,,Rock,Poison,Tentacles or a multiped body,White,,,0,GU,120,Beast Boost,,,55.5,122.4,1.2,3,11
+Seismitoad,537,,,,Water 1,,Water,Ground,"Bipedal, tailless form",Blue,,,0,1:1,20,Swift Swim,Poison Touch,Water Absorb,62,136.7,1.5,4,11
+Pikachu,25,Unova Cap,,,Field,Fairy,Electric,,Quadruped body,Yellow,,,0,1:1,10,Static,,Lightning Rod,6,13.2,0.4,1,4
+Chimchar,390,,,,Field,Human-Like,Fire,,"Bipedal, tailed form",Brown,,,0,1:7,20,Blaze,,Iron Fist,6.2,13.7,0.5,1,8
+Delphox,655,,,,Field,,Fire,Psychic,"Bipedal, tailed form",Red,,,0,1:7,20,Blaze,,Magician,39,86,1.5,4,11
+Paras,46,,,,Bug,Grass,Bug,Grass,Insectoid body,Red,,,2,1:1,20,Effect Spore,Dry Skin,Damp,5.4,11.9,0.3,1,0
+Chespin,650,,,,Field,,Grass,,"Bipedal, tailed form",Green,,,0,1:7,20,Overgrow,,Bulletproof,9,19.8,0.4,1,4
+Sandile,551,,,,Field,,Ground,Dark,Quadruped body,Brown,,,0,1:1,20,Intimidate,Moxie,Anger Point,15.2,33.5,0.7,2,4
+Ferrothorn,598,,,,Grass,Mineral,Grass,Steel,Tentacles or a multiped body,Gray,,,1,1:1,20,Iron Barbs,,Anticipation,110,242.5,1,3,3
+Carvanha,318,,,,Water 2,,Water,Dark,Fins,Red,,,0,1:1,20,Rough Skin,,Speed Boost,20.8,45.9,0.8,2,7
+Cherrim,421,Sunshine Form,,,Fairy,Grass,Grass,,Head and legs,Pink,,,0,1:1,20,Flower Gift,,,9.3,20.5,0.5,1,8
+Ludicolo,272,,,,Water 1,Grass,Water,Grass,"Bipedal, tailless form",Green,,,0,1:1,15,Swift Swim,Rain Dish,Own Tempo,55,121.3,1.5,4,11
+Xerneas,716,Active Mode,,,Undiscovered,,Fairy,,Quadruped body,Blue,,,0,GU,120,Fairy Aura,,,215,474,3,9,10
+Vanillite,582,,,,Mineral,,Ice,,Head and a base,White,,,2,1:1,20,Ice Body,Snow Cloak,Weak Armor,5.7,12.6,0.4,1,4
+Klefki,707,,,,Mineral,,Steel,Fairy,Head,Gray,,,0,1:1,20,Prankster,,Magician,3,6.6,0.2,0,8
+Castform,351,Sunny Form,S,,Fairy,Amorphous,Fire,,Head,Red,,,0,1:1,25,Forecast,,,0.8,1.8,0.3,1,0
+Furfrou,676,Kabuki Trim,,,Field,,Normal,,Quadruped body,White,,,0,1:1,20,Fur Coat,,,28,61.7,1.2,3,11
+Pikachu,25,Hoenn Cap,,,Field,Fairy,Electric,,Quadruped body,Yellow,,,0,1:1,10,Static,,Lightning Rod,6,13.2,0.4,1,4
+Poochyena,261,,,,Field,,Dark,,Quadruped body,Gray,,,2,1:1,15,Run Away,Quick Feet,Rattled,13.6,30,0.5,1,8
+Oricorio,741,Sensu Style,,,Flying,,Fire,Flying,Single pair of wings,Purple,,,0,3:1,20,Dancer,,,3.4,7.5,0.6,2,0
+Ditto,132,,,,Ditto,,Normal,,Head,Purple,,,0,G*,20,Limber,,Imposter,4,8.8,0.3,1,0
+Chansey,113,,,,Fairy,,Normal,,"Bipedal, tailed form",Pink,,,0,1:0,40,Natural Cure,Serene Grace,Healer,34.6,76.3,1.1,3,7
+Naganadel,804,,,,Undiscovered,,Poison,Dragon,Single pair of wings,Purple,,,0,GU,120,Beast Boost,,,150,330.7,3.6,11,10
+Eelektross,604,,,,Amorphous,,Electric,,Fins,Blue,,,0,1:1,20,Levitate,,,80.5,177.5,2.1,6,11
+Deoxys,386,Speed Forme,S,,Undiscovered,,Psychic,,"Bipedal, tailless form",Red,,,0,GU,120,Pressure,,,60.8,134,1.7,5,7
+Pikachu,25,Original Cap,,,Field,Fairy,Electric,,Quadruped body,Yellow,,,0,1:1,10,Static,,Lightning Rod,6,13.2,0.4,1,4
+Pachirisu,417,,,,Field,Fairy,Electric,,Quadruped body,White,,,0,1:1,10,Run Away,Pickup,Volt Absorb,3.9,8.6,0.4,1,4
+Clefairy,35,,,,Fairy,,Fairy,,"Bipedal, tailed form",Pink,,,2,3:1,10,Cute Charm,Magic Guard,Friend Guard,7.5,16.5,0.6,2,0
+Armaldo,348,,,,Water 3,,Rock,Bug,"Bipedal, tailed form",Gray,,,0,1:7,30,Battle Armor,,Swift Swim,68.2,150.4,1.5,4,11
+Golisopod,768,,,,Bug,Water 3,Bug,Water,"Bipedal, tailless form",Gray,,,0,1:1,20,Emergency Exit,,,108,238.1,2,6,7
+Floette,670,Red Flower,,,Fairy,,Fairy,,Head and arms,White,,9,0,1:0,20,Flower Veil,,Symbiosis,0.9,2,0.2,0,8
+Zapdos,145,,,,Undiscovered,,Electric,Flying,Single pair of wings,Yellow,,,9,GU,80,Pressure,,Static,52.6,116,1.6,5,3
+Pinsir,127,,,,Bug,,Bug,,"Bipedal, tailless form",Brown,,,2,1:1,25,Hyper Cutter,Mold Breaker,Moxie,55,121.3,1.5,4,11
+Dunsparce,206,,,,Field,,Normal,,Serpentine bodies,Yellow,,,0,1:1,20,Serene Grace,Run Away,Rattled,14,30.9,1.5,4,11
+Sawsbuck,586,Autumn Form,,,Field,,Normal,Grass,Quadruped body,Brown,,,0,1:1,20,Chlorophyll,Sap Sipper,Serene Grace,92.5,203.9,1.9,6,3
+Gastrodon,423,West Sea,,,Water 1,Amorphous,Water,Ground,Serpentine bodies,Purple,,,0,1:1,20,Sticky Hold,Storm Drain,Sand Force,29.9,65.9,0.9,2,11
+Delcatty,301,,,,Field,Fairy,Normal,,Quadruped body,Purple,,,2,3:1,15,Cute Charm,Normalize,Wonder Skin,32.6,71.9,1.1,3,7
+Regigigas,486,,,,Undiscovered,,Normal,,"Bipedal, tailless form",White,,,0,GU,120,Slow Start,,,420,925.9,3.7,12,2
+Xerneas,716,Neutral Mode,,,Undiscovered,,Fairy,,Quadruped body,Blue,,,0,GU,120,Fairy Aura,,,215,474,3,9,10
+Arceus,493,Type: Ice,,,Undiscovered,,Normal,,Quadruped body,White,,,0,GU,120,Multitype,,,320,705.5,3.2,10,6
+Moltres,146,,,,Undiscovered,,Fire,Flying,Single pair of wings,Yellow,,,0,GU,80,Pressure,,Flame Body,60,132.3,2,6,7
+Pelipper,279,,,,Water 1,Flying,Water,Flying,Single pair of wings,Yellow,,,2,1:1,20,Keen Eye,Drizzle,Rain Dish,28,61.7,1.2,3,11
+Gourgeist,711,Large Size,,,Amorphous,,Ghost,Grass,Head and a base,Brown,,,0,1:1,20,Pickup,Frisk,Insomnia,14,30.9,1.1,3,7
+Wobbuffet,202,,,,Amorphous,,Psychic,,Head and a base,Blue,,,0,1:1,20,Shadow Tag,,Telepathy,28.5,62.8,1.3,4,3
+Greninja,658,,,,Water 1,,Water,Dark,"Bipedal, tailless form",Blue,,,0,1:7,20,Torrent,,Protean,40,88.2,1.5,4,11
+Poipole,803,,,,Undiscovered,,Poison,,"Bipedal, tailed form",Purple,,,0,GU,120,Beast Boost,,,1.8,4,0.6,2,0
+Altaria,334,,,,Flying,Dragon,Dragon,Flying,Single pair of wings,Blue,,,0,1:1,20,Natural Cure,,Cloud Nine,20.6,45.4,1.1,3,7
+Flaaffy,180,,,,Monster,Field,Electric,,"Bipedal, tailed form",Pink,,,0,1:1,20,Static,,Plus,13.3,29.3,0.8,2,7
+Wormadam,413,Plant Cloak,,,Bug,,Bug,Grass,Head and a base,Green,,,0,1:0,15,Anticipation,,Overcoat,6.5,14.3,0.5,1,8
+Gumshoos,735,,,,Field,,Normal,,Quadruped body,Brown,,,0,1:1,15,Stakeout,Strong Jaw,Adaptability,14.2,31.3,0.7,2,4
+Gastrodon,423,East Sea,E,,Water 1,Amorphous,Water,Ground,Serpentine bodies,Blue,,,0,1:1,20,Sticky Hold,Storm Drain,Sand Force,29.9,65.9,0.9,2,11
+Togedemaru,777,,,,Field,Fairy,Electric,Steel,"Bipedal, tailed form",Gray,,,0,1:1,10,Iron Barbs,Lightning Rod,Sturdy,3.3,7.3,0.3,1,0
+Linoone,264,,,,Field,,Normal,,Quadruped body,White,,,2,1:1,15,Pickup,Gluttony,Quick Feet,32.5,71.6,0.5,1,8
+Aromatisse,683,,,,Fairy,,Fairy,,"Bipedal, tailless form",Pink,,,0,1:1,20,Healer,,Aroma Veil,15.5,34.2,0.8,2,7
+Swellow,277,,,,Flying,,Normal,Flying,Single pair of wings,Blue,,,0,1:1,15,Guts,,Scrappy,19.8,43.7,0.7,2,4
+Crabominable,740,,,,Water 3,,Fighting,Ice,Insectoid body,White,,,0,1:1,20,Hyper Cutter,Iron Fist,Anger Point,180,396.8,1.7,5,7
+Nidoran♂,32,,,,Monster,Field,Poison,,Quadruped body,Purple,,,2,0:1,20,Poison Point,Rivalry,Hustle,9,19.8,0.5,1,8
+Duskull,355,,,,Amorphous,,Ghost,,Head and arms,Black,,,1,1:1,25,Levitate,,Frisk,15,33.1,0.8,2,7
+Heatmor,631,,,,Field,,Fire,,"Bipedal, tailed form",Red,,,0,1:1,20,Gluttony,Flash Fire,White Smoke,58,127.9,1.4,4,7
+Stoutland,508,,,,Field,,Normal,,Quadruped body,Gray,,,0,1:1,15,Intimidate,Sand Rush,Scrappy,61,134.5,1.2,3,11
+Finneon,456,,,,Water 2,,Water,,Fins,Blue,,,0,1:1,20,Swift Swim,Storm Drain,Water Veil,7,15.4,0.4,1,4
+Skuntank,435,,,,Field,,Poison,Dark,Quadruped body,Purple,,,0,1:1,20,Stench,Aftermath,Keen Eye,38,83.8,1,3,3
+Rampardos,409,,,,Monster,,Rock,,"Bipedal, tailed form",Blue,,,0,1:7,30,Mold Breaker,,Sheer Force,102.5,226,1.6,5,3
+Machamp,68,,,,Human-Like,,Fighting,,"Bipedal, tailless form",Gray,,,2,1:3,20,Guts,No Guard,Steadfast,130,286.6,1.6,5,3
+Swampert,260,,,,Monster,Water 1,Water,Ground,"Bipedal, tailed form",Blue,,,0,1:7,20,Torrent,,Damp,81.9,180.6,1.5,4,11
+Litleo,667,,,,Field,,Fire,Normal,Quadruped body,Brown,,,0,7:1,20,Rivalry,Unnerve,Moxie,13.5,29.8,0.6,2,0
+Sableye,302,,,,Human-Like,,Dark,Ghost,"Bipedal, tailless form",Purple,,,2,1:1,25,Keen Eye,Stall,Prankster,11,24.3,0.5,1,8
+Pikachu,25,"Pikachu, Ph. D",,,Field,Fairy,Electric,,Quadruped body,Yellow,,,0,1:1,10,Static,,Lightning Rod,6,13.2,0.4,1,4
+Hoothoot,163,,,,Flying,,Normal,Flying,Single pair of wings,Brown,,,0,1:1,15,Insomnia,Keen Eye,Tinted Lens,21.2,46.7,0.7,2,4
+Pumpkaboo,710,Large Size,,,Amorphous,,Ghost,Grass,Head,Brown,,,0,1:1,20,Pickup,Frisk,Insomnia,7.5,16.5,0.5,1,8
+Pyroar,668,,,,Field,,Fire,Normal,Quadruped body,Brown,,,0,7:1,20,Rivalry,Unnerve,Moxie,81.5,179.7,1.5,4,11
+Arceus,493,Type: Rock,,,Undiscovered,,Normal,,Quadruped body,White,,,0,GU,120,Multitype,,,320,705.5,3.2,10,6
+Shellos,422,West Sea,,,Water 1,Amorphous,Water,,Serpentine bodies,Purple,,,0,1:1,20,Sticky Hold,Storm Drain,Sand Force,6.3,13.9,0.3,1,0
+Landorus,645,Incarnate Forme,,,Undiscovered,,Ground,Flying,Head and arms,Brown,,,0,0:1U,120,Sand Force,,Sheer Force,68,149.9,1.3,4,3
+Druddigon,621,,,,Dragon,Monster,Dragon,,"Bipedal, tailed form",Red,,,0,1:1,30,Rough Skin,Sheer Force,Mold Breaker,139,306.4,1.6,5,3
+Raikou,243,,,,Undiscovered,,Electric,,Quadruped body,Yellow,,,8,GU,80,Pressure,,Inner Focus,178,392.4,1.9,6,3
+Deerling,585,Autumn Form,,,Field,,Normal,Grass,Quadruped body,Pink,,,0,1:1,20,Chlorophyll,Sap Sipper,Serene Grace,19.5,43,0.6,2,0
+Glameow,431,,,,Field,,Normal,,Quadruped body,Gray,,,0,3:1,20,Limber,Own Tempo,Keen Eye,3.9,8.6,0.5,1,8
+Vanilluxe,584,,,,Mineral,,Ice,,Multiple bodies,White,,,2,1:1,20,Ice Body,Snow Warning,Weak Armor,57.5,126.8,1.3,4,3
+Combusken,256,,,,Field,,Fire,Fighting,"Bipedal, tailed form",Red,,,0,1:7,20,Blaze,,Speed Boost,19.5,43,0.9,2,11
+Pikachu,25,Cosplay,,,Field,Fairy,Electric,,Quadruped body,Yellow,,,0,1:1,10,Static,,Lightning Rod,6,13.2,0.4,1,4
+Kyogre,382,,,,Undiscovered,,Water,,Fins,Blue,,,0,GU,120,Drizzle,,,352,776,4.5,14,9
+Pignite,499,,,,Field,,Fire,Fighting,"Bipedal, tailed form",Red,,,0,1:7,20,Blaze,,Thick Fat,55.5,122.4,1,3,3
+Spewpa,665,,,,Bug,,Bug,,Head and a base,Black,,,0,1:1,15,Shed Skin,,Friend Guard,8.4,18.5,0.3,1,0
+Aerodactyl,142,,,,Flying,,Rock,Flying,Single pair of wings,Purple,,,0,1:7,35,Rock Head,Pressure,Unnerve,59,130.1,1.8,5,11
+Pichu,172,Spiky-eared,,,Undiscovered,,Electric,,Quadruped body,Yellow,,,0,1:1U,10,Static,,Lightning Rod,2,4.4,0.3,1,0
+Excadrill,530,,,,Field,,Ground,Steel,"Bipedal, tailless form",Gray,,,0,1:1,20,Sand Rush,Sand Force,Mold Breaker,40.4,89.1,0.7,2,4
+Pikachu,25,Partner Cap,,,Field,Fairy,Electric,,Quadruped body,Yellow,,,0,1:1,10,Static,,Lightning Rod,6,13.2,0.4,1,4
+Chesnaught,652,,,,Field,,Grass,Fighting,"Bipedal, tailed form",Green,,,0,1:7,20,Overgrow,,Bulletproof,90,198.4,1.6,5,3
+Medicham,308,,,,Human-Like,,Fighting,Psychic,"Bipedal, tailless form",Red,,,0,1:1,20,Pure Power,,Telepathy,31.5,69.4,1.3,4,3
+Honchkrow,430,,,,Flying,,Dark,Flying,Single pair of wings,Black,,,0,1:1,20,Insomnia,Super Luck,Moxie,27.3,60.2,0.9,2,11
+Cherubi,420,,,,Fairy,Grass,Grass,,Multiple bodies,Pink,,,0,1:1,20,Chlorophyll,,,3.3,7.3,0.4,1,4
+Amaura,698,,,,Monster,,Rock,Ice,Quadruped body,Blue,,,0,1:7,30,Refrigerate,,Snow Warning,25.2,55.6,1.3,4,3
+Scizor,212,,,,Bug,,Bug,Steel,Two or more pairs of wings,Red,,,2,1:1,25,Swarm,Technician,Light Metal,118,260.1,1.8,5,11
+Kecleon,352,,,,Field,,Normal,,"Bipedal, tailed form",Green,,,1,1:1,20,Color Change,,Protean,22,48.5,1,3,3
+Spinarak,167,,,,Bug,,Bug,Poison,Insectoid body,Green,,,0,1:1,15,Swarm,Insomnia,Sniper,8.5,18.7,0.5,1,8
+Floette,670,White Flower,,,Fairy,,Fairy,,Head and arms,White,,0,0,1:0,20,Flower Veil,,Symbiosis,0.9,2,0.2,0,8
+Slugma,218,,,,Amorphous,,Fire,,Serpentine bodies,Red,,,0,1:1,20,Magma Armor,Flame Body,Weak Armor,35,77.2,0.7,2,4
+Woobat,527,,,,Field,Flying,Psychic,Flying,Single pair of wings,Blue,,,0,1:1,15,Unaware,Klutz,Simple,2.1,4.6,0.4,1,4
+Golem,76,,,,Mineral,,Rock,Ground,"Bipedal, tailless form",Brown,,,0,1:1,15,Rock Head,Sturdy,Sand Veil,300,661.4,1.4,4,7
+Roserade,407,,,,Fairy,Grass,Grass,Poison,"Bipedal, tailless form",Green,,,0,1:1,20,Natural Cure,Poison Point,Technician,14.5,32,0.9,2,11
+Arceus,493,Type: Electric,,,Undiscovered,,Normal,,Quadruped body,White,,,0,GU,120,Multitype,,,320,705.5,3.2,10,6
+Oranguru,765,,,,Field,,Normal,Psychic,"Bipedal, tailless form",White,,,0,1:1,20,Inner Focus,Telepathy,Symbiosis,76,167.6,1.5,4,11
+Azelf,482,,,,Undiscovered,,Psychic,,"Bipedal, tailed form",Blue,,,0,GU,80,Levitate,,,0.3,0.7,0.3,1,0
+Donphan,232,,,,Field,,Ground,,Quadruped body,Gray,,,0,1:1,20,Sturdy,,Sand Veil,120,264.6,1.1,3,7
+Nincada,290,,,,Bug,,Bug,Ground,Insectoid body,Gray,,,0,1:1,15,Compound Eyes,,Run Away,5.5,12.1,0.5,1,8
+Hippowdon,450,,,,Field,,Ground,,Quadruped body,Brown,,,0,1:1,30,Sand Stream,,Sand Force,300,661.4,2,6,7
+Tyrogue,236,,,,Undiscovered,,Fighting,,"Bipedal, tailless form",Purple,,,2,0:1U,25,Guts,Steadfast,Vital Spirit,21,46.3,0.7,2,4
+Gulpin,316,,,,Amorphous,,Poison,,Head and arms,Green,,,0,1:1,20,Liquid Ooze,Sticky Hold,Gluttony,10.3,22.7,0.4,1,4
+Pichu,172,,,,Undiscovered,,Electric,,Quadruped body,Yellow,,,0,1:1U,10,Static,,Lightning Rod,2,4.4,0.3,1,0
+Xatu,178,,,,Flying,,Psychic,Flying,Single pair of wings,Green,,,0,1:1,20,Synchronize,Early Bird,Magic Bounce,15,33.1,1.5,4,11
+Snorunt,361,,,,Fairy,Mineral,Ice,,"Bipedal, tailless form",Gray,,,2,1:1,20,Inner Focus,Ice Body,Moody,16.8,37,0.7,2,4
+Darmanitan,555,Zen Mode,Z,,Field,,Fire,Psychic,Quadruped body,Blue,,,0,1:1,20,Zen Mode,,,92.9,204.8,1.3,4,3
+Shaymin,492,Land Forme,,,Undiscovered,,Grass,,Quadruped body,Green,,,0,GU,120,Natural Cure,,,2.1,4.6,0.4,1,4
+Salamence,373,,,,Dragon,,Dragon,Flying,Quadruped body,Blue,,,0,1:1,40,Intimidate,,Moxie,102.6,226.2,1.5,4,11
+Frogadier,657,,,,Water 1,,Water,,"Bipedal, tailless form",Blue,,,0,1:7,20,Torrent,,Protean,10.9,24,0.6,2,0
+Sealeo,364,,,,Water 1,Field,Ice,Water,Fins,Blue,,,2,1:1,20,Thick Fat,Ice Body,Oblivious,87.6,193.1,1.1,3,7
+Gliscor,472,,,,Bug,,Ground,Flying,Single pair of wings,Purple,,,0,1:1,20,Hyper Cutter,Sand Veil,Poison Heal,42.5,93.7,2,6,7
+Floette,670,Eternal Flower,,,Fairy,,Fairy,,Head and arms,White,,0,0,1:0,20,Flower Veil,,Symbiosis,0.9,2,0.2,0,8
+Venonat,48,,,,Bug,,Bug,Poison,"Bipedal, tailless form",Purple,,,2,1:1,20,Compound Eyes,Tinted Lens,Run Away,30,66.1,1,3,3
+Suicune,245,,,,Undiscovered,,Water,,Quadruped body,Blue,,,8,GU,80,Pressure,,Inner Focus,187,412.3,2,6,7
+Farfetch'd,83,,,,Flying,Field,Normal,Flying,Single pair of wings,Brown,,,0,1:1,20,Keen Eye,Inner Focus,Defiant,15,33.1,0.8,2,7
+Toucannon,733,,,,Flying,,Normal,Flying,Single pair of wings,Black,,,0,1:1,15,Keen Eye,Skill Link,Sheer Force,26,57.3,1.1,3,7
+Mamoswine,473,,,,Field,,Ice,Ground,Quadruped body,Brown,,,0,1:1,20,Oblivious,Snow Cloak,Thick Fat,291,641.5,2.5,8,2
+Rotom,479,Heat,,,Amorphous,,Electric,Ghost,Head,Red,,,0,G,20,Levitate,,,0.3,0.7,0.3,1,0
+Clawitzer,693,,,,Water 1,Water 3,Water,,Serpentine bodies,Blue,,,0,1:1,15,Mega Launcher,,,35.3,77.8,1.3,4,3
+Bruxish,779,,,,Water 2,,Water,Psychic,Fins,Pink,,,0,1:1,15,Dazzling,Strong Jaw,Wonder Skin,19,41.9,0.9,2,11
+Tauros,128,,,,Field,,Normal,,Quadruped body,Brown,,,2,0:1,20,Intimidate,Anger Point,Sheer Force,88.4,194.9,1.4,4,7
+Zoroark,571,,,,Field,,Dark,,"Bipedal, tailed form",Gray,,,0,1:7,20,Illusion,,,81.1,178.8,1.6,5,3
+Toxicroak,454,,,,Human-Like,,Poison,Fighting,"Bipedal, tailless form",Blue,,,0,1:1,20,Anticipation,Dry Skin,Poison Touch,44.4,97.9,1.3,4,3
+Probopass,476,,,,Mineral,,Rock,Steel,Multiple bodies,Gray,,,0,1:1,20,Sturdy,Magnet Pull,Sand Force,340,749.6,1.4,4,7
+Spoink,325,,,,Field,,Psychic,,Head and arms,Black,,,0,1:1,20,Thick Fat,Own Tempo,Gluttony,30.6,67.5,0.7,2,4
+Pikachu,25,Libre,,,Field,Fairy,Electric,,Quadruped body,Yellow,,,0,1:1,10,Static,,Lightning Rod,6,13.2,0.4,1,4
+Brionne,729,,,,Water 1,Field,Water,,Fins,Blue,,,0,1:7,15,Torrent,,Liquid Voice,17.5,38.6,0.6,2,0
+Togepi,175,,,,Undiscovered,,Fairy,,"Bipedal, tailless form",White,,,0,1:7U,10,Hustle,Serene Grace,Super Luck,1.5,3.3,0.3,1,0
+Skorupi,451,,,,Bug,Water 3,Poison,Bug,Insectoid body,Purple,,,0,1:1,20,Battle Armor,Sniper,Keen Eye,12,26.5,0.8,2,7
+Bonsly,438,,,,Undiscovered,,Rock,,Head and legs,Brown,,,0,1:1U,20,Sturdy,Rock Head,Rattled,15,33.1,0.5,1,8
+Cosmog,789,,,,Undiscovered,,Psychic,,Head,Blue,,,0,GU,120,Unaware,,,0.1,0.2,0.2,0,8
+Bellossom,182,,,,Grass,,Grass,,"Bipedal, tailless form",Green,,,0,1:1,20,Chlorophyll,,Healer,5.8,12.8,0.4,1,4
+Chinchou,170,,,,Water 2,,Water,Electric,Fins,Blue,,,0,1:1,20,Volt Absorb,Illuminate,Water Absorb,12,26.5,0.5,1,8
+Manectric,310,,,,Field,,Electric,,Quadruped body,Yellow,,,0,1:1,20,Static,Lightning Rod,Minus,40.2,88.6,1.5,4,11
+Mienshao,620,,,,Field,Human-Like,Fighting,,"Bipedal, tailed form",Purple,,,0,1:1,25,Inner Focus,Regenerator,Reckless,35.5,78.3,1.4,4,7
+Gourgeist,711,Average Size,,,Amorphous,,Ghost,Grass,Head and a base,Brown,,,0,1:1,20,Pickup,Frisk,Insomnia,12.5,27.6,0.9,2,11
+Zubat,41,,,,Flying,,Poison,Flying,Single pair of wings,Purple,,,0,1:1,15,Inner Focus,,Infiltrator,7.5,16.5,0.8,2,7
+Silvally,773,Type: Flying,,,Undiscovered,,Normal,,Quadruped body,Gray,,,0,GU,120,RKS System,,,100.5,221.6,2.3,7,7
+Tepig,498,,,,Field,,Fire,,Quadruped body,Red,,,0,1:7,20,Blaze,,Thick Fat,9.9,21.8,0.5,1,8
+Gengar,94,,,,Amorphous,,Ghost,Poison,"Bipedal, tailed form",Purple,,,8,1:1,20,Cursed Body,,,40.5,89.3,1.5,4,11
+Mienfoo,619,,,,Field,Human-Like,Fighting,,"Bipedal, tailed form",Yellow,,,0,1:1,25,Inner Focus,Regenerator,Reckless,20,44.1,0.9,2,11
+Oddish,43,,,,Grass,,Grass,Poison,Head and legs,Blue,,,0,1:1,20,Chlorophyll,,Run Away,5.4,11.9,0.5,1,8
+Furfrou,676,Star Trim,,,Field,,Normal,,Quadruped body,White,,,0,1:1,20,Fur Coat,,,28,61.7,1.2,3,11
+Alomomola,594,,,,Water 1,Water 2,Water,,Fins,Pink,,,0,1:1,40,Healer,Hydration,Regenerator,31.6,69.7,1.2,3,11
+Skiploom,188,,,,Fairy,Grass,Grass,Flying,"Bipedal, tailed form",Green,,,2,1:1,20,Chlorophyll,Leaf Guard,Infiltrator,1,2.2,0.6,2,0
+Mudsdale,750,,,,Field,,Ground,,Quadruped body,Brown,,,0,1:1,20,Own Tempo,Stamina,Inner Focus,920,2028.3,2.5,8,2
+Caterpie,10,,,,Bug,,Bug,,Insectoid body,Green,,,0,1:1,15,Shield Dust,,Run Away,2.9,6.4,0.3,1,0
+Growlithe,58,,,,Field,,Fire,,Quadruped body,Brown,,,0,1:3,20,Intimidate,Flash Fire,Justified,19,41.9,0.7,2,4
+Magearna,801,,,,Undiscovered,,Steel,Fairy,"Bipedal, tailless form",Gray,,,0,GU,120,Soul-Heart,,,80.5,177.5,1,3,3
+Spearow,21,,,,Flying,,Normal,Flying,Single pair of wings,Brown,,,0,1:1,15,Keen Eye,,Sniper,2,4.4,0.3,1,0
+Cottonee,546,,,,Grass,Fairy,Grass,Fairy,Head,Green,,,0,1:1,20,Prankster,Infiltrator,Chlorophyll,0.6,1.3,0.3,1,0
+Floette,670,Blue Flower,,,Fairy,,Fairy,,Head and arms,White,,0,0,1:0,20,Flower Veil,,Symbiosis,0.9,2,0.2,0,8
+Crobat,169,,,,Flying,,Poison,Flying,Two or more pairs of wings,Purple,,,0,1:1,15,Inner Focus,,Infiltrator,75,165.3,1.8,5,11
+Lanturn,171,,,,Water 2,,Water,Electric,Fins,Blue,,,0,1:1,20,Volt Absorb,Illuminate,Water Absorb,22.5,49.6,1.2,3,11
+Furret,162,,,,Field,,Normal,,Quadruped body,Brown,,,0,1:1,15,Run Away,Keen Eye,Frisk,32.5,71.6,1.8,5,11
+Audino,531,,,,Fairy,,Normal,,"Bipedal, tailed form",Pink,,,0,1:1,20,Healer,Regenerator,Klutz,31,68.3,1.1,3,7
+Munchlax,446,,,,Undiscovered,,Normal,,"Bipedal, tailless form",Black,,,0,1:7U,40,Pickup,Thick Fat,Gluttony,105,231.5,0.6,2,0
+Hawlucha,701,,,,Human-Like,,Fighting,Flying,"Bipedal, tailless form",Green,,,0,1:1,20,Limber,Unburden,Mold Breaker,21.5,47.4,0.8,2,7
+Magneton,82,,,,Mineral,,Electric,Steel,Multiple bodies,Gray,,,0,G,20,Magnet Pull,Sturdy,Analytic,60,132.3,1,3,3
+Emboar,500,,,,Field,,Fire,Fighting,"Bipedal, tailed form",Red,,,0,1:7,20,Blaze,,Reckless,150,330.7,1.6,5,3
+Buizel,418,,,,Water 1,Field,Water,,Quadruped body,Brown,,,0,1:1,20,Swift Swim,,Water Veil,29.5,65,0.7,2,4
+Samurott,503,,,,Field,,Water,,Quadruped body,Blue,,,0,1:7,20,Torrent,,Shell Armor,94.6,208.6,1.5,4,11
+Porygon,137,,,,Mineral,,Normal,,Head and legs,Pink,,,2,G,20,Trace,Download,Analytic,36.5,80.5,0.8,2,7
+Magby,240,,,,Undiscovered,,Fire,,"Bipedal, tailed form",Red,,,0,1:3U,25,Flame Body,,Vital Spirit,21.4,47.2,0.7,2,4
+Cacturne,332,,,,Grass,Human-Like,Grass,Dark,"Bipedal, tailless form",Green,,,0,1:1,20,Sand Veil,,Water Absorb,77.4,170.6,1.3,4,3
+Ariados,168,,,,Bug,,Bug,Poison,Insectoid body,Red,,,0,1:1,15,Swarm,Insomnia,Sniper,33.5,73.9,1.1,3,7
+Nidorino,33,,,,Monster,Field,Poison,,Quadruped body,Purple,,,2,0:1,20,Poison Point,Rivalry,Hustle,19.5,43,0.9,2,11
+Parasect,47,,,,Bug,Grass,Bug,Grass,Insectoid body,Red,,,2,1:1,20,Effect Spore,Dry Skin,Damp,29.5,65,1,3,3
+Pikachu,25,Sinnoh Cap,,,Field,Fairy,Electric,,Quadruped body,Yellow,,,0,1:1,10,Static,,Lightning Rod,6,13.2,0.4,1,4
+Yamask,562,,,,Mineral,Amorphous,Ghost,,Head and arms,Black,,,0,1:1,25,Mummy,,,1.5,3.3,0.5,1,8
+Beheeyem,606,,,,Human-Like,,Psychic,,"Bipedal, tailless form",Brown,,,0,1:1,20,Telepathy,Synchronize,Analytic,34.5,76.1,1,3,3
+Vivillon,666,River Pattern,,,Bug,,Bug,Flying,Two or more pairs of wings,White,,,0,1:1,15,Shield Dust,Compound Eyes,Friend Guard,17,37.5,1.2,3,11
+Silvally,773,Type: Poison,,,Undiscovered,,Normal,,Quadruped body,Gray,,,0,GU,120,RKS System,,,100.5,221.6,2.3,7,7
+Fraxure,611,,,,Monster,Dragon,Dragon,,"Bipedal, tailed form",Green,,,0,1:1,40,Rivalry,Mold Breaker,Unnerve,36,79.4,1,3,3
+Solgaleo,791,,,,Undiscovered,,Psychic,Steel,Quadruped body,White,,,0,GU,120,Full Metal Body,,,230,507.1,3.4,11,2
+Victreebel,71,,,,Grass,,Grass,Poison,Head and a base,Green,,,0,1:1,20,Chlorophyll,,Gluttony,15.5,34.2,1.7,5,7
+Rufflet,627,,,,Flying,,Normal,Flying,Single pair of wings,White,,,0,0:1,20,Keen Eye,Sheer Force,Hustle,10.5,23.1,0.5,1,8
+Floatzel,419,,,,Water 1,Field,Water,,Quadruped body,Brown,,,0,1:1,20,Swift Swim,,Water Veil,33.5,73.9,1.1,3,7
+Ninetales,38,,,,Field,,Fire,,Quadruped body,Yellow,,,0,3:1,20,Flash Fire,,Drought,19.9,43.9,1.1,3,7
+Floette,670,Orange Flower,,,Fairy,,Fairy,,Head and arms,White,,0,0,1:0,20,Flower Veil,,Symbiosis,0.9,2,0.2,0,8
+Metapod,11,,,,Bug,,Bug,,Serpentine bodies,Green,,,0,1:1,15,Shed Skin,,,9.9,21.8,0.7,2,4
+Skarmory,227,,,,Flying,,Steel,Flying,Single pair of wings,Gray,,,0,1:1,25,Keen Eye,Sturdy,Weak Armor,50.5,111.3,1.7,5,7
+Teddiursa,216,,,,Field,,Normal,,"Bipedal, tailed form",Brown,,,2,1:1,20,Pickup,Quick Feet,Honey Gather,8.8,19.4,0.6,2,0
+Tapu Lele,786,,,,Undiscovered,,Psychic,Fairy,Head and arms,Pink,,,0,GU,15,Psychic Surge,,Telepathy,18.6,41,1.2,3,11
+Lugia,249,,,,Undiscovered,,Psychic,Flying,Single pair of wings,White,,,0,GU,120,Pressure,,Multiscale,216,476.2,5.2,17,1
+Weepinbell,70,,,,Grass,,Grass,Poison,Head and a base,Green,,,0,1:1,20,Chlorophyll,,Gluttony,6.4,14.1,1,3,3
+Shedinja,292,,,,Mineral,,Bug,Ghost,Head and a base,Brown,,,0,G,15,Wonder Guard,,,1.2,2.6,0.8,2,7
+Shelgon,372,,,,Dragon,,Dragon,,Quadruped body,White,,,0,1:1,40,Rock Head,,Overcoat,110.5,243.6,1.1,3,7
+Salandit,757,,,,Monster,Dragon,Poison,Fire,Quadruped body,Black,,,0,1:7,20,Corrosion,,Oblivious,4.8,10.6,0.6,2,0
+Loudred,294,,,,Monster,Field,Normal,,"Bipedal, tailed form",Blue,,,0,1:1,20,Soundproof,,Scrappy,40.5,89.3,1,3,3
+Swinub,220,,,,Field,,Ice,Ground,Quadruped body,Brown,,,2,1:1,20,Oblivious,Snow Cloak,Thick Fat,6.5,14.3,0.4,1,4
+Registeel,379,,,,Undiscovered,,Steel,,"Bipedal, tailless form",Gray,,,0,GU,80,Clear Body,,Light Metal,205,451.9,1.9,6,3
+Lunala,792,Full Moon phase,,,Undiscovered,,Psychic,Ghost,Single pair of wings,Purple,,,0,GU,120,Shadow Shield,,,120,264.6,4,13,1
+Scolipede,545,,,,Bug,,Bug,Poison,Insectoid body,Red,,,9,1:1,20,Poison Point,Swarm,Speed Boost,200.5,442,2.5,8,2
+Tapu Koko,785,,,,Undiscovered,,Electric,Fairy,Head and arms,Yellow,,,0,GU,15,Electric Surge,,Telepathy,20.5,45.2,1.8,5,11
+Snubbull,209,,,,Field,Fairy,Fairy,,"Bipedal, tailless form",Pink,,,0,3:1,20,Intimidate,Run Away,Rattled,7.8,17.2,0.6,2,0
+Turtwig,387,,,,Monster,Grass,Grass,,Quadruped body,Green,,,0,1:7,20,Overgrow,,Shell Armor,10.2,22.5,0.4,1,4
+Shiftry,275,,,,Field,Grass,Grass,Dark,"Bipedal, tailless form",Brown,,,0,1:1,15,Chlorophyll,Early Bird,Pickpocket,59.6,131.4,1.3,4,3
+Dragonite,149,,,,Water 1,Dragon,Dragon,Flying,"Bipedal, tailed form",Brown,,,0,1:1,40,Inner Focus,,Multiscale,210,463,2.2,7,3
+Watchog,505,,,,Field,,Normal,,"Bipedal, tailed form",Brown,,,0,1:1,20,Illuminate,Keen Eye,Analytic,27,59.5,1.1,3,7
+Purrloin,509,,,,Field,,Dark,,Quadruped body,Purple,,,0,1:1,20,Limber,Unburden,Prankster,10.1,22.3,0.4,1,4
+Corsola,222,,,,Water 1,Water 3,Water,Rock,Insectoid body,Pink,,,0,3:1,20,Hustle,Natural Cure,Regenerator,5,11,0.6,2,0
+Basculin,550,Blue-Striped Form,B,,Water 2,,Water,,Fins,Green,,0,8,1:1,40,Rock Head,Adaptability,Mold Breaker,18,39.7,1,3,3
+Cradily,346,,,,Water 3,,Rock,Grass,Head and a base,Green,,,0,1:7,30,Suction Cups,,Storm Drain,60.4,133.2,1.5,4,11
+Banette,354,,,,Amorphous,,Ghost,,"Bipedal, tailed form",Black,,,2,1:1,25,Insomnia,Frisk,Cursed Body,12.5,27.6,1.1,3,7
+Gallade,475,,,,Amorphous,,Psychic,Fighting,"Bipedal, tailless form",White,,,0,0:1,20,Steadfast,,Justified,52,114.6,1.6,5,3
+Swoobat,528,,,,Field,Flying,Psychic,Flying,Single pair of wings,Blue,,,0,1:1,15,Unaware,Klutz,Simple,10.5,23.1,0.9,2,11
+Regice,378,,,,Undiscovered,,Ice,,"Bipedal, tailless form",Blue,,,0,GU,80,Clear Body,,Ice Body,175,385.8,1.8,5,11
+Furfrou,676,Natural Form,,,Field,,Normal,,Quadruped body,White,,,0,1:1,20,Fur Coat,,,28,61.7,1.2,3,11
+Masquerain,284,,,,Water 1,Bug,Bug,Flying,Two or more pairs of wings,Blue,,,0,1:1,15,Intimidate,,Unnerve,3.6,7.9,0.8,2,7
+Makuhita,296,,,,Human-Like,,Fighting,,"Bipedal, tailless form",Yellow,,,0,1:3,20,Thick Fat,Guts,Sheer Force,86.4,190.5,1,3,3
+Gible,443,,,,Monster,Dragon,Dragon,Ground,"Bipedal, tailed form",Blue,,,0,1:1,40,Sand Veil,,Rough Skin,20.5,45.2,0.7,2,4
+Silvally,773,Type: Psychic,,,Undiscovered,,Normal,,Quadruped body,Gray,,,0,GU,120,RKS System,,,100.5,221.6,2.3,7,7
+Bastiodon,411,,,,Monster,,Rock,Steel,Quadruped body,Gray,,,0,1:7,30,Sturdy,,Soundproof,149.5,329.6,1.3,4,3
+Silvally,773,Type: Grass,,,Undiscovered,,Normal,,Quadruped body,Gray,,,0,GU,120,RKS System,,,100.5,221.6,2.3,7,7
+Omanyte,138,,,,Water 1,Water 3,Rock,Water,Tentacles or a multiped body,Blue,,,0,1:7,30,Swift Swim,Shell Armor,Weak Armor,7.5,16.5,0.4,1,4
+Meditite,307,,,,Human-Like,,Fighting,Psychic,"Bipedal, tailless form",Blue,,,0,1:1,20,Pure Power,,Telepathy,11.2,24.7,0.6,2,0
+Pyukumuku,771,,,,Water 1,,Water,,Serpentine bodies,Black,,,0,1:1,15,Innards Out,,Unaware,1.2,2.6,0.3,1,0
+Starly,396,,,,Flying,,Normal,Flying,Single pair of wings,Brown,,,1,1:1,15,Keen Eye,,Reckless,2,4.4,0.3,1,0
+Xurkitree,796,,,,Undiscovered,,Electric,,"Bipedal, tailed form",Black,,,0,GU,120,Beast Boost,,,100,220.5,3.8,12,6
+Golurk,623,,,,Mineral,,Ground,Ghost,"Bipedal, tailless form",Green,,,0,G,25,Iron Fist,Klutz,No Guard,330,727.5,2.8,9,2
+Kingler,99,,,,Water 3,,Water,,Insectoid body,Red,,,0,1:1,20,Hyper Cutter,Shell Armor,Sheer Force,60,132.3,1.3,4,3
+Pawniard,624,,,,Human-Like,,Dark,Steel,"Bipedal, tailless form",Red,,,0,1:1,20,Defiant,Inner Focus,Pressure,10.2,22.5,0.5,1,8
+Scrafty,560,,,,Field,Dragon,Dark,Fighting,"Bipedal, tailed form",Red,,,0,1:1,15,Shed Skin,Moxie,Intimidate,30,66.1,1.1,3,7
+Bewear,760,,,,Field,,Normal,Fighting,"Bipedal, tailed form",Pink,,,0,1:1,15,Fluffy,Klutz,Unnerve,135,297.6,2.1,6,11
+Spiritomb,442,,,,Amorphous,,Ghost,Dark,Head and a base,Purple,,,0,1:1,30,Pressure,,Infiltrator,108,238.1,1,3,3
+Giratina,487,Origin Forme,O,,Undiscovered,,Ghost,Dragon,Tentacles or a multiped body,Black,,,0,GU,120,Levitate,,,650,1433,6.9,22,8
+Tynamo,602,,,,Amorphous,,Electric,,Fins,White,,,0,1:1,20,Levitate,,,0.3,0.7,0.2,0,8
+Jangmo-o,782,,,,Dragon,,Dragon,,Quadruped body,Gray,,,0,1:1,40,Bulletproof,Soundproof,Overcoat,29.7,65.5,0.6,2,0
+Cascoon,268,,,,Bug,,Bug,,Head,Purple,,,0,1:1,15,Shed Skin,,,11.5,25.4,0.7,2,4
+Geodude,74,,,,Mineral,,Rock,Ground,Head and arms,Brown,,,0,1:1,15,Rock Head,Sturdy,Sand Veil,20,44.1,0.4,1,4
+Bidoof,399,,,,Water 1,Field,Normal,,Quadruped body,Brown,,,0,1:1,15,Simple,Unaware,Moody,20,44.1,0.5,1,8
+Silvally,773,Type: Fighting,,,Undiscovered,,Normal,,Quadruped body,Gray,,,0,GU,120,RKS System,,,100.5,221.6,2.3,7,7
+Mew,151,,,,Undiscovered,,Psychic,,"Bipedal, tailed form",Pink,,,0,GU,120,Synchronize,,,4,8.8,0.4,1,4
+Gligar,207,,,,Bug,,Ground,Flying,Single pair of wings,Purple,,,0,1:1,20,Hyper Cutter,Sand Veil,Immunity,64.8,142.9,1.1,3,7
+Sawsbuck,586,Spring Form,,,Field,,Normal,Grass,Quadruped body,Brown,,,0,1:1,20,Chlorophyll,Sap Sipper,Serene Grace,92.5,203.9,1.9,6,3
+Galvantula,596,,,,Bug,,Bug,Electric,Insectoid body,Yellow,,,0,1:1,20,Compound Eyes,Unnerve,Swarm,14.3,31.5,0.8,2,7
+Jumpluff,189,,,,Fairy,Grass,Grass,Flying,"Bipedal, tailed form",Blue,,,2,1:1,20,Chlorophyll,Leaf Guard,Infiltrator,3,6.6,0.8,2,7
+Lillipup,506,,,,Field,,Normal,,Quadruped body,Brown,,,0,1:1,15,Vital Spirit,Pickup,Run Away,4.1,9,0.4,1,4
+Castform,351,Normal,,,Fairy,Amorphous,Normal,,Head,Gray,,,0,1:1,25,Forecast,,,0.8,1.8,0.3,1,0
+Ducklett,580,,,,Water 1,Flying,Water,Flying,Single pair of wings,Blue,,,0,1:1,20,Keen Eye,Big Pecks,Hydration,5.5,12.1,0.5,1,8
+Snivy,495,,,,Field,Grass,Grass,,"Bipedal, tailed form",Green,,,0,1:7,20,Overgrow,,Contrary,8.1,17.9,0.6,2,0
+Whimsicott,547,,,,Grass,Fairy,Grass,Fairy,"Bipedal, tailless form",Green,,,0,1:1,20,Prankster,Infiltrator,Chlorophyll,6.6,14.6,0.7,2,4
+Groudon,383,,,,Undiscovered,,Ground,,"Bipedal, tailed form",Red,,,0,GU,120,Drought,,,950,2094.4,3.5,11,6
+Pidove,519,,,,Flying,,Normal,Flying,Single pair of wings,Gray,,,0,1:1,15,Big Pecks,Super Luck,Rivalry,2.1,4.6,0.3,1,0
+Bibarel,400,,,,Water 1,Field,Normal,Water,"Bipedal, tailed form",Brown,,,0,1:1,15,Simple,Unaware,Moody,31.5,69.4,1,3,3
+Vivillon,666,Fancy Pattern,,,Bug,,Bug,Flying,Two or more pairs of wings,White,,,0,1:1,15,Shield Dust,Compound Eyes,Friend Guard,17,37.5,1.2,3,11
+Omastar,139,,,,Water 1,Water 3,Rock,Water,Tentacles or a multiped body,Blue,,,0,1:7,30,Swift Swim,Shell Armor,Weak Armor,35,77.2,1,3,3
+Shieldon,410,,,,Monster,,Rock,Steel,Quadruped body,Gray,,,0,1:7,30,Sturdy,,Soundproof,57,125.7,0.5,1,8
+Panpour,515,,,,Field,,Water,,"Bipedal, tailed form",Blue,,,0,1:7,20,Gluttony,,Torrent,13.5,29.8,0.6,2,0
+Quagsire,195,,,,Water 1,Field,Water,Ground,"Bipedal, tailed form",Blue,,,0,1:1,20,Damp,Water Absorb,Unaware,75,165.3,1.4,4,7
+Hypno,97,,,,Human-Like,,Psychic,,"Bipedal, tailless form",Yellow,,,2,1:1,20,Insomnia,Forewarn,Inner Focus,75.6,166.7,1.6,5,3
+Larvitar,246,,,,Monster,,Rock,Ground,"Bipedal, tailed form",Green,,,0,1:1,40,Guts,,Sand Veil,72,158.7,0.6,2,0
+Toxapex,748,,,,Water 1,,Poison,Water,Tentacles or a multiped body,Blue,,,0,1:1,20,Merciless,Limber,Regenerator,14.5,32,0.7,2,4
+Oricorio,741,Baile Style,,,Flying,,Fire,Flying,Single pair of wings,Red,,,0,3:1,20,Dancer,,,3.4,7.5,0.6,2,0
+Landorus,645,Therian Forme,T,,Undiscovered,,Ground,Flying,Quadruped body,Brown,,,0,0:1U,120,Intimidate,,,68,149.9,1.3,4,3
+Silvally,773,Type: Ice,,,Undiscovered,,Normal,,Quadruped body,Gray,,,0,GU,120,RKS System,,,100.5,221.6,2.3,7,7
+Oricorio,741,Pom-Pom Style,,,Flying,,Fire,Flying,Single pair of wings,Yellow,,,0,3:1,20,Dancer,,,3.4,7.5,0.6,2,0
+Doublade,680,,,,Mineral,,Steel,Ghost,Multiple bodies,Brown,,,0,1:1,20,No Guard,,,4.5,9.9,0.8,2,7
+Passimian,766,,,,Field,,Fighting,,"Bipedal, tailed form",White,,,0,1:1,20,Receiver,,Defiant,82.8,182.5,2,6,7
+Espurr,677,,,,Field,,Psychic,,"Bipedal, tailed form",Gray,,,0,1:1,20,Keen Eye,Infiltrator,Own Tempo,3.5,7.7,0.3,1,0
+Pumpkaboo,710,Average Size,,,Amorphous,,Ghost,Grass,Head,Brown,,,0,1:1,20,Pickup,Frisk,Insomnia,5,11,0.4,1,4
+Burmy,412,Plant Cloak,,,Bug,,Bug,,Head and a base,Green,,,0,1:1,15,Shed Skin,,Overcoat,3.4,7.5,0.2,0,8
+Rattata,19,,,,Field,,Normal,,Quadruped body,Purple,,,0,1:1,15,Run Away,Guts,Hustle,3.5,7.7,0.3,1,0
+Mimikyu,778,Busted Form,,,Amorphous,,Ghost,Fairy,Serpentine bodies,Yellow,,,0,1:1,20,Disguise,,,0.7,1.5,0.2,0,8
+Huntail,367,,,,Water 1,,Water,,Serpentine bodies,Blue,,,0,1:1,20,Swift Swim,,Water Veil,27,59.5,1.7,5,7
+Weavile,461,,,,Field,,Dark,Ice,"Bipedal, tailed form",Black,,,0,1:1,20,Pressure,,Pickpocket,34,75,1.1,3,7
+Scatterbug,664,,,,Bug,,Bug,,Insectoid body,Black,,,0,1:1,15,Shield Dust,Compound Eyes,Friend Guard,2.5,5.5,0.3,1,0
+Vespiquen,416,,,,Bug,,Bug,Flying,Two or more pairs of wings,Yellow,,,0,1:0,15,Pressure,,Unnerve,38.5,84.9,1.2,3,11
+Diglett,50,,,,Field,,Ground,,Head and a base,Brown,,,0,1:1,20,Sand Veil,Arena Trap,Sand Force,0.8,1.8,0.2,0,8
+Weedle,13,,,,Bug,,Bug,Poison,Insectoid body,Brown,,,0,1:1,15,Shield Dust,,Run Away,3.2,7.1,0.3,1,0
+Larvesta,636,,,,Bug,,Bug,Fire,Insectoid body,White,,,0,1:1,40,Flame Body,,Swarm,28.8,63.5,1.1,3,7
+Raichu,26,,,,Field,Fairy,Electric,,"Bipedal, tailed form",Yellow,,,0,1:1,10,Static,,Lightning Rod,30,66.1,0.8,2,7
+Flareon,136,,,,Field,,Fire,,Quadruped body,Red,,,0,1:7,35,Flash Fire,,Guts,25,55.1,0.9,2,11
+Magnemite,81,,,,Mineral,,Electric,Steel,Head and arms,Gray,,,0,G,20,Magnet Pull,Sturdy,Analytic,6,13.2,0.3,1,0
+Metang,375,,,,Mineral,,Steel,Psychic,Head and arms,Blue,,,0,G,40,Clear Body,,Light Metal,202.5,446.4,1.2,3,11
+Slurpuff,685,,,,Fairy,,Fairy,,"Bipedal, tailless form",White,,,0,1:1,20,Sweet Veil,,Unburden,5,11,0.8,2,7
+Pidgeotto,17,,,,Flying,,Normal,Flying,Single pair of wings,Brown,,,2,1:1,15,Keen Eye,Tangled Feet,Big Pecks,30,66.1,1.1,3,7
+Rotom,479,Frost,,,Amorphous,,Electric,Ghost,Head,Red,,,0,G,20,Levitate,,,0.3,0.7,0.3,1,0
+Flabébé,669,Blue Flower,,,Fairy,,Fairy,,Head and arms,White,,,0,1:0,20,Flower Veil,,Symbiosis,0.1,0.2,0.1,0,4
+Flabébé,669,Red Flower,,,Fairy,,Fairy,,Head and arms,White,,,0,1:0,20,Flower Veil,,Symbiosis,0.1,0.2,0.1,0,4
+Pikachu,25,Kalos Cap,,,Field,Fairy,Electric,,Quadruped body,Yellow,,,0,1:1,10,Static,,Lightning Rod,6,13.2,0.4,1,4
+Tornadus,641,Therian Forme,T,,Undiscovered,,Flying,,Single pair of wings,Green,,,0,0:1U,120,Regenerator,,,63,138.9,1.4,4,7
+Sawsbuck,586,Winter Form,,,Field,,Normal,Grass,Quadruped body,Brown,,,0,1:1,20,Chlorophyll,Sap Sipper,Serene Grace,92.5,203.9,1.9,6,3
+Flabébé,669,Orange Flower,,,Fairy,,Fairy,,Head and arms,White,,,0,1:0,20,Flower Veil,,Symbiosis,0.1,0.2,0.1,0,4
+Reuniclus,579,,,,Amorphous,,Psychic,,Head and arms,Green,,,0,1:1,20,Overcoat,Magic Guard,Regenerator,20.1,44.3,1,3,3
+Poliwhirl,61,,,,Water 1,,Water,,"Bipedal, tailless form",Blue,,,0,1:1,20,Water Absorb,Damp,Swift Swim,20,44.1,1,3,3
+Spinda,327,,,,Field,Human-Like,Normal,,"Bipedal, tailed form",Brown,,,2,1:1,15,Own Tempo,Tangled Feet,Contrary,5,11,1.1,3,7
+Gothita,574,,,,Human-Like,,Psychic,,"Bipedal, tailless form",Purple,,,2,3:1,20,Frisk,Competitive,Shadow Tag,5.8,12.8,0.4,1,4
+Herdier,507,,,,Field,,Normal,,Quadruped body,Gray,,,0,1:1,15,Intimidate,Sand Rush,Scrappy,14.7,32.4,0.9,2,11
+Roggenrola,524,,,,Mineral,,Rock,,Head and legs,Blue,,,2,1:1,15,Sturdy,Weak Armor,Sand Force,18,39.7,0.4,1,4
+Zeraora,807,,,,Undiscovered,,Electric,,"Bipedal, tailless form",Yellow,,,0,GU,120,Volt Absorb,,,44.5,98.1,1.5,4,11
+Minccino,572,,,,Field,,Normal,,Quadruped body,Gray,,,0,3:1,15,Cute Charm,Technician,Skill Link,5.8,12.8,0.4,1,4
+Silvally,773,Type: Ghost,,,Undiscovered,,Normal,,Quadruped body,Gray,,,0,GU,120,RKS System,,,100.5,221.6,2.3,7,7
+Azurill,298,,,,Undiscovered,,Normal,Fairy,Head and legs,Blue,,,0,3:1U,10,Thick Fat,Huge Power,Sap Sipper,2,4.4,0.2,0,8
+Electabuzz,125,,,,Human-Like,,Electric,,"Bipedal, tailed form",Yellow,,,0,1:3,25,Static,,Vital Spirit,30,66.1,1.1,3,7
+Combee,415,,,,Bug,,Bug,Flying,Multiple bodies,Yellow,,,0,1:7,15,Honey Gather,,Hustle,5.5,12.1,0.3,1,0
+Unown,201,,,,Undiscovered,,Psychic,,Head,Black,,,0,GU,40,Levitate,,,5,11,0.5,1,8
+Incineroar,727,,,,Field,,Fire,Dark,"Bipedal, tailed form",Red,,,0,1:7,15,Blaze,,Intimidate,83,183,1.8,5,11
+Bellsprout,69,,,,Grass,,Grass,Poison,"Bipedal, tailless form",Green,,,0,1:1,20,Chlorophyll,,Gluttony,4,8.8,0.7,2,4
+Mareanie,747,,,,Water 1,,Poison,Water,Head and a base,Blue,,,0,1:1,20,Merciless,Limber,Regenerator,8,17.6,0.4,1,4
+Sawsbuck,586,Summer Form,,,Field,,Normal,Grass,Quadruped body,Brown,,,0,1:1,20,Chlorophyll,Sap Sipper,Serene Grace,92.5,203.9,1.9,6,3
+Dartrix,723,,,,Flying,,Grass,Flying,Single pair of wings,Brown,,,0,1:7,15,Overgrow,,Long Reach,16,35.3,0.7,2,4
+Venipede,543,,,,Bug,,Bug,Poison,Insectoid body,Red,,,9,1:1,15,Poison Point,Swarm,Speed Boost,5.3,11.7,0.4,1,4
+Bronzong,437,,,,Mineral,,Steel,Psychic,Head and arms,Green,,,0,G,20,Levitate,Heatproof,Heavy Metal,187,412.3,1.3,4,3
+Nidorina,30,,,,Undiscovered,,Poison,,Quadruped body,Blue,,,2,1:0U,20,Poison Point,Rivalry,Hustle,20,44.1,0.8,2,7
+Axew,610,,,,Monster,Dragon,Dragon,,"Bipedal, tailed form",Green,,,0,1:1,40,Rivalry,Mold Breaker,Unnerve,18,39.7,0.6,2,0
+Glaceon,471,,,,Field,,Ice,,Quadruped body,Blue,,,0,1:7,35,Snow Cloak,,Ice Body,25.9,57.1,0.8,2,7
+Lapras,131,,,,Monster,Water 1,Water,Ice,Fins,Blue,,,0,1:1,40,Water Absorb,Shell Armor,Hydration,220,485,2.5,8,2
+Garbodor,569,,,,Mineral,,Poison,,"Bipedal, tailless form",Green,,,0,1:1,20,Stench,Weak Armor,Aftermath,107.3,236.6,1.9,6,3
+Swadloon,541,,,,Bug,,Bug,Grass,Head and arms,Green,,,0,1:1,15,Leaf Guard,Chlorophyll,Overcoat,7.3,16.1,0.5,1,8
+Archeops,567,,,,Flying,Water 3,Rock,Flying,Single pair of wings,Yellow,,,0,1:7,30,Defeatist,,,32,70.5,1.4,4,7
+Koffing,109,,,,Amorphous,,Poison,,Head,Purple,,,0,1:1,20,Levitate,,,1,2.2,0.6,2,0
+Mantyke,458,,,,Undiscovered,,Water,Flying,Single pair of wings,Blue,,,0,1:1U,25,Swift Swim,Water Absorb,Water Veil,65,143.3,1,3,3
+Luvdisc,370,,,,Water 2,,Water,,Fins,Pink,,,0,3:1,20,Swift Swim,,Hydration,8.7,19.2,0.6,2,0
+Tentacool,72,,,,Water 3,,Water,Poison,Tentacles or a multiped body,Blue,,,0,1:1,20,Clear Body,Liquid Ooze,Rain Dish,45.5,100.3,0.9,2,11
+Vaporeon,134,,,,Field,,Water,,Quadruped body,Blue,,,0,1:7,35,Water Absorb,,Hydration,29,63.9,1,3,3
+Voltorb,100,,,,Mineral,,Electric,,Head,Red,,,0,G,20,Soundproof,Static,Aftermath,10.4,22.9,0.5,1,8
+Ferroseed,597,,,,Grass,Mineral,Grass,Steel,Head,Gray,,,0,1:1,20,Iron Barbs,,,18.8,41.5,0.6,2,0
+Tirtouga,564,,,,Water 1,Water 3,Water,Rock,Quadruped body,Blue,,,0,1:7,30,Solid Rock,Sturdy,Swift Swim,16.5,36.4,0.7,2,4
+Sewaddle,540,,,,Bug,,Bug,Grass,Insectoid body,Yellow,,,0,1:1,15,Swarm,Chlorophyll,Overcoat,2.5,5.5,0.3,1,0
+Swablu,333,,,,Flying,Dragon,Normal,Flying,Single pair of wings,Blue,,,0,1:1,20,Natural Cure,,Cloud Nine,1.2,2.6,0.4,1,4
+Klang,600,,,,Mineral,,Steel,,Multiple bodies,Gray,,,0,G,20,Plus,Minus,Clear Body,51,112.4,0.6,2,0
+Litwick,607,,,,Amorphous,,Ghost,Fire,Head and a base,White,,,9,1:1,20,Flash Fire,Flame Body,Infiltrator,3.1,6.8,0.3,1,0
+Sceptile,254,,,,Monster,Dragon,Grass,,"Bipedal, tailed form",Green,,,0,1:7,20,Overgrow,,Unburden,52.2,115.1,1.7,5,7
+Breloom,286,,,,Fairy,Grass,Grass,Fighting,"Bipedal, tailed form",Green,,,2,1:1,15,Effect Spore,Poison Heal,Technician,39.2,86.4,1.2,3,11
+Rhydon,112,,,,Monster,Field,Ground,Rock,"Bipedal, tailed form",Gray,,,0,1:1,20,Lightning Rod,Rock Head,Reckless,120,264.6,1.9,6,3
+Magmortar,467,,,,Human-Like,,Fire,,"Bipedal, tailed form",Red,,,0,1:3,25,Flame Body,,Vital Spirit,68,149.9,1.6,5,3
+Beautifly,267,,,,Bug,,Bug,Flying,Two or more pairs of wings,Yellow,,,0,1:1,15,Swarm,,Rivalry,28.4,62.6,1,3,3
+Ribombee,743,,,,Bug,Fairy,Bug,Fairy,Two or more pairs of wings,Yellow,,,0,1:1,20,Honey Gather,Shield Dust,Sweet Veil,0.5,1.1,0.2,0,8
+Exeggutor,103,,,,Grass,,Grass,Psychic,Head and legs,Yellow,,,0,1:1,20,Chlorophyll,,Harvest,120,264.6,2,6,7
+Raticate,20,,,,Field,,Normal,,Quadruped body,Brown,,,0,1:1,15,Run Away,Guts,Hustle,18.5,40.8,0.7,2,4
+Chimecho,358,,,,Amorphous,,Psychic,,Head and arms,Blue,,,0,1:1,25,Levitate,,,1,2.2,0.6,2,0
+Pikachu,25,Alola Cap,,,Field,Fairy,Electric,,Quadruped body,Yellow,,,0,1:1,10,Static,,Lightning Rod,6,13.2,0.4,1,4
+Phanpy,231,,,,Field,,Ground,,Quadruped body,Blue,,,0,1:1,20,Pickup,,Sand Veil,33.5,73.9,0.5,1,8
+Thundurus,642,Incarnate Forme,,,Undiscovered,,Electric,Flying,Head and arms,Blue,,,0,0:1U,120,Prankster,,Defiant,61,134.5,3,9,10
+Florges,671,Red Flower,,,Fairy,,Fairy,,Head and arms,White,,,0,1:0,20,Flower Veil,,Symbiosis,10,22,1.1,3,7
+Grimer,88,,,,Amorphous,,Poison,,Head and arms,Purple,,,0,1:1,20,Stench,Sticky Hold,Poison Touch,30,66.1,0.9,2,11
+Vivillon,666,Poké Ball Pattern,,,Bug,,Bug,Flying,Two or more pairs of wings,White,,,0,1:1,15,Shield Dust,Compound Eyes,Friend Guard,17,37.5,1.2,3,11
+Amoonguss,591,,,,Grass,,Grass,Poison,Head and arms,White,,,0,1:1,20,Effect Spore,,Regenerator,10.5,23.1,0.6,2,0
+Zweilous,634,,,,Dragon,,Dark,Dragon,Quadruped body,Blue,,,0,1:1,40,Hustle,,,50,110.2,1.4,4,7
+Arceus,493,Type: Flying,,,Undiscovered,,Normal,,Quadruped body,White,,,0,GU,120,Multitype,,,320,705.5,3.2,10,6
+Simisear,514,,,,Field,,Fire,,"Bipedal, tailed form",Red,,,0,1:7,20,Gluttony,,Blaze,28,61.7,1,3,3
+Rotom,479,Wash,,,Amorphous,,Electric,Ghost,Head,Red,,,0,G,20,Levitate,,,0.3,0.7,0.3,1,0
+Oricorio,741,Pa'u Style,,,Flying,,Fire,Flying,Single pair of wings,Pink,,,0,3:1,20,Dancer,,,3.4,7.5,0.6,2,0
+Pikipek,731,,,,Flying,,Normal,Flying,Single pair of wings,Black,,,0,1:1,15,Keen Eye,Skill Link,Pickup,1.2,2.6,0.3,1,0
+Clefable,36,,,,Fairy,,Fairy,,"Bipedal, tailed form",Pink,,,2,3:1,10,Cute Charm,Magic Guard,Unaware,40,88.2,1.3,4,3
+Pidgeot,18,,,,Flying,,Normal,Flying,Single pair of wings,Brown,,,2,1:1,15,Keen Eye,Tangled Feet,Big Pecks,39.5,87.1,1.5,4,11
+Lucario,448,,,,Field,Human-Like,Fighting,Steel,"Bipedal, tailed form",Blue,,,0,1:7,25,Steadfast,Inner Focus,Justified,54,119,1.2,3,11
+Shellos,422,East Sea,E,,Water 1,Amorphous,Water,,Serpentine bodies,Blue,,,0,1:1,20,Sticky Hold,Storm Drain,Sand Force,6.3,13.9,0.3,1,0
+Hitmonlee,106,,,,Human-Like,,Fighting,,"Bipedal, tailless form",Brown,,,2,0:1,25,Limber,Reckless,Unburden,49.8,109.8,1.5,4,11
+Blacephalon,806,,,,Undiscovered,,Fire,Ghost,"Bipedal, tailless form",White,,,0,GU,120,Beast Boost,,,13,28.7,1.8,5,11
+Deerling,585,Summer Form,,,Field,,Normal,Grass,Quadruped body,Pink,,,0,1:1,20,Chlorophyll,Sap Sipper,Serene Grace,19.5,43,0.6,2,0
+Dewpider,751,,,,Water 1,Bug,Water,Bug,Head and legs,Green,,,0,1:1,15,Water Bubble,,Water Absorb,4,8.8,0.3,1,0
+Croagunk,453,,,,Human-Like,,Poison,Fighting,"Bipedal, tailless form",Blue,,,0,1:1,10,Anticipation,Dry Skin,Poison Touch,23,50.7,0.7,2,4
+Shroomish,285,,,,Fairy,Grass,Grass,,Head and legs,Brown,,,2,1:1,15,Effect Spore,Poison Heal,Quick Feet,4.5,9.9,0.4,1,4
+Marowak,105,,,,Monster,,Ground,,"Bipedal, tailed form",Brown,,,0,1:1,20,Rock Head,Lightning Rod,Battle Armor,45,99.2,1,3,3
+Scraggy,559,,,,Field,Dragon,Dark,Fighting,"Bipedal, tailed form",Yellow,,,0,1:1,15,Shed Skin,Moxie,Intimidate,11.8,26,0.6,2,0
+Shinx,403,,,,Field,,Electric,,Quadruped body,Blue,,,0,1:1,20,Rivalry,Intimidate,Guts,9.5,20.9,0.5,1,8
+Staryu,120,,,,Water 3,,Water,,Head and a base,Brown,,,0,G,20,Illuminate,Natural Cure,Analytic,34.5,76.1,0.8,2,7
+Minior,774,Brown,,,Mineral,,Rock,Flying,Head,Brown,,,0,G,25,Shields Down,,,40,88.2,0.3,1,0
+Silvally,773,Type: Electric,,,Undiscovered,,Normal,,Quadruped body,Gray,,,0,GU,120,RKS System,,,100.5,221.6,2.3,7,7
+Furfrou,676,Matron Trim,,,Field,,Normal,,Quadruped body,White,,,0,1:1,20,Fur Coat,,,28,61.7,1.2,3,11
+Krokorok,552,,,,Field,,Ground,Dark,Quadruped body,Brown,,,0,1:1,20,Intimidate,Moxie,Anger Point,33.4,73.6,1,3,3
+Durant,632,,,,Bug,,Bug,Steel,Insectoid body,Gray,,,0,1:1,20,Swarm,Hustle,Truant,33,72.8,0.3,1,0
+Electrode,101,,,,Mineral,,Electric,,Head,Red,,,0,G,20,Soundproof,Static,Aftermath,66.6,146.8,1.2,3,11
+Dhelmise,781,,,,Mineral,,Ghost,Grass,Head and a base,Green,,,0,G,25,Steelworker,,,210,463,3.9,12,10
+Deerling,585,Spring Form,,,Field,,Normal,Grass,Quadruped body,Pink,,,0,1:1,20,Chlorophyll,Sap Sipper,Serene Grace,19.5,43,0.6,2,0
+Beartic,614,,,,Field,,Ice,,Quadruped body,White,,,2,1:1,20,Snow Cloak,Slush Rush,Swift Swim,260,573.2,2.6,8,6
+Gurdurr,533,,,,Human-Like,,Fighting,,"Bipedal, tailless form",Gray,,,0,1:3,20,Guts,Sheer Force,Iron Fist,40,88.2,1.2,3,11
+Onix,95,,,,Mineral,,Rock,Ground,Serpentine bodies,Gray,,,0,1:1,25,Rock Head,Sturdy,Weak Armor,210,463,8.8,28,10
+Exeggcute,102,,,,Grass,,Grass,Psychic,Multiple bodies,Pink,,,0,1:1,20,Chlorophyll,,Harvest,2.5,5.5,0.4,1,4
+Happiny,440,,,,Undiscovered,,Normal,,"Bipedal, tailless form",Pink,,,0,1:0U,40,Natural Cure,Serene Grace,Friend Guard,24.4,53.8,0.6,2,0
+Skiddo,672,,,,Field,,Grass,,Quadruped body,Brown,,,0,1:1,20,Sap Sipper,,Grass Pelt,31,68.3,0.9,2,11
+Vibrava,329,,,,Bug,,Ground,Dragon,Two or more pairs of wings,Green,,,0,1:1,20,Levitate,,,15.3,33.7,1.1,3,7
+Gothorita,575,,,,Human-Like,,Psychic,,"Bipedal, tailless form",Purple,,,2,3:1,20,Frisk,Competitive,Shadow Tag,18,39.7,0.7,2,4
+Whismur,293,,,,Monster,Field,Normal,,"Bipedal, tailed form",Pink,,,0,1:1,20,Soundproof,,Rattled,16.3,35.9,0.6,2,0
+Vulpix,37,,,,Field,,Fire,,Quadruped body,Brown,,,0,3:1,20,Flash Fire,,Drought,9.9,21.8,0.6,2,0
+Conkeldurr,534,,,,Human-Like,,Fighting,,"Bipedal, tailless form",Brown,,,0,1:3U,20,Guts,Sheer Force,Iron Fist,87,191.8,1.5,4,11
+Piloswine,221,,,,Field,,Ice,Ground,Quadruped body,Brown,,,2,1:1,20,Oblivious,Snow Cloak,Thick Fat,55.8,123,1.1,3,7
+Empoleon,395,,,,Water 1,Field,Water,Steel,"Bipedal, tailed form",Blue,,,0,1:7,20,Torrent,,Defiant,84.5,186.3,1.7,5,7
+Abomasnow,460,,,,Monster,Grass,Grass,Ice,"Bipedal, tailed form",White,,,0,1:1,20,Snow Warning,,Soundproof,135.5,298.7,2.2,7,3
+Dewott,502,,,,Field,,Water,,"Bipedal, tailed form",Blue,,,0,1:7,20,Torrent,,Shell Armor,24.5,54,0.8,2,7
+Talonflame,663,,,,Flying,,Fire,Flying,Single pair of wings,Red,,,0,1:1,15,Flame Body,,Gale Wings,24.5,54,1.2,3,11
+Buneary,427,,,,Field,Human-Like,Normal,,"Bipedal, tailed form",Brown,,,0,1:1,20,Run Away,Klutz,Limber,5.5,12.1,0.4,1,4
+Tentacruel,73,,,,Water 3,,Water,Poison,Tentacles or a multiped body,Blue,,,0,1:1,20,Clear Body,Liquid Ooze,Rain Dish,55,121.3,1.6,5,3
+Purugly,432,,,,Field,,Normal,,Quadruped body,Gray,,,0,3:1,20,Thick Fat,Own Tempo,Defiant,43.8,96.6,1,3,3
+Wimpod,767,,,,Bug,Water 3,Bug,Water,Tentacles or a multiped body,Gray,,,0,1:1,20,Wimp Out,,,12,26.5,0.5,1,8
+Graveler,75,,,,Mineral,,Rock,Ground,"Bipedal, tailless form",Brown,,,0,1:1,15,Rock Head,Sturdy,Sand Veil,105,231.5,1,3,3
+Sandygast,769,,,,Amorphous,,Ghost,Ground,Serpentine bodies,Brown,,,0,1:1,15,Water Compaction,,Sand Veil,70,154.3,0.5,1,8
+Crabrawler,739,,,,Water 3,,Fighting,,Insectoid body,Purple,,,0,1:1,20,Hyper Cutter,Iron Fist,Anger Point,7,15.4,0.6,2,0
+Latias,380,,,,Undiscovered,,Dragon,Psychic,Single pair of wings,Red,,,0,1:0U,120,Levitate,,,40,88.2,1.4,4,7
+Natu,177,,,,Flying,,Psychic,Flying,Single pair of wings,Green,,,0,1:1,20,Synchronize,Early Bird,Magic Bounce,2,4.4,0.2,0,8
+Remoraid,223,,,,Water 1,Water 2,Water,,Fins,Gray,,,2,1:1,20,Hustle,Sniper,Moody,12,26.5,0.6,2,0
+Camerupt,323,,,,Field,,Fire,Ground,Quadruped body,Red,,,2,1:1,20,Magma Armor,Solid Rock,Anger Point,220,485,1.9,6,3
+Crustle,558,,,,Bug,Mineral,Bug,Rock,Insectoid body,Red,,,0,1:1,20,Sturdy,Shell Armor,Weak Armor,200,440.9,1.4,4,7
+Butterfree,12,,,,Bug,,Bug,Flying,Two or more pairs of wings,White,,,0,1:1,15,Compound Eyes,,Tinted Lens,32,70.5,1.1,3,7
+Vivillon,666,Modern Pattern,,,Bug,,Bug,Flying,Two or more pairs of wings,White,,,0,1:1,15,Shield Dust,Compound Eyes,Friend Guard,17,37.5,1.2,3,11
+Milotic,350,,,,Water 1,Dragon,Water,,Serpentine bodies,Pink,,,2,1:1,20,Marvel Scale,Competitive,Cute Charm,162,357.1,6.2,20,4
+Vivillon,666,Tundra Pattern,,,Bug,,Bug,Flying,Two or more pairs of wings,White,,,0,1:1,15,Shield Dust,Compound Eyes,Friend Guard,17,37.5,1.2,3,11
+Feraligatr,160,,,,Monster,Water 1,Water,,"Bipedal, tailed form",Blue,,,0,1:7,20,Torrent,,Sheer Force,88.8,195.8,2.3,7,7
+Binacle,688,,,,Water 3,,Rock,Water,Multiple bodies,Brown,,,0,1:1,20,Sniper,Tough Claws,Pickpocket,31,68.3,0.5,1,8
+Ivysaur,2,,,,Monster,Grass,Grass,Poison,Quadruped body,Green,,,0,1:7,20,Overgrow,,Chlorophyll,13,28.7,1,3,3
+Elgyem,605,,,,Human-Like,,Psychic,,"Bipedal, tailed form",Blue,,,0,1:1,20,Telepathy,Synchronize,Analytic,9,19.8,0.5,1,8
+Furfrou,676,Diamond Trim,,,Field,,Normal,,Quadruped body,White,,,0,1:1,20,Fur Coat,,,28,61.7,1.2,3,11
+Snorlax,143,,,,Monster,,Normal,,"Bipedal, tailless form",Black,,,0,1:7,40,Immunity,Thick Fat,Gluttony,460,1014.1,2.1,6,11
+Vivillon,666,Sun Pattern,,,Bug,,Bug,Flying,Two or more pairs of wings,White,,,0,1:1,15,Shield Dust,Compound Eyes,Friend Guard,17,37.5,1.2,3,11
+Patrat,504,,,,Field,,Normal,,Quadruped body,Brown,,,0,1:1,15,Run Away,Keen Eye,Analytic,11.6,25.6,0.5,1,8
+Servine,496,,,,Field,Grass,Grass,,"Bipedal, tailed form",Green,,,0,1:7,20,Overgrow,,Contrary,16,35.3,0.8,2,7
+Lumineon,457,,,,Water 2,,Water,,Fins,Blue,,,0,1:1,20,Swift Swim,Storm Drain,Water Veil,24,52.9,1.2,3,11
+Entei,244,,,,Undiscovered,,Fire,,Quadruped body,Brown,,,8,GU,80,Pressure,,Inner Focus,198,436.5,2.1,6,11
+Dragonair,148,,,,Water 1,Dragon,Dragon,,Serpentine bodies,Blue,,,0,1:1,40,Shed Skin,,Marvel Scale,16.5,36.4,4,13,1
+Primarina,730,,,,Water 1,Field,Water,Fairy,Fins,Blue,,,0,1:7,15,Torrent,,Liquid Voice,44,97,1.8,5,11
+Kingdra,230,,,,Water 1,Dragon,Water,Dragon,Head and a base,Blue,,,2,1:1,20,Swift Swim,Sniper,Damp,152,335.1,1.8,5,11
+Vileplume,45,,,,Grass,,Grass,Poison,"Bipedal, tailless form",Red,,,0,1:1,20,Chlorophyll,,Effect Spore,18.6,41,1.2,3,11
+Sunkern,191,,,,Grass,,Grass,,Head,Yellow,,,2,1:1,20,Chlorophyll,Solar Power,Early Bird,1.8,4,0.3,1,0
+Diancie,719,,,,Undiscovered,,Rock,Fairy,Head and arms,Pink,,,0,GU,25,Clear Body,,,8.8,19.4,0.7,2,4
+Tangrowth,465,,,,Grass,,Grass,,"Bipedal, tailless form",Blue,,,0,1:1,20,Chlorophyll,Leaf Guard,Regenerator,128.6,283.5,2,6,7
+Tyrantrum,697,,,,Monster,Dragon,Rock,Dragon,"Bipedal, tailed form",Red,,,0,1:7,30,Strong Jaw,,Rock Head,270,595.2,2.5,8,2
+Furfrou,676,La Reine Trim,,,Field,,Normal,,Quadruped body,White,,,0,1:1,20,Fur Coat,,,28,61.7,1.2,3,11
+Seadra,117,,,,Water 1,Dragon,Water,,Head and a base,Blue,,,2,1:1,20,Poison Point,Sniper,Damp,25,55.1,1.2,3,11
+Rockruff,744,,,,Field,,Rock,,Quadruped body,Brown,,,0,1:1,15,Keen Eye,Vital Spirit,Steadfast,9.2,20.3,0.5,1,8
+Arceus,493,Type: Fighting,,,Undiscovered,,Normal,,Quadruped body,White,,,0,GU,120,Multitype,,,320,705.5,3.2,10,6
+Steelix,208,,,,Mineral,,Steel,Ground,Serpentine bodies,Gray,,,0,1:1,25,Rock Head,Sturdy,Sheer Force,400,881.8,9.2,30,2
+Porygon2,233,,,,Mineral,,Normal,,Head and legs,Red,,,2,G,20,Trace,Download,Analytic,32.5,71.6,0.6,2,0
+Arceus,493,Type: Steel,,,Undiscovered,,Normal,,Quadruped body,White,,,0,GU,120,Multitype,,,320,705.5,3.2,10,6
+Torchic,255,,,,Field,,Fire,,Head and legs,Red,,,0,1:7,20,Blaze,,Speed Boost,2.5,5.5,0.4,1,4
+Silvally,773,Type: Fairy,,,Undiscovered,,Normal,,Quadruped body,Gray,,,0,GU,120,RKS System,,,100.5,221.6,2.3,7,7
+Vivillon,666,Ocean Pattern,,,Bug,,Bug,Flying,Two or more pairs of wings,White,,,0,1:1,15,Shield Dust,Compound Eyes,Friend Guard,17,37.5,1.2,3,11
+Furfrou,676,Dandy Trim,,,Field,,Normal,,Quadruped body,White,,,0,1:1,20,Fur Coat,,,28,61.7,1.2,3,11
+Glalie,362,,,,Fairy,Mineral,Ice,,Head,Gray,,,2,1:1,20,Inner Focus,Ice Body,Moody,256.5,565.5,1.5,4,11
+Noctowl,164,,,,Flying,,Normal,Flying,Single pair of wings,Brown,,,0,1:1,15,Insomnia,Keen Eye,Tinted Lens,40.8,89.9,1.6,5,3
+Volcanion,721,,,,Undiscovered,,Fire,Water,Quadruped body,Brown,,,0,GU,120,Water Absorb,,,195,429.9,1.7,5,7
+Blissey,242,,,,Fairy,,Normal,,"Bipedal, tailless form",Pink,,,0,1:0,40,Natural Cure,Serene Grace,Healer,46.8,103.2,1.5,4,11
+Litten,725,,,,Field,,Fire,,Quadruped body,Red,,,0,1:7,15,Blaze,,Intimidate,4.3,9.5,0.4,1,4
+Oshawott,501,,,,Field,,Water,,"Bipedal, tailed form",Blue,,,0,1:7,20,Torrent,,Shell Armor,5.9,13,0.5,1,8
+Magikarp,129,,,,Water 2,Dragon,Water,,Fins,Red,,,0,1:1,5,Swift Swim,,Rattled,10,22,0.9,2,11
+Staraptor,398,,,,Flying,,Normal,Flying,Single pair of wings,Brown,,,0,1:1,15,Intimidate,,Reckless,24.9,54.9,1.2,3,11
+Sliggoo,705,,,,Dragon,,Dragon,,Serpentine bodies,Purple,,,0,1:1,40,Sap Sipper,Hydration,Gooey,17.5,38.6,0.8,2,7
+Cryogonal,615,,,,Mineral,,Ice,,Head,Blue,,,0,G,25,Levitate,,,148,326.3,1.1,3,7
+Persian,53,,,,Field,,Normal,,Quadruped body,Yellow,,,2,1:1,20,Limber,Technician,Unnerve,32,70.5,1,3,3
+Kricketot,401,,,,Bug,,Bug,,"Bipedal, tailless form",Red,,,0,1:1,15,Shed Skin,,Run Away,2.2,4.9,0.3,1,0
+Volcarona,637,,,,Bug,,Bug,Fire,Two or more pairs of wings,White,,,0,1:1,40,Flame Body,,Swarm,46,101.4,1.6,5,3
+Rayquaza,384,,,,Undiscovered,,Dragon,Flying,Serpentine bodies,Green,,,0,GU,120,Air Lock,,,206.5,455.2,7,23,0
+Uxie,480,,,,Undiscovered,,Psychic,,"Bipedal, tailed form",Yellow,,,0,GU,80,Levitate,,,0.3,0.7,0.3,1,0
+Carbink,703,,,,Fairy,Mineral,Rock,Fairy,Head,Gray,,,0,G,25,Clear Body,,Sturdy,5.7,12.6,0.3,1,0
+Zekrom,644,,,,Undiscovered,,Dragon,Electric,"Bipedal, tailed form",Black,,,0,GU,120,Teravolt,,,345,760.6,2.9,9,6
+Heliolisk,695,,,,Monster,Dragon,Electric,Normal,"Bipedal, tailed form",Yellow,,,0,1:1,20,Dry Skin,Sand Veil,Solar Power,21,46.3,1,3,3
+Morelull,755,,,,Grass,,Grass,Fairy,Head and a base,Purple,,,0,1:1,20,Illuminate,Effect Spore,Rain Dish,1.5,3.3,0.2,0,8
+Chatot,441,,,,Flying,,Normal,Flying,Single pair of wings,Black,,,0,1:1,20,Keen Eye,Tangled Feet,Big Pecks,1.9,4.2,0.5,1,8
+Popplio,728,,,,Water 1,Field,Water,,Fins,Blue,,,0,1:7,15,Torrent,,Liquid Voice,7.5,16.5,0.4,1,4
+Slaking,289,,,,Field,,Normal,,"Bipedal, tailless form",Brown,,,0,1:1,15,Truant,,,130.5,287.7,2,6,7
+Gothitelle,576,,,,Human-Like,,Psychic,,"Bipedal, tailless form",Purple,,,2,3:1,20,Frisk,Competitive,Shadow Tag,44,97,1.5,4,11
+Foongus,590,,,,Grass,,Grass,Poison,Head and arms,White,,,0,1:1,20,Effect Spore,,Regenerator,1,2.2,0.2,0,8
+Mudkip,258,,,,Monster,Water 1,Water,,Quadruped body,Blue,,,0,1:7,20,Torrent,,Damp,7.6,16.8,0.4,1,4
+Ursaring,217,,,,Field,,Normal,,"Bipedal, tailed form",Brown,,,2,1:1,20,Guts,Quick Feet,Unnerve,125.8,277.3,1.8,5,11
+Bergmite,712,,,,Monster,,Ice,,Quadruped body,Blue,,,0,1:1,20,Own Tempo,Ice Body,Sturdy,99.5,219.4,1,3,3
+Poliwag,60,,,,Water 1,,Water,,Head and legs,Blue,,,0,1:1,20,Water Absorb,Damp,Swift Swim,12.4,27.3,0.6,2,0
