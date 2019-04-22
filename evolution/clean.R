@@ -372,8 +372,19 @@ evolutions.f%>%
 evolutions=evolutions.f%>%
 	select(1:4,25:34);
 
+# Remove ones in family
+evolutions%<>%
+	select(-c(Region, Family));
+
+# Convert into one way table as you can query it the other way to get previous evolution
+evolutions%<>%
+	select(-Previous_Name, -Previous_Dex)%>%
+	filter(!is.na(Next_Dex));# Remove families and last evolution
+
+# Anomoly with Dex_Suffix=="A"
+
 # Export
 rm(evolutions.f);
 
-write_csv(species, "datasets/evolutions.csv",na="");
+write_csv(evolutions, "datasets/evolutions.csv",na="");
 
