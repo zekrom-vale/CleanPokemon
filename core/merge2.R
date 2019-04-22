@@ -406,93 +406,6 @@ agg=agg%>%
 	);
 
 ###############################################################################
-# 															Join with evolution
-###############################################################################
-# Remove na's
-evolution=evolution%>%filter(!is.na(Dex));
-
-# Join
-agg%>%
-	left_join(
-		evolution%>%
-			select(-Dex_Suffix)%>%
-			filter(!is.na(Dex)),
-		by=dexes
-	);
-
-# Too big, somthing is not distinct in evolution
-evolution%>%
-	setdiff(
-		evolution%>%
-			distinct(Name,Dex,.keep_all=T)
-	);
-
-# ???
-
-agg%>%
-	inner_join(
-		evolution%>%
-			select(-Dex_Suffix)%>%
-			filter(!is.na(Dex)),
-		by=dexes
-	)%>%
-	group_by(
-		Dex, Name
-	)%>%
-	summarise(
-		ns=if_else(n()>1,T,F)
-	)%>%
-	filter(ns==T);
-
-# See the things duplicated
-evolution.dup=(agg%>%
-							 	inner_join(
-							 		evolution%>%
-							 			select(-Dex_Suffix)%>%
-							 			filter(!is.na(Dex)),
-							 		by=dexes
-							 	)%>%
-							 	group_by(
-							 		Dex, Name
-							 	)%>%
-							 	summarise(
-							 		ns=if_else(n()>1,T,F)
-							 	)%>%
-							 	filter(ns==T))$Dex;
-
-evolution%>%
-	filter(
-		Dex%in%evolution.dup
-	)%>%View();
-# I now see many things are from agg, not evolution
-
-# Try distinct the rows
-evolution%>%
-	distinct();
-
-evolution%>%
-	distinct(
-		Dex, Dex_Suffix, Name
-	);
-
-# Now they are the same
-# Save
-evolution%<>%
-	distinct();
-
-# Join
-agg%<>%
-	left_join(
-		evolution%>%
-			select(-Dex_Suffix)%>%
-			filter(!is.na(Dex)),
-		by=dexes
-	);
-
-# Now the same size
-
-rm(evolution.dup);
-###############################################################################
 # 															Join with Call rate
 ###############################################################################
 # Remove na's
@@ -581,6 +494,7 @@ agg%>%not_distinct(Name, Dex, Dex_Suffix, Class);
 ###############################################################################
 # 															Join with ability
 ###############################################################################
+# Removing Alolans
 # Cut the star out
 ability%<>%
 	mutate(
