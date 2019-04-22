@@ -45,7 +45,7 @@ family%<>%
 	);
 
 # Seperate Condition or class
-reg="^([^→]+)\\s*$|^(?:Level\\s*(?=\\d))?([^()]+?)\\s*(?:\\((.+)\\))?\\s*→\\s*$";
+reg="^([^\u2192]+)\\s*$|^(?:Level\\s*(?=\\d))?([^()]+?)\\s*(?:\\((.+)\\))?\\s*\u2192\\s*$";
 into=c("Class", "Condition", "Sub_Condition");
 family%<>%
 	extract(

@@ -22,7 +22,7 @@ source("ability/cleanAbility.R", encoding="UTF-8");
 source("items/cleanItems.R", encoding="UTF-8");
 
 # Evolution
-source("evolution/clean.R", encoding="UTF-8");
+source("evolution/clean.R", encoding="UTF-8"); # Must use \u2192 and not →
 
 # IV and Base
 source("IV/clean.R", encoding="UTF-8");
