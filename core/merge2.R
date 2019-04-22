@@ -494,7 +494,6 @@ agg%>%not_distinct(Name, Dex, Dex_Suffix, Class);
 ###############################################################################
 # 															Join with ability
 ###############################################################################
-# Removing Alolans
 # Cut the star out
 ability%<>%
 	mutate(
@@ -506,6 +505,12 @@ ability%<>%
 		`Ability 2`=gsub("\\*$","", `Ability 2`),
 		HiddenAbilityStar=str_detect(Hidden, "\\*$"),
 		Hidden=gsub("\\*$","", Hidden)
+	);
+
+# Remove the Alolan part in the name
+ability%<>%
+	mutate(
+		Name=sub("^Alolan\\s*", "", Name)
 	);
 
 agg.j=agg%>%
