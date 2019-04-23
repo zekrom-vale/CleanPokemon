@@ -4,6 +4,7 @@ library(reshape2);
 # Utility
 library(zUtil);
 
+# open with file.edit()
 # Core DB
 source("core/clean.R");
 source("core/manageAlts.R", encoding="UTF-8");

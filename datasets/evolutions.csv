@@ -1,452 +1,452 @@
 Name,Dex,Class,Dex_Suffix,Condition,Sub_Condition,Level,Next_Dex,Next_Name,Stage
-Loudred,294,,,,,40,295,Exploud,2
-Ponyta,77,,,,,40,78,Rapidash,1
+Servine,496,,,,,36,497,Serperior,2
+Shroomish,285,,,,,23,286,Breloom,1
+Cubchoo,613,,,,,37,614,Beartic,1
+Flabébé,669,White Flower,,,,19,670,Floette,1
+Snivy,495,,,,,17,496,Servine,1
+Bagon,371,,,,,30,372,Shelgon,1
 Swinub,220,,,,,33,221,Piloswine,1
-Duskull,355,,,,,37,356,Dusclops,1
-Doublade,680,,,Dusk Stone,,,681,Aegislash,2
+Oshawott,501,,,,,17,502,Dewott,1
+Pumpkaboo,710,Average Size,,Trade,,,711,Gourgeist,1
+Slakoth,287,,,,,18,288,Vigoroth,1
+Charmander,4,,,,,16,5,Charmeleon,1
+Hakamo-o,783,,,,,45,784,Kommo-o,2
+Metang,375,,,,,45,376,Metagross,2
+Silcoon,266,,,,,10,267,Beautifly,2
+Bulbasaur,1,,,,,16,2,Ivysaur,1
+Poochyena,261,,,,,18,262,Mightyena,1
+Stunky,434,,,,,34,435,Skuntank,1
+Grimer,88,,,,,38,89,Muk,1
+Scraggy,559,,,,,39,560,Scrafty,1
+Sandile,551,,,,,29,552,Krokorok,1
+Happiny,440,,,Level up holding Oval Stone,day,,113,Chansey,1
+Cacnea,331,,,,,32,332,Cacturne,1
+Cranidos,408,,,,,30,409,Rampardos,1
+Pikachu,25,Kalos Cap,,Thunder Stone,,,26,Raichu,2
+Pikachu,25,Kalos Cap,A,Thunder Stone,,,26,Raichu,2
+Mantyke,458,,,Level up with Remoraid in party,,,226,Mantine,1
+Woobat,527,,,Friendship,,,528,Swoobat,1
+Beldum,374,,,,,20,375,Metang,1
+Minccino,572,,,Shiny Stone,,,573,Cinccino,1
+Ferroseed,597,,,,,40,598,Ferrothorn,1
+Bronzor,436,,,,,33,437,Bronzong,1
+Gulpin,316,,,,,26,317,Swalot,1
+Treecko,252,,,,,16,253,Grovyle,1
+Starly,396,,,,,14,397,Staravia,1
+Numel,322,,,,,33,323,Camerupt,1
+Vulpix,37,Alolan,A,Ice Stone,,,38,Ninetales,1
+Ralts,280,,,,,20,281,Kirlia,1
+Snubbull,209,,,,,23,210,Granbull,1
+Deerling,585,Spring Form Spring Form,,,,34,586,Sawsbuck,1
+Graveler,75,Alolan,A,Trade,,,76,Golem,2
+Skiploom,188,,,,,27,189,Jumpluff,2
+Dewpider,751,,,,,22,752,Araquanid,1
+Electabuzz,125,,,Trade holding Electirizer,,,466,Electivire,2
+Pikachu,25,Partner Cap,,Thunder Stone,,,26,Raichu,2
+Pikachu,25,Partner Cap,A,Thunder Stone,,,26,Raichu,2
+Fomantis,753,,,,day,34,754,Lurantis,1
+Trumbeak,732,,,,,28,733,Toucannon,2
+Magmar,126,,,Trade holding Magmarizer,,,467,Magmortar,2
+Croconaw,159,,,,,30,160,Feraligatr,2
+Koffing,109,,,,,35,110,Weezing,1
+Shelgon,372,,,,,50,373,Salamence,2
+Magneton,82,,,Level up in a special magnetic field,,,462,Magnezone,2
+Meowth,52,,,,,28,53,Persian,1
+Buneary,427,,,Friendship,,,428,Lopunny,1
+Weepinbell,70,,,Leaf Stone,,,71,Victreebel,2
+Chinchou,170,,,,,27,171,Lanturn,1
+Glameow,431,,,,,38,432,Purugly,1
+Solosis,577,,,,,32,578,Duosion,1
+Misdreavus,200,,,Dusk Stone,,,429,Mismagius,1
+Cosmoem,790,,,,Pokémon Moon and Ultra Moon,53,792,Lunala,2
+Cosmoem,790,,,,Pokémon Sun and Ultra Sun,53,791,Solgaleo,2
+Petilil,548,,,Sun Stone,,,549,Lilligant,1
+Gurdurr,533,,,Trade,,,534,Conkeldurr,2
+Jigglypuff,39,,,Moon Stone,,,40,Wigglytuff,2
+Anorith,347,,,,,40,348,Armaldo,1
+Lillipup,506,,,,,16,507,Herdier,1
+Wimpod,767,,,,,30,768,Golisopod,1
+Shellder,90,,,Water Stone,,,91,Cloyster,1
+Pikachu,25,Pop Star,,Thunder Stone,,,26,Raichu,2
+Pikachu,25,Pop Star,A,Thunder Stone,,,26,Raichu,2
+Vulpix,37,,,Fire Stone,,,38,Ninetales,1
+Chansey,113,,,Friendship,,,242,Blissey,2
+Pikachu,25,Belle,,Thunder Stone,,,26,Raichu,2
+Pikachu,25,Belle,A,Thunder Stone,,,26,Raichu,2
+Purrloin,509,,,,,20,510,Liepard,1
+Lileep,345,,,,,40,346,Cradily,1
+Spewpa,665,,,,,12,666,Vivillon,2
 Tyrogue,236,,,,Attack > Defense,20,106,Hitmonlee,1
 Tyrogue,236,,,,Attack < Defense,20,107,Hitmonchan,1
 Tyrogue,236,,,,Attack = Defense,20,237,Hitmontop,1
-Chikorita,152,,,,,16,153,Bayleef,1
-Slugma,218,,,,,38,219,Magcargo,1
-Oddish,43,,,,,21,44,Gloom,1
-Pikachu,25,Belle,A,Thunder Stone,,,26,Raichu,2
-Pikachu,25,Belle,,Thunder Stone,,,26,Raichu,2
-Timburr,532,,,,,25,533,Gurdurr,1
-Deerling,585,Spring Form Spring Form,,,,34,586,Sawsbuck,1
-Finneon,456,,,,,31,457,Lumineon,1
-Carvanha,318,,,,,30,319,Sharpedo,1
-Lillipup,506,,,,,16,507,Herdier,1
-Zweilous,634,,,,,64,635,Hydreigon,2
-Froakie,656,,,,,16,657,Frogadier,1
-Bellsprout,69,,,,,21,70,Weepinbell,1
-Dwebble,557,,,,,34,558,Crustle,1
-Crabrawler,739,,,Level up at Mount Lanakila,,,740,Crabominable,1
-Deerling,585,Winter Form Winter Form,W,,,34,586,Sawsbuck,1
-Psyduck,54,,,,,33,55,Golduck,1
-Cutiefly,742,,,,,25,743,Ribombee,1
-Meowth,52,,,,,28,53,Persian,1
+Litleo,667,,,,,35,668,Pyroar,1
+Hoppip,187,,,,,18,188,Skiploom,1
+Cosmog,789,,,,,43,790,Cosmoem,1
+Grotle,388,,,,,32,389,Torterra,2
+Spoink,325,,,,,32,326,Grumpig,1
+Tynamo,602,,,,,39,603,Eelektrik,1
+Taillow,276,,,,,22,277,Swellow,1
+Larvitar,246,,,,,30,247,Pupitar,1
+Floette,670,Red Flower,,Shiny Stone,,,671,Florges,2
 Drifloon,425,,,,,28,426,Drifblim,1
-Vulpix,37,Alolan,A,Ice Stone,,,38,Ninetales,1
-Quilladin,651,,,,,36,652,Chesnaught,2
-Pikachu,25,Kalos Cap,A,Thunder Stone,,,26,Raichu,2
-Pikachu,25,Kalos Cap,,Thunder Stone,,,26,Raichu,2
-Azurill,298,,,Friendship,,,183,Marill,1
-Bergmite,712,,,,,37,713,Avalugg,1
-Meditite,307,,,,,37,308,Medicham,1
-Phantump,708,,,Trade,,,709,Trevenant,1
-Foongus,590,,,,,39,591,Amoonguss,1
-Burmy,412,Trash Cloak,S,,male,20,414,Mothim,1
-Burmy,412,Trash Cloak,S,,"female, Trash Cloak",20,413,Wormadam,1
-Helioptile,694,,,Sun Stone,,,695,Heliolisk,1
+Swablu,333,,,,,35,334,Altaria,1
 Skorupi,451,,,,,40,452,Drapion,1
-Inkay,686,,, with DS held upside down,,30,687,Malamar,1
+Vanillish,583,,,,,47,584,Vanilluxe,2
+Goldeen,118,,,,,33,119,Seaking,1
+Clefairy,35,,,Moon Stone,,,36,Clefable,2
+Burmy,412,Sandy Cloak,G,,"female, Sandy Cloak",20,413,Wormadam,1
+Burmy,412,Sandy Cloak,G,,male,20,414,Mothim,1
+Pikachu,25,Hoenn Cap,,Thunder Stone,,,26,Raichu,2
+Pikachu,25,Hoenn Cap,A,Thunder Stone,,,26,Raichu,2
+Cyndaquil,155,,,,,14,156,Quilava,1
+Foongus,590,,,,,39,591,Amoonguss,1
+Pignite,499,,,,,36,500,Emboar,2
+Tyrunt,696,,,,day,39,697,Tyrantrum,1
+Pansear,513,,,Fire Stone,,,514,Simisear,1
+Goomy,704,,,,,40,705,Sliggoo,1
+Scatterbug,664,,,,,9,665,Spewpa,1
+Ledyba,165,,,,,18,166,Ledian,1
+Ekans,23,,,,,22,24,Arbok,1
+Yanma,193,,,Level up knowing Ancient Power,,,469,Yanmega,1
+Tentacool,72,,,,,30,73,Tentacruel,1
+Porygon2,233,,,Trade holding Dubious Disc,,,474,Porygon-Z,2
+Poliwhirl,61,,,Water Stone,,,62,Poliwrath,2
+Poliwhirl,61,,,Trade holding King's Rock,,,186,Politoed,2
+Pidgeotto,17,,,,,36,18,Pidgeot,2
+Spheal,363,,,,,32,364,Sealeo,1
+Pikachu,25,,,Thunder Stone,,,26,Raichu,2
+Pikachu,25,,A,Thunder Stone,,,26,Raichu,2
+Whirlipede,544,,,,,30,545,Scolipede,2
+Squirtle,7,,,,,16,8,Wartortle,1
+Amaura,698,,,,night,39,699,Aurorus,1
+Gloom,44,,,Sun Stone,,,182,Bellossom,2
+Gloom,44,,,Leaf Stone,,,45,Vileplume,2
+Herdier,507,,,,,32,508,Stoutland,2
+Floette,670,Yellow Flower,,Shiny Stone,,,671,Florges,2
+Dratini,147,,,,,30,148,Dragonair,1
 Stufful,759,,,,,27,760,Bewear,1
-Spinarak,167,,,,,22,168,Ariados,1
-Dusclops,356,,,Trade holding Reaper Cloth,,,477,Dusknoir,2
-Pumpkaboo,710,Small Size,,Trade,,,711,Gourgeist,1
-Quilava,156,,,,,36,157,Typhlosion,2
-Shuppet,353,,,,,37,354,Banette,1
-Shelgon,372,,,,,50,373,Salamence,2
-Drilbur,529,,,,,31,530,Excadrill,1
-Gastly,92,,,,,25,93,Haunter,1
-Caterpie,10,,,,,7,11,Metapod,1
-Vigoroth,288,,,,,36,289,Slaking,2
-Zubat,41,,,,,22,42,Golbat,1
-Gible,443,,,,,24,444,Gabite,1
-Nuzleaf,274,,,Leaf Stone,,,275,Shiftry,2
-Rattata,19,,,,,20,20,Raticate,1
-Tepig,498,,,,,17,499,Pignite,1
-Aron,304,,,,,32,305,Lairon,1
-Feebas,349,,,"Level up with maximum Beauty
-Trade holding Prism Scale",,,350,Milotic,1
-Rhydon,112,,,Trade holding Protector,,,464,Rhyperior,2
-Horsea,116,,,,,32,117,Seadra,1
-Snorunt,361,,,,,42,362,Glalie,1
-Snorunt,361,,,Dawn Stone,female,,478,Froslass,1
-Gurdurr,533,,,Trade,,,534,Conkeldurr,2
 Marshtomp,259,,,,,36,260,Swampert,2
-Pidove,519,,,,,21,520,Tranquill,1
-Kabuto,140,,,,,40,141,Kabutops,1
-Honedge,679,,,,,35,680,Doublade,1
-Geodude,74,Alolan,A,,,25,75,Graveler,1
+Combusken,256,,,,,36,257,Blaziken,2
+Shellos,422,West Sea West Sea,,,,30,423,Gastrodon,1
+Tepig,498,,,,,17,499,Pignite,1
+Zigzagoon,263,,,,,20,264,Linoone,1
+Gabite,444,,,,,48,445,Garchomp,2
+Shinx,403,,,,,15,404,Luxio,1
+Pumpkaboo,710,Large Size,,Trade,,,711,Gourgeist,1
+Pikachu,25,Libre,,Thunder Stone,,,26,Raichu,2
+Pikachu,25,Libre,A,Thunder Stone,,,26,Raichu,2
+Surskit,283,,,,,22,284,Masquerain,1
+Vibrava,329,,,,,45,330,Flygon,2
+Kakuna,14,,,,,10,15,Beedrill,2
+Sealeo,364,,,,,44,365,Walrein,2
+Pawniard,624,,,,,52,625,Bisharp,1
+Axew,610,,,,,38,611,Fraxure,1
 Pichu,172,,,Friendship,,,25,Pikachu,1
 Pichu,172,,A,Friendship,,,25,Pikachu,1
-Braixen,654,,,,,36,655,Delphox,2
-Nidoran♂,32,,,,,16,33,Nidorino,1
-Shroomish,285,,,,,23,286,Breloom,1
-Nidorina,30,,,Moon Stone,,,31,Nidoqueen,2
-Silcoon,266,,,,,10,267,Beautifly,2
+Nuzleaf,274,,,Leaf Stone,,,275,Shiftry,2
+Kadabra,64,,,Trade,,,65,Alakazam,2
 Paras,46,,,,,24,47,Parasect,1
-Klink,599,,,,,38,600,Klang,1
-Cubone,104,,A,,night,28,105,Marowak,1
-Cubone,104,,,,,28,105,Marowak,1
-Shellos,422,West Sea West Sea,,,,30,423,Gastrodon,1
+Natu,177,,,,,25,178,Xatu,1
 Grimer,88,Alolan,A,,,38,89,Muk,1
-Kricketot,401,,,,,10,402,Kricketune,1
-Wooper,194,,,,,20,195,Quagsire,1
-Phanpy,231,,,,,25,232,Donphan,1
-Joltik,595,,,,,36,596,Galvantula,1
-Ferroseed,597,,,,,40,598,Ferrothorn,1
-Shelmet,616,,,Trade for Karrablast,,,617,Accelgor,1
-Marill,183,,,,,18,184,Azumarill,2
-Krabby,98,,,,,28,99,Kingler,1
-Bayleef,153,,,,,32,154,Meganium,2
-Bagon,371,,,,,30,372,Shelgon,1
-Togepi,175,,,Friendship,,,176,Togetic,1
-Skitty,300,,,Moon Stone,,,301,Delcatty,1
-Kirlia,281,,,,,30,282,Gardevoir,2
-Kirlia,281,,,Dawn Stone,male,,475,Gallade,2
-Venonat,48,,,,,31,49,Venomoth,1
-Turtwig,387,,,,,18,388,Grotle,1
-Weepinbell,70,,,Leaf Stone,,,71,Victreebel,2
-Shieldon,410,,,,,30,411,Bastiodon,1
-Mudkip,258,,,,,16,259,Marshtomp,1
-Litleo,667,,,,,35,668,Pyroar,1
-Amaura,698,,,,night,39,699,Aurorus,1
-Klang,600,,,,,49,601,Klinklang,2
-Mareep,179,,,,,15,180,Flaaffy,1
-Seedot,273,,,,,14,274,Nuzleaf,1
-Seel,86,,,,,34,87,Dewgong,1
-Dratini,147,,,,,30,148,Dragonair,1
-Cubchoo,613,,,,,37,614,Beartic,1
-Luxio,404,,,,,30,405,Luxray,2
-Geodude,74,,,,,25,75,Graveler,1
-Seadra,117,,,Trade holding Dragon Scale,,,230,Kingdra,2
-Swirlix,684,,,Trade holding Whipped Dream,,,685,Slurpuff,1
-Morelull,755,,,,,24,756,Shiinotic,1
-Hippopotas,449,,,,,34,450,Hippowdon,1
-Combusken,256,,,,,36,257,Blaziken,2
-Omanyte,138,,,,,40,139,Omastar,1
-Vibrava,329,,,,,45,330,Flygon,2
-Sentret,161,,,,,15,162,Furret,1
-Sandshrew,27,,,,,22,28,Sandslash,1
-Pikachu,25,Alola Cap,A,Thunder Stone,,,26,Raichu,2
-Pikachu,25,Alola Cap,,Thunder Stone,,,26,Raichu,2
-Rufflet,627,,,,,54,628,Braviary,1
-Trumbeak,732,,,,,28,733,Toucannon,2
-Magby,240,,,,,30,126,Magmar,1
-Ducklett,580,,,,,35,581,Swanna,1
-Torchic,255,,,,,16,256,Combusken,1
-Shellder,90,,,Water Stone,,,91,Cloyster,1
-Clauncher,692,,,,,37,693,Clawitzer,1
-Zorua,570,,,,,30,571,Zoroark,1
+Totodile,158,,,,,18,159,Croconaw,1
+Monferno,391,,,,,36,392,Infernape,2
+Baltoy,343,,,,,36,344,Claydol,1
+Mudbray,749,,,,,30,750,Mudsdale,1
+Lampent,608,,,Dusk Stone,,,609,Chandelure,2
 Golett,622,,,,,43,623,Golurk,1
-Graveler,75,Alolan,A,Trade,,,76,Golem,2
-Darumaka,554,,,,,35,555,Darmanitan,1
-Diglett,50,Alolan,A,,,26,51,Dugtrio,1
-Wimpod,767,,,,,30,768,Golisopod,1
-Sneasel,215,,,Level up holding Razor Claw at night,,,461,Weavile,1
-Togetic,176,,,Shiny Stone,,,468,Togekiss,2
-Cherubi,420,,,,,25,421,Cherrim,1
-Igglybuff,174,,,Friendship,,,39,Jigglypuff,1
-Machop,66,,,,,28,67,Machoke,1
-Diglett,50,,,,,26,51,Dugtrio,1
-Litten,725,,,,,17,726,Torracat,1
-Gothita,574,,,,,32,575,Gothorita,1
-Chinchou,170,,,,,27,171,Lanturn,1
-Jigglypuff,39,,,Moon Stone,,,40,Wigglytuff,2
-Servine,496,,,,,36,497,Serperior,2
-Lickitung,108,,,Level up knowing Rollout,,,463,Lickilicky,1
-Vanillite,582,,,,,35,583,Vanillish,1
-Murkrow,198,,,Dusk Stone,,,430,Honchkrow,1
+Aron,304,,,,,32,305,Lairon,1
+Pikachu,25,Sinnoh Cap,,Thunder Stone,,,26,Raichu,2
+Pikachu,25,Sinnoh Cap,A,Thunder Stone,,,26,Raichu,2
+Piloswine,221,,,Level up knowing Ancient Power,,,473,Mamoswine,2
+Bergmite,712,,,,,37,713,Avalugg,1
+Mime Jr.,439,,,Level up knowing Mimic,,,122,Mr. Mime,1
+Morelull,755,,,,,24,756,Shiinotic,1
+Sewaddle,540,,,,,20,541,Swadloon,1
+Ivysaur,2,,,,,32,3,Venusaur,2
+Archen,566,,,,,37,567,Archeops,1
 Slowpoke,79,,,,,37,80,Slowbro,1
 Slowpoke,79,,,Trade holding King's Rock,,,199,Slowking,1
-Skrelp,690,,,,,48,691,Dragalge,1
-Totodile,158,,,,,18,159,Croconaw,1
-Flaaffy,180,,,,,30,181,Ampharos,2
-Slakoth,287,,,,,18,288,Vigoroth,1
-Mankey,56,,,,,28,57,Primeape,1
-Torracat,726,,,,,34,727,Incineroar,2
-Poliwag,60,,,,,25,61,Poliwhirl,1
-Swadloon,541,,,Friendship,,,542,Leavanny,2
-Spheal,363,,,,,32,364,Sealeo,1
-Electrike,309,,,,,26,310,Manectric,1
-Magnemite,81,,,,,30,82,Magneton,1
-Tyrunt,696,,,,day,39,697,Tyrantrum,1
-Flabébé,669,Yellow Flower,,,,19,670,Floette,1
-Remoraid,223,,,,,25,224,Octillery,1
-Goldeen,118,,,,,33,119,Seaking,1
-Whismur,293,,,,,20,294,Loudred,1
-Roggenrola,524,,,,,25,525,Boldore,1
-Sliggoo,705,,, in rain or fog,,50,706,Goodra,2
-Staravia,397,,,,,34,398,Staraptor,2
-Steenee,762,,,Level up knowing Stomp,,,763,Tsareena,2
-Cacnea,331,,,,,32,332,Cacturne,1
-Rattata,19,Alolan,A,,night,20,20,Raticate,1
-Pikachu,25,Pop Star,A,Thunder Stone,,,26,Raichu,2
-Pikachu,25,Pop Star,,Thunder Stone,,,26,Raichu,2
-Bulbasaur,1,,,,,16,2,Ivysaur,1
-Pikachu,25,Hoenn Cap,A,Thunder Stone,,,26,Raichu,2
-Pikachu,25,Hoenn Cap,,Thunder Stone,,,26,Raichu,2
-Yamask,562,,,,,34,563,Cofagrigus,1
-Fennekin,653,,,,,16,654,Braixen,1
-Jangmo-o,782,,,,,35,783,Hakamo-o,1
-Dragonair,148,,,,,55,149,Dragonite,2
-Spearow,21,,,,,20,22,Fearow,1
-Pikachu,25,Original Cap,A,Thunder Stone,,,26,Raichu,2
-Pikachu,25,Original Cap,,Thunder Stone,,,26,Raichu,2
-Floette,670,Orange Flower,,Shiny Stone,,,671,Florges,2
-Petilil,548,,,Sun Stone,,,549,Lilligant,1
-Boldore,525,,,Trade,,,526,Gigalith,2
-Deerling,585,Autumn Form Autumn Form,A,,,34,586,Sawsbuck,1
-Lileep,345,,,,,40,346,Cradily,1
-Burmy,412,Sandy Cloak,G,,male,20,414,Mothim,1
-Burmy,412,Sandy Cloak,G,,"female, Sandy Cloak",20,413,Wormadam,1
-Piplup,393,,,,,16,394,Prinplup,1
-Magneton,82,,,Level up in a special magnetic field,,,462,Magnezone,2
-Pumpkaboo,710,Large Size,,Trade,,,711,Gourgeist,1
-Bronzor,436,,,,,33,437,Bronzong,1
-Cosmog,789,,,,,43,790,Cosmoem,1
-Metapod,11,,,,,10,12,Butterfree,2
-Clamperl,366,,,Trade holding Deep Sea Tooth,,,367,Huntail,1
-Clamperl,366,,,Trade holding Deep Sea Scale,,,368,Gorebyss,1
-Elgyem,605,,,,,42,606,Beheeyem,1
-Patrat,504,,,,,20,505,Watchog,1
-Combee,415,,,,female,21,416,Vespiquen,1
-Charjabug,737,,,Level up in a special magnetic field,,,738,Vikavolt,2
-Voltorb,100,,,,,30,101,Electrode,1
-Flabébé,669,Red Flower,,,,19,670,Floette,1
-Mareanie,747,,,,,38,748,Toxapex,1
-Dartrix,723,,,,,34,724,Decidueye,2
-Tranquill,520,,,,,32,521,Unfezant,2
-Poochyena,261,,,,,18,262,Mightyena,1
-Ivysaur,2,,,,,32,3,Venusaur,2
-Wailmer,320,,,,,40,321,Wailord,1
-Skiploom,188,,,,,27,189,Jumpluff,2
-Scyther,123,,,Trade holding Metal Coat,,,212,Scizor,1
-Munchlax,446,,,Friendship,,,143,Snorlax,1
-Exeggcute,102,,,Leaf Stone,,,103,Exeggutor,1
-Exeggcute,102,,A,Leaf Stone,,,103,Exeggutor,1
-Karrablast,588,,,Trade for Shelmet,,,589,Escavalier,1
-Venipede,543,,,,,22,544,Whirlipede,1
-Pikachu,25,Unova Cap,A,Thunder Stone,,,26,Raichu,2
-Pikachu,25,Unova Cap,,Thunder Stone,,,26,Raichu,2
-Tynamo,602,,,,,39,603,Eelektrik,1
-Vanillish,583,,,,,47,584,Vanilluxe,2
-Spritzee,682,,,Trade holding Sachet,,,683,Aromatisse,1
-Tympole,535,,,,,25,536,Palpitoad,1
-Surskit,283,,,,,22,284,Masquerain,1
-Solosis,577,,,,,32,578,Duosion,1
-Dewpider,751,,,,,22,752,Araquanid,1
-Oshawott,501,,,,,17,502,Dewott,1
-Teddiursa,216,,,,,30,217,Ursaring,1
-Magikarp,129,,,,,20,130,Gyarados,1
-Shellos,422,East Sea East Sea,E,,,30,423,Gastrodon,1
-Roselia,315,,,Shiny Stone,,,407,Roserade,2
-Pikachu,25,Partner Cap,A,Thunder Stone,,,26,Raichu,2
-Pikachu,25,Partner Cap,,Thunder Stone,,,26,Raichu,2
-Trapinch,328,,,,,35,329,Vibrava,1
-Pidgeotto,17,,,,,36,18,Pidgeot,2
-Hoothoot,163,,,,,20,164,Noctowl,1
-Tangela,114,,,Level up knowing Ancient Power,,,465,Tangrowth,1
-Pikachu,25,"Pikachu, Ph. D",A,Thunder Stone,,,26,Raichu,2
+Cutiefly,742,,,,,25,743,Ribombee,1
+Pupitar,247,,,,,55,248,Tyranitar,2
+Wynaut,360,,,,,15,202,Wobbuffet,1
 Pikachu,25,"Pikachu, Ph. D",,Thunder Stone,,,26,Raichu,2
-Axew,610,,,,,38,611,Fraxure,1
-Spewpa,665,,,,,12,666,Vivillon,2
-Deerling,585,Summer Form Summer Form,S,,,34,586,Sawsbuck,1
+Pikachu,25,"Pikachu, Ph. D",A,Thunder Stone,,,26,Raichu,2
+Frogadier,657,,,,,36,658,Greninja,2
+Lickitung,108,,,Level up knowing Rollout,,,463,Lickilicky,1
+Nidoran♀,29,,,,,16,30,Nidorina,1
+Boldore,525,,,Trade,,,526,Gigalith,2
+Braixen,654,,,,,36,655,Delphox,2
+Panpour,515,,,Water Stone,,,516,Simipour,1
+Munna,517,,,Moon Stone,,,518,Musharna,1
+Bayleef,153,,,,,32,154,Meganium,2
+Nidoran♂,32,,,,,16,33,Nidorino,1
+Buizel,418,,,,,26,419,Floatzel,1
+Ducklett,580,,,,,35,581,Swanna,1
+Wingull,278,,,,,25,279,Pelipper,1
+Zorua,570,,,,,30,571,Zoroark,1
 Sandshrew,27,Alolan,A,Ice Stone,,,28,Sandslash,1
-Graveler,75,,,Trade,,,76,Golem,2
-Archen,566,,,,,37,567,Archeops,1
-Electabuzz,125,,,Trade holding Electirizer,,,466,Electivire,2
+Charjabug,737,,,Level up in a special magnetic field,,,738,Vikavolt,2
+Pancham,674,,, with Dark-type in party,,32,675,Pangoro,1
+Deino,633,,,,,50,634,Zweilous,1
+Smoochum,238,,,,,30,124,Jynx,1
+Rhydon,112,,,Trade holding Protector,,,464,Rhyperior,2
+Burmy,412,Plant Cloak,S,,"female, Plant Cloak",20,413,Wormadam,1
+Burmy,412,Plant Cloak,S,,male,20,414,Mothim,1
+Horsea,116,,,,,32,117,Seadra,1
+Omanyte,138,,,,,40,139,Omastar,1
+Turtwig,387,,,,,18,388,Grotle,1
+Gligar,207,,,Level up holding Razor Fang at night,,,472,Gliscor,1
+Bidoof,399,,,,,15,400,Bibarel,1
+Froakie,656,,,,,16,657,Frogadier,1
+Bellsprout,69,,,,,21,70,Weepinbell,1
+Cottonee,546,,,Sun Stone,,,547,Whimsicott,1
+Pineco,204,,,,,31,205,Forretress,1
+Yungoos,734,,,,day,20,735,Gumshoos,1
+Tranquill,520,,,,,32,521,Unfezant,2
+Teddiursa,216,,,,,30,217,Ursaring,1
+Pansage,511,,,Leaf Stone,,,512,Simisage,1
+Pikipek,731,,,,,14,732,Trumbeak,1
+Tirtouga,564,,,,,37,565,Carracosta,1
+Kabuto,140,,,,,40,141,Kabutops,1
+Dartrix,723,,,,,34,724,Decidueye,2
+Fletchinder,662,,,,,35,663,Talonflame,2
+Murkrow,198,,,Dusk Stone,,,430,Honchkrow,1
+Rhyhorn,111,,,,,42,112,Rhydon,1
+Pidove,519,,,,,21,520,Tranquill,1
+Venipede,543,,,,,22,544,Whirlipede,1
+Abra,63,,,,,16,64,Kadabra,1
+Finneon,456,,,,,31,457,Lumineon,1
+Quilava,156,,,,,36,157,Typhlosion,2
+Floette,670,White Flower,,Shiny Stone,,,671,Florges,2
+Helioptile,694,,,Sun Stone,,,695,Heliolisk,1
+Voltorb,100,,,,,30,101,Electrode,1
+Venonat,48,,,,,31,49,Venomoth,1
+Geodude,74,,,,,25,75,Graveler,1
+Timburr,532,,,,,25,533,Gurdurr,1
+Krabby,98,,,,,28,99,Kingler,1
+Marill,183,,,,,18,184,Azumarill,2
+Cascoon,268,,,,,10,269,Dustox,2
+Nidorino,33,,,Moon Stone,,,34,Nidoking,2
+Torracat,726,,,,,34,727,Incineroar,2
+Zubat,41,,,,,22,42,Golbat,1
+Fraxure,611,,,,,48,612,Haxorus,2
+Machoke,67,,,Trade,,,68,Machamp,2
+Machop,66,,,,,28,67,Machoke,1
+Piplup,393,,,,,16,394,Prinplup,1
+Binacle,688,,,,,39,689,Barbaracle,1
+Grovyle,253,,,,,36,254,Sceptile,2
+Tangela,114,,,Level up knowing Ancient Power,,,465,Tangrowth,1
+Rockruff,744,,Mn,,Pokémon Moon and Ultra Moon; night,25,745,Lycanroc,1
+Rockruff,744,,,,Pokémon Sun and Ultra Sun; day,25,745,Lycanroc,1
+Rockruff,744,,D,,between 5:00 and 5:59 PM,25,745,Lycanroc,1
 Meowth,52,Alolan,A,Friendship,,,53,Persian,1
-Pikachu,25,Rock Star,A,Thunder Stone,,,26,Raichu,2
+Rattata,19,Alolan,A,,night,20,20,Raticate,1
+Riolu,447,,,Friendship,day,,448,Lucario,1
+Wooper,194,,,,,20,195,Quagsire,1
+Aipom,190,,,Level up knowing Double Hit,,,424,Ambipom,1
+Mankey,56,,,,,28,57,Primeape,1
+Barboach,339,,,,,30,340,Whiscash,1
+Espurr,677,,,,,25,678,Meowstic,1
+Corphish,341,,,,,30,342,Crawdaunt,1
+Ponyta,77,,,,,40,78,Rapidash,1
+Phanpy,231,,,,,25,232,Donphan,1
+Hippopotas,449,,,,,34,450,Hippowdon,1
+Mienfoo,619,,,,,50,620,Mienshao,1
+Kricketot,401,,,,,10,402,Kricketune,1
+Larvesta,636,,,,,59,637,Volcarona,1
+Quilladin,651,,,,,36,652,Chesnaught,2
+Clamperl,366,,,Trade holding Deep Sea Scale,,,368,Gorebyss,1
+Clamperl,366,,,Trade holding Deep Sea Tooth,,,367,Huntail,1
+Pikachu,25,Alola Cap,,Thunder Stone,,,26,Raichu,2
+Pikachu,25,Alola Cap,A,Thunder Stone,,,26,Raichu,2
+Rowlet,722,,,,,17,723,Dartrix,1
+Nincada,290,,,,,20,291,Ninjask,1
+Nincada,290,,,"Free space
+Additional Poké Ball",,,292,Shedinja,1
+Burmy,412,Trash Cloak,S,,"female, Trash Cloak",20,413,Wormadam,1
+Burmy,412,Trash Cloak,S,,male,20,414,Mothim,1
+Bonsly,438,,,Level up knowing Mimic,,,185,Sudowoodo,1
+Swirlix,684,,,Trade holding Whipped Dream,,,685,Slurpuff,1
+Growlithe,58,,,Fire Stone,,,59,Arcanine,1
+Carvanha,318,,,,,30,319,Sharpedo,1
+Floette,670,Orange Flower,,Shiny Stone,,,671,Florges,2
+Vigoroth,288,,,,,36,289,Slaking,2
+Diglett,50,,,,,26,51,Dugtrio,1
+Seedot,273,,,,,14,274,Nuzleaf,1
+Nidorina,30,,,Moon Stone,,,31,Nidoqueen,2
+Litwick,607,,,,,41,608,Lampent,1
+Sandygast,769,,,,,42,770,Palossand,1
+Meditite,307,,,,,37,308,Medicham,1
+Popplio,728,,,,,17,729,Brionne,1
+Duosion,578,,,,,41,579,Reuniclus,2
+Shellos,422,East Sea East Sea,E,,,30,423,Gastrodon,1
+Yamask,562,,,,,34,563,Cofagrigus,1
+Skrelp,690,,,,,48,691,Dragalge,1
+Klink,599,,,,,38,600,Klang,1
+Electrike,309,,,,,26,310,Manectric,1
+Combee,415,,,,female,21,416,Vespiquen,1
+Gible,443,,,,,24,444,Gabite,1
+Skitty,300,,,Moon Stone,,,301,Delcatty,1
+Pikachu,25,Unova Cap,,Thunder Stone,,,26,Raichu,2
+Pikachu,25,Unova Cap,A,Thunder Stone,,,26,Raichu,2
+Poliwag,60,,,,,25,61,Poliwhirl,1
+Nosepass,299,,,Level up in a special magnetic field,,,476,Probopass,1
+Cleffa,173,,,Friendship,,,35,Clefairy,1
+Psyduck,54,,,,,33,55,Golduck,1
+Wurmple,265,,,,,7,266,Silcoon,1
+Wurmple,265,,,,,7,268,Cascoon,1
+Staravia,397,,,,,34,398,Staraptor,2
+Chingling,433,,,Friendship,night,,358,Chimecho,1
+Graveler,75,,,Trade,,,76,Golem,2
+Exeggcute,102,,A,Leaf Stone,,,103,Exeggutor,1
+Exeggcute,102,,,Leaf Stone,,,103,Exeggutor,1
+Budew,406,,,Friendship,day,,315,Roselia,1
+Roselia,315,,,Shiny Stone,,,407,Roserade,2
+Clauncher,692,,,,,37,693,Clawitzer,1
+Mareanie,747,,,,,38,748,Toxapex,1
+Snorunt,361,,,Dawn Stone,female,,478,Froslass,1
+Snorunt,361,,,,,42,362,Glalie,1
+Bounsweet,761,,,,,18,762,Steenee,1
+Weedle,13,,,,,7,14,Kakuna,1
+Dusclops,356,,,Trade holding Reaper Cloth,,,477,Dusknoir,2
+Seadra,117,,,Trade holding Dragon Scale,,,230,Kingdra,2
+Rattata,19,,,,,20,20,Raticate,1
+Elgyem,605,,,,,42,606,Beheeyem,1
+Klang,600,,,,,49,601,Klinklang,2
+Gothorita,575,,,,,41,576,Gothitelle,2
+Magikarp,129,,,,,20,130,Gyarados,1
+Phantump,708,,,Trade,,,709,Trevenant,1
+Type: Null,772,,,Friendship,,,773,Silvally,1
+Cherubi,420,,,,,25,421,Cherrim,1
+Sandshrew,27,,,,,22,28,Sandslash,1
+Slugma,218,,,,,38,219,Magcargo,1
+Mareep,179,,,,,15,180,Flaaffy,1
+Eelektrik,603,,,Thunder Stone,,,604,Eelektross,2
+Deerling,585,Summer Form Summer Form,S,,,34,586,Sawsbuck,1
+Crabrawler,739,,,Level up at Mount Lanakila,,,740,Crabominable,1
+Snover,459,,,,,40,460,Abomasnow,1
+Flaaffy,180,,,,,30,181,Ampharos,2
+Prinplup,394,,,,,36,395,Empoleon,2
+Dragonair,148,,,,,55,149,Dragonite,2
+Grubbin,736,,,,,20,737,Charjabug,1
+Sliggoo,705,,, in rain or fog,,50,706,Goodra,2
+Trapinch,328,,,,,35,329,Vibrava,1
+Golbat,42,,,Friendship,,,169,Crobat,2
+Spritzee,682,,,Trade holding Sachet,,,683,Aromatisse,1
+Fennekin,653,,,,,16,654,Braixen,1
+Gothita,574,,,,,32,575,Gothorita,1
+Lombre,271,,,Water Stone,,,272,Ludicolo,2
+Flabébé,669,Red Flower,,,,19,670,Floette,1
+Pikachu,25,Original Cap,,Thunder Stone,,,26,Raichu,2
+Pikachu,25,Original Cap,A,Thunder Stone,,,26,Raichu,2
+Loudred,294,,,,,40,295,Exploud,2
+Flabébé,669,Blue Flower,,,,19,670,Floette,1
+Duskull,355,,,,,37,356,Dusclops,1
+Lotad,270,,,,,14,271,Lombre,1
+Scyther,123,,,Trade holding Metal Coat,,,212,Scizor,1
+Shelmet,616,,,Trade for Karrablast,,,617,Accelgor,1
+Porygon,137,,,Trade holding Up-Grade,,,233,Porygon2,1
+Pikachu,25,Cosplay,,Thunder Stone,,,26,Raichu,2
+Pikachu,25,Cosplay,A,Thunder Stone,,,26,Raichu,2
+Croagunk,453,,,,,37,454,Toxicroak,1
+Deerling,585,Winter Form Winter Form,W,,,34,586,Sawsbuck,1
+Fletchling,661,,,,,17,662,Fletchinder,1
+Dewott,502,,,,,36,503,Samurott,2
+Kirlia,281,,,,,30,282,Gardevoir,2
+Kirlia,281,,,Dawn Stone,male,,475,Gallade,2
+Staryu,120,,,Water Stone,,,121,Starmie,1
+Tympole,535,,,,,25,536,Palpitoad,1
+Feebas,349,,,"Level up with maximum Beauty
+Trade holding Prism Scale",,,350,Milotic,1
 Pikachu,25,Rock Star,,Thunder Stone,,,26,Raichu,2
-Piloswine,221,,,Level up knowing Ancient Power,,,473,Mamoswine,2
+Pikachu,25,Rock Star,A,Thunder Stone,,,26,Raichu,2
+Diglett,50,Alolan,A,,,26,51,Dugtrio,1
+Honedge,679,,,,,35,680,Doublade,1
+Drowzee,96,,,,,26,97,Hypno,1
+Litten,725,,,,,17,726,Torracat,1
+Onix,95,,,Trade holding Metal Coat,,,208,Steelix,1
+Poipole,803,,,Level up knowing Dragon Pulse,,,804,Naganadel,1
+Chespin,650,,,,,16,651,Quilladin,1
+Skiddo,672,,,,,32,673,Gogoat,1
+Azurill,298,,,Friendship,,,183,Marill,1
+Igglybuff,174,,,Friendship,,,39,Jigglypuff,1
+Bunnelby,659,,,,,20,660,Diggersby,1
+Pumpkaboo,710,Small Size,,Trade,,,711,Gourgeist,1
+Hoothoot,163,,,,,20,164,Noctowl,1
+Doublade,680,,,Dusk Stone,,,681,Aegislash,2
+Pumpkaboo,710,Super Size,,Trade,,,711,Gourgeist,1
+Inkay,686,,, with DS held upside down,,30,687,Malamar,1
+Spearow,21,,,,,20,22,Fearow,1
+Magby,240,,,,,30,126,Magmar,1
+Makuhita,296,,,,,24,297,Hariyama,1
+Swadloon,541,,,Friendship,,,542,Leavanny,2
+Doduo,84,,,,,31,85,Dodrio,1
+Chikorita,152,,,,,16,153,Bayleef,1
+Cubone,104,,,,,28,105,Marowak,1
+Cubone,104,,A,,night,28,105,Marowak,1
+Blitzle,522,,,,,27,523,Zebstrika,1
+Haunter,93,,,Trade,,,94,Gengar,2
+Pichu,172,Spiky-eared,,Friendship,,,25,Pikachu,1
+Pichu,172,Spiky-eared,A,Friendship,,,25,Pikachu,1
+Munchlax,446,,,Friendship,,,143,Snorlax,1
+Vullaby,629,,,,,54,630,Mandibuzz,1
+Zweilous,634,,,,,64,635,Hydreigon,2
+Darumaka,554,,,,,35,555,Darmanitan,1
+Togetic,176,,,Shiny Stone,,,468,Togekiss,2
+Dwebble,557,,,,,34,558,Crustle,1
+Caterpie,10,,,,,7,11,Metapod,1
+Elekid,239,,,,,30,125,Electabuzz,1
+Brionne,729,,,,,34,730,Primarina,2
+Sneasel,215,,,Level up holding Razor Claw at night,,,461,Weavile,1
+Wailmer,320,,,,,40,321,Wailord,1
+Sentret,161,,,,,15,162,Furret,1
+Flabébé,669,Yellow Flower,,,,19,670,Floette,1
+Joltik,595,,,,,36,596,Galvantula,1
+Houndour,228,,,,,24,229,Houndoom,1
+Eevee,133,,,,night,,196,Espeon,1
 Eevee,133,,,Level up near Moss Rock,,,470,Leafeon,1
+Eevee,133,,,Fire Stone,,,136,Flareon,1
 Eevee,133,,,Level up near Ice Rock,,,471,Glaceon,1
 Eevee,133,,,"Level up with two hearts of Affection
 and know a Fairy-type move",,,700,Sylveon,1
 Eevee,133,,,Thunder Stone,,,135,Jolteon,1
-Eevee,133,,,,night,,196,Espeon,1
 Eevee,133,,,,day,,197,Umbreon,1
-Eevee,133,,,Fire Stone,,,136,Flareon,1
 Eevee,133,,,Water Stone,,,134,Vaporeon,1
-Weedle,13,,,,,7,14,Kakuna,1
-Corphish,341,,,,,30,342,Crawdaunt,1
-Sandygast,769,,,,,42,770,Palossand,1
-Nidoran♀,29,,,,,16,30,Nidorina,1
-Bonsly,438,,,Level up knowing Mimic,,,185,Sudowoodo,1
-Grovyle,253,,,,,36,254,Sceptile,2
-Nosepass,299,,,Level up in a special magnetic field,,,476,Probopass,1
-Floette,670,Eternal Flower,,Shiny Stone,,,671,Florges,2
-Pidgey,16,,,,,18,17,Pidgeotto,1
-Magmar,126,,,Trade holding Magmarizer,,,467,Magmortar,2
-Cascoon,268,,,,,10,269,Dustox,2
-Taillow,276,,,,,22,277,Swellow,1
-Squirtle,7,,,,,16,8,Wartortle,1
-Bunnelby,659,,,,,20,660,Diggersby,1
-Rowlet,722,,,,,17,723,Dartrix,1
-Spoink,325,,,,,32,326,Grumpig,1
-Ekans,23,,,,,22,24,Arbok,1
-Kakuna,14,,,,,10,15,Beedrill,2
-Purrloin,509,,,,,20,510,Liepard,1
-Elekid,239,,,,,30,125,Electabuzz,1
-Hoppip,187,,,,,18,188,Skiploom,1
-Fomantis,753,,,,day,34,754,Lurantis,1
-Chespin,650,,,,,16,651,Quilladin,1
-Espurr,677,,,,,25,678,Meowstic,1
-Mudbray,749,,,,,30,750,Mudsdale,1
-Fletchling,661,,,,,17,662,Fletchinder,1
-Fraxure,611,,,,,48,612,Haxorus,2
-Pumpkaboo,710,Average Size,,Trade,,,711,Gourgeist,1
-Staryu,120,,,Water Stone,,,121,Starmie,1
-Koffing,109,,,,,35,110,Weezing,1
-Grotle,388,,,,,32,389,Torterra,2
 Floette,670,Blue Flower,,Shiny Stone,,,671,Florges,2
-Burmy,412,Plant Cloak,S,,male,20,414,Mothim,1
-Burmy,412,Plant Cloak,S,,"female, Plant Cloak",20,413,Wormadam,1
-Pikachu,25,,A,Thunder Stone,,,26,Raichu,2
-Pikachu,25,,,Thunder Stone,,,26,Raichu,2
-Grubbin,736,,,,,20,737,Charjabug,1
-Pikachu,25,Libre,A,Thunder Stone,,,26,Raichu,2
-Pikachu,25,Libre,,Thunder Stone,,,26,Raichu,2
-Kadabra,64,,,Trade,,,65,Alakazam,2
-Budew,406,,,Friendship,day,,315,Roselia,1
-Tentacool,72,,,,,30,73,Tentacruel,1
-Duosion,578,,,,,41,579,Reuniclus,2
-Trubbish,568,,,,,36,569,Garbodor,1
-Mienfoo,619,,,,,50,620,Mienshao,1
-Cranidos,408,,,,,30,409,Rampardos,1
-Rhyhorn,111,,,,,42,112,Rhydon,1
-Frogadier,657,,,,,36,658,Greninja,2
-Salandit,757,,,,female,33,758,Salazzle,1
-Noibat,714,,,,,48,715,Noivern,1
-Dewott,502,,,,,36,503,Samurott,2
-Floette,670,White Flower,,Shiny Stone,,,671,Florges,2
-Pikachu,25,Sinnoh Cap,A,Thunder Stone,,,26,Raichu,2
-Pikachu,25,Sinnoh Cap,,Thunder Stone,,,26,Raichu,2
-Sunkern,191,,,Sun Stone,,,192,Sunflora,1
-Nidorino,33,,,Moon Stone,,,34,Nidoking,2
-Stunky,434,,,,,34,435,Skuntank,1
-Glameow,431,,,,,38,432,Purugly,1
-Baltoy,343,,,,,36,344,Claydol,1
-Larvitar,246,,,,,30,247,Pupitar,1
-Misdreavus,200,,,Dusk Stone,,,429,Mismagius,1
-Swablu,333,,,,,35,334,Altaria,1
-Haunter,93,,,Trade,,,94,Gengar,2
-Starly,396,,,,,14,397,Staravia,1
-Lotad,270,,,,,14,271,Lombre,1
-Abra,63,,,,,16,64,Kadabra,1
-Gothorita,575,,,,,41,576,Gothitelle,2
-Monferno,391,,,,,36,392,Infernape,2
-Panpour,515,,,Water Stone,,,516,Simipour,1
-Pawniard,624,,,,,52,625,Bisharp,1
-Chimchar,390,,,,,14,391,Monferno,1
-Aipom,190,,,Level up knowing Double Hit,,,424,Ambipom,1
-Whirlipede,544,,,,,30,545,Scolipede,2
-Munna,517,,,Moon Stone,,,518,Musharna,1
-Onix,95,,,Trade holding Metal Coat,,,208,Steelix,1
-Sewaddle,540,,,,,20,541,Swadloon,1
-Larvesta,636,,,,,59,637,Volcarona,1
-Gligar,207,,,Level up holding Razor Fang at night,,,472,Gliscor,1
-Smoochum,238,,,,,30,124,Jynx,1
-Chansey,113,,,Friendship,,,242,Blissey,2
-Chingling,433,,,Friendship,night,,358,Chimecho,1
-Pichu,172,Spiky-eared,,Friendship,,,25,Pikachu,1
-Pichu,172,Spiky-eared,A,Friendship,,,25,Pikachu,1
-Charmander,4,,,,,16,5,Charmeleon,1
-Happiny,440,,,Level up holding Oval Stone,day,,113,Chansey,1
-Doduo,84,,,,,31,85,Dodrio,1
-Pansage,511,,,Leaf Stone,,,512,Simisage,1
-Makuhita,296,,,,,24,297,Hariyama,1
-Fletchinder,662,,,,,35,663,Talonflame,2
-Vulpix,37,,,Fire Stone,,,38,Ninetales,1
-Flabébé,669,Blue Flower,,,,19,670,Floette,1
-Sealeo,364,,,,,44,365,Walrein,2
-Blitzle,522,,,,,27,523,Zebstrika,1
-Brionne,729,,,,,34,730,Primarina,2
-Pansear,513,,,Fire Stone,,,514,Simisear,1
-Golbat,42,,,Friendship,,,169,Crobat,2
-Cosmoem,790,,,,Pokémon Moon and Ultra Moon,53,792,Lunala,2
-Cosmoem,790,,,,Pokémon Sun and Ultra Sun,53,791,Solgaleo,2
-Charmeleon,5,,,,,36,6,Charizard,2
-Nincada,290,,,,,20,291,Ninjask,1
-Nincada,290,,,"Free space
-Additional Poké Ball",,,292,Shedinja,1
-Poliwhirl,61,,,Water Stone,,,62,Poliwrath,2
-Poliwhirl,61,,,Trade holding King's Rock,,,186,Politoed,2
-Mantyke,458,,,Level up with Remoraid in party,,,226,Mantine,1
-Bounsweet,761,,,,,18,762,Steenee,1
-Palpitoad,536,,,,,36,537,Seismitoad,2
-Minccino,572,,,Shiny Stone,,,573,Cinccino,1
-Wartortle,8,,,,,36,9,Blastoise,2
-Metang,375,,,,,45,376,Metagross,2
-Mime Jr.,439,,,Level up knowing Mimic,,,122,Mr. Mime,1
-Beldum,374,,,,,20,375,Metang,1
-Pineco,204,,,,,31,205,Forretress,1
-Binacle,688,,,,,39,689,Barbaracle,1
-Yanma,193,,,Level up knowing Ancient Power,,,469,Yanmega,1
-Cleffa,173,,,Friendship,,,35,Clefairy,1
-Gloom,44,,,Leaf Stone,,,45,Vileplume,2
-Gloom,44,,,Sun Stone,,,182,Bellossom,2
-Ledyba,165,,,,,18,166,Ledian,1
-Houndour,228,,,,,24,229,Houndoom,1
-Popplio,728,,,,,17,729,Brionne,1
-Gulpin,316,,,,,26,317,Swalot,1
-Cottonee,546,,,Sun Stone,,,547,Whimsicott,1
-Treecko,252,,,,,16,253,Grovyle,1
-Poipole,803,,,Level up knowing Dragon Pulse,,,804,Naganadel,1
-Sandile,551,,,,,29,552,Krokorok,1
-Wingull,278,,,,,25,279,Pelipper,1
-Lairon,305,,,,,42,306,Aggron,2
-Vullaby,629,,,,,54,630,Mandibuzz,1
-Lombre,271,,,Water Stone,,,272,Ludicolo,2
-Croagunk,453,,,,,37,454,Toxicroak,1
-Croconaw,159,,,,,30,160,Feraligatr,2
-Prinplup,394,,,,,36,395,Empoleon,2
-Barboach,339,,,,,30,340,Whiscash,1
-Lampent,608,,,Dusk Stone,,,609,Chandelure,2
-Wynaut,360,,,,,15,202,Wobbuffet,1
-Zigzagoon,263,,,,,20,264,Linoone,1
-Shinx,403,,,,,15,404,Luxio,1
-Anorith,347,,,,,40,348,Armaldo,1
+Geodude,74,Alolan,A,,,25,75,Graveler,1
 Flabébé,669,Orange Flower,,,,19,670,Floette,1
-Floette,670,Yellow Flower,,Shiny Stone,,,671,Florges,2
-Tirtouga,564,,,,,37,565,Carracosta,1
-Floette,670,Red Flower,,Shiny Stone,,,671,Florges,2
-Yungoos,734,,,,day,20,735,Gumshoos,1
-Pikipek,731,,,,,14,732,Trumbeak,1
-Herdier,507,,,,,32,508,Stoutland,2
-Pumpkaboo,710,Super Size,,Trade,,,711,Gourgeist,1
-Rockruff,744,,,,Pokémon Sun and Ultra Sun; day,25,745,Lycanroc,1
-Rockruff,744,,Mn,,Pokémon Moon and Ultra Moon; night,25,745,Lycanroc,1
-Rockruff,744,,D,,between 5:00 and 5:59 PM,25,745,Lycanroc,1
-Grimer,88,,,,,38,89,Muk,1
-Bidoof,399,,,,,15,400,Bibarel,1
-Snover,459,,,,,40,460,Abomasnow,1
-Woobat,527,,,Friendship,,,528,Swoobat,1
-Buizel,418,,,,,26,419,Floatzel,1
-Porygon,137,,,Trade holding Up-Grade,,,233,Porygon2,1
-Riolu,447,,,Friendship,day,,448,Lucario,1
-Scatterbug,664,,,,,9,665,Spewpa,1
-Deino,633,,,,,50,634,Zweilous,1
-Wurmple,265,,,,,7,266,Silcoon,1
-Wurmple,265,,,,,7,268,Cascoon,1
-Skiddo,672,,,,,32,673,Gogoat,1
-Goomy,704,,,,,40,705,Sliggoo,1
-Eelektrik,603,,,Thunder Stone,,,604,Eelektross,2
-Numel,322,,,,,33,323,Camerupt,1
-Litwick,607,,,,,41,608,Lampent,1
-Pupitar,247,,,,,55,248,Tyranitar,2
-Scraggy,559,,,,,39,560,Scrafty,1
-Hakamo-o,783,,,,,45,784,Kommo-o,2
-Type: Null,772,,,Friendship,,,773,Silvally,1
+Spinarak,167,,,,,22,168,Ariados,1
+Deerling,585,Autumn Form Autumn Form,A,,,34,586,Sawsbuck,1
+Sunkern,191,,,Sun Stone,,,192,Sunflora,1
+Luxio,404,,,,,30,405,Luxray,2
+Seel,86,,,,,34,87,Dewgong,1
+Charmeleon,5,,,,,36,6,Charizard,2
 Krokorok,552,,,,,40,553,Krookodile,2
-Cyndaquil,155,,,,,14,156,Quilava,1
-Gabite,444,,,,,48,445,Garchomp,2
-Growlithe,58,,,Fire Stone,,,59,Arcanine,1
-Ralts,280,,,,,20,281,Kirlia,1
-Natu,177,,,,,25,178,Xatu,1
-Buneary,427,,,Friendship,,,428,Lopunny,1
-Pikachu,25,Cosplay,A,Thunder Stone,,,26,Raichu,2
-Pikachu,25,Cosplay,,Thunder Stone,,,26,Raichu,2
-Pancham,674,,, with Dark-type in party,,32,675,Pangoro,1
-Snubbull,209,,,,,23,210,Granbull,1
-Snivy,495,,,,,17,496,Servine,1
-Porygon2,233,,,Trade holding Dubious Disc,,,474,Porygon-Z,2
-Pignite,499,,,,,36,500,Emboar,2
-Machoke,67,,,Trade,,,68,Machamp,2
-Clefairy,35,,,Moon Stone,,,36,Clefable,2
-Flabébé,669,White Flower,,,,19,670,Floette,1
-Drowzee,96,,,,,26,97,Hypno,1
+Jangmo-o,782,,,,,35,783,Hakamo-o,1
+Patrat,504,,,,,20,505,Watchog,1
+Shieldon,410,,,,,30,411,Bastiodon,1
+Steenee,762,,,Level up knowing Stomp,,,763,Tsareena,2
+Torchic,255,,,,,16,256,Combusken,1
+Trubbish,568,,,,,36,569,Garbodor,1
+Remoraid,223,,,,,25,224,Octillery,1
+Karrablast,588,,,Trade for Shelmet,,,589,Escavalier,1
+Chimchar,390,,,,,14,391,Monferno,1
+Rufflet,627,,,,,54,628,Braviary,1
+Shuppet,353,,,,,37,354,Banette,1
+Drilbur,529,,,,,31,530,Excadrill,1
+Mudkip,258,,,,,16,259,Marshtomp,1
+Roggenrola,524,,,,,25,525,Boldore,1
+Wartortle,8,,,,,36,9,Blastoise,2
+Oddish,43,,,,,21,44,Gloom,1
+Whismur,293,,,,,20,294,Loudred,1
+Vanillite,582,,,,,35,583,Vanillish,1
+Lairon,305,,,,,42,306,Aggron,2
+Noibat,714,,,,,48,715,Noivern,1
+Pidgey,16,,,,,18,17,Pidgeotto,1
+Floette,670,Eternal Flower,,Shiny Stone,,,671,Florges,2
+Salandit,757,,,,female,33,758,Salazzle,1
+Togepi,175,,,Friendship,,,176,Togetic,1
+Magnemite,81,,,,,30,82,Magneton,1
+Metapod,11,,,,,10,12,Butterfree,2
+Palpitoad,536,,,,,36,537,Seismitoad,2
+Gastly,92,,,,,25,93,Haunter,1
