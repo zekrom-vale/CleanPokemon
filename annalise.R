@@ -1,4 +1,7 @@
 # Some plots take some time, as there are many values
+# Others may not display unless zoomed in
+# Many plots need to be zoomed in to see, others you nned to maximise the window to re-render
+# Resolution may differ as I use a 4K monitor
 
 # See the tibbles
 pokemon;
@@ -12,27 +15,39 @@ species%>%
 	ggplot(aes(WeightKg, HeightM))+
 	geom_point(aes(WeightKg, HeightM, color=Gender_Ratio))+
 	geom_smooth();
+# Looks like it, but the points are clustered twards (0,0)
 
 # Spred the points out
 species%>%
 	ggplot(aes(log(WeightKg), log(HeightM)))+
 	geom_point(aes(log(WeightKg), log(HeightM), color=Gender_Ratio))+
 	geom_smooth();
+# Definetly a corelation, odd clustering lines (delta weight)
 
-# Wrap by body as that must be a factor
+# Wrap by body as that must be a factor, perhapse even use
+# different calculations per body type
 species%>%
 	ggplot(aes(log(WeightKg), log(HeightM)))+
 	geom_point(aes(log(WeightKg), log(HeightM), color=Gender_Ratio))+
 	facet_wrap(vars(Body), scales="free")+
 	geom_smooth();
+# Better graph, still does not answer the clusters
 
 # Try removing the logs to see what the defult is
 # Definitly don't smooth by Gender_Ratio
 species%>%
+	mutate(
+		WeightKg=log(WeightKg),
+		HeightM=log(HeightM)
+	)%>%
 	ggplot()+
+	xlab("ln(WeightKg)")+
+	ylab("ln(HeightM)")+
 	geom_point(aes(WeightKg, HeightM, color=Gender_Ratio))+
 	facet_wrap(vars(Body), scales="free")+
-	geom_smooth(aes(WeightKg, HeightM));
+	geom_smooth(aes(WeightKg, HeightM), method="lm", color="red")+
+	geom_smooth(aes(WeightKg, HeightM), method="loess", color="blue");
+# Not using color in aes will not create a legend
 
 
 # It is odd that height crests at 4.7m around 650Kg
@@ -43,6 +58,12 @@ g=species%>%
 g$residuals;
 g$coefficients;
 
+# Try using lm and
+g.=species%>%
+	lm(WeightKg~HeightM:Body, data=.);
+
+predict(g., tibble(HeightM=2, Body="Quadruped body"));
+
 #################################################################
 # Other things and height and weight
 
@@ -51,7 +72,23 @@ species%>%
 	ggplot()+
 	geom_point(aes(WeightKg, HeightM, color=Type2))+
 	facet_wrap(vars(Type), scales="free")+
-	geom_smooth(aes(WeightKg, HeightM));
+	geom_smooth(aes(WeightKg, HeightM), color="red", method="lm")+
+	geom_smooth(aes(WeightKg, HeightM), color="blue", method="loess");
+# There is a corelation, try using log to get a btter result?
+
+species%>%
+	mutate(
+		WeightKg=log(WeightKg),
+		HeightM=log(HeightM)
+	)%>%
+	ggplot()+
+	ylab("ln(WeightKg)")+
+	xlab("ln(HeightM)")+
+	geom_point(aes(WeightKg, HeightM, color=Type2))+
+	facet_wrap(vars(Type), scales="free")+
+	geom_smooth(aes(WeightKg, HeightM), color="red", method="lm")+
+	geom_smooth(aes(WeightKg, HeightM), color="blue", method="loess");
+# This appers to be better as the points are not clustered up like before
 
 species%>%
 	ggplot()+
@@ -312,19 +349,23 @@ species%>%
 
 # Try using lm
 species%>%
-	lm(HeightM~Type-1,.)
+	lm(HeightM~Type-1,.);
 
 species%>%
-	lm(HeightM~Type2-1,.)
+	lm(HeightM~Type2-1,.);
 
 species%>%
-	lm(HeightM~Type+Type2-1,.)
+	lm(HeightM~Type+Type2-1,.);
 
 h=species%>%
-	lm(HeightM~Type*Type2-1,.)
+	lm(HeightM~Type*Type2-1,.);
+
 
 # Since these are descreet varables, the value would be the the intersept plus the slope
 # -1 removes the intersept so the value is right there
+
+# Usee predict to make it easy
+predict(h, tibble(Type="Dragon",Type2="Electric"));
 
 #################################################################
 # Get deltas
@@ -386,3 +427,29 @@ evolutions.delta%>%
 evolutions.delta%>%
 	ggplot(aes(Type.delta, Type2.delta, color=Type))+
 	geom_jitter();
+# Many evolutions do not change types
+
+evolutions.delta%>%
+	ggplot(aes(paste(Type.delta,Type2.delta), fill=Type))+ # color will create borders with geom_bar()
+	xlab("Type.deltas")+
+	geom_bar();
+
+evolutions.delta%>%
+	ggplot(aes(paste(Type.delta,Type2.delta), fill=Type2))+ # color will create borders with geom_bar()
+	xlab("Type.deltas")+
+	geom_bar();
+
+# Less here but still many
+
+evolutions.delta%>%
+	ggplot(aes(paste(`Ability 1.delta`,`Ability 2.delta`), fill=`Ability 1`))+
+	xlab("Ability.deltas")+
+	geom_bar(position="dodge");
+
+evolutions.delta%>%
+	ggplot(aes(`Ability 2`, fill=paste(`Ability 1.delta`,`Ability 2.delta`)))+
+	labs(fill="Ability.deltas")+
+	facet_wrap(~str_sub(`Ability 2`,1,2), scales="free_x")+
+	geom_bar(position="dodge");
+
+# Don't know how to graph this
