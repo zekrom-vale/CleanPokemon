@@ -10,12 +10,17 @@ items;
 itemsIDs;
 abilityKey;
 
+# Get the cor matrix
+# ggcorrplot(cor(species%>%filter(HeightM, WeightKg, WeightLbs)), hc.order=TRUE, type="lower", lab=TRUE);
+# What??
+
 # Normaly there should be a corelation between weight and height
 species%>%
 	ggplot(aes(WeightKg, HeightM))+
 	geom_point(aes(WeightKg, HeightM, color=Gender_Ratio))+
 	geom_smooth();
 # Looks like it, but the points are clustered twards (0,0)
+# http://www.sthda.com/english/wiki/ggcorrplot-visualization-of-a-correlation-matrix-using-ggplot2
 
 # Spred the points out
 species%>%
@@ -348,8 +353,9 @@ species%>%
 
 
 # Try using lm
+#Height
 species%>%
-	lm(HeightM~Type-1,.);
+	lm(HeightM~Type-1,.);# `%>%` will autocompleat, unlike not using it
 
 species%>%
 	lm(HeightM~Type2-1,.);
@@ -360,8 +366,22 @@ species%>%
 h=species%>%
 	lm(HeightM~Type*Type2-1,.);
 
+# Weight
 
-# Since these are descreet varables, the value would be the the intersept plus the slope
+species%>%
+	lm(WeightKg~Type-1,.);
+
+species%>%
+	lm(WeightKg~Type2-1,.);
+
+species%>%
+	lm(WeightKg~Type+Type2-1,.);
+
+species%>%
+	lm(WeightKg~Type*Type2-1,.);
+
+# Since these are descreet varables, the value would be the
+# intersept plus the slope
 # -1 removes the intersept so the value is right there
 
 # Usee predict to make it easy
@@ -386,7 +406,7 @@ evolutions.delta=species%>%
 	);
 
 # Get deltas
-eq.na=function(a,b){
+eq.na=function(a,b){# Define an equals function including NA==NA
 	fun=function(a,b){
 		if(is.na(a)&is.na(b)|!is.na(a)&!is.na(b)&a==b)return(TRUE)
 		else return(FALSE);
@@ -407,7 +427,7 @@ evolutions.delta%<>%
 
 # Plot WeightKg.delta vs HeightM.delta
 evolutions.delta%>%
-	ggplot()+
+	ggplot()+# aes will inheret with geom_smooth, so declare it in geom_*
 	geom_point(aes(WeightKg.delta, HeightM.delta, color=Type))+
 	geom_smooth(aes(WeightKg.delta, HeightM.delta));
 
@@ -423,6 +443,8 @@ evolutions.delta%>%
 		HeightM.delta=log(HeightM.delta)
 	)%>%
 	ggplot()+
+	xlab("lm(HeightM.delta)")+
+	ylab("lm(WeightKg.delta)")+
 	geom_point(aes(WeightKg.delta, HeightM.delta, color=Type, shape=factor(paste(Stage,Stage+1, sep="-"))))+
 	labs(shape="Stage")+
 	geom_smooth(aes(WeightKg.delta, HeightM.delta));
@@ -438,6 +460,8 @@ evolutions.delta%>%
 		HeightM.delta=log(HeightM.delta)
 	)%>%
 	ggplot()+
+	xlab("lm(HeightM.delta)")+
+	ylab("lm(WeightKg.delta)")+
 	geom_point(aes(WeightKg.delta, HeightM.delta, color=Type, size=WeightKg))+
 	facet_wrap(aes(factor(paste(Stage,Stage+1, sep="-"))))+
 	labs(facet="Stage")+
@@ -450,6 +474,8 @@ evolutions.delta%>%
 		WeightKg.next=log(WeightKg.next)
 	)%>%
 	ggplot()+
+	xlab("lm(WeightKg.next)")+
+	ylab("lm(WeightKg)")+
 	geom_smooth(aes(WeightKg, WeightKg.next))+
 	geom_point(aes(WeightKg, WeightKg.next, size=WeightKg.delta, color=Type));
 
@@ -483,3 +509,12 @@ evolutions.delta%>%
 	geom_bar(position="dodge");
 
 # Don't know how to graph this
+
+#################################################################
+# Items
+
+# While cleaning the data I found some duplicate item names
+items%>%
+	select(Name, Gen, Gen2, Description)%>%
+	not_distinct(Name)%>%
+	arrange(Name);
