@@ -1,0 +1,15 @@
+BODY,PARENT,DISCRIPTION,ID
+"Bipedal, tailless form", ,"With a bipedal, tailless form",12
+"Bipedal, tailed form","Bipedal, tailless form","With a bipedal, tailed form",6
+Fins, ,With fins,3
+Head, ,Consisting of only a head,1
+Head and a base,Head,Consisting of a head and a base,5
+Head and arms,Head and a base,Consisting of a head and arms,4
+Head and legs,Head and a base,Consisting of a head and legs,7
+Insectoid body, ,With an insectoid body,14
+Multiple bodies, ,Consisting of multiple bodies,11
+Quadruped body, ,With a quadruped body,8
+Serpentine bodies, ,With serpentine bodies,2
+Single pair of wings, ,With a single pair of wings,9
+Two or more pairs of wings,Single pair of wings,With two or more pairs of wings,13
+Tentacles or a multiped body, ,With tentacles or a multiped body,10
