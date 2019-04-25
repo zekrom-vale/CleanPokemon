@@ -3,12 +3,40 @@
 # Many plots need to be zoomed in to see, others you nned to maximise the window to re-render
 # Resolution may differ as I use a 4K monitor
 
+# Import the tables
+types=read_csv("datasets/types.csv");
+gender_ratio=read_csv("datasets/gender_ratio.csv");
+generations=read_csv("datasets/generations.csv");
+eggGroups=read_csv("datasets/eggGroups.csv");
+body=read_csv("datasets/body.csv");
+abilityKey=read_csv("datasets/ability.csv");
+items=read_csv("datasets/items.csv");
+itemsIDs=read_csv("datasets/itemIDs.csv");
+
+
+pokemon=read_csv("datasets/pokemon.csv");
+species=read_csv("datasets/species.csv");
+pokemonLang=read_csv("datasets/pokemonLang.csv");
+base=read_csv("datasets/base.csv");
+evolutions=read_csv("datasets/evolutions.csv");
+family=read_csv("datasets/family.csv");
+
 # See the tibbles
-pokemon;
-species;
+types;
+gender_ratio;
+generations;
+eggGroups;
+body;
+abilityKey;
 items;
 itemsIDs;
-abilityKey;
+
+pokemon;
+species;
+pokemonLang;
+base;
+evolutions;
+family;
 
 # Get the cor matrix
 # ggcorrplot(cor(species%>%filter(HeightM, WeightKg, WeightLbs)), hc.order=TRUE, type="lower", lab=TRUE);
