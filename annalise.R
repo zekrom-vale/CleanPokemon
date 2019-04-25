@@ -418,10 +418,40 @@ evolutions.delta%>%
 		abs(WeightKg.delta)<=sd(WeightKg.delta),
 		abs(HeightM.delta)<=1.5*sd(HeightM.delta)
 	)%>%
+	mutate(
+		WeightKg.delta=log(WeightKg.delta),
+		HeightM.delta=log(HeightM.delta)
+	)%>%
 	ggplot()+
 	geom_point(aes(WeightKg.delta, HeightM.delta, color=Type, shape=factor(paste(Stage,Stage+1, sep="-"))))+
 	labs(shape="Stage")+
 	geom_smooth(aes(WeightKg.delta, HeightM.delta));
+# Again with the clustering
+
+evolutions.delta%>%
+	filter(
+		abs(WeightKg.delta)<=sd(WeightKg.delta),
+		abs(HeightM.delta)<=1.5*sd(HeightM.delta)
+	)%>%
+	mutate(
+		WeightKg.delta=log(WeightKg.delta),
+		HeightM.delta=log(HeightM.delta)
+	)%>%
+	ggplot()+
+	geom_point(aes(WeightKg.delta, HeightM.delta, color=Type, size=WeightKg))+
+	facet_wrap(aes(factor(paste(Stage,Stage+1, sep="-"))))+
+	labs(facet="Stage")+
+	geom_smooth(aes(WeightKg.delta, HeightM.delta));
+
+# Try doing size
+evolutions.delta%>%
+	mutate(
+		WeightKg=log(WeightKg),
+		WeightKg.next=log(WeightKg.next)
+	)%>%
+	ggplot()+
+	geom_smooth(aes(WeightKg, WeightKg.next))+
+	geom_point(aes(WeightKg, WeightKg.next, size=WeightKg.delta, color=Type));
 
 # Graph other delatas
 evolutions.delta%>%
