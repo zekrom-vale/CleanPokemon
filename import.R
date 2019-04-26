@@ -1,0 +1,177 @@
+# Import the tables
+# And fix the types (if they already exist in the env)
+types=read_csv(
+	"datasets/types.csv",
+	col_types=cols(
+		TYPE=col_factor()
+	)
+);
+gender_ratio=read_csv(
+	"datasets/gender_ratio.csv",
+	col_types=cols(
+		KEY=col_factor(),
+		MALE = col_integer(),
+		FEMALE = col_integer()
+	)
+);
+generations=read_csv(
+	"datasets/generations.csv",
+	col_types=cols(
+		DEX_MIN = col_integer(),
+		DEX_MAX = col_integer(),
+		LDEX_MIN = col_integer(),
+		LDEX_MAX = col_integer()
+	)
+);
+eggGroups=read_csv(
+	"datasets/eggGroups.csv",
+	col_types=cols(
+		NAME = col_factor(),
+		TYPE_ALIAS = col_factor(),
+		URL = col_character()
+	)
+);
+body=read_csv(
+	"datasets/body.csv",
+	col_types=cols(
+		BODY=col_factor(),
+		PARENT=col_factor(),
+		ID=col_integer()
+	)
+);
+abilityKey=read_csv(
+	"datasets/ability.csv",
+	col_types=cols(
+		NAME=col_factor(),
+		ID=col_integer(),
+		Generation=col_integer(),
+		Single=col_integer(),
+		Dual=col_integer(),
+		Hidden=col_integer()
+	)
+);
+items=read_csv(
+	"datasets/items.csv",
+	col_types=cols(
+		Gen = col_double(),
+		Gen2 = col_double(),
+		Star = col_integer()
+	)
+);
+itemsIDs=read_csv(
+	"datasets/itemIDs.csv",
+	col_types=cols(
+		ID=col_integer(),
+		Pokcet=col_factor(),
+		Gen=col_integer()
+	)
+);
+
+
+pokemon=read_csv(
+	"datasets/pokemon.csv",
+	col_types=cols(
+		Dex = col_integer(),
+		Page = col_integer(),
+		Habitat = col_factor(),
+		LDex = col_integer(),
+		LDex_Suffix = col_character(),
+		Gen = col_integer()
+	)
+);
+species=read_csv(
+	"datasets/species.csv",
+	col_types=cols(
+		Dex = col_integer(),
+		Class = col_character(),
+		`Egg Group 1` = col_factor(),
+		`Egg Group 2` = col_factor(),
+		Type = col_factor(),
+		Type2 = col_factor(),
+		Body = col_factor(),
+		Color = col_factor(),
+		Call_Rate_SM = col_integer(),
+		Call_Rate_USUM = col_integer(),
+		Star = col_integer(),
+		Gender_Ratio = col_factor(),
+		Cycles = col_integer(),
+		`Ability 1` = col_factor(),
+		`Ability 2` = col_factor(),
+		Hidden = col_factor(),
+		WeightKg = col_double(),
+		WeightLbs = col_double(),
+		HeightM = col_double(),
+		Ft = col_integer(),
+		In = col_integer()
+	)
+);
+pokemonLang=read_csv(
+	"datasets/pokemonLang.csv",
+	col_types=cols(
+		ID = col_integer()
+	)
+);
+base=read_csv(
+	"datasets/base.csv",
+	col_types=cols(
+		ID = col_integer(),
+		ID_EXT = col_character(),
+		Base_HP = col_integer(),
+		Base_Attack = col_integer(),
+		Base_Defense = col_integer(),
+		Base_Sp_Attack = col_integer(),
+		Base_Sp_Defense = col_integer(),
+		Base_Speed = col_integer(),
+		Base_Total = col_integer(),
+		Base_Average = col_double(),
+		GEN = col_integer(),
+		GEN2 = col_integer()
+	)
+);
+evolutions=read_csv(
+	"datasets/evolutions.csv",
+	col_types=cols(
+		Dex = col_integer(),
+		Class = col_character(),
+		Condition = col_character(),
+		Sub_Condition = col_character(),
+		Level = col_integer(),
+		Next_Dex = col_integer(),
+		Next_Name = col_character(),
+		Stage = col_integer()
+	)
+);
+family=read_csv(
+	"datasets/family.csv",
+	col_types=cols(
+		Dex = col_integer(),
+		Dex_Suffix = col_character()
+	)
+);
+
+#################################################################
+# Join the tables
+long=species%>%
+	inner_join(
+		pokemon,
+		by=c("Name","Dex")
+	)%>%
+	inner_join(
+		gender_ratio,
+		by=c(Gender_Ratio="KEY")
+	)%>%
+	inner_join(
+		types,
+		by=c(Type="TYPE")
+	)%>%
+	left_join(
+		types,
+		by=c(Type2="TYPE"),
+		suffix=c("","2")
+	)%>%
+	mutate(# Fix factors (different order)
+		Gender_Ratio=factor(Gender_Ratio),
+		Type=factor(Type),
+		Type2=factor(Type2)
+	);
+

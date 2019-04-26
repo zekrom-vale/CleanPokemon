@@ -1,25 +1,8 @@
 # Some plots take some time, as there are many values
 # Others may not display unless zoomed in
 # Many plots need to be zoomed in to see, others you nned to maximise the window to re-render
+# Others don't render the legend correctoly, if at all, zomming in fixes that
 # Resolution may differ as I use a 4K monitor
-
-# Import the tables
-types=read_csv("datasets/types.csv");
-gender_ratio=read_csv("datasets/gender_ratio.csv");
-generations=read_csv("datasets/generations.csv");
-eggGroups=read_csv("datasets/eggGroups.csv");
-body=read_csv("datasets/body.csv");
-abilityKey=read_csv("datasets/ability.csv");
-items=read_csv("datasets/items.csv");
-itemsIDs=read_csv("datasets/itemIDs.csv");
-
-
-pokemon=read_csv("datasets/pokemon.csv");
-species=read_csv("datasets/species.csv");
-pokemonLang=read_csv("datasets/pokemonLang.csv");
-base=read_csv("datasets/base.csv");
-evolutions=read_csv("datasets/evolutions.csv");
-family=read_csv("datasets/family.csv");
 
 # See the tibbles
 types;
@@ -38,9 +21,13 @@ base;
 evolutions;
 family;
 
+
+#library(ggcorrplot);
+
 # Get the cor matrix
-# ggcorrplot(cor(species%>%filter(HeightM, WeightKg, WeightLbs)), hc.order=TRUE, type="lower", lab=TRUE);
-# What??
+#ggcorrplot(cor(species), hc.order=TRUE, type="lower", lab=TRUE);
+# cor can only use numbers
+# http://www.sthda.com/english/wiki/ggcorrplot-visualization-of-a-correlation-matrix-using-ggplot2
 
 # Normaly there should be a corelation between weight and height
 species%>%
@@ -48,7 +35,7 @@ species%>%
 	geom_point(aes(WeightKg, HeightM, color=Gender_Ratio))+
 	geom_smooth();
 # Looks like it, but the points are clustered twards (0,0)
-# http://www.sthda.com/english/wiki/ggcorrplot-visualization-of-a-correlation-matrix-using-ggplot2
+
 
 # Spred the points out
 species%>%
@@ -546,3 +533,5 @@ items%>%
 	select(Name, Gen, Gen2, Description)%>%
 	not_distinct(Name)%>%
 	arrange(Name);
+# I can join the discriptions together
+# And increase the gen range
