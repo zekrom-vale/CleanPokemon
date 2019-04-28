@@ -507,10 +507,11 @@ ability%<>%
 		Hidden=gsub("\\*$","", Hidden)
 	);
 
-# Remove the Alolan part in the name
+# Remove the Alolan, Mega, Primal part in the name
 ability%<>%
 	mutate(
-		Name=sub("^Alolan\\s*", "", Name)
+		Name=sub("^(Alolan|Mega|Primal)\\s*", "", Name),
+		Name=if_else(str_detect(Dex_Suffix,"M[A-Z]"), sub(" [A-Z]", "", Name), Name)
 	);
 
 agg.j=agg%>%
