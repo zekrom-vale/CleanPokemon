@@ -440,24 +440,20 @@ call%>%
 # Fix to add the class
 call.f=call%>%
 	mutate(
-		Class=if_else(
-			Dex==550,
-			if_else(
+		Class=case_when(
+			Dex==550~if_else(
 				Call_Rate_USUM==9,
 				"Red-Striped Form",
 				"Blue-Striped Form"
 			),
-			if_else(
-				Dex==670,
-				if_else(
-					Call_Rate_USUM==9,
-					"Red Flower",
-					"Flower"
-				),
-				NA_character_
-			)
+			Dex==670~if_else(
+				Call_Rate_USUM==9,
+				"Red Flower",
+				"Flower"
+			),
+			TRUE~NA_character_
 		)
-	)%>%filter(!is.na(Class));
+	);
 
 agg.j=agg%>%
 	left_join(

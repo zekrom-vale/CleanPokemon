@@ -233,6 +233,7 @@ PokemonRaw_Core_Pokemon=exc%>%select(-(1:3));
 ################################################################################
 
 PokemonRaw_Core_Pokemon$Call_Rate_SM
+PokemonRaw_Core_Pokemon$Call_Rate_USUM
 # Has —'s
 exc=PokemonRaw_Core_Pokemon%>%
 	mutate(
