@@ -511,7 +511,12 @@ ability%<>%
 ability%<>%
 	mutate(
 		Name=sub("^(Alolan|Mega|Primal)\\s*", "", Name),
-		Name=if_else(str_detect(Dex_Suffix,"M[A-Z]"), sub(" [A-Z]", "", Name), Name)
+		Name=if_else(
+			str_detect(Dex_Suffix,"M[A-Z]"),
+			sub(" [A-Z]", "", Name),
+			Name,
+			Name
+		)
 	);
 
 agg.j=agg%>%
