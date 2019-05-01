@@ -2,9 +2,9 @@ library(magrittr);
 library(tidyverse);
 library(reshape2);
 library(devtools);
-# Utility
-# library(zUtil);
+# Utility I made to make things simple
 install_github("zekrom-vale/zUtil.R");
+library(zUtil);
 
 
 # open with file.edit()
@@ -26,7 +26,7 @@ source("ability/cleanAbility.R", encoding="UTF-8");
 source("items/cleanItems.R", encoding="UTF-8");
 
 # Evolution
-source("evolution/clean.R", encoding="UTF-8"); # Must use \u2192 and not →
+source("evolution/clean.R", encoding="UTF-8"); # Must use \u2192 and not
 
 # IV and Base
 source("IV/clean.R", encoding="UTF-8");
