@@ -1,7 +1,9 @@
 # Some plots take some time, as there are many values
 # Others may not display unless zoomed in
-# Many plots need to be zoomed in to see, others you nned to maximise the window to re-render
-# Others don't render the legend correctoly, if at all, zomming in fixes that
+# Many plots need to be zoomed in to see,
+# others you nned to maximise the window to re-render
+# Others don't render the legend correctoly, if at all,
+# zomming in fixes that
 # Resolution may differ as I use a 4K monitor
 
 # See the tibbles
@@ -20,9 +22,12 @@ pokemonLang;
 base;
 evolutions;
 family;
+# Wow this is actualy a lot of data, about 700Kb
+# True, encoding as a human readable format (csv, tsv and not
+# bianary) is not the most effecent way to stor non string values
 
 
-#library(ggcorrplot);
+#library(ggcorrplot); # Does not work with factors
 
 # Get the cor matrix
 #ggcorrplot(cor(species), hc.order=TRUE, type="lower", lab=TRUE);
@@ -72,17 +77,20 @@ species%>%
 
 # It is odd that height crests at 4.7m around 650Kg
 
-g=species%>%
-	loess(WeightKg~HeightM, data=.);
+(function(){ # Prevent global scope polution
+	g=species%>%
+		loess(WeightKg~HeightM, data=.);
 
-g$residuals;
-g$coefficients;
+	print(g$residuals);
+	print(g$coefficients);
 
-# Try using lm and
-g.=species%>%
-	lm(WeightKg~HeightM:Body, data=.);
+	# Try using lm and
+	g.=species%>%
+		lm(WeightKg~HeightM:Body, data=.);
 
-predict(g., tibble(HeightM=2, Body="Quadruped body"));
+	print(predict(g., tibble(HeightM=2, Body="Quadruped body")));
+})();
+
 
 #################################################################
 # Other things and height and weight
@@ -132,11 +140,13 @@ species%>%
 	facet_wrap(vars(`Egg Group 1`), scales="free")+
 	geom_smooth(aes(WeightKg, HeightM));
 
+# Alt way
 species%>%
 	ggplot()+
 	geom_point(aes(WeightKg, HeightM, color=`Egg Group 1`))+
 	facet_wrap(vars(`Egg Group 2`), scales="free")+
 	geom_smooth(aes(WeightKg, HeightM));
+# `near singularities` warning, perhapse loess is not good for this
 
 species%>%
 	ggplot()+
@@ -145,6 +155,7 @@ species%>%
 	geom_smooth(aes(WeightKg, HeightM, color=`Egg Group 2`))+
 	geom_smooth(aes(WeightKg, HeightM));
 # Monster and water1 have enough points to create Egg Group 2 lines
+# Also many more warnings
 
 
 #################################################################
@@ -161,6 +172,7 @@ species%>%
 	geom_histogram(aes(WeightKg))+
 	facet_grid(vars(Type),vars(Type2));
 # Looks like a quilt, soo much data
+# Also, very vary slow
 
 species%>%
 	ggplot()+
@@ -169,25 +181,43 @@ species%>%
 # Looks better and was the data I was looking for
 # Some types vary little and others a lot
 
+# Try adding jitter
+species%>%
+	ggplot()+
+	geom_point(aes(Type, WeightKg, color=Type2), position="jitter");
+# This is the best, now you can see the amount AND the color
+
+# Can I add height?
+species%>%
+	ggplot()+
+	geom_point(aes(Type, WeightKg, color=Type2, size=HeightM), position="jitter");
+# Yes, and it still looks good!
+
+
 # Try Height
 species%>%
 	ggplot()+
 	geom_boxplot(aes(Type, HeightM))+
 	facet_grid(vars(Type2));
 # Same thing here with the height
-# Perhapse the best thing is to create a summery with group_by
 
+species%>%
+	ggplot()+
+	geom_point(aes(Type, HeightM, color=Type2, size=WeightKg), position="jitter");
+# Looks like the one above (2 above)
+
+# Perhapse the best thing is to create a summery with group_by
 types=species%>%
 	group_by(Type, Type2)%>%
 	summarise(
 		WeightKgMean=mean(WeightKg), WeightKgMin=min(WeightKg), WeightKgMax=max(WeightKg),
 		HeightMean=mean(HeightM), HeightMin=min(HeightM), HeightMax=max(HeightM)
 	);
-
 # Just this is big enough to analise or graph
 # But how??
 
-# Use raster, but can only use one
+# Use raster, but can only use one value
+# Now that I know of jitter, this is not the best ot get the full picture
 types%>%
 	ggplot()+
 	geom_raster(aes(Type, Type2, fill=WeightKgMean));
@@ -535,3 +565,37 @@ items%>%
 	arrange(Name);
 # I can join the discriptions together
 # And increase the gen range
+
+#################################################################
+# WeightKg ~ WeightLbs and HeightM ~ HeightFt + HeightIn/12
+# should be a R^2 aprox 1 relationship
+
+# Weight
+species%>%
+	ggplot(aes(WeightKg, WeightLbs))+
+	geom_point()+
+	geom_smooth(method="lm");
+
+species%>%
+	lm(WeightKg~WeightLbs,.)%>%
+	summary();
+
+# Height
+species%>%
+	ggplot(aes(HeightM, Ft+In/12))+
+	geom_point()+
+	geom_smooth(method="lm");
+
+species%>%
+	mutate(
+		FtIn=Ft+In/12 # Cannot do this in lm method as `+`` is different
+	)%>%
+	lm(HeightM~FtIn,.)%>%
+	summary();
+
+# As predicted R^2 is 1 as it should be as they only differ in units
+# Because the Inch unit can only can hold an int value,
+# there will be coversion inacuracy due to rounding.
+# Besides, it is imposible to represent the exact metric value
+# in an floating point number (Or double) as Feet and Inches
+
