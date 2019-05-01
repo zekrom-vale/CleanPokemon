@@ -131,7 +131,7 @@ base%<>%
 		regex="([^()]+)\\s*(?:\\((.+)\\))?\\s*"
 	);
 
-pokemon%>%
+species%>%
 	select(Name, Dex, Dex_Suffix, Class)%>%
 	right_join(
 		base,
