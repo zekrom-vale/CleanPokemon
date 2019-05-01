@@ -1,8 +1,11 @@
 library(magrittr);
 library(tidyverse);
 library(reshape2);
+library(devtools);
 # Utility
-library(zUtil);
+# library(zUtil);
+install_github("zekrom-vale/zUtil.R");
+
 
 # open with file.edit()
 # Core DB
