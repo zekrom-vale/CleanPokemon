@@ -1,3 +1,7 @@
+# Import the data
+source("import.R");
+if(flag)file.edit("import.R");
+
 # Some plots take some time, as there are many values
 # Others may not display unless zoomed in
 # Many plots need to be zoomed in to see,
