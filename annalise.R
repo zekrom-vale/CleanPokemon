@@ -210,8 +210,13 @@ species%>%
 types=species%>%
 	group_by(Type, Type2)%>%
 	summarise(
-		WeightKgMean=mean(WeightKg), WeightKgMin=min(WeightKg), WeightKgMax=max(WeightKg),
-		HeightMean=mean(HeightM), HeightMin=min(HeightM), HeightMax=max(HeightM)
+		WeightKgMean=mean(WeightKg),
+		WeightKgMin=min(WeightKg),
+		WeightKgMax=max(WeightKg),
+
+		HeightMean=mean(HeightM),
+		HeightMin=min(HeightM),
+		HeightMax=max(HeightM)
 	);
 # Just this is big enough to analise or graph
 # But how??
