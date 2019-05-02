@@ -10,7 +10,8 @@ pokemon=agg%>%
 		Habitat,
 		LDex,
 		LDex_Suffix,
-		Gen
+		Gen,
+		Group
 	);
 
 # next_evolutions,
