@@ -667,7 +667,21 @@ long%>%
 	geom_smooth();
 # NA is the most varried as it is not classifyed
 
+# That made it less posible to see the relation
+# Try using lm on them
 long%>%
 	ggplot(aes(log(HeightM), log(WeightKg), color=Group))+
 	geom_point()+
 	geom_smooth(method="lm", se=FALSE);
+# Appers to be no significant relationship
+
+# # Try kkn
+# class::knn(
+# 	long%>%
+# 		filter(!is.na(Group)),
+# 	long%>%
+# 		filter(is.na(Group))%>%
+# 		select(-Group),
+#
+# );
+# # Nope, can only use a true fator
