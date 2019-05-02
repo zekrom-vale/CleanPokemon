@@ -608,3 +608,66 @@ species%>%
 # Besides, it is imposible to represent the exact metric value
 # in an floating point number (Or double) as Feet and Inches
 
+# One thing I am quite curious about is predicting the IQ groups
+# Not all pokemon have them defined as they were introduced later on
+
+# There might be a corelation between Type and Group
+long%>%
+	ggplot(aes(Type, Type2, color=Group))+
+	geom_jitter();
+# Can't tell, not a good corelation or is it just the graph?
+
+# Well, try it with only one Type
+long%>%
+	ggplot(aes(Type, fill=Group))+
+	geom_bar();
+# Does not apper to be much of a relation
+
+# Now with the other type
+long%>%
+	ggplot(aes(Type2, fill=Group))+
+	geom_bar();
+# Same
+
+# There is likely a relation between body and group
+long%>%
+	ggplot(aes(Body, fill=Group))+
+	geom_bar();
+# What?  There distrabuted just like with types.
+# This is definitely not what I expected
+
+# What about the egg groups?
+# Should note that Ditto group has one pokemon
+long%>%
+	ggplot(aes(`Egg Group 1`, `Egg Group 2`, color=Group))+
+	geom_jitter();
+# Can't tell
+
+# Try only with egg group 1
+long%>%
+	ggplot(aes(`Egg Group 1`, fill=Group))+
+	geom_bar();
+
+# Try only with egg group 2
+long%>%
+	ggplot(aes(`Egg Group 2`, fill=Group))+
+	geom_bar();
+# Same as with Types and Body
+
+# Is there a relationship in Group ~ Height and Weight?
+long%>%
+	ggplot(aes(log(HeightM), log(WeightKg), color=Group))+
+	geom_point();
+# Color appers to not be the best, so facit wrap it instead
+
+long%>%
+	ggplot(aes(log(HeightM), log(WeightKg)))+
+	geom_point()+
+	facet_wrap(~Group, scales="fixed")+
+	geom_smooth();
+# NA is the most varried as it is not classifyed
+
+long%>%
+	ggplot(aes(log(HeightM), log(WeightKg), color=Group))+
+	geom_point()+
+	geom_smooth(method="lm", se=FALSE);
