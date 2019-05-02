@@ -1,6 +1,6 @@
 types.sql
 ability.sql
-item.sql
-itemIDs.sql
-pokemon.sql
-species.sql
+item.sql # Duplicate Names (pk)
+itemIDs.sql # 8 Nulls
+pokemon.sql # 15 duplicates (pk)
+species.sql # NAME invalid identifier
