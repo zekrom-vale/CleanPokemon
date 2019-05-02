@@ -1,0 +1,6 @@
+types.sql
+ability.sql
+item.sql
+itemIDs.sql
+pokemon.sql
+species.sql
