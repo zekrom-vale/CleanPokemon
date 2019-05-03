@@ -22,7 +22,7 @@ WEIGHTLBS number(6,2) CONSTRAINT ck_WEIGHTLBS_PosZero check(WEIGHTLBS>=0), --The
 HEIGHT_M number(2,0) check(HEIGHT_M>=0), --The height in Meeters
 HEIGHT_FT number(2,0) check(HEIGHT_FT>=0), --The Foot part of the height
 HEIGHT_IN number(2,0) check(HEIGHT_IN>=0), --The intch part of the height
-CONSTRAINT fk_Pokemon foreign key(NAME, DEX) references POKEMON(NAME, DEX), --Enforce the foreign key
+CONSTRAINT fk_Pokemon foreign key(DEX) references POKEMON(DEX), --Enforce the foreign key
 CONSTRAINT un_SPECIES unique(Dex, Dex_Suffix, Class), --Enforce that Dex and Class are unique (Can't be primary key)
 CONSTRAINT ck_Type check(Type!=Type2), --Make sure that type cannot be the same
 CONSTRAINT ck_Egg check(EggGroup1!=EggGroup2), --Make sure that egg groups don't duplicate

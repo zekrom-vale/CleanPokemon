@@ -3,4 +3,4 @@ ability.sql
 item.sql # Duplicate Names (pk)
 itemIDs.sql # 8 Nulls
 pokemon.sql # 15 duplicates (pk)
-species.sql # NAME invalid identifier
+species.sql
