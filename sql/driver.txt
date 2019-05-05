@@ -1,6 +1,6 @@
-types.sql
+type.sql
 ability.sql
 item.sql # Duplicate Names (pk)
-itemIDs.sql # 8 Nulls
+#itemIDs.sql # 8 Nulls
 pokemon.sql # 15 duplicates (pk)
 species.sql
