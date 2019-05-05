@@ -167,6 +167,7 @@ species%>%
 # pokemon
 
 
+
 ############
 # Egg Group
 species%>%
@@ -718,6 +719,7 @@ long%>%
 #
 # );
 # # Nope, can only use a true fator
+# # I don't like the class package, it is lacking in support
 
 
 #################################################################
