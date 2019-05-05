@@ -1,5 +1,5 @@
 create table ITEMS(
-NAME varchar2(50) primary key, --Name of the item
+NAME varchar2(50) , --Name of the item
 GEN number(2,0) references GENERATION(GEN) check(gen>0), --Generation of first implimintaation
 GEN2 number(2,0) references GENERATION(GEN) check(gen2>0), --Last generation implemented, null if still exists
 DESCRIPTION clob , --An explination of what the item is
@@ -14,9 +14,9 @@ KOREAN_HANGUL nvarchar2(200) , --The item's name in KOREAN_HANGUL
 KOREAN_ROMANIZED nvarchar2(200) , --The item's name in KOREAN_ROMANIZED
 CHINESE_HANZI nvarchar2(200) , --The item's name in CHINESE_HANZI
 CHINESE_ROMANIZED nvarchar2(200) , --The item's name in CHINESE_ROMANIZED
-STAR number(8,0) check(star>=0) --A binary mask indicating what had an astrict
+STAR number(8,0) check(star>=0), --A binary mask indicating what had an astrict
+CONSTRAINT pk_ITEMS primary key(NAME, GEN) --Ensure no duplicates exist
 );
-
 insert into ITEMS( NAME, GEN , DESCRIPTION , JAPANESE_KANA, JAPANESE_ROMAJI, FRENCH, GERMAN, ITALIAN, SPANISH , STAR )
 values( q'|Blu ID Badge|', 3 , q'|One of four keys needed to unlock the north door of Realgam Tower.|' , nq'|ＩＤバッジあお|', nq'|ID Badge Ao|', nq'|Passe Bleu|', nq'|Blaue ID-Marke|', nq'|Pass Blu|', nq'|Pase Azul|' , 0 );
 insert into ITEMS( NAME, GEN , DESCRIPTION , JAPANESE_KANA, JAPANESE_ROMAJI, FRENCH, GERMAN, ITALIAN, SPANISH, KOREAN_HANGUL, KOREAN_ROMANIZED, CHINESE_HANZI, CHINESE_ROMANIZED, STAR )

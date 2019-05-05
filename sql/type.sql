@@ -1,6 +1,6 @@
 create table Types(
 TYPE varchar2(15 byte) primary key, --The name of the type
-DISCRIPTION clob check(DISCRIPTION is JSON), --The discription of the type
+DESCRIPTION clob check(DESCRIPTION is JSON), --The description of the type
 ATK_SE varchar2(300) check(ATK_SE is JSON), --Supper effective when atacking the folowing types
 ATK_NVE varchar2(300) check(ATK_NVE is JSON), --Not very effective when atacking the folowing types
 ATK_NE varchar2(300) check(ATK_NE is JSON), --Not effective when atacking the folowing types
@@ -17,7 +17,7 @@ URL varchar2(200 byte) --The link to see more about the group
 create table BODY(
 BODY varchar2(100 byte) primary key, --The name of the body
 PARENT varchar2(100 byte) references BODY(BODY), --The parent of the body type
-DISCRIPTION clob , --An expanded explination of the form
+DESCRIPTION clob , --An expanded explination of the form
 ID number(2,0) unique --The ID of the body type according to the images used
 );
 create table GENERATION(
@@ -222,33 +222,33 @@ values( 'Ditto', 'Normal' );
 insert into eggGroups( NAME, TYPE_ALIAS )
 values( 'Dragon', 'Dragon' );
 
-insert into BODY( BODY , DISCRIPTION, ID )
+insert into BODY( BODY , DESCRIPTION, ID )
 values( 'Bipedal, tailless form' , q'|With a bipedal, tailless form|', 12 );
-insert into BODY( BODY, PARENT, DISCRIPTION, ID )
+insert into BODY( BODY, PARENT, DESCRIPTION, ID )
 values( 'Bipedal, tailed form', 'Bipedal, tailless form', q'|With a bipedal, tailed form|', 6 );
-insert into BODY( BODY , DISCRIPTION, ID )
+insert into BODY( BODY , DESCRIPTION, ID )
 values( 'Fins' , q'|With fins|', 3 );
-insert into BODY( BODY , DISCRIPTION, ID )
+insert into BODY( BODY , DESCRIPTION, ID )
 values( 'Head' , q'|Consisting of only a head|', 1 );
-insert into BODY( BODY, PARENT, DISCRIPTION, ID )
+insert into BODY( BODY, PARENT, DESCRIPTION, ID )
 values( 'Head and a base', 'Head', q'|Consisting of a head and a base|', 5 );
-insert into BODY( BODY, PARENT, DISCRIPTION, ID )
+insert into BODY( BODY, PARENT, DESCRIPTION, ID )
 values( 'Head and arms', 'Head and a base', q'|Consisting of a head and arms|', 4 );
-insert into BODY( BODY, PARENT, DISCRIPTION, ID )
+insert into BODY( BODY, PARENT, DESCRIPTION, ID )
 values( 'Head and legs', 'Head and a base', q'|Consisting of a head and legs|', 7 );
-insert into BODY( BODY , DISCRIPTION, ID )
+insert into BODY( BODY , DESCRIPTION, ID )
 values( 'Insectoid body' , q'|With an insectoid body|', 14 );
-insert into BODY( BODY , DISCRIPTION, ID )
+insert into BODY( BODY , DESCRIPTION, ID )
 values( 'Multiple bodies' , q'|Consisting of multiple bodies|', 11 );
-insert into BODY( BODY , DISCRIPTION, ID )
+insert into BODY( BODY , DESCRIPTION, ID )
 values( 'Quadruped body' , q'|With a quadruped body|', 8 );
-insert into BODY( BODY , DISCRIPTION, ID )
+insert into BODY( BODY , DESCRIPTION, ID )
 values( 'Serpentine bodies' , q'|With serpentine bodies|', 2 );
-insert into BODY( BODY , DISCRIPTION, ID )
+insert into BODY( BODY , DESCRIPTION, ID )
 values( 'Single pair of wings' , q'|With a single pair of wings|', 9 );
-insert into BODY( BODY, PARENT, DISCRIPTION, ID )
+insert into BODY( BODY, PARENT, DESCRIPTION, ID )
 values( 'Two or more pairs of wings', 'Single pair of wings', q'|With two or more pairs of wings|', 13 );
-insert into BODY( BODY , DISCRIPTION, ID )
+insert into BODY( BODY , DESCRIPTION, ID )
 values( 'Tentacles or a multiped body' , q'|With tentacles or a multiped body|', 10 );
 
 insert into GENERATION( GEN, REGION, DEX_MIN, DEX_MAX, LDEX_MIN, LDEX_MAX )
