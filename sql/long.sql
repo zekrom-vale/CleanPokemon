@@ -6190,7 +6190,7 @@ values( 669, q'|Yellow Flower|' , 'Fairy' , 'Fairy' , q'{Head and arms}', 'White
 insert into SPECIES( DEX, CLASS , EGGGROUP1 , TYPE, TYPE2, BODY, COLOR , STAR, GENDER_RATIO, CYCLES, ABILITY1, ABILITY2, HIDDEN_ABILITY, WEIGHTKG, WEIGHTLBS, HEIGHT_M, HEIGHT_FT, HEIGHT_IN )
 values( 711, q'|Large Size|' , 'Amorphous' , 'Ghost', 'Grass', q'{Head and a base}', 'Brown' , 0, '1:1', 20, 'Pickup', 'Frisk', 'Insomnia', 14, 30.9, 1.1, 3, 7 );
 --=REGEXREPLACE(JOIN(", ",A2:A17),"(\w+)","items.$0 ITEM_$0")
-create or replace view joined as(
+create or replace view mix as(
 	select pokemon.NAME, pokemon.DEX, species.CLASS, species.DEX_SUFFIX,
 		--body.*,
 body.BODY BODY_BODY, body.PARENT BODY_PARENT, body.DESCRIPTION BODY_DESCRIPTION, body.ID BODY_ID,

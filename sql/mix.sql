@@ -1,5 +1,5 @@
 --=REGEXREPLACE(JOIN(", ",A2:A17),"(\w+)","items.$0 ITEM_$0")
-create or replace view joined as(
+create or replace view mix as(
 	select pokemon.NAME, pokemon.DEX, species.CLASS, species.DEX_SUFFIX,
 		--body.*,
 body.BODY BODY_BODY, body.PARENT BODY_PARENT, body.DESCRIPTION BODY_DESCRIPTION, body.ID BODY_ID,

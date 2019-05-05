@@ -4,4 +4,4 @@ item.sql
 #itemIDs.sql # 8 Nulls
 pokemon.sql
 species.sql
-joined.sql
+mix.sql
