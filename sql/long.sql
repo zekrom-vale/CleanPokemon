@@ -1,6 +1,6 @@
 create table Types(
 TYPE varchar2(15 byte) primary key, --The name of the type
-DISCRIPTION clob check(DISCRIPTION is JSON), --The discription of the type
+DESCRIPTION clob check(DESCRIPTION is JSON), --The description of the type
 ATK_SE varchar2(300) check(ATK_SE is JSON), --Supper effective when atacking the folowing types
 ATK_NVE varchar2(300) check(ATK_NVE is JSON), --Not very effective when atacking the folowing types
 ATK_NE varchar2(300) check(ATK_NE is JSON), --Not effective when atacking the folowing types
@@ -17,7 +17,7 @@ URL varchar2(200 byte) --The link to see more about the group
 create table BODY(
 BODY varchar2(100 byte) primary key, --The name of the body
 PARENT varchar2(100 byte) references BODY(BODY), --The parent of the body type
-DISCRIPTION clob , --An expanded explination of the form
+DESCRIPTION clob , --An expanded explination of the form
 ID number(2,0) unique --The ID of the body type according to the images used
 );
 create table GENERATION(
@@ -222,33 +222,33 @@ values( 'Ditto', 'Normal' );
 insert into eggGroups( NAME, TYPE_ALIAS )
 values( 'Dragon', 'Dragon' );
 
-insert into BODY( BODY , DISCRIPTION, ID )
+insert into BODY( BODY , DESCRIPTION, ID )
 values( 'Bipedal, tailless form' , q'|With a bipedal, tailless form|', 12 );
-insert into BODY( BODY, PARENT, DISCRIPTION, ID )
+insert into BODY( BODY, PARENT, DESCRIPTION, ID )
 values( 'Bipedal, tailed form', 'Bipedal, tailless form', q'|With a bipedal, tailed form|', 6 );
-insert into BODY( BODY , DISCRIPTION, ID )
+insert into BODY( BODY , DESCRIPTION, ID )
 values( 'Fins' , q'|With fins|', 3 );
-insert into BODY( BODY , DISCRIPTION, ID )
+insert into BODY( BODY , DESCRIPTION, ID )
 values( 'Head' , q'|Consisting of only a head|', 1 );
-insert into BODY( BODY, PARENT, DISCRIPTION, ID )
+insert into BODY( BODY, PARENT, DESCRIPTION, ID )
 values( 'Head and a base', 'Head', q'|Consisting of a head and a base|', 5 );
-insert into BODY( BODY, PARENT, DISCRIPTION, ID )
+insert into BODY( BODY, PARENT, DESCRIPTION, ID )
 values( 'Head and arms', 'Head and a base', q'|Consisting of a head and arms|', 4 );
-insert into BODY( BODY, PARENT, DISCRIPTION, ID )
+insert into BODY( BODY, PARENT, DESCRIPTION, ID )
 values( 'Head and legs', 'Head and a base', q'|Consisting of a head and legs|', 7 );
-insert into BODY( BODY , DISCRIPTION, ID )
+insert into BODY( BODY , DESCRIPTION, ID )
 values( 'Insectoid body' , q'|With an insectoid body|', 14 );
-insert into BODY( BODY , DISCRIPTION, ID )
+insert into BODY( BODY , DESCRIPTION, ID )
 values( 'Multiple bodies' , q'|Consisting of multiple bodies|', 11 );
-insert into BODY( BODY , DISCRIPTION, ID )
+insert into BODY( BODY , DESCRIPTION, ID )
 values( 'Quadruped body' , q'|With a quadruped body|', 8 );
-insert into BODY( BODY , DISCRIPTION, ID )
+insert into BODY( BODY , DESCRIPTION, ID )
 values( 'Serpentine bodies' , q'|With serpentine bodies|', 2 );
-insert into BODY( BODY , DISCRIPTION, ID )
+insert into BODY( BODY , DESCRIPTION, ID )
 values( 'Single pair of wings' , q'|With a single pair of wings|', 9 );
-insert into BODY( BODY, PARENT, DISCRIPTION, ID )
+insert into BODY( BODY, PARENT, DESCRIPTION, ID )
 values( 'Two or more pairs of wings', 'Single pair of wings', q'|With two or more pairs of wings|', 13 );
-insert into BODY( BODY , DISCRIPTION, ID )
+insert into BODY( BODY , DESCRIPTION, ID )
 values( 'Tentacles or a multiped body' , q'|With tentacles or a multiped body|', 10 );
 
 insert into GENERATION( GEN, REGION, DEX_MIN, DEX_MAX, LDEX_MIN, LDEX_MAX )
@@ -796,7 +796,7 @@ insert into ABILITY( ID, NAME, EFFECT, GENERATION, SINGLE, DUAL, HIDDEN, JAPANES
 values( 232, 'Prism Armor', q'|Reduces the power of supereffective attacks taken.|', 7, 1, 0, 0, nq'|プリズムアーマー|', nq'|Prism Armor|', nq'|Prisme-Armure|', nq'|Prismarüstung|', nq'|Scudoprisma|', nq'|Armadura Prisma|', nq'|프리즘아머|', nq'|Prism Armor|', nq'|稜鏡裝甲 / 棱镜装甲|', nq'|Léngjìng Zhuāngjiǎ / Lìhnggeng Jōnggaap|' );
 insert into ABILITY( ID, NAME, EFFECT, GENERATION, SINGLE, DUAL, HIDDEN, JAPANESE_KANA, JAPANESE_ROMAJI, FRENCH, GERMAN, ITALIAN, SPANISH, KOREAN_HANGUL, KOREAN_ROMANIZED, CHINESE_HANZI, CHINESE_ROMANIZED )
 values( 233, 'Neuroforce', q'|Powers up moves that are super effective.|', 7, 1, 0, 0, nq'|ブレインフォース|', nq'|Brain Force|', nq'|Cérébro-Force|', nq'|Zerebralmacht|', nq'|Cerebroforza|', nq'|Fuerza Cerebral|', nq'|브레인포스|', nq'|Brain Force|', nq'|腦核之力 / 脑核之力|', nq'|Nǎohé-zhī Lì / Nóuhhaht-jī Lihk|' );create table ITEMS(
-NAME varchar2(50) primary key, --Name of the item
+NAME varchar2(50) , --Name of the item
 GEN number(2,0) references GENERATION(GEN) check(gen>0), --Generation of first implimintaation
 GEN2 number(2,0) references GENERATION(GEN) check(gen2>0), --Last generation implemented, null if still exists
 DESCRIPTION clob , --An explination of what the item is
@@ -811,9 +811,9 @@ KOREAN_HANGUL nvarchar2(200) , --The item's name in KOREAN_HANGUL
 KOREAN_ROMANIZED nvarchar2(200) , --The item's name in KOREAN_ROMANIZED
 CHINESE_HANZI nvarchar2(200) , --The item's name in CHINESE_HANZI
 CHINESE_ROMANIZED nvarchar2(200) , --The item's name in CHINESE_ROMANIZED
-STAR number(8,0) check(star>=0) --A binary mask indicating what had an astrict
+STAR number(8,0) check(star>=0), --A binary mask indicating what had an astrict
+CONSTRAINT pk_ITEMS primary key(NAME, GEN) --Ensure no duplicates exist
 );
-
 insert into ITEMS( NAME, GEN , DESCRIPTION , JAPANESE_KANA, JAPANESE_ROMAJI, FRENCH, GERMAN, ITALIAN, SPANISH , STAR )
 values( q'|Blu ID Badge|', 3 , q'|One of four keys needed to unlock the north door of Realgam Tower.|' , nq'|ＩＤバッジあお|', nq'|ID Badge Ao|', nq'|Passe Bleu|', nq'|Blaue ID-Marke|', nq'|Pass Blu|', nq'|Pase Azul|' , 0 );
 insert into ITEMS( NAME, GEN , DESCRIPTION , JAPANESE_KANA, JAPANESE_ROMAJI, FRENCH, GERMAN, ITALIAN, SPANISH, KOREAN_HANGUL, KOREAN_ROMANIZED, CHINESE_HANZI, CHINESE_ROMANIZED, STAR )
