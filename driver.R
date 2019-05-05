@@ -2,9 +2,8 @@ flag=FALSE; # Do you want to open the files?
 library(magrittr);
 library(tidyverse);
 library(reshape2);
-library(devtools);
 # Utility I made to make things simple
-install_github("zekrom-vale/zUtil.R");
+devtools::install_github("zekrom-vale/zUtil.R");
 library(zUtil);
 
 
