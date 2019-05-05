@@ -6226,7 +6226,7 @@ generation.GEN GENERATION_GEN, generation.REGION GENERATION_REGION, generation.D
 		on species.TYPE=types.TYPE
 	left join types types2
 		on species.TYPE2=types2.TYPE
-	left join 
+	left join body
 		on species.BODY=body.BODY
 	inner join gender_ratio
 		on species.GENDER_RATIO=gender_ratio.key
