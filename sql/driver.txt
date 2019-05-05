@@ -4,3 +4,4 @@ item.sql # Duplicate Names (pk)
 #itemIDs.sql # 8 Nulls
 pokemon.sql
 species.sql
+joined.sql
