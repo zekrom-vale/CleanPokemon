@@ -308,7 +308,8 @@ values( 'G*' , '*' );
 begin
 TYPE_FINAL();
 end;
-/create table ABILITY(
+/
+create table ABILITY(
 ID number(3,0) unique, --The identification number of the ability
 NAME varchar2(30) primary key, --The name of the ability
 EFFECT varchar2(1000) , --The effect of the ability
@@ -795,7 +796,8 @@ values( 231, 'Shadow Shield', q'|Reduces the amount of damage the Pokémon takes
 insert into ABILITY( ID, NAME, EFFECT, GENERATION, SINGLE, DUAL, HIDDEN, JAPANESE_KANA, JAPANESE_ROMAJI, FRENCH, GERMAN, ITALIAN, SPANISH, KOREAN_HANGUL, KOREAN_ROMANIZED, CHINESE_HANZI, CHINESE_ROMANIZED )
 values( 232, 'Prism Armor', q'|Reduces the power of supereffective attacks taken.|', 7, 1, 0, 0, nq'|プリズムアーマー|', nq'|Prism Armor|', nq'|Prisme-Armure|', nq'|Prismarüstung|', nq'|Scudoprisma|', nq'|Armadura Prisma|', nq'|프리즘아머|', nq'|Prism Armor|', nq'|稜鏡裝甲 / 棱镜装甲|', nq'|Léngjìng Zhuāngjiǎ / Lìhnggeng Jōnggaap|' );
 insert into ABILITY( ID, NAME, EFFECT, GENERATION, SINGLE, DUAL, HIDDEN, JAPANESE_KANA, JAPANESE_ROMAJI, FRENCH, GERMAN, ITALIAN, SPANISH, KOREAN_HANGUL, KOREAN_ROMANIZED, CHINESE_HANZI, CHINESE_ROMANIZED )
-values( 233, 'Neuroforce', q'|Powers up moves that are super effective.|', 7, 1, 0, 0, nq'|ブレインフォース|', nq'|Brain Force|', nq'|Cérébro-Force|', nq'|Zerebralmacht|', nq'|Cerebroforza|', nq'|Fuerza Cerebral|', nq'|브레인포스|', nq'|Brain Force|', nq'|腦核之力 / 脑核之力|', nq'|Nǎohé-zhī Lì / Nóuhhaht-jī Lihk|' );create table ITEMS(
+values( 233, 'Neuroforce', q'|Powers up moves that are super effective.|', 7, 1, 0, 0, nq'|ブレインフォース|', nq'|Brain Force|', nq'|Cérébro-Force|', nq'|Zerebralmacht|', nq'|Cerebroforza|', nq'|Fuerza Cerebral|', nq'|브레인포스|', nq'|Brain Force|', nq'|腦核之力 / 脑核之力|', nq'|Nǎohé-zhī Lì / Nóuhhaht-jī Lihk|' );
+create table ITEMS(
 NAME varchar2(50) , --Name of the item
 GEN number(2,0) references GENERATION(GEN) check(gen>0), --Generation of first implimintaation
 GEN2 number(2,0) references GENERATION(GEN) check(gen2>0), --Last generation implemented, null if still exists
@@ -2545,7 +2547,8 @@ values( q'|Mewtwonite X|', 6 , q'|Allows Mewtwo to Mega Evolve into Mega Mewtwo 
 insert into ITEMS( NAME, GEN , DESCRIPTION , JAPANESE_KANA, JAPANESE_ROMAJI, FRENCH, GERMAN, ITALIAN, SPANISH, KOREAN_HANGUL, KOREAN_ROMANIZED, CHINESE_HANZI, CHINESE_ROMANIZED, STAR )
 values( q'|Rindo Berry|', 4 , q'|Reduces damage from a super effective Grass-type move.|' , nq'|リンドのみ|', nq'|Rindo no Mi|', nq'|Baie Ratam|', nq'|Grindobeere|', nq'|Baccarindo|', nq'|Baya Tamar|', nq'|린드열매|', nq'|Rind Yeolmae|', nq'|羅子果 / 罗子果|', nq'|Luózi Guǒ / Lòhjí Gwó|', 0 );
 insert into ITEMS( NAME, GEN , DESCRIPTION , JAPANESE_KANA, JAPANESE_ROMAJI, FRENCH, GERMAN, ITALIAN, SPANISH, KOREAN_HANGUL, KOREAN_ROMANIZED , STAR )
-values( q'|Steel Mail|', 4 , q'|Mail with a metallic design. To be held by a Pokémon for delivery.|' , nq'|スチールメール|', nq'|Steel Mail|', nq'|Lettre Acier|', nq'|Stahlbrief|', nq'|Mess. Lega|', nq'|Carta Acero|', nq'|스틸메일|', nq'|Steel Mail|' , 0 );create table POKEMON(
+values( q'|Steel Mail|', 4 , q'|Mail with a metallic design. To be held by a Pokémon for delivery.|' , nq'|スチールメール|', nq'|Steel Mail|', nq'|Lettre Acier|', nq'|Stahlbrief|', nq'|Mess. Lega|', nq'|Carta Acero|', nq'|스틸메일|', nq'|Steel Mail|' , 0 );
+create table POKEMON(
 NAME nvarchar2(100) not null, --Name of the Pokemon
 DEX number(4,0) default on null 0 primary key CONSTRAINT ck_DEX_PosZero check(DEX>=0), --Pokedex number of the Pokemon
 PAGE number(2,0) check(PAGE>=0), --The page the Pokemon appers in it's habitat
@@ -4155,7 +4158,8 @@ values( nq'[Misdreavus]', 200, 5, q'|Cave|', 219 , 2 );
 insert into POKEMON( NAME, DEX, PAGE, HABITAT, LDEX , GEN )
 values( nq'[Electrode]', 101, 9, q'|Urban|', 101 , 1 );
 insert into POKEMON( NAME, DEX , LDEX , GEN )
-values( nq'[Naganadel]', 804 , 262 , 7 );create table SPECIES(
+values( nq'[Naganadel]', 804 , 262 , 7 );
+create table SPECIES(
 DEX number(4,0) CONSTRAINT ck_DEX_PosZero2 check(DEX>=0), --Pokedex number of the Pokemon
 CLASS varchar2(100 char) , --Discribing the form or type diffirence
 DEX_SUFFIX varchar2(2 byte) CONSTRAINT ck_DEX_SUFFIX_Cap check(regexp_like(DEX_SUFFIX, '[A-Z][a-zA-Z]?')), --Dex Suffix of the Pokemon to distinguish between types
@@ -6202,7 +6206,8 @@ values( 342 , 'Water 1', 'Water 3', 'Water', 'Dark', q'{Insectoid body}', 'Red' 
 insert into SPECIES( DEX, CLASS , EGGGROUP1 , TYPE , BODY, COLOR , CALL_RATE_USUM, STAR, GENDER_RATIO, CYCLES, ABILITY1 , HIDDEN_ABILITY, WEIGHTKG, WEIGHTLBS, HEIGHT_M, HEIGHT_FT, HEIGHT_IN )
 values( 669, q'|Yellow Flower|' , 'Fairy' , 'Fairy' , q'{Head and arms}', 'White' , 15, 0, '1:0', 20, 'Flower Veil' , 'Symbiosis', 0.1, 0.2, 0.1, 0, 4 );
 insert into SPECIES( DEX, CLASS , EGGGROUP1 , TYPE, TYPE2, BODY, COLOR , STAR, GENDER_RATIO, CYCLES, ABILITY1, ABILITY2, HIDDEN_ABILITY, WEIGHTKG, WEIGHTLBS, HEIGHT_M, HEIGHT_FT, HEIGHT_IN )
-values( 711, q'|Large Size|' , 'Amorphous' , 'Ghost', 'Grass', q'{Head and a base}', 'Brown' , 0, '1:1', 20, 'Pickup', 'Frisk', 'Insomnia', 14, 30.9, 1.1, 3, 7 );--=REGEXREPLACE(JOIN(", ",A2:A17),"(\w+)","items.$0 ITEM_$0")
+values( 711, q'|Large Size|' , 'Amorphous' , 'Ghost', 'Grass', q'{Head and a base}', 'Brown' , 0, '1:1', 20, 'Pickup', 'Frisk', 'Insomnia', 14, 30.9, 1.1, 3, 7 );
+--=REGEXREPLACE(JOIN(", ",A2:A17),"(\w+)","items.$0 ITEM_$0")
 create or replace view joined as(
 	select pokemon.NAME, pokemon.DEX, species.CLASS, species.DEX_SUFFIX,
 		--body.*,
@@ -6254,3 +6259,4 @@ generation.GEN GENERATION_GEN, generation.REGION GENERATION_REGION, generation.D
 	left join items
 		on species.ITEM=items.NAME
 );
+

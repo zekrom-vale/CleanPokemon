@@ -14,4 +14,5 @@ for(file in files){
 		"sql/long.sql",
 		append=TRUE # Don't overite the file, append it
 	);
+	write_file("\n","sql/long.sql", append=TRUE);# add a return to separate files
 }
