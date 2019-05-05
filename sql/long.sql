@@ -2538,8 +2538,8 @@ HABITAT varchar2(40) , --The primary habitat of the species
 LDEX number(3,0) CONSTRAINT ck_LDEX_PosZero check(LDEX>=0), --The local Pokedex number of the Pokemon
 LDEX_SUFFIX varchar2(2 byte) CONSTRAINT ck_LDEX_SUFFIX_Cap check(regexp_like(ldex_suffix, '[A-Z][a-zA-Z]?')), --Local Pokedex Suffix
 GEN number(1,0) references GENERATION(GEN) check(gen>0), --The generation of the pokemon
-CONSTRAINT un_POKEMON unique(Name, Dex), --Enforce that Name and Dex are unique
-CONSTRAINT un_Dex unique(Gen, LDEX) --Ensure no duplicate Local Dexes
+GROUP char(1) , --The IQ Group of the pokemon
+CONSTRAINT un_POKEMON unique(Name, Dex) --Enforce that Name and Dex are unique
 );
 insert into POKEMON( NAME, DEX , LDEX, LDEX_SUFFIX, GEN )
 values( nq'[Helioptile]', 694 , 46, 'Co', 6 );
