@@ -30,19 +30,19 @@ CONSTRAINT ck_Weight check(WeightKg/WeightLbs between .35 and .55), --Ensure the
 CONSTRAINT un_Dex_Class unique(Dex, Class) --Ensure that no class has duplicates
 );
 
-insert into SPECIES( DEX , TYPE, TYPE2, BODY, COLOR , STAR, GENDER_RATIO, CYCLES, ABILITY1 , HIDDEN_ABILITY, WEIGHTKG, WEIGHTLBS, HEIGHT_M, HEIGHT_FT, HEIGHT_IN )
-values( 787 , 'Grass', 'Fairy', q'{Head and arms}', 'Red' , 0, 'GU', 15, 'Grassy Surge' , 'Telepathy', 45.5, 100.3, 1.9, 6, 3 );
-insert into SPECIES( DEX , TYPE , BODY, COLOR , STAR, GENDER_RATIO, CYCLES, ABILITY1 , HIDDEN_ABILITY, WEIGHTKG, WEIGHTLBS, HEIGHT_M, HEIGHT_FT, HEIGHT_IN )
-values( 360 , 'Psychic' , q'{Bipedal, tailed form}', 'Blue' , 0, '1:1U', 20, 'Shadow Tag' , 'Telepathy', 14, 30.9, 0.6, 2, 0 );
-insert into SPECIES( DEX , TYPE , BODY, COLOR , CALL_RATE_USUM, STAR, GENDER_RATIO, CYCLES, ABILITY1, ABILITY2, HIDDEN_ABILITY, WEIGHTKG, WEIGHTLBS, HEIGHT_M, HEIGHT_FT, HEIGHT_IN )
-values( 341 , 'Water' , q'{Insectoid body}', 'Red' , 9, 0, '1:1', 15, 'Hyper Cutter', 'Shell Armor', 'Adaptability', 11.5, 25.4, 0.6, 2, 0 );
-insert into SPECIES( DEX , TYPE, TYPE2, BODY, COLOR , CALL_RATE_USUM, STAR, GENDER_RATIO, CYCLES, ABILITY1 , WEIGHTKG, WEIGHTLBS, HEIGHT_M, HEIGHT_FT, HEIGHT_IN )
-values( 738 , 'Bug', 'Electric', q'{Insectoid body}', 'Blue' , 0, 0, '1:1', 15, 'Levitate' , 45, 99.2, 1.5, 4, 11 );
-insert into SPECIES( DEX , TYPE, TYPE2, BODY, COLOR , STAR, GENDER_RATIO, CYCLES, ABILITY1 , WEIGHTKG, WEIGHTLBS, HEIGHT_M, HEIGHT_FT, HEIGHT_IN )
-values( 494 , 'Psychic', 'Fire', q'{Bipedal, tailless form}', 'Yellow' , 0, 'GU', 120, 'Victory Star' , 4, 8.8, 0.4, 1, 4 );
-insert into SPECIES( DEX , TYPE , BODY, COLOR , STAR, GENDER_RATIO, CYCLES, ABILITY1, ABILITY2, HIDDEN_ABILITY, WEIGHTKG, WEIGHTLBS, HEIGHT_M, HEIGHT_FT, HEIGHT_IN )
-values( 534 , 'Fighting' , q'{Bipedal, tailless form}', 'Brown' , 0, '1:3U', 20, 'Guts', 'Sheer Force', 'Iron Fist', 87, 191.8, 1.5, 4, 11 );
-insert into SPECIES( DEX , TYPE , BODY, COLOR , STAR, GENDER_RATIO, CYCLES, ABILITY1 , HIDDEN_ABILITY, WEIGHTKG, WEIGHTLBS, HEIGHT_M, HEIGHT_FT, HEIGHT_IN )
+insert into SPECIES( DEX , EGGGROUP1 , TYPE, TYPE2, BODY, COLOR , STAR, GENDER_RATIO, CYCLES, ABILITY1 , HIDDEN_ABILITY, WEIGHTKG, WEIGHTLBS, HEIGHT_M, HEIGHT_FT, HEIGHT_IN )
+values( 787 , 'Undiscovered' , 'Grass', 'Fairy', q'{Head and arms}', 'Red' , 0, 'GU', 15, 'Grassy Surge' , 'Telepathy', 45.5, 100.3, 1.9, 6, 3 );
+insert into SPECIES( DEX , EGGGROUP1 , TYPE , BODY, COLOR , STAR, GENDER_RATIO, CYCLES, ABILITY1 , HIDDEN_ABILITY, WEIGHTKG, WEIGHTLBS, HEIGHT_M, HEIGHT_FT, HEIGHT_IN )
+values( 360 , 'Undiscovered' , 'Psychic' , q'{Bipedal, tailed form}', 'Blue' , 0, '1:1U', 20, 'Shadow Tag' , 'Telepathy', 14, 30.9, 0.6, 2, 0 );
+insert into SPECIES( DEX , EGGGROUP1, EGGGROUP2, TYPE , BODY, COLOR , CALL_RATE_USUM, STAR, GENDER_RATIO, CYCLES, ABILITY1, ABILITY2, HIDDEN_ABILITY, WEIGHTKG, WEIGHTLBS, HEIGHT_M, HEIGHT_FT, HEIGHT_IN )
+values( 341 , 'Water 1', 'Water 3', 'Water' , q'{Insectoid body}', 'Red' , 9, 0, '1:1', 15, 'Hyper Cutter', 'Shell Armor', 'Adaptability', 11.5, 25.4, 0.6, 2, 0 );
+insert into SPECIES( DEX , EGGGROUP1 , TYPE, TYPE2, BODY, COLOR , CALL_RATE_USUM, STAR, GENDER_RATIO, CYCLES, ABILITY1 , WEIGHTKG, WEIGHTLBS, HEIGHT_M, HEIGHT_FT, HEIGHT_IN )
+values( 738 , 'Bug' , 'Bug', 'Electric', q'{Insectoid body}', 'Blue' , 0, 0, '1:1', 15, 'Levitate' , 45, 99.2, 1.5, 4, 11 );
+insert into SPECIES( DEX , EGGGROUP1 , TYPE, TYPE2, BODY, COLOR , STAR, GENDER_RATIO, CYCLES, ABILITY1 , WEIGHTKG, WEIGHTLBS, HEIGHT_M, HEIGHT_FT, HEIGHT_IN )
+values( 494 , 'Undiscovered' , 'Psychic', 'Fire', q'{Bipedal, tailless form}', 'Yellow' , 0, 'GU', 120, 'Victory Star' , 4, 8.8, 0.4, 1, 4 );
+insert into SPECIES( DEX , EGGGROUP1 , TYPE , BODY, COLOR , STAR, GENDER_RATIO, CYCLES, ABILITY1, ABILITY2, HIDDEN_ABILITY, WEIGHTKG, WEIGHTLBS, HEIGHT_M, HEIGHT_FT, HEIGHT_IN )
+values( 534 , 'Human-Like' , 'Fighting' , q'{Bipedal, tailless form}', 'Brown' , 0, '1:3U', 20, 'Guts', 'Sheer Force', 'Iron Fist', 87, 191.8, 1.5, 4, 11 );
+insert into SPECIES( DEX , EGGGROUP1, EGGGROUP2, TYPE , BODY, COLOR , STAR, GENDER_RATIO, CYCLES, ABILITY1 , HIDDEN_ABILITY, WEIGHTKG, WEIGHTLBS, HEIGHT_M, HEIGHT_FT, HEIGHT_IN )
 values( 496 , 'Field', 'Grass', 'Grass' , q'{Bipedal, tailed form}', 'Green' , 0, '1:7', 20, 'Overgrow' , 'Contrary', 16, 35.3, 0.8, 2, 7 );
 insert into SPECIES( DEX , EGGGROUP1, EGGGROUP2, TYPE , BODY, COLOR , STAR, GENDER_RATIO, CYCLES, ABILITY1, ABILITY2, HIDDEN_ABILITY, WEIGHTKG, WEIGHTLBS, HEIGHT_M, HEIGHT_FT, HEIGHT_IN )
 values( 301 , 'Field', 'Fairy', 'Normal' , q'{Quadruped body}', 'Purple' , 2, '3:1', 15, 'Cute Charm', 'Normalize', 'Wonder Skin', 32.6, 71.9, 1.1, 3, 7 );
