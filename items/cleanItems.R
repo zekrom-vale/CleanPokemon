@@ -692,6 +692,52 @@ itemsIDs%>%
 
 
 ###############################################################################
+# Fix duplicate items
+items%>%
+	not_distinct(Name)%>%
+	arrange(Name);
+
+items%>%
+	only_distinct(Name)%>%
+	union(
+		items%>%
+			not_distinct(Name)%>%
+			distinct(Name, .keep_all=TRUE)%>%
+			mutate(
+				Description=case_when(
+					Name=="Basement Key"~"Allows the player to access the basement of the Goldenrod Tunnel (2) and New Mauville (3).",
+					Name=="Card Key"~"Allows the player to access more rooms in the Silph Co. headquarters (1), the third floor of Radio Tower while it is under siege by Team Rocket (2), and east wing of the Shadow PKMN Lab (3).",
+					Name=="Chilan Berry"~"Pokéblock ingredient (3) and Reduces damage from a Normal-type move by 50% (4).",
+					Name=="Elevator Key"~"Unlocks the elevator in Pyrite Bldg giving the player access to The Under and Prestige Precept Center's elevator (3) and activates the elevator in Lysandre Labs (6).",
+					Name=="Machine Part"~"The missing part from the Power Plant (2) and take to the Power Plant to restore power to the Magnet Train (3)",
+					Name=="Secret Key"~"Allows access to the Cinnabar Gym (1) and the secret room within the Galactic Veilstone Building (4)",
+					Name=="Storage Key"~"Allows a door to be opened on the Abandoned ShipRSE or the storage hold on the Sea MauvilleORAS (3) and Gives the player access to the Galactic Warehouse in Veilstone City (4).",
+					TRUE~Description
+				),
+				Gen=case_when(
+					Name=="Basement Key"~2L,
+					Name=="Card Key"~2L,
+					Name=="Chilan Berry"~3L,
+					Name=="Elevator Key"~3L,
+					Name=="Machine Part"~2L,
+					Name=="Secret Key"~1L,
+					Name=="Storage Key"~3L,
+					TRUE~Gen
+				),
+				Gen2=case_when(
+					Name=="Basement Key"~3L,
+					Name=="Card Key"~3L,
+					Name=="Chilan Berry"~4L,
+					Name=="Elevator Key"~6L,
+					Name=="Machine Part"~3L,
+					Name=="Secret Key"~4L,
+					Name=="Storage Key"~4L,
+					TRUE~Gen2
+				)
+			)
+	);
+
+###############################################################################
 
 # Export list of items
 write_csv(items,"datasets/items.csv",na="");
