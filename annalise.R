@@ -26,11 +26,14 @@ pokemonLang;
 base;
 evolutions;
 family;
+# Long is the table that is joined together
+long;
+
 # Wow this is actualy a lot of data, about 700Kb
 # True, encoding as a human readable format (csv, tsv and not
 # bianary) is not the most effecent way to stor non string values
 
-
+#################################################################
 #library(ggcorrplot); # Does not work with factors
 
 # Get the cor matrix
@@ -38,6 +41,7 @@ family;
 # cor can only use numbers
 # http://www.sthda.com/english/wiki/ggcorrplot-visualization-of-a-correlation-matrix-using-ggplot2
 
+#################################################################
 # Normaly there should be a corelation between weight and height
 species%>%
 	ggplot(aes(WeightKg, HeightM))+
@@ -81,24 +85,35 @@ species%>%
 
 # It is odd that height crests at 4.7m around 650Kg
 
-(function(){ # Prevent global scope polution
-	g=species%>%
-		loess(WeightKg~HeightM, data=.);
+g=species%>%
+	loess(WeightKg~HeightM, data=.);
 
-	print(g$residuals);
-	print(g$coefficients);
+print(g$coefficients);
+# Loess does not have coefficients, instead we must use predict
+# Try using lm and
 
-	# Try using lm and
-	g.=species%>%
-		lm(WeightKg~HeightM:Body, data=.);
+g.=species%>%
+	lm(WeightKg~HeightM:Body, data=.);
 
-	print(predict(g., tibble(HeightM=2, Body="Quadruped body")));
-})();
+g.$coefficients;
+# This is what I wanted to predict
+# The lines per each body type!
+
+predict(g., tibble(HeightM=2, Body="Quadruped body"));
+# Nice!
+# For some body types the points are clustered, however, that will
+# Take a while to do the prediction for each body
 
 
 #################################################################
 # Other things and height and weight
 
+# As each type has different characteristics, type will influence
+# weight and height
+# Steel and rock types will be heaveyer than normal types
+	# Dule types will complicate this
+
+########
 # Type
 species%>%
 	ggplot()+
@@ -107,6 +122,7 @@ species%>%
 	geom_smooth(aes(WeightKg, HeightM), color="red", method="lm")+
 	geom_smooth(aes(WeightKg, HeightM), color="blue", method="loess");
 # There is a corelation, try using log to get a btter result?
+
 
 species%>%
 	mutate(
@@ -136,7 +152,22 @@ species%>%
 	geom_smooth(aes(WeightKg, HeightM));
 # Psychic is the only one that has enough points to create Type2 lines
 
+# The problem is that there are dule types that may be quie
+# different from the other types
+# Perhapse this is not the best way to show it, instead
+# we should wrap by Type and Type2.  But that will be alot!
 
+species%>%
+	ggplot()+
+	geom_point(aes(WeightKg, HeightM))+
+	facet_grid((Type~Type2), scales="free")+
+	geom_smooth(aes(WeightKg, HeightM), color="red", method="lm")+
+	geom_smooth(aes(WeightKg, HeightM), color="blue", method="loess");
+# Now there is not enough data to use for some, some don't even have
+# pokemon
+
+
+############
 # Egg Group
 species%>%
 	ggplot()+
@@ -611,6 +642,7 @@ species%>%
 # One thing I am quite curious about is predicting the IQ groups
 # Not all pokemon have them defined as they were introduced later on
 
+#################################################################
 # There might be a corelation between Type and Group
 long%>%
 	ggplot(aes(Type, Type2, color=Group))+
@@ -675,6 +707,7 @@ long%>%
 	geom_smooth(method="lm", se=FALSE);
 # Appers to be no significant relationship
 
+#################################################################
 # # Try kkn
 # class::knn(
 # 	long%>%
@@ -685,3 +718,71 @@ long%>%
 #
 # );
 # # Nope, can only use a true fator
+
+
+#################################################################
+# As indicated previously, there are some types with no pokemon
+# I want to see what combination is most used and least used
+
+# Group by Type and Type 2 then count
+typeCount=species%>%
+	distinct(
+		Dex,Type,Type2 # We don't want to count pokemon twice
+									 # unless they differ in type
+	)%>%
+	group_by(
+		Type, Type2
+	)%>%
+	count();
+
+# Plot it as a bar graph
+typeCount%>%
+	ggplot(aes(Type, n, fill=Type2))+
+	geom_col(position="dodge");
+# Steel and Flying are the only types that have less pure types
+# than any other type combo in their Type
+
+# Still, this does not answer the second part of my question as it does not plot the missing ones
+
+# Try point
+typeCount%>%
+	ggplot(aes(Type, Type2, size=n, color=n))+
+	geom_point();
+# Ok, that answers that many type combos are missing
+
+# Try raster
+typeCount%>%
+	ggplot(aes(Type, Type2, fill=n))+
+	geom_raster();
+# Pure types are hiding the color of the dule types
+
+# Remove NAs
+typeCount%>%
+	filter(
+		!is.na(Type2)
+	)%>%
+	ggplot(aes(Type, Type2, fill=n))+
+	geom_raster();
+
+# Try a different color scale, that may be better to compare
+typeCount%>%
+	filter(
+		!is.na(Type2)
+	)%>%
+	ggplot(aes(Type, Type2, fill=n))+
+	scale_fill_gradientn(colors=terrain.colors(6))+
+	geom_raster();
+# That is better, you can see the most common is
+# Grass-Posion, Bug-Flying, Bug-Posion
+
+# Maby we can overlay point and raster?
+typeCount%>%
+	filter(
+		!is.na(Type2)
+	)%>%
+	ggplot()+
+	scale_fill_gradientn(colors=terrain.colors(6))+
+	geom_raster(aes(Type, Type2, fill=n))+
+	geom_point(aes(Type, Type2, size=n));
+# Yes, this works, but is this better?
+
