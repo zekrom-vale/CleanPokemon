@@ -697,7 +697,7 @@ items%>%
 	not_distinct(Name)%>%
 	arrange(Name);
 
-items%>%
+items%<>%
 	only_distinct(Name)%>%
 	union(
 		items%>%

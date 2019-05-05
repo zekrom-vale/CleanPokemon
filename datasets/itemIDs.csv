@@ -80,7 +80,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 806,0x0326,Mewnium Z,Z-Crystals,,7
 382,0x017E,unknown,,XD,3
 153,0x0099,Aspear Berry,Berries,,5
-402,0x0192,TM75,TMs,,7
 190,0x00BE,Cleanse Tag,Items,Colosseum,3
 226,0xE2,TM34,TMs and HMs,,2
 247,0x00F7,Spell Tag,Items,,6
@@ -129,6 +128,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 149,0x0095,Cheri Berry,Berries,,5
 615,0x0267,Dire Hit 3,Items,,7
 905,0x0389,Flying Memory,,Let's Go,7
+335,0x014F,TM08,TMs,,7
 577,0x0241,Poké Toy,Items,,7
 431,0x01AF,Poké Radar,Key items,,6
 836,0x0344,Pikashunium Z,Z-Crystals,,7
@@ -145,9 +145,9 @@ ID,Hex,Name,Pokcet,Game,Gen
 601,0x0259,X Sp. Def 3,,Let's Go,7
 87,0x0057,unknown,,XD,3
 916,0x0394,Psychic Memory,,Let's Go,7
+331,0x014B,TM04,TMs,,7
 174,0x00AE,Starf Berry,Berries,,3
 681,0x02A9,Mawilite,Items,,6
-383,0x017F,TM56,TMs,,7
 246,0x00F6,NeverMeltIce,Items,,5
 220,0x00DC,Sea Incense,Items,Colosseum,3
 901,0x0385,Super Lure,,Let's Go,7
@@ -168,7 +168,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 152,0x0098,Rawst Berry,,Let's Go,7
 750,0x02EE,Mega Anklet,Key items,"Omega Ruby, Alpha Sapphire",6
 815,0x032F,Groundium Z,,Let's Go,7
-343,0x0157,TM16,TMs,,7
 211,0xD3,TM20,TMs and HMs,,2
 546,0x0222,Cell Battery,Items,,5
 500,0x01F4,Park Ball,Poké Balls,,5
@@ -179,7 +178,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 217,0xD9,TM26,TMs and HMs,,2
 570,0x023A,Battle CD 37,,XD,3
 74,0x4A,Lift Key,,,1
-345,0x0159,TM18,TMs,,7
 993,0x03E1,Jigglypuff Candy,,Let's Go,7
 233,0x00E9,Metal Coat,Items,,7
 435,0x01B3,Fashion Case,Key items,,4
@@ -208,7 +206,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 37,0x0025,Max Elixir,Items,Colosseum,3
 95,0x005F,Growth Mulch,,Let's Go,7
 106,0x6A,ゴールドバッヂ (GoldBadge - D),,,1
-403,0x0193,TM76,TMs,,7
 493,0x01ED,unknown,,XD,3
 140,0x008C,Thanks Mail,Items,,5
 383,0x017F,TM56,,Let's Go,7
@@ -222,7 +219,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 167,0x00A7,Wepear Berry,Berries,,6
 435,0x01B3,Fashion Case,Key items,,5
 99,0x0063,Root Fossil,Items,,7
-424,0x01A8,HM05,TMs,,7
 745,0x02E9,Mega Pendant,,Let's Go,7
 349,0x015D,TM22,TMs and HMs,,4
 481,0x01E1,unknown,,Colosseum,3
@@ -234,7 +230,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 611,0x0263,Ability Urge,Items,,6
 150,0x0096,Chesto Berry,Berries,,5
 409,0x0199,TM82,,Let's Go,7
-421,0x01A5,HM02,TMs,,7
 238,0x00EE,unknown,,XD,3
 32,0x0020,Lemonade,Medicine,Let's Go,7
 767,0x02FF,Cameruptite,,Let's Go,7
@@ -250,6 +245,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 28,0x001C,Lemonade,Items,,3
 102,0x0066,Dome Fossil,Items,,7
 139,0x008B,RSVP Mail,Items,,6
+406,0x0196,TM79,TMs,,7
 135,0x0087,Adamant Orb,Items,,4
 546,0x0222,Cell Battery,Items,,7
 81,0x0051,Fluffy Tail,Items,XD,3
@@ -291,10 +287,10 @@ ID,Hex,Name,Pokcet,Game,Gen
 944,0x03B0,N-Lunarizer,,Let's Go,7
 459,0x01CB,unknown,,XD,3
 469,0x01D5,unknown,,Colosseum,3
+373,0x0175,TM46,TMs,,7
 582,0x0246,Pearl String,Items,,5
 139,0x008B,RSVP Mail,Items,,7
 424,0x01A8,HM05,TMs and HMs,,6
-349,0x015D,TM22,TMs,,7
 155,0x009B,Qualot Berry,Berries,XD,3
 538,0x021A,Battle CD 05,,XD,3
 762,0x02FA,Pidgeotite,,Let's Go,7
@@ -322,6 +318,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 638,0x027E,Reveal Glass,Key items,,7
 300,0x012C,Zap Plate,Items,,6
 697,0x02B9,Intriguing Stone,Key items,,6
+344,0x0158,TM17,TMs,,7
 977,0x03D1,Quick Candy XL,,Let's Go,7
 102,0x66,BlackGlasses,Items,,2
 582,0x0246,Pearl String,Items,,6
@@ -353,9 +350,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 104,0x68,Pink Bow,Items,,2
 221,0x00DD,King's Rock,Items,,7
 408,0x0198,TM81,TMs and HMs,,6
-335,0x014F,TM08,TMs,,7
 227,0x00E3,unknown,,Colosseum,3
-415,0x019F,TM88,TMs,,7
 157,0x009D,Lum Berry,Berries,,5
 165,0x00A5,Watmel Berry,Berries,,3
 586,0x024A,Relic Gold,,Let's Go,7
@@ -398,7 +393,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 68,0x0044,Black Flute,Items,,5
 314,0x013A,TM26,TMs and HMs,XD,3
 283,0x011B,Rm. 4 Key,Key items,,3
-413,0x019D,TM86,TMs,,7
 645,0x0285,Ability Capsule,Medicine,,7
 812,0x032C,Icium Z,,Let's Go,7
 132,0x0084,unknown,,,4
@@ -419,6 +413,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 21,0x0015,Awakening,Medicine,,7
 858,0x035A,Moon Flute,,Let's Go,7
 1003,0x03EB,Poliwag Candy,,Let's Go,7
+357,0x0165,TM30,TMs,,7
 388,0x0184,TM61,TMs and HMs,,5
 122,0x7A,Energy Root,Items,,2
 742,0x02E6,Aqua Suit,Key items,"Omega Ruby, Alpha Sapphire",6
@@ -461,7 +456,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 140,0x8C,Scope Lens,Items,,2
 127,0x007F,unknown,,,6
 430,0x01AE,unknown,,XD,3
-493,0x01ED,Level Ball,Poké Balls,"HeartGold, SoulSilver",4
 318,0x013E,TM30,TMs and HMs,,3
 506,0x01FA,Data Card 02,Items,,5
 789,0x0315,Ghostium Z,,Let's Go,7
@@ -548,6 +542,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 460,0x01CC,Coupon 1,Key items,,6
 388,0x0184,TM61,TMs and HMs,,4
 92,0x005C,Nugget,Items,,7
+392,0x0188,TM65,TMs,,7
 667,0x029B,Aggronite,Items,,6
 127,0x007F,unknown,,,4
 172,0x00AC,Hondew Berry,Berries,,5
@@ -572,7 +567,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 610,0x0262,X Accuracy 6,Items,,6
 338,0x0152,TM50,TMs and HMs,,3
 13,0x0D,Ice Heal,,,1
-350,0x015E,TM23,TMs,,7
 44,0x002C,Sacred Ash,Medicine,,6
 57,0x0039,unknown,,Colosseum,3
 85,0x55,Red Apricorn,Items,,2
@@ -595,6 +589,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 742,0x02E6,Aqua Suit,Key items,,7
 172,0x00AC,Hondew Berry,Berries,,4
 127,0x007F,unknown,,,5
+407,0x0197,TM80,TMs,,7
 20,0x0014,Ice Heal,Medicine,,6
 426,0x01AA,???,,,7
 437,0x01B5,Pal Pad,Key items,,5
@@ -606,7 +601,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 161,0x00A1,Rabuta Berry,Berries,,3
 2,0x0002,Ultra Ball,Poké Balls,,4
 229,0x00E5,unknown,,,3
-366,0x016E,TM39,TMs,,7
 186,0xBA,Morph Mail,Items,,2
 12,0x000C,Premier Ball,Poké Balls,,3
 581,0x0245,Battle CD 48,,XD,3
@@ -668,6 +662,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 63,0x003F,Poké Doll,Items,,5
 491,0x01EB,unknown,,XD,3
 513,0x0201,Data Card 09,Items,,7
+403,0x0193,TM76,TMs,,7
 740,0x02E4,Contest Costume,Key items,"Omega Ruby, Alpha Sapphire",6
 747,0x02EB,Mega Anchor,Key items,"Omega Ruby, Alpha Sapphire",6
 34,0x22,Leaf Stone,Items,,2
@@ -678,7 +673,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 91,0x005B,Star Piece,,Let's Go,7
 12,0x0C,Awakening,Items,,2
 10,0x000A,Timer Ball,,Let's Go,7
-346,0x015A,TM19,TMs,,7
 260,0x0104,unknown,,XD,3
 54,0x36,Coin Case,Key items,,2
 16,0x10,Hyper Potion,Items,,2
@@ -785,7 +779,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 299,0x012B,Splash Plate,Items,,6
 609,0x0261,X Attack 6,Items,,6
 193,0x00C1,DeepSeaScale,Items,Colosseum,3
-338,0x0152,TM11,TMs,,7
 121,0x0079,unknown,,Colosseum,3
 66,0x0042,Yellow Flute,Battle items,,4
 124,0x007C,unknown,,XD,3
@@ -831,7 +824,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 790,0x0316,Dragonium Z,,Let's Go,7
 528,0x0210,Data Card 24,Items,,7
 289,0x0121,TM01,TMs and HMs,Colosseum,3
-401,0x0191,TM74,TMs,,7
 529,0x0211,Voice Case 2,Key items,XD,3
 268,0x010C,Expert Belt,Items,,7
 258,0x0102,Thick Club,Items,,7
@@ -880,6 +872,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 246,0x00F6,unknown,,,3
 89,0x59,4F (G),,,1
 208,0x00D0,Magnet,Items,,3
+338,0x0152,TM11,TMs,,7
 100,0x0064,unknown,,XD,3
 242,0x00F2,Magnet,Items,,6
 136,0x0088,Lustrous Orb,Items,,6
@@ -891,7 +884,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 915,0x0393,Electric Memory,Items,,7
 134,0x0086,Sweet Heart,Medicine,,5
 324,0x0144,TM36,TMs and HMs,Colosseum,3
-420,0x01A4,HM01,TMs,,7
 1033,0x0409,Goldeen Candy,,Let's Go,7
 94,0x005E,Honey,Items,,4
 21,0x0015,Awakening,Medicine,,4
@@ -901,11 +893,13 @@ ID,Hex,Name,Pokcet,Game,Gen
 82,0x52,King's Rock,Items,,2
 254,0x00FE,Red Scarf,Items,XD,3
 420,0x01A4,HM01,TMs and HMs,,6
+348,0x015C,TM21,TMs,,7
 453,0x01C5,Lunar Wing,Key items,,5
 339,0x0153,TM12,,Let's Go,7
 299,0x012B,Splash Plate,Items,,7
 9,0x0009,Repeat Ball,Poké Balls,,3
 86,0x0056,Repel,Items,Colosseum,3
+367,0x016F,Tri-Pass,Key items,"FireRed, LeefGreen, Emerald",3
 152,0x0098,Rawst Berry,Berries,,5
 193,0xC1,TM03,TMs and HMs,,2
 95,0x005F,Growth Mulch,Items,,6
@@ -953,6 +947,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 994,0x03E2,Zubat Candy,,Let's Go,7
 837,0x0345,???,,,7
 628,0x0274,DNA Splicers,Key items,"Black 2, White 2",5
+690,0x02B2,TM96,TMs,,7
 656,0x0290,Gengarite,Items,,7
 26,0x001A,Fresh Water,Items,Colosseum,3
 161,0xA1,Fast Ball,Poké Balls,,2
@@ -970,6 +965,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 515,0x0203,Data Card 11,,Let's Go,7
 238,0x00EE,Hard Stone,Items,,5
 535,0x0217,Blue Orb,Items,,7
+386,0x0182,TM59,TMs,,7
 688,0x02B0,Maranga Berry,Berries,,6
 989,0x03DD,Nidoran♀ Candy,,Let's Go,7
 39,0x27,Calcium,,,1
@@ -990,7 +986,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 114,0x0072,unknown,,,6
 220,0x00DC,Choice Band,Items,,7
 200,0x00C8,Leftovers,Items,Colosseum,3
-342,0x0156,TM15,TMs,,7
 97,0x0061,Stable Mulch,Items,,7
 150,0x96,MysteryBerry,Items,,2
 294,0x0126,Power Weight,Items,,7
@@ -1002,6 +997,8 @@ ID,Hex,Name,Pokcet,Game,Gen
 583,0x0247,Comet Shard,Items,,7
 533,0x0215,Lock Capsule,Key items,,5
 314,0x013A,Odd Incense,Items,,5
+769,0x0301,Salamencite,Items,"Omega Ruby, Alpha Sapphire",6
+330,0x014A,TM03,TMs,,7
 657,0x0291,Gardevoirite,,Let's Go,7
 128,0x0080,Shadow Mail,Items,,3
 1047,0x0417,Kabuto Candy,,Let's Go,7
@@ -1083,6 +1080,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 225,0x00E1,Stick,Items,Colosseum,3
 431,0x01AF,Poké Radar,,Let's Go,7
 612,0x0264,Item Drop,Items,,6
+375,0x0177,Magma Emblem,Key items,Emerald,3
 206,0xCE,TM15,TMs and HMs,,2
 906,0x038A,Poison Memory,,Let's Go,7
 932,0x03A4,Kommonium Z,,Let's Go,7
@@ -1092,7 +1090,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 891,0x037B,???,,,7
 129,0x0081,unknown,,XD,3
 112,0x0070,Griseous Orb,,Let's Go,7
-336,0x0150,TM09,TMs,,7
 240,0x00F0,BlackGlasses,Items,,4
 165,0x00A5,Bluk Berry,Berries,,4
 28,0x1C,EarthBadge,,,1
@@ -1112,6 +1109,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 222,0x00DE,Lucky Punch,Items,Colosseum,3
 114,0x0072,unknown,,,3
 822,0x0336,Darkinium Z,Z-Crystals,,7
+367,0x016F,TM40,TMs,,7
 907,0x038B,Ground Memory,Items,,7
 43,0x002B,White Flute,Items,,3
 612,0x0264,Item Drop,Items,,7
@@ -1123,11 +1121,9 @@ ID,Hex,Name,Pokcet,Game,Gen
 354,0x0162,Old Amber,Key items,"FireRed, LeefGreen, Emerald",3
 282,0x011A,Icy Rock,Items,,6
 625,0x0271,Gram 3,Key items,,6
-722,0x02D2,Soot Sack,Key items,"Omega Ruby, Alpha Sapphire",6
 240,0x00F0,BlackGlasses,Items,,5
 136,0x0088,Rawst Berry,Berries,Colosseum,3
 344,0x0158,TM17,TMs and HMs,,4
-332,0x014C,TM05,TMs,,7
 779,0x030B,Electrium Z,,Let's Go,7
 425,0x01A9,unknown,,XD,3
 199,0x00C7,Babiri Berry,Berries,,6
@@ -1143,6 +1139,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 1,0x0001,Master Ball,Poké Balls,,5
 465,0x01D1,Vs. Recorder,Key items,,6
 555,0x022B,Ground Gem,Items,,7
+493,0x01ED,Level Ball,Poké Balls,"HeartGold, SoulSilver",4
 250,0x00FA,unknown,,XD,3
 3,0x0003,Great Ball,Poké Balls,,5
 133,0x0085,unknown,,,4
@@ -1197,7 +1194,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 9,0x0009,Repeat Ball,Poké Balls,,4
 195,0x00C3,Charti Berry,Berries,,4
 42,0x002A,Black Flute,Items,,3
-692,0x02B4,TM98,TMs,,7
 622,0x026E,???,,Let's Go,7
 414,0x019E,unknown,,Colosseum,3
 73,0x0049,Guard Spec.,Items,,3
@@ -1221,7 +1217,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 142,0x008E,Like Mail,Items,,7
 526,0x020E,Data Card 22,Items,,7
 63,0x003F,Poké Doll,,Let's Go,7
-393,0x0189,TM66,TMs,,7
 372,0x0174,Powder Jar,Key items,"FireRed, LeefGreen, Emerald",3
 500,0x01F4,Safe Key,Key items,XD,3
 25,0x0019,Max Revive,Items,XD,3
@@ -1278,6 +1273,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 195,0x00C3,Charti Berry,Berries,,6
 579,0x0243,Dragon Skull,Key items,,6
 231,0x00E7,Lucky Egg,Items,,6
+412,0x019C,TM85,TMs,,7
 79,0x004F,Repel,Items,,7
 869,0x0365,???,,,7
 16,0x0010,Ice Heal,Items,,3
@@ -1297,13 +1293,13 @@ ID,Hex,Name,Pokcet,Game,Gen
 595,0x0253,X Sp. Def 2,Items,,5
 213,0x00D5,BrightPowder,Items,,5
 287,0x011F,unknown,,Colosseum,3
-620,0x026C,TM95,TMs,,7
 142,0x008E,Like Mail,Items,,5
 46,0x002E,Protein,Medicine,,4
 215,0x00D7,Charcoal,Items,Colosseum,3
 112,0x0070,Griseous Orb,Items,"Platinum, HeartGold, SoulSilver",4
 284,0x011C,Heat Rock,,Let's Go,7
 132,0x84,Star Piece,Items,,2
+370,0x0172,TM43,TMs,,7
 134,0x0086,Sweet Heart,Medicine,,7
 716,0x02CC,Mega Charm,Key items,"Omega Ruby, Alpha Sapphire",6
 324,0x0144,TM36,TMs and HMs,XD,3
@@ -1322,7 +1318,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 484,0x01E4,Mystery Egg,Key items,,7
 79,0x004F,Repel,Items,,4
 279,0x0117,unknown,,Colosseum,3
-379,0x017B,TM52,TMs,,7
 83,0x0053,Thunder Stone,Items,,7
 525,0x020D,Krane Memo 3,Key items,XD,3
 535,0x0217,Blu ID Badge,Key items,Colosseum,3
@@ -1351,7 +1346,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 260,0x0104,Red Scarf,Items,,4
 27,0x001B,Soda Pop,Items,Colosseum,3
 130,0x0082,unknown,,Colosseum,3
-340,0x0154,TM13,TMs,,7
+399,0x018F,TM72,TMs,,7
 503,0x01F7,Tidal Bell,Key items,"HeartGold, SoulSilver",4
 512,0x0200,Data Card 08,Items,,5
 233,0x00E9,Metal Coat,,Let's Go,7
@@ -1398,6 +1393,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 965,0x03C5,Quick Candy,,Let's Go,7
 381,0x017D,TM54,TMs and HMs,,5
 212,0x00D4,Rowap Berry,Berries,,5
+415,0x019F,TM88,TMs,,7
 724,0x02D4,Pokéblock Kit,,Let's Go,7
 542,0x021E,Red Card,Items,,7
 344,0x0158,TM17,TMs and HMs,,5
@@ -1434,10 +1430,10 @@ ID,Hex,Name,Pokcet,Game,Gen
 607,0x025F,X Sp. Def 6,,Let's Go,7
 105,0x69,Stick,Items,,2
 290,0x0122,Power Belt,Items,,6
-386,0x0182,TM59,TMs,,7
 564,0x0234,Normal Gem,Items,,5
 472,0x01D8,Blue Card,Key items,,5
 608,0x0260,X Defense 6,Items,,6
+620,0x026C,TM95,TMs,,7
 200,0x00C8,Chilan Berry,Berries,,7
 215,0x00D7,Macho Brace,,Let's Go,7
 485,0x01E5,Red Apricorn,,Let's Go,7
@@ -1459,6 +1455,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 842,0x034A,Fishing Rod,Key items,,7
 726,0x02D6,Eon Ticket,Key items,"Omega Ruby, Alpha Sapphire",6
 39,0x0027,Blue Flute,Items,Colosseum,3
+365,0x016D,TM38,TMs,,7
 553,0x0229,Fighting Gem,Items,,6
 807,0x0327,Normalium Z,Z-Crystals,,7
 446,0x01BE,Good Rod,Key items,,7
@@ -1479,8 +1476,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 631,0x0277,Oval Charm,Key items,,7
 221,0x00DD,Lax Incense,Items,Colosseum,3
 11,0x000B,Luxury Ball,Items,,7
-691,0x02B3,TM97,TMs,,7
-406,0x0196,TM79,TMs,,7
 29,0x001D,Moomoo Milk,Items,Colosseum,3
 561,0x0231,Dragon Gem,,Let's Go,7
 111,0x006F,Heart Scale,Items,Colosseum,3
@@ -1525,12 +1520,12 @@ ID,Hex,Name,Pokcet,Game,Gen
 864,0x0360,Golden Nanab Berry,,Let's Go,7
 143,0x8F,Metal Coat,Items,,2
 51,0x0033,Green Shard,Items,,3
+377,0x0179,TM50,TMs,,7
 914,0x0392,Grass Memory,Items,,7
 566,0x0236,Battle CD 33,,XD,3
 769,0x0301,Salamencite,,Let's Go,7
 137,0x0089,Aspear Berry,Berries,Colosseum,3
 524,0x020C,Data Card 20,Items,,6
-392,0x0188,TM65,TMs,,7
 339,0x0153,unknown,,XD,3
 373,0x0175,TM46,TMs and HMs,,6
 864,0x0360,???,,,7
@@ -1601,7 +1596,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 23,0x0017,Full Heal,Items,Colosseum,3
 526,0x020E,Data Card 22,Items,"HeartGold, SoulSilver",4
 667,0x029B,Aggronite,,Let's Go,7
-365,0x016D,TM38,TMs,,7
 590,0x024E,Relic Crown,,Let's Go,7
 216,0x00D8,Dragon Fang,Items,,3
 306,0x0132,TM18,TMs and HMs,Colosseum,3
@@ -1654,6 +1648,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 143,0x008F,Heart Mail,Mail,,4
 191,0x00BF,Soul Dew,Items,Colosseum,3
 524,0x020C,Data Card 20,Items,,5
+416,0x01A0,TM89,TMs,,7
 264,0x0108,unknown,,XD,3
 373,0x0175,TM46,TMs and HMs,,5
 179,0x00B3,BrightPowder,Items,Colosseum,3
@@ -1685,6 +1680,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 341,0x0155,TM14,TMs and HMs,,6
 294,0x0126,Power Weight,Items,,4
 478,0x01DE,Red Scale,,Let's Go,7
+417,0x01A1,TM90,TMs,,7
 533,0x0215,Lock Capsule,,Let's Go,7
 431,0x01AF,unknown,,Colosseum,3
 940,0x03AC,Purple Petal,Key items,"Ultra Sun, Ultra Moon",7
@@ -1756,6 +1752,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 544,0x0220,Binding Band,Items,,7
 491,0x01EB,Blk Apricorn,Items,"HeartGold, SoulSilver",4
 720,0x02D0,Wailmer Pail,,Let's Go,7
+343,0x0157,TM16,TMs,,7
 872,0x0368,Secret Key,,Let's Go,7
 383,0x017F,unknown,,XD,3
 87,0x0057,Big Mushroom,Items,,6
@@ -1819,12 +1816,14 @@ ID,Hex,Name,Pokcet,Game,Gen
 311,0x0137,Draco Plate,,Let's Go,7
 318,0x013E,Rose Incense,Items,,6
 748,0x02EC,Mega Stickpin,Key items,,7
+408,0x0198,TM81,TMs,,7
 8,0x0008,Nest Ball,,Let's Go,7
 213,0x00D5,Bright Powder,Items,,7
 687,0x02AF,Kee Berry,Berries,,7
 341,0x0155,unknown,,XD,3
 235,0x00EB,Dragon Scale,Items,,4
 93,0x5D,Grn Apricorn,Items,,2
+380,0x017C,TM53,TMs,,7
 669,0x029D,Tyranitarite,Items,,7
 767,0x02FF,Cameruptite,Items,"Omega Ruby, Alpha Sapphire",6
 544,0x0220,Binding Band,Items,,5
@@ -1909,7 +1908,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 325,0x0145,Reaper Cloth,Items,,4
 318,0x013E,Rose Incense,Items,,4
 112,0x70,Everstone,Items,,2
-359,0x0167,TM32,TMs,,7
 414,0x019E,TM87,TMs and HMs,,4
 554,0x022A,Battle CD 21,,XD,3
 345,0x0159,unknown,,XD,3
@@ -1941,7 +1939,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 66,0x42,X Defend,,,1
 228,0x00E4,Smoke Ball,Items,,5
 473,0x01D9,Slowpoke Tail,Key items,,6
-373,0x0175,TM46,TMs,,7
 249,0x00F9,unknown,,XD,3
 887,0x0377,Marble,,Let's Go,7
 119,0x0077,unknown,,Colosseum,3
@@ -1950,11 +1947,11 @@ ID,Hex,Name,Pokcet,Game,Gen
 885,0x0375,???,,,7
 889,0x0379,???,,,7
 366,0x016E,TM39,TMs and HMs,,4
-412,0x019C,TM85,TMs,,7
 730,0x02DA,Key to Room 1,Key items,"Omega Ruby, Alpha Sapphire",6
 325,0x0145,Reaper Cloth,Items,,5
 504,0x01F8,Rage Candy Bar,,Let's Go,7
 664,0x0298,Blazikenite,Items,,7
+388,0x0184,TM61,TMs,,7
 364,0x016C,TM37,,Let's Go,7
 405,0x0195,TM78,TMs and HMs,,4
 483,0x01E3,Rainbow Wing,Key items,,7
@@ -1967,7 +1964,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 301,0x012D,Meadow Plate,Items,,6
 107,0x6B,NeverMeltIce,Items,,2
 984,0x03D8,Rattata Candy,,Let's Go,7
-354,0x0162,TM27,TMs,,7
 136,0x0088,Lustrous Orb,,Let's Go,7
 392,0x0188,TM65,TMs and HMs,,4
 444,0x01BC,unknown,,Colosseum,3
@@ -1986,7 +1982,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 151,0x0097,Pecha Berry,Berries,,7
 476,0x01DC,unknown,,Colosseum,3
 75,0x004B,Green Shard,Items,,6
-334,0x014E,TM07,TMs,,7
 525,0x020D,DNA Sample,Key items,Colosseum,3
 38,0x26,Carbos,,,1
 236,0x00EC,unknown,,Colosseum,3
@@ -1998,6 +1993,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 523,0x020B,DNA Sample,Key items,Colosseum,3
 606,0x025E,X Sp. Atk 6,,Let's Go,7
 315,0x013B,Rock Incense,Items,,6
+369,0x0171,TM42,TMs,,7
 397,0x018D,unknown,,XD,3
 501,0x01F5,Photo Album,Key items,"HeartGold, SoulSilver",4
 678,0x02A6,Charizardite Y,Items,,7
@@ -2031,7 +2027,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 114,0x0072,unknown,,Colosseum,3
 350,0x015E,unknown,,XD,3
 481,0x01E1,Machine Part,,Let's Go,7
-357,0x0165,TM30,TMs,,7
 232,0x00E8,unknown,,XD,3
 521,0x0209,unknown,,XD,3
 405,0x0195,TM78,TMs and HMs,,6
@@ -2070,6 +2065,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 151,0x0097,Pecha Berry,Berries,,5
 47,0x002F,Iron,Medicine,,7
 46,0x002E,Protein,Medicine,,5
+378,0x017A,TM51,TMs,,7
 597,0x0255,X Attack 2,,Let's Go,7
 479,0x01DF,unknown,,Colosseum,3
 179,0x00B3,Spelon Berry,Berries,,7
@@ -2125,6 +2121,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 300,0x012C,TM12,TMs and HMs,XD,3
 821,0x0335,Dragonium Z,Z-Crystals,,7
 697,0x02B9,Intriguing Stone,,Let's Go,7
+384,0x0180,TM57,TMs,,7
 77,0x004D,X Speed,Items,XD,3
 228,0x00E4,Smoke Ball,Items,,6
 262,0x0106,Pink Scarf,Items,,6
@@ -2177,6 +2174,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 28,0x001C,Revive,Medicine,Let's Go,7
 954,0x03BA,Roto Encounter,,"Ultra Sun, Ultra Moon",7
 129,0x0081,???,,,7
+355,0x0163,TM28,TMs,,7
 228,0x00E4,Smoke Ball,Items,,7
 262,0x0106,Pink Scarf,Items,,7
 449,0x01C1,Poffin Case,Key items,,5
@@ -2251,7 +2249,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 241,0x00F1,Black Belt,,Let's Go,7
 31,0x001F,Energy Root,Items,Colosseum,3
 347,0x15B,unknown,,,3
-417,0x01A1,TM90,TMs,,7
 451,0x01C3,Suite Key,Key items,,6
 390,0x0186,unknown,,XD,3
 326,0x0146,Razor Claw,Items,,5
@@ -2274,11 +2271,11 @@ ID,Hex,Name,Pokcet,Game,Gen
 173,0x00AD,Grepa Berry,Berries,,4
 164,0x00A4,Razz Berry,Berries,,4
 441,0x01B9,Red Chain,Key items,,6
-382,0x017E,TM55,TMs,,7
 850,0x0352,Ride Pager,,Let's Go,7
 92,0x005C,unknown,,,3
 604,0x025C,X Accuracy 3,Items,,5
 72,0x48,Moomoo Milk,Items,,2
+693,0x02B5,TM99,TMs,,7
 177,0x00B1,Rabuta Berry,,Let's Go,7
 703,0x02BF,Adventure Rules,Key items,,7
 319,0x013F,Luck Incense,Items,,5
@@ -2296,22 +2293,24 @@ ID,Hex,Name,Pokcet,Game,Gen
 43,0x002B,Berry Juice,Medicine,,6
 113,0x0071,unknown,,,5
 14,0x000E,Antidote,Items,XD,3
+387,0x0183,TM60,TMs,,7
+618,0x026A,TM93,TMs,,7
 326,0x0146,Razor Claw,Items,,4
-690,0x02B2,TM96,TMs,,7
 477,0x01DD,Squirt Bottle,Key items,,6
 553,0x0229,Fighting Gem,Items,,5
 468,0x01D4,Apricorn Box,Key items,"HeartGold, SoulSilver",4
 573,0x023D,Plume Fossil,Items,,7
-732,0x02DC,Key to Room 4,Key items,"Omega Ruby, Alpha Sapphire",6
 352,0x0160,TM25,TMs and HMs,,6
 376,0x0178,TM49,TMs and HMs,,6
 263,0x0107,Green Scarf,,Let's Go,7
+356,0x0164,TM29,TMs,,7
 378,0x017A,TM51,TMs and HMs,,6
 473,0x01D9,SlowpokeTail,Key items,,5
 572,0x023C,Cover Fossil,Items,,5
 164,0x00A4,Razz Berry,Berries,,5
 563,0x0233,Steel Gem,Items,,6
 521,0x0209,Data Card 17,Items,,5
+349,0x015D,TM22,TMs,,7
 319,0x013F,Luck Incense,Items,,6
 186,0x00BA,Choice Band,Items,XD,3
 0,0x0000,None,,,7
@@ -2336,7 +2335,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 866,0x0362,???,,,7
 143,0x008F,Figy Berry,Berries,Colosseum,3
 118,0x0076,unknown,,XD,3
-348,0x015C,TM21,TMs,,7
 105,0x0069,unknown,,Colosseum,3
 506,0x01FA,D-Disk,Key items,Colosseum,3
 390,0x0186,TM63,,Let's Go,7
@@ -2362,9 +2360,10 @@ ID,Hex,Name,Pokcet,Game,Gen
 22,0x0016,Parlyz Heal,Medicine,,4
 119,0x77,Focus Band,Items,,2
 98,0x62,かみなりバッヂ (ThunderBadge - D),,,1
+362,0x016A,TM35,TMs,,7
 219,0x00DB,Mental Herb,,Let's Go,7
+340,0x0154,TM13,TMs,,7
 511,0x01FF,Poké Snack,Items,XD,3
-339,0x0153,TM12,TMs,,7
 18,0x12,Hyper Potion,,,1
 142,0x008E,Sitrus Berry,Berries,,3
 125,0x007D,unknown,,,4
@@ -2380,6 +2379,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 516,0x0204,Data Card 12,Items,,5
 846,0x034E,Adrenaline Orb,,Let's Go,7
 308,0x0134,TM20,TMs and HMs,XD,3
+422,0x01A6,HM03,TMs,,7
 310,0x0136,Spooky Plate,,Let's Go,7
 7,0x07,?????,,,1
 218,0xDA,TM18,,,1
@@ -2393,6 +2393,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 319,0x013F,Luck Incense,Items,,4
 607,0x025F,X Sp. Def 6,Items,,5
 839,0x0347,???,,Let's Go,7
+396,0x018C,TM69,TMs,,7
 920,0x0398,Fairy Memory,Items,,7
 389,0x0185,TM62,TMs and HMs,,5
 330,0x014A,TM42,TMs and HMs,,3
@@ -2454,7 +2455,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 591,0x024F,Casteliacone,Medicine,,5
 173,0x00AD,Grepa Berry,Berries,,7
 670,0x029E,Scizorite,,Let's Go,7
-416,0x01A0,TM89,TMs,,7
 533,0x0215,Red ID Badge,Key items,Colosseum,3
 98,0x0062,Leaf Stone,Items,XD,3
 323,0x0143,Magmarizer,Items,,7
@@ -2463,7 +2463,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 797,0x031D,Z-Ring,,Let's Go,7
 264,0x0108,unknown,,Colosseum,3
 618,0x026A,TM93,TMs and HMs,,5
-758,0x02F6,Metagrossite,Items,"Omega Ruby, Alpha Sapphire",6
 153,0x99,Teru-sama,Items,,2
 596,0x0254,X Defense 2,,Let's Go,7
 115,0x0073,unknown,,,3
@@ -2472,11 +2471,13 @@ ID,Hex,Name,Pokcet,Game,Gen
 101,0x65,Pnk Apricorn,Items,,2
 131,0x0083,unknown,,,4
 36,0x0024,Heal Powder,Medicine,,6
+419,0x01A3,TM92,TMs,,7
 133,0x85,Basement Key,Key items,,2
 180,0x00B4,Pamtre Berry,Berries,,6
 782,0x030E,Fightinium Z,,Let's Go,7
 479,0x01DF,Lost Item,Key items,,6
 713,0x02C9,Bicycle,Key items,,7
+395,0x018B,TM68,TMs,,7
 265,0x0109,Wide Lens,Items,,7
 486,0x01E6,Blue Apricorn,,Let's Go,7
 52,0x0034,Zinc,Medicine,,6
@@ -2504,6 +2505,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 575,0x023F,Pass Orb,Items,,5
 323,0x0143,Magmarizer,Items,,4
 157,0x009D,Grepa Berry,Berries,,3
+397,0x018D,TM70,TMs,,7
 401,0x0191,unknown,,Colosseum,3
 585,0x0249,Battle CD 52,,XD,3
 36,0x0024,Heal Powder,Medicine,,5
@@ -2522,6 +2524,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 145,0x91,Teru-sama,Items,,2
 86,0x0056,TinyMushroom,Items,,5
 81,0x0051,Fluffy Tail,Items,Colosseum,3
+732,0x02DC,Key to Room 4,Key items,"Omega Ruby, Alpha Sapphire",6
 227,0x00E3,unknown,,XD,3
 65,0x0041,Iron,Items,XD,3
 766,0x02FE,Mega Cuff,,Let's Go,7
@@ -2594,6 +2597,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 169,0x00A9,Pomeg Berry,Berries,,7
 524,0x020C,DNA Sample,Key items,Colosseum,3
 222,0x00DE,Lucky Punch,Items,XD,3
+385,0x0181,TM58,TMs,,7
 410,0x019A,TM83,TMs and HMs,,6
 476,0x01DC,Basement Key,Key items,,6
 304,0x0130,Toxic Plate,Items,,5
@@ -2619,6 +2623,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 477,0x01DD,unknown,,Colosseum,3
 393,0x0189,TM66,TMs and HMs,,5
 890,0x037A,Gold Leaf,,Let's Go,7
+328,0x0148,TM01,TMs,,7
 218,0xDA,TM27,TMs and HMs,,2
 466,0x01D2,Gracidea,Key items,"Platinum, HeartGold, SoulSilver",4
 3,0x0003,Great Ball,Poké Balls,XD,3
@@ -2652,7 +2657,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 203,0x00CB,Salac Berry,Berries,,5
 270,0x010E,Life Orb,Items,,4
 274,0x0112,Quick Powder,Items,,6
-419,0x01A3,TM92,TMs,,7
 520,0x0208,DNA Sample,Key items,Colosseum,3
 103,0x0067,Old Amber,Items,,6
 182,0xB6,Litebluemail,Items,,2
@@ -2668,11 +2672,11 @@ ID,Hex,Name,Pokcet,Game,Gen
 132,0x0084,unknown,,XD,3
 759,0x02F7,Sharpedonite,Items,,7
 196,0x00C4,Kasib Berry,Berries,,6
-410,0x019A,TM83,TMs,,7
 589,0x024D,Relic Statue,,Let's Go,7
 120,0x0078,unknown,,,6
 271,0x010F,Power Herb,Items,,5
 39,0x0027,Max Ether,Medicine,,7
+342,0x0156,TM15,TMs,,7
 339,0x0153,TM12,TMs and HMs,,5
 214,0x00D6,White Herb,Items,,6
 463,0x01CF,Storage Key,Key items,,7
@@ -2689,7 +2693,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 246,0xF6,TM46,,,1
 224,0x00E0,Cleanse Tag,Items,,5
 262,0x0106,Pink Scarf,Items,,4
-619,0x026B,TM94,TMs,,7
 334,0x014E,TM07,TMs and HMs,,6
 545,0x0221,Absorb Bulb,Items,,7
 423,0x01A7,HM04,,Let's Go,7
@@ -2750,6 +2753,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 17,0x0011,Awakening,Items,,3
 626,0x0272,Xtransceiver,Key items,,7
 591,0x024F,Casteliacone,Medicine,,6
+375,0x0177,TM48,TMs,,7
 594,0x0252,X Sp. Atk 2,Items,,6
 393,0x0189,TM66,TMs and HMs,,6
 249,0x00F9,Charcoal,Items,,6
@@ -2776,7 +2780,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 960,0x03C0,Health Candy,,Let's Go,7
 793,0x0319,Fairium Z,Z-Crystals,,7
 569,0x0239,Clever Wing,Medicine,,6
-367,0x016F,TM40,TMs,,7
 225,0x00E1,Soul Dew,Items,,5
 474,0x01DA,unknown,,XD,3
 519,0x0207,Data Card 15,Items,,6
@@ -2798,7 +2801,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 626,0x0272,Xtransceiver,Key items,,6
 289,0x0121,TM01,TMs and HMs,XD,3
 84,0x0054,Water Stone,Items,,7
-384,0x0180,TM57,TMs,,7
+381,0x017D,TM54,TMs,,7
 83,0x53,Max Elixer,,,1
 444,0x01BC,Coin Case,Key items,,5
 450,0x01C2,Bicycle,Key items,"X, Y",6
@@ -2809,6 +2812,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 510,0x01FE,Data Card 06,,Let's Go,7
 361,0x0169,unknown,,XD,3
 548,0x0224,Fire Gem,Items,,6
+361,0x0169,TM34,TMs,,7
 230,0xE6,TM30,,,1
 77,0x004D,Max Repel,Items,,7
 249,0x00F9,Charcoal,Items,,5
@@ -2824,6 +2828,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 29,0x001D,Max Revive,Medicine,,7
 46,0x2E,Fresh Water,Items,,2
 491,0x01EB,Black Apricorn,,Let's Go,7
+410,0x019A,TM83,TMs,,7
 534,0x0216,Battle CD 01,,XD,3
 522,0x020A,unknown,,XD,3
 33,0x0021,Revival Herb,Items,XD,3
@@ -2869,6 +2874,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 7,0x0007,Dive Ball,,Let's Go,7
 487,0x01E7,Yellow Apricorn,,Let's Go,7
 100,0x0064,Claw Fossil,Items,,6
+332,0x014C,TM05,TMs,,7
 159,0x009F,Figy Berry,Berries,,6
 354,0x0162,TM27,,Let's Go,7
 391,0x0187,TM64,TMs and HMs,,6
@@ -2885,7 +2891,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 163,0x00A3,Iapapa Berry,Berries,,4
 146,0x0092,Bridge Mail T,Items,,6
 909,0x038D,Bug Memory,,Let's Go,7
-390,0x0186,TM63,TMs,,7
 23,0x0017,Full Heal,Items,,3
 52,0x0034,Zinc,Medicine,,5
 90,0x005A,Stardust,Items,,5
@@ -2916,7 +2921,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 428,0x01AC,Explorer Kit,Key items,,5
 894,0x037E,Leaf Letter,,Let's Go,7
 190,0x00BE,Cleanse Tag,Items,XD,3
-347,0x015B,TM20,TMs,,7
 146,0x0092,Aguav Berry,Berries,Colosseum,3
 357,0x0165,unknown,,Colosseum,3
 225,0x00E1,Soul Dew,Items,,4
@@ -2930,6 +2934,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 567,0x0237,Resist Wing,,Let's Go,7
 452,0x01C4,Oak's Letter,Key items,,7
 126,0x007E,Wave Mail,Items,,3
+404,0x0194,TM77,TMs,,7
 230,0x00E6,Focus Band,Items,,4
 14,0x000E,Heal Ball,,Let's Go,7
 9,0x0009,Repeat Ball,Poké Balls,XD,3
@@ -2963,7 +2968,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 348,0x15C,unknown,,XD,3
 390,0x0186,TM63,TMs and HMs,,6
 391,0x0187,TM64,TMs and HMs,,4
-407,0x0197,TM80,TMs,,7
 325,0x0145,TM37,TMs and HMs,,3
 84,0x54,Mint Berry,Items,,2
 92,0x5C,7F (G),,,1
@@ -3026,18 +3030,17 @@ ID,Hex,Name,Pokcet,Game,Gen
 369,0x0171,unknown,,Colosseum,3
 36,0x0024,Heal Powder,Medicine,,4
 554,0x022A,Poison Gem,,Let's Go,7
-374,0x0176,TM47,TMs,,7
 488,0x01E8,Grn Apricorn,Items,"HeartGold, SoulSilver",4
 166,0x00A6,Nanab Berry,Berries,,7
 160,0x00A0,Wiki Berry,,Let's Go,7
 971,0x03CB,Quick Candy L,,Let's Go,7
 258,0x0102,Thick Club,Items,,6
-414,0x019E,TM87,TMs,,7
 11,0x0B,Ice Heal,Items,,2
 855,0x0357,Pink Nectar,Items,,7
 94,0x005E,Moon Stone,Items,,3
 103,0x0067,TinyMushroom,Items,XD,3
 444,0x01BC,Coin Case,Key items,,4
+423,0x01A7,HM04,TMs,,7
 12,0x000C,Premier Ball,Items,,7
 645,0x0285,Ability Capsule,,Let's Go,7
 223,0xDF,TM31,TMs and HMs,,2
@@ -3056,7 +3059,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 115,0x0073,unknown,,,6
 771,0x0303,Meteorite,Key items,,7
 181,0x00B5,Macho Brace,Items,,3
-370,0x0172,TM43,TMs,,7
 497,0x01F1,Friend Ball,,Let's Go,7
 122,0x007A,unknown,,Colosseum,3
 507,0x01FB,Data Card 03,Items,,7
@@ -3093,7 +3095,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 458,0x01CA,Magma Stone,,Let's Go,7
 225,0x00E1,Soul Dew,,Let's Go,7
 892,0x037C,Polished Mud Ball,,Let's Go,7
-330,0x014A,TM03,TMs,,7
 162,0x00A2,Nomel Berry,Berries,XD,3
 197,0x00C5,Lucky Egg,Items,,3
 90,0x005A,unknown,,,3
@@ -3116,8 +3117,9 @@ ID,Hex,Name,Pokcet,Game,Gen
 210,0x00D2,Custap Berry,,Let's Go,7
 345,0x0159,TM18,TMs and HMs,,5
 536,0x0218,Enigma Stone,Key items,,7
-391,0x0187,TM64,TMs,,7
 372,0x0174,TM45,TMs and HMs,,5
+353,0x0161,TM26,TMs,,7
+413,0x019D,TM86,TMs,,7
 96,0x0060,Thunderstone,Items,XD,3
 118,0x0076,unknown,,,3
 33,0x0021,Moomoo Milk,Medicine,,7
@@ -3142,26 +3144,25 @@ ID,Hex,Name,Pokcet,Game,Gen
 7,0x0007,Dive Ball,Items,,6
 166,0x00A6,Durin Berry,Berries,XD,3
 90,0x005A,Stardust,Items,,7
+418,0x01A2,TM91,TMs,,7
 386,0x0182,unknown,,XD,3
 372,0x0174,TM45,TMs and HMs,,4
 72,0x0048,Red Shard,Items,,4
-341,0x0155,TM14,TMs,,7
 399,0x018F,TM72,TMs and HMs,,5
 202,0x00CA,Ganlon Berry,Berries,,5
 12,0x000C,Premier Ball,Items,,6
 304,0x0130,TM16,TMs and HMs,,3
 549,0x0225,Water Gem,,Let's Go,7
 118,0x0076,unknown,,,4
+619,0x026B,TM94,TMs,,7
 25,0x0019,Hyper Potion,Medicine,,5
 467,0x01D3,Secret Key,Key items,,6
 978,0x03D2,Bulbasaur Candy,,Let's Go,7
 235,0x00EB,unknown,,,3
 164,0xA4,Friend Ball,Poké Balls,,2
-385,0x0181,TM58,TMs,,7
 298,0x012A,Flame Plate,Items,,7
 229,0x00E5,Everstone,Items,,7
 0,0x0000,Nothing,,XD,3
-352,0x0160,TM25,TMs,,7
 420,0x01A4,HM01,,Let's Go,7
 507,0x01FB,Data Card 03,Items,,6
 510,0x01FE,Data Card 06,Items,,6
@@ -3179,6 +3180,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 415,0x019F,TM88,TMs and HMs,,6
 487,0x01E7,Yellow Apricorn,Items,,7
 252,0x00FC,Up-Grade,Items,,6
+329,0x0149,TM02,TMs,,7
 144,0x0090,Bridge Mail S,Items,,7
 491,0x01EB,Black Apricorn,Items,,7
 844,0x034C,Festival Ticket,Items,,7
@@ -3195,6 +3197,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 670,0x029E,Scizorite,Items,,7
 169,0x00A9,Pomeg Berry,,Let's Go,7
 951,0x03B7,Roto Prize Money,,Let's Go,7
+366,0x016E,TM39,TMs,,7
 615,0x0267,Dire Hit 3,,Let's Go,7
 273,0x0111,Flame Orb,Items,,7
 888,0x0378,Lone Earring,,Let's Go,7
@@ -3265,7 +3268,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 4,0x0004,Poké Ball,,Let's Go,7
 842,0x034A,Fishing Rod,,Let's Go,7
 302,0x012E,TM14,TMs and HMs,Colosseum,3
-377,0x0179,TM50,TMs,,7
 178,0x00B2,unknown,,,3
 72,0x0048,Red Shard,Items,,5
 252,0x00FC,Up-Grade,Items,,4
@@ -3276,9 +3278,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 131,0x0083,unknown,,XD,3
 194,0x00C2,Tanga Berry,,Let's Go,7
 251,0x00FB,Silk Scarf,Items,,5
-397,0x018D,TM70,TMs,,7
 270,0x010E,unknown,,Colosseum,3
-411,0x019B,TM84,TMs,,7
 189,0x00BD,Amulet Coin,Items,XD,3
 880,0x0370,Protective Pads,Items,,7
 91,0x005B,unknown,,XD,3
@@ -3291,6 +3291,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 918,0x0396,Dragon Memory,Items,,7
 151,0x0097,Wepear Berry,Berries,,3
 460,0x01CC,Coupon 1,,Let's Go,7
+414,0x019E,TM87,TMs,,7
 798,0x031E,Decidium Z,Z-Crystals,,7
 108,0x006C,Dusk Stone,Items,,7
 237,0xED,TM37,,,1
@@ -3299,7 +3300,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 351,0x015F,unknown,,XD,3
 158,0x009E,Sitrus Berry,Berries,,4
 166,0x00A6,Nanab Berry,Berries,,6
-405,0x0195,TM78,TMs,,7
 289,0x0121,Power Bracer,,Let's Go,7
 48,0x0030,Carbos,Medicine,,6
 75,0x004B,X Attack,Items,XD,3
@@ -3327,6 +3327,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 490,0x01EA,White Apricorn,,Let's Go,7
 288,0x0120,unknown,,Colosseum,3
 27,0x001B,Soda Pop,Items,XD,3
+722,0x02D2,Soot Sack,Key items,"Omega Ruby, Alpha Sapphire",6
 786,0x0312,Psychium Z,Z-Crystals,,7
 280,0x0118,Meteorite,Key items,,3
 253,0x00FD,unknown,,,3
@@ -3374,7 +3375,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 496,0x01F0,Love Ball,Poké Balls,"HeartGold, SoulSilver",4
 657,0x0291,Gardevoirite,Items,,7
 489,0x01E9,Pink Apricorn,,Let's Go,7
-399,0x018F,TM72,TMs,,7
 947,0x03B3,Ilima Normalium Z,,Let's Go,7
 123,0x007B,unknown,,,4
 34,0x0022,Energy Powder,Medicine,,7
@@ -3502,12 +3502,12 @@ ID,Hex,Name,Pokcet,Game,Gen
 228,0x00E4,Smoke Ball,,Let's Go,7
 531,0x0213,Data Card 27,Items,,7
 599,0x0257,X Speed 3,Items,,6
+339,0x0153,TM12,TMs,,7
 158,0x009E,Sitrus Berry,Berries,,7
 366,0x016E,unknown,,XD,3
 139,0x008B,Oran Berry,Berries,,3
 72,0x0048,Red Shard,Items,,7
 275,0x0113,Focus Sash,,Let's Go,7
-510,0x01FE,Data Card 06,Items,"HeartGold, SoulSilver",4
 83,0x0053,Thunder Stone,,Let's Go,7
 283,0x011B,unknown,,XD,3
 385,0x0181,TM58,TMs and HMs,,5
@@ -3547,6 +3547,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 369,0x0171,TM42,,Let's Go,7
 11,0x000B,Luxury Ball,Poké Balls,,5
 28,0x001C,Revive,Medicine,,7
+363,0x016B,TM36,TMs,,7
 457,0x01C9,Contest Pass,Key items,,4
 469,0x01D5,Unown Report,Key items,,5
 174,0x00AE,Tamato Berry,Berries,,7
@@ -3561,8 +3562,8 @@ ID,Hex,Name,Pokcet,Game,Gen
 154,0x009A,Leppa Berry,Berries,,7
 93,0x005D,Heart Scale,,Let's Go,7
 374,0x0176,TM47,TMs and HMs,,5
+393,0x0189,TM66,TMs,,7
 456,0x01C8,S.S. Ticket,Key items,,4
-693,0x02B5,TM99,TMs,,7
 573,0x023D,Plume Fossil,Items,,5
 345,0x0159,TM18,,Let's Go,7
 266,0x010A,Muscle Band,Items,,5
@@ -3601,13 +3602,13 @@ ID,Hex,Name,Pokcet,Game,Gen
 216,0x00D8,Dragon Fang,Items,Colosseum,3
 287,0x011F,Choice Scarf,Items,,7
 48,0x0030,Carbos,Medicine,,5
-404,0x0194,TM77,TMs,,7
 215,0x00D7,Macho Brace,Items,,5
 85,0x55,B1F (G),,,1
 81,0x0051,Moon Stone,Items,,7
 573,0x023D,Plume Fossil,Items,,6
 256,0x0100,Lucky Punch,Items,,7
 626,0x0272,Xtransceiver,Key items,,5
+341,0x0155,TM14,TMs,,7
 756,0x02F4,Galladite,,Let's Go,7
 368,0x0170,unknown,,Colosseum,3
 739,0x02E3,Contest Costume,Key items,"Omega Ruby, Alpha Sapphire",6
@@ -3624,6 +3625,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 575,0x023F,Pass Orb,,Let's Go,7
 857,0x0359,Sun Flute,,Let's Go,7
 123,0x007B,TM Case,,Let's Go,7
+379,0x017B,TM52,TMs,,7
 344,0x0158,HM06,TMs and HMs,,3
 250,0x00FA,Dragon Fang,Items,,5
 478,0x01DE,Red Scale,Key items,,5
@@ -3640,7 +3642,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 457,0x01C9,Contest Pass,Key items,,6
 101,0x0065,unknown,,XD,3
 345,0x0159,TM18,TMs and HMs,,4
-353,0x0161,TM26,TMs,,7
 287,0x011F,Choice Scarf,Items,,6
 64,0x0040,Protein,Items,Colosseum,3
 57,0x0039,unknown,,XD,3
@@ -3685,13 +3686,13 @@ ID,Hex,Name,Pokcet,Game,Gen
 147,0x0093,Iapapa Berry,Berries,Colosseum,3
 25,0x0019,Hyper Potion,Medicine,Let's Go,7
 500,0x01F4,Park Ball,Poké Balls,"HeartGold, SoulSilver",4
+371,0x0173,TM44,TMs,,7
 35,0x0023,Energy Root,Medicine,,6
 374,0x0176,TM47,TMs and HMs,,4
 129,0x81,Egg Ticket,Key items,Crystal,2
 712,0x02C8,Looker Ticket,Key items,,6
 337,0x0151,TM10,TMs and HMs,,6
 81,0x0051,Moon Stone,Items,,5
-958,0x03BE,Roto Boost,,"Ultra Sun, Ultra Moon",7
 306,0x0132,TM18,TMs and HMs,,3
 98,0x0062,Gooey Mulch,Items,,7
 530,0x0212,Data Card 26,Items,"HeartGold, SoulSilver",4
@@ -3712,9 +3713,11 @@ ID,Hex,Name,Pokcet,Game,Gen
 402,0x0192,TM75,TMs and HMs,,5
 558,0x022E,Bug Gem,Items,,6
 490,0x01EA,unknown,,XD,3
+421,0x01A5,HM02,TMs,,7
 488,0x01E8,unknown,,Colosseum,3
 755,0x02F3,Altarianite,Items,"Omega Ruby, Alpha Sapphire",6
 35,0x0023,Energy Root,Medicine,,7
+389,0x0185,TM62,TMs,,7
 246,0x00F6,unknown,,Colosseum,3
 81,0x0051,Moon Stone,Items,,6
 318,0x013E,TM30,TMs and HMs,XD,3
@@ -3742,14 +3745,13 @@ ID,Hex,Name,Pokcet,Game,Gen
 298,0x012A,TM10,TMs and HMs,,3
 250,0x00FA,Dragon Fang,Items,,6
 613,0x0265,Item Urge,Items,,6
-363,0x016B,TM36,TMs,,7
 317,0x013D,Wave Incense,Items,,7
 97,0x0061,Water Stone,Items,Colosseum,3
 255,0x00FF,Lax Incense,Items,,6
 73,0x49,Poké Flute,,,1
+354,0x0162,TM27,TMs,,7
 684,0x02AC,Latiasite,,Let's Go,7
 571,0x023B,Battle CD 38,,XD,3
-333,0x014D,TM06,TMs,,7
 191,0x00BF,Shuca Berry,Berries,,5
 267,0x010B,Wise Glasses,Items,,7
 90,0x005A,unknown,,XD,3
@@ -3788,11 +3790,11 @@ ID,Hex,Name,Pokcet,Game,Gen
 189,0x00BD,Amulet Coin,Items,,3
 672,0x02A0,Aerodactylite,Items,,6
 54,0x0036,Old Gateau,Medicine,,7
-380,0x017C,TM53,TMs,,7
 191,0x00BF,Shuca Berry,Berries,,4
 206,0x00CE,Lansat Berry,Berries,,6
 502,0x01F6,GB Sounds,Key items,,5
 893,0x037D,Tropical Shell,,Let's Go,7
+424,0x01A8,HM05,TMs,,7
 167,0x00A7,Wepear Berry,Berries,,5
 751,0x02EF,Meteorite,,Let's Go,7
 365,0x016D,TM38,TMs and HMs,,4
@@ -3852,7 +3854,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 400,0x0190,unknown,,Colosseum,3
 557,0x022D,Psychic Gem,,Let's Go,7
 36,0x0024,Heal Powder,Medicine,Let's Go,7
-361,0x0169,TM34,TMs,,7
 354,0x0162,TM27,TMs and HMs,,6
 494,0x01EE,Lure Ball,,Let's Go,7
 247,0xF7,TM47,,,1
@@ -3881,13 +3882,13 @@ ID,Hex,Name,Pokcet,Game,Gen
 1001,0x03E9,Mankey Candy,,Let's Go,7
 430,0x01AE,Rule Book,Key items,,6
 185,0x00B9,Mental Herb,Items,,3
+758,0x02F6,Metagrossite,Items,"Omega Ruby, Alpha Sapphire",6
 121,0x79,EnergyPowder,Items,,2
 292,0x0124,Power Band,Items,,7
 547,0x0223,Eject Button,Items,,7
 109,0x006D,Dawn Stone,Items,,4
 198,0x00C6,Colbur Berry,,Let's Go,7
 192,0x00C0,Coba Berry,Berries,,4
-387,0x0183,TM60,TMs,,7
 83,0x0053,Super Repel,Items,XD,3
 225,0xE1,TM33,TMs and HMs,,2
 749,0x02ED,Mega Tiara,Key items,,7
@@ -3917,6 +3918,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 278,0x0116,unknown,,Colosseum,3
 324,0x0144,Dubious Disc,Items,,7
 899,0x0383,???,,,7
+691,0x02B3,TM97,TMs,,7
 852,0x0354,Big Malasada,,Let's Go,7
 18,0x0012,Parlyz Heal,Items,XD,3
 172,0x00AC,Apicot Berry,Berries,XD,3
@@ -3943,7 +3945,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 450,0x01C2,Bicycle,Key items,,5
 164,0x00A4,Pamtre Berry,Berries,Colosseum,3
 333,0x014D,TM06,TMs and HMs,,6
-375,0x0177,Magma Emblem,Key items,Emerald,3
 270,0x010E,unknown,,XD,3
 267,0x010B,Wise Glasses,Items,,4
 80,0x0050,Poké Doll,Items,XD,3
@@ -3996,6 +3997,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 83,0x53,Bitter Berry,Items,,2
 350,0x015E,unknown,,Colosseum,3
 182,0x00B6,Exp. Share,Items,Colosseum,3
+346,0x015A,TM19,TMs,,7
 243,0x00F3,Mystic Water,Items,,4
 925,0x039D,Lycanium Z,Z-Crystals,"Ultra Sun, Ultra Moon",7
 165,0x00A5,Watmel Berry,Berries,Colosseum,3
@@ -4033,6 +4035,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 312,0x0138,Dread Plate,Items,,7
 251,0x00FB,unknown,,Colosseum,3
 371,0x0173,AuroraTicket,Key items,"FireRed, LeefGreen, Emerald",3
+692,0x02B4,TM98,TMs,,7
 89,0x0059,Big Pearl,Items,,7
 243,0x00F3,Mystic Water,Items,,5
 236,0x00EC,unknown,,,3
@@ -4096,13 +4099,11 @@ ID,Hex,Name,Pokcet,Game,Gen
 625,0x0271,Gram 3,,Let's Go,7
 192,0x00C0,Coba Berry,Berries,,7
 129,0x0081,???,,Let's Go,7
-400,0x0190,TM73,TMs,,7
 373,0x0175,Ruby (item),Key items,"FireRed, LeefGreen, Emerald",3
 7,0x0007,Dive Ball,Poké Balls,XD,3
 162,0x00A2,Aguav Berry,Berries,,6
 67,0x0043,Red Flute,,Let's Go,7
 290,0x0122,Power Belt,,Let's Go,7
-375,0x0177,TM48,TMs,,7
 108,0x006C,Stardust,Items,,3
 93,0x005D,Sun Stone,Items,Colosseum,3
 469,0x01D5,Unown Report,Key items,,7
@@ -4148,6 +4149,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 292,0x0124,Power Band,Items,,4
 249,0x00F9,unknown,,,3
 848,0x0350,???,,,7
+425,0x01A9,HM06,TMs,,7
 471,0x01D7,Dowsing Machine,Key items,"Omega Ruby, Alpha Sapphire",6
 456,0x01C8,S.S. Ticket,Key items,,7
 969,0x03C9,Smart Candy L,,Let's Go,7
@@ -4225,6 +4227,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 137,0x0089,Aspear Berry,Berries,XD,3
 70,0x46,Oak's Parcel,,,1
 20,0x0014,Max Potion,Items,XD,3
+364,0x016C,TM37,TMs,,7
 128,0x0080,unknown,,,6
 168,0x00A8,Pinap Berry,Berries,,4
 18,0x0012,Parlyz Heal,Items,Colosseum,3
@@ -4262,10 +4265,10 @@ ID,Hex,Name,Pokcet,Game,Gen
 647,0x0287,Sachet,,Let's Go,7
 57,0x0039,unknown,,,3
 226,0xE2,TM26,,,1
+400,0x0190,TM73,TMs,,7
 725,0x02D5,Letter,Key items,,7
 677,0x02A5,Absolite,Items,,7
 316,0x013C,Full Incense,Items,,6
-425,0x01A9,HM06,TMs,,7
 622,0x026E,???,Key items,,7
 252,0x00FC,unknown,,Colosseum,3
 802,0x0322,Marshadium Z,Z-Crystals,,7
@@ -4297,7 +4300,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 236,0x00EC,unknown,,XD,3
 443,0x01BB,Vs. Seeker,Key items,,6
 51,0x0033,Green Shard,Items,XD,3
-344,0x0158,TM17,TMs,,7
+368,0x0170,TM41,TMs,,7
 131,0x0083,???,,,7
 321,0x0141,Protector,,Let's Go,7
 21,0x0015,Hyper Potion,Items,XD,3
@@ -4328,7 +4331,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 139,0x008B,Oran Berry,Berries,XD,3
 532,0x0214,Jade Orb,Key items,"HeartGold, SoulSilver",4
 588,0x024C,Relic Band,,Let's Go,7
-725,0x02D5,Letter,Key items,"Omega Ruby, Alpha Sapphire",6
 117,0x0075,Shock Drive,Items,,6
 550,0x0226,Electric Gem,Items,,5
 475,0x01DB,Card Key,,Let's Go,7
@@ -4342,7 +4344,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 287,0x011F,Claw Fossil,Key items,,3
 671,0x029F,Pinsirite,,Let's Go,7
 483,0x01E3,unknown,,Colosseum,3
-418,0x01A2,TM91,TMs,,7
 42,0x2A,Helix Fossil,,,1
 183,0x00B7,Belue Berry,Berries,,7
 442,0x01BA,Town Map,Key items,,7
@@ -4412,9 +4413,9 @@ ID,Hex,Name,Pokcet,Game,Gen
 106,0x006A,Pearl,Items,XD,3
 341,0x0155,unknown,,Colosseum,3
 70,0x0046,Shoal Salt,Items,,4
+725,0x02D5,Letter,Key items,"Omega Ruby, Alpha Sapphire",6
 1056,0x0420,Meltan Candy,,Let's Go,7
 42,0x002A,Black Flute,Items,Colosseum,3
-409,0x0199,TM82,TMs,,7
 538,0x021A,Ein File S,Key items,Colosseum,3
 428,0x01AC,Explorer Kit,Key items,,7
 593,0x0251,X Speed 2,Items,,5
@@ -4425,7 +4426,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 84,0x0054,Water Stone,,Let's Go,7
 726,0x02D6,Eon Ticket,Key items,,7
 230,0x00E6,unknown,,,3
-355,0x0163,TM28,TMs,,7
 396,0x018C,unknown,,Colosseum,3
 368,0x0170,TM41,TMs and HMs,,5
 700,0x02BC,Elevator Key,Key items,,7
@@ -4435,10 +4435,10 @@ ID,Hex,Name,Pokcet,Game,Gen
 155,0x009B,Oran Berry,Berries,,6
 211,0x00D3,Jaboca Berry,Berries,,6
 561,0x0231,Dragon Gem,Items,,5
-367,0x016F,Tri-Pass,Key items,"FireRed, LeefGreen, Emerald",3
 576,0x0240,Dream Ball,Poké Balls,,5
 552,0x0228,Ice Gem,Items,,6
 934,0x03A6,Pink Petal,,Let's Go,7
+376,0x0178,TM49,TMs,,7
 754,0x02F2,Sablenite,Items,"Omega Ruby, Alpha Sapphire",6
 171,0xAB,Teru-sama,Items,,2
 173,0x00AD,Lansat Berry,Berries,,3
@@ -4529,6 +4529,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 508,0x01FC,Data Card 04,Items,,5
 181,0x00B5,Watmel Berry,Berries,,7
 286,0x011E,Grip Claw,Items,,7
+694,0x02B6,TM100,TMs,,7
 59,0x003B,unknown,,XD,3
 843,0x034B,Professor's Mask,,Let's Go,7
 557,0x022D,Psychic Gem,Items,,7
@@ -4579,13 +4580,13 @@ ID,Hex,Name,Pokcet,Game,Gen
 589,0x024D,Battle CD 56,,XD,3
 163,0x00A3,Spelon Berry,Berries,Colosseum,3
 397,0x018D,TM70,TMs and HMs,,5
-376,0x0178,TM49,TMs,,7
+358,0x0166,TM31,TMs,,7
 241,0xF1,TM41,,,1
 145,0x0091,Mago Berry,Berries,,3
 23,0x0017,Full Restore,Medicine,,4
-372,0x0174,TM45,TMs,,7
 394,0x018A,unknown,,XD,3
 33,0x0021,Revival Herb,Items,,3
+405,0x0195,TM78,TMs,,7
 216,0x00D8,Exp. Share,,Let's Go,7
 178,0x00B2,Nomel Berry,Berries,,7
 260,0x0104,Red Scarf,,Let's Go,7
@@ -4595,6 +4596,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 343,0x0157,TM16,TMs and HMs,,5
 193,0x00C1,Payapa Berry,Berries,,7
 101,0x0065,Helix Fossil,Items,,4
+351,0x015F,TM24,TMs,,7
 610,0x0262,X Accuracy 6,,Let's Go,7
 501,0x01F5,Elevator Key,Key items,XD,3
 527,0x020F,Data Card 23,Items,,7
@@ -4648,6 +4650,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 594,0x0252,X Sp. Atk 2,,Let's Go,7
 222,0x00DE,SilverPowder,Items,,5
 56,0x0038,Dire Hit,Battle items,,4
+372,0x0174,TM45,TMs,,7
 706,0x02C2,Makeup Bag,,Let's Go,7
 605,0x025D,X Speed 6,Items,,6
 207,0x00CF,Starf Berry,,Let's Go,7
@@ -4673,13 +4676,13 @@ ID,Hex,Name,Pokcet,Game,Gen
 173,0x00AD,Grepa Berry,,Let's Go,7
 53,0x0035,PP Max,,Let's Go,7
 1,0x0001,Master Ball,,Let's Go,7
+398,0x018E,TM71,TMs,,7
 313,0x0139,Iron Plate,Items,,7
 232,0x00E8,Scope Lens,Items,,4
 207,0x00CF,Starf Berry,Berries,,4
 223,0x00DF,Metal Powder,Items,XD,3
 109,0x006D,Star Piece,Items,XD,3
 556,0x022C,Battle CD 23,,XD,3
-737,0x02E1,HM07,TMs,,7
 107,0x6B,たまご (Egg - D),,,1
 445,0x01BD,unknown,,Colosseum,3
 482,0x01E2,Silver Wing,Key items,"HeartGold, SoulSilver",4
@@ -4711,6 +4714,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 226,0x00E2,DeepSeaTooth,Items,,4
 101,0x0065,Helix Fossil,Items,,5
 237,0x00ED,Soft Sand,Items,,4
+374,0x0176,TM47,TMs,,7
 416,0x01A0,TM89,,Let's Go,7
 236,0xEC,TM36,,,1
 161,0x00A1,Mago Berry,Berries,,6
@@ -4721,7 +4725,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 789,0x0315,Ghostium Z,Z-Crystals,,7
 1020,0x03FC,Krabby Candy,,Let's Go,7
 142,0x008E,Steel Mail,Mail,,4
-358,0x0166,TM31,TMs,,7
 352,0x0160,TM25,,Let's Go,7
 987,0x03DB,Pikachu Candy,,Let's Go,7
 654,0x028E,Boost Mulch,Items,,6
@@ -4748,6 +4751,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 293,0x0125,Power Anklet,Items,,4
 550,0x0226,Battle CD 17,,XD,3
 289,0x0121,TM01,TMs and HMs,,3
+360,0x0168,TM33,TMs,,7
 237,0x00ED,Soft Sand,Items,,7
 737,0x02E1,HM07,,Let's Go,7
 268,0x010C,Expert Belt,,Let's Go,7
@@ -4769,7 +4773,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 651,0x028B,Poké Flute,Key items,,6
 85,0x0055,Leaf Stone,Items,,7
 348,0x015C,unknown,,Colosseum,3
-389,0x0185,TM62,TMs,,7
 642,0x0282,Prof's Letter,,Let's Go,7
 188,0x00BC,Yache Berry,,Let's Go,7
 587,0x024B,Battle CD 54,,XD,3
@@ -4796,6 +4799,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 382,0x017E,TM55,TMs and HMs,,4
 366,0x016E,TM39,,Let's Go,7
 518,0x0206,Data Card 14,Items,,7
+411,0x019B,TM84,TMs,,7
 775,0x0307,Eon Flute,,Let's Go,7
 640,0x0280,Assault Vest,Items,,6
 757,0x02F5,Audinite,Items,"Omega Ruby, Alpha Sapphire",6
@@ -4806,6 +4810,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 706,0x02C2,Travel Trunk,Key items,,6
 1053,0x041D,Dratini Candy,,Let's Go,7
 442,0x01BA,Town Map,,Let's Go,7
+402,0x0192,TM75,TMs,,7
 25,0x19,SoulBadge,,,1
 27,0x001B,Soda Pop,Items,,3
 590,0x024E,Relic Crown,Items,,7
@@ -4829,16 +4834,15 @@ ID,Hex,Name,Pokcet,Game,Gen
 142,0x8E,Teru-sama,Items,,2
 452,0x01C4,Oak's Letter,,Let's Go,7
 498,0x01F2,Moon Ball,,Let's Go,7
-141,0x008D,Tunnel Mail,Mail,,4
 335,0x014F,TM08,TMs and HMs,,5
+141,0x008D,Tunnel Mail,Mail,,4
 297,0x0129,TM09,TMs and HMs,Colosseum,3
-449,0x01C1,Poffin Case,,Let's Go,7
-87,0x0057,unknown,,Colosseum,3
 362,0x016A,VS Seeker,Key items,"FireRed, LeefGreen, Emerald",3
+87,0x0057,unknown,,Colosseum,3
+449,0x01C1,Poffin Case,,Let's Go,7
 406,0x0196,TM79,TMs and HMs,,6
 33,0x21,X Accuracy,Items,,2
 24,0x0018,Max Potion,Medicine,,5
-329,0x0149,TM02,TMs,,7
 772,0x0304,Meteorite,Key items,,7
 208,0x00D0,Enigma Berry,,Let's Go,7
 654,0x028E,Boost Mulch,Items,,7
@@ -4876,7 +4880,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 505,0x01F9,Data Card 01,Items,"HeartGold, SoulSilver",4
 938,0x03AA,Green Petal,,Let's Go,7
 450,0x01C2,Bike,Key items,"Omega Ruby, Alpha Sapphire",6
-328,0x0148,TM01,TMs,,7
 24,0x0018,Max Potion,Medicine,,4
 39,0x0027,Max Ether,Medicine,Let's Go,7
 30,0x001E,EnergyPowder,Items,,3
@@ -4889,6 +4892,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 29,0x001D,Max Revive,Medicine,Let's Go,7
 65,0x0041,Blue Flute,,Let's Go,7
 174,0x00AE,Starf Berry,Berries,XD,3
+352,0x0160,TM25,TMs,,7
 360,0x0168,TM33,TMs and HMs,,6
 144,0x0090,Snow Mail,Mail,,4
 82,0x0052,unknown,,Colosseum,3
@@ -4929,7 +4933,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 115,0x0073,Autograph,,Let's Go,7
 101,0x65,はやぶさバッヂ (FalconBadge - D),,,1
 465,0x01D1,Vs. Recorder,,Let's Go,7
-395,0x018B,TM68,TMs,,7
 197,0xC5,HM02,,,1
 48,0x0030,Carbos,,Let's Go,7
 69,0x0045,White Flute,,Let's Go,7
@@ -4942,6 +4945,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 189,0x00BD,Chople Berry,Berries,,4
 466,0x01D2,unknown,,Colosseum,3
 72,0x0048,unknown,,Colosseum,3
+391,0x0187,TM64,TMs,,7
 110,0x6E,シルバー (Silver - D),,,1
 374,0x0176,unknown,,XD,3
 102,0x0066,unknown,,Colosseum,3
@@ -4952,7 +4956,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 208,0x00D0,Enigma Berry,Berries,,6
 84,0x0054,Max Repel,Items,,3
 391,0x0187,TM64,,Let's Go,7
-423,0x01A7,HM04,TMs,,7
 447,0x01BF,Super Rod,Key items,,5
 143,0x008F,Figy Berry,Berries,,3
 335,0x014F,TM08,TMs and HMs,,6
@@ -4966,6 +4969,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 100,0x0064,Claw Fossil,,Let's Go,7
 416,0x01A0,unknown,,Colosseum,3
 470,0x01D6,Berry Pots,Key items,,7
+737,0x02E1,HM07,TMs,,7
 626,0x0272,Xtransceiver,Key items,"Black 2, White 2",5
 360,0x0168,TM33,TMs and HMs,,4
 617,0x0269,Dark Stone,Key items,,6
@@ -5001,7 +5005,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 60,0x003C,X Accuracy,Items,,5
 134,0x0086,Sweet Heart,,Let's Go,7
 12,0x0C,Burn Heal,,,1
-422,0x01A6,HM03,TMs,,7
 116,0x74,エクセレント (Excellent - D),,,1
 545,0x0221,Absorb Bulb,,Let's Go,7
 263,0x0107,unknown,,Colosseum,3
@@ -5052,7 +5055,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 880,0x0370,Protective Pads,,Let's Go,7
 232,0xE8,TM32,,,1
 846,0x034E,Adrenaline Orb,Items,,7
-356,0x0164,TM29,TMs,,7
 38,0x0026,Ether,Medicine,,5
 328,0x0148,TM01,TMs and HMs,,6
 165,0x00A5,Bluk Berry,,Let's Go,7
@@ -5085,14 +5087,13 @@ ID,Hex,Name,Pokcet,Game,Gen
 196,0xC4,TM05,TMs and HMs,,2
 509,0x01FD,Data Card 05,,Let's Go,7
 58,0x003A,X Defense,Items,,6
-331,0x014B,TM04,TMs,,7
 178,0x00B2,Nomel Berry,Berries,,4
 372,0x0174,TM45,,Let's Go,7
 170,0x00AA,Kelpsy Berry,Berries,,5
 278,0x0116,Iron Ball,Items,,5
 211,0x00D3,Jaboca Berry,,Let's Go,7
 1041,0x0411,Magikarp Candy,,Let's Go,7
-368,0x0170,TM41,TMs,,7
+631,0x0277,Oval Charm,Key items,"Black 2, White 2",5
 32,0x0020,Lemonade,Medicine,,5
 516,0x0204,Data Card 12,Items,"HeartGold, SoulSilver",4
 522,0x020A,Data Card 18,Items,,6
@@ -5100,7 +5101,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 101,0x0065,Helix Fossil,Items,,7
 239,0x00EF,Miracle Seed,,Let's Go,7
 116,0x0074,Douse Drive,Items,,5
-408,0x0198,TM81,TMs,,7
 869,0x0365,???,,Let's Go,7
 144,0x90,Dragon Fang,Items,,2
 11,0x000B,Luxury Ball,Poké Balls,Colosseum,3
@@ -5128,7 +5128,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 315,0x013B,TM27,TMs and HMs,Colosseum,3
 195,0x00C3,Everstone,Items,,3
 170,0x00AA,Kelpsy Berry,Berries,,4
-769,0x0301,Salamencite,Items,"Omega Ruby, Alpha Sapphire",6
 227,0x00E3,Deep Sea Scale,Items,,7
 283,0x011B,Smooth Rock,,Let's Go,7
 116,0x0074,Douse Drive,Items,,6
@@ -5221,7 +5220,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 311,0x0137,Draco Plate,Items,,6
 600,0x0258,X Sp. Atk 3,Items,,7
 566,0x0236,Muscle Wing,Medicine,,6
-378,0x017A,TM51,TMs,,7
 204,0x00CC,Petaya Berry,Berries,,4
 176,0x00B0,unknown,,Colosseum,3
 372,0x0174,unknown,,Colosseum,3
@@ -5239,7 +5237,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 358,0x0166,unknown,,XD,3
 866,0x0362,Golden Pinap Berry,,Let's Go,7
 11,0x000B,Luxury Ball,Poké Balls,XD,3
-618,0x026A,TM93,TMs,,7
 26,0x001A,Super Potion,Medicine,Let's Go,7
 470,0x01D6,unknown,,XD,3
 85,0x0055,Leaf Stone,,Let's Go,7
@@ -5248,11 +5245,12 @@ ID,Hex,Name,Pokcet,Game,Gen
 280,0x0118,Destiny Knot,Items,,4
 460,0x01CC,unknown,,XD,3
 487,0x01E7,unknown,,XD,3
-381,0x017D,TM54,TMs,,7
 218,0x00DA,Up-Grade,Items,Colosseum,3
+401,0x0191,TM74,TMs,,7
 321,0x0141,TM33,TMs and HMs,XD,3
 5,0x0005,Safari Ball,Poké Balls,XD,3
 398,0x018E,TM71,TMs and HMs,,5
+420,0x01A4,HM01,TMs,,7
 560,0x0230,Battle CD 27,,XD,3
 560,0x0230,Ghost Gem,Items,,5
 313,0x0139,TM25,TMs and HMs,Colosseum,3
@@ -5323,7 +5321,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 272,0x0110,Toxic Orb,,Let's Go,7
 488,0x01E8,Green Apricorn,,Let's Go,7
 64,0x0040,Fluffy Tail,Items,,6
-362,0x016A,TM35,TMs,,7
 278,0x0116,Iron Ball,Items,,7
 578,0x0242,Prop Case,Key items,,7
 240,0x00F0,unknown,,,3
@@ -5402,8 +5399,8 @@ ID,Hex,Name,Pokcet,Game,Gen
 350,0x015E,TM23,TMs and HMs,,6
 374,0x0176,unknown,,Colosseum,3
 429,0x01AD,unknown,,Colosseum,3
+394,0x018A,TM67,TMs,,7
 342,0x0156,TM15,TMs and HMs,,4
-369,0x0171,TM42,TMs,,7
 629,0x0275,DNA Splicers,Key items,"Black 2, White 2",5
 432,0x01B0,unknown,,Colosseum,3
 146,0x0092,Bridge Mail T,,Let's Go,7
@@ -5468,6 +5465,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 306,0x0132,Sky Plate,,Let's Go,7
 225,0x00E1,Stick,Items,,3
 302,0x012E,Icicle Plate,Items,,6
+958,0x03BE,Roto Boost,,"Ultra Sun, Ultra Moon",7
 209,0x00D1,Mystic Water,Items,XD,3
 835,0x0343,Pikashunium Z,,Let's Go,7
 243,0xF3,TM43,,,1
@@ -5494,6 +5492,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 473,0x01D9,unknown,,Colosseum,3
 336,0x0150,TM48,TMs and HMs,XD,3
 527,0x020F,Krane Memo 5,Key items,XD,3
+337,0x0151,TM10,TMs,,7
 281,0x0119,Rm. 1 Key,Key items,,3
 156,0x009C,Persim Berry,Berries,,5
 766,0x02FE,Mega Cuff,Key items,,7
@@ -5502,7 +5501,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 334,0x014E,TM46,TMs and HMs,XD,3
 69,0x0045,White Flute,Items,,7
 497,0x01F1,unknown,,Colosseum,3
-631,0x0277,Oval Charm,Key items,"Black 2, White 2",5
 331,0x014B,TM04,TMs and HMs,,6
 881,0x0371,Electric Seed,,Let's Go,7
 1022,0x03FE,Exeggcute Candy,,Let's Go,7
@@ -5519,6 +5517,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 508,0x01FC,Data Card 04,,Let's Go,7
 453,0x01C5,unknown,,XD,3
 873,0x0369,???,,,7
+409,0x0199,TM82,TMs,,7
 291,0x0123,Power Lens,,Let's Go,7
 194,0x00C2,Tanga Berry,Berries,,5
 234,0x00EA,unknown,,Colosseum,3
@@ -5529,10 +5528,10 @@ ID,Hex,Name,Pokcet,Game,Gen
 256,0x0100,Pink Scarf,Items,Colosseum,3
 151,0x0097,Pecha Berry,,Let's Go,7
 291,0x0123,Power Lens,Items,,6
+390,0x0186,TM63,TMs,,7
 401,0x0191,TM74,TMs and HMs,,4
 250,0x00FA,Dragon Fang,,Let's Go,7
 232,0x00E8,Scope Lens,Items,,6
-360,0x0168,TM33,TMs,,7
 467,0x01D3,unknown,,Colosseum,3
 459,0x01CB,Parcel,Key items,,5
 192,0xC0,TM02,TMs and HMs,,2
@@ -5559,7 +5558,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 578,0x0242,Prop Case,Key items,,5
 137,0x0089,Greet Mail,Items,,6
 271,0x010F,unknown,,Colosseum,3
-388,0x0184,TM61,TMs,,7
 407,0x0197,unknown,,Colosseum,3
 494,0x01EE,Lure Ball,Items,,7
 652,0x028C,Rich Mulch,Items,,7
@@ -5572,13 +5570,14 @@ ID,Hex,Name,Pokcet,Game,Gen
 739,0x02E3,Contest Costume,,Let's Go,7
 93,0x005D,Sun Stone,Items,,3
 539,0x021B,Float Stone,,Let's Go,7
+382,0x017E,TM55,TMs,,7
+350,0x015E,TM23,TMs,,7
 194,0xC2,TM04,TMs and HMs,,2
 459,0x01CB,Parcel,Key items,,4
 56,0x0038,Dire Hit,Items,,6
 323,0x0143,TM35,TMs and HMs,,3
 156,0x009C,Persim Berry,Berries,,7
 636,0x027C,Dropped Item,Key items,,6
-694,0x02B6,TM100,TMs,,7
 182,0x00B6,Exp. Share,Items,XD,3
 289,0x0121,Power Bracer,Items,,6
 675,0x02A3,Kangaskhanite,,Let's Go,7
@@ -5619,7 +5618,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 88,0x0058,Pearl,Items,,4
 528,0x0210,Voice Case 1,Key items,XD,3
 196,0x00C4,Kasib Berry,,Let's Go,7
-364,0x016C,TM37,TMs,,7
 570,0x023A,Swift Wing,Medicine,,7
 225,0x00E1,Stick,Items,XD,3
 142,0x008E,Sitrus Berry,Berries,Colosseum,3
@@ -5639,7 +5637,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 323,0x0143,TM35,TMs and HMs,XD,3
 19,0x0013,Burn Heal,Medicine,,7
 634,0x027A,Grubby Hanky,,Let's Go,7
-396,0x018C,TM69,TMs,,7
+359,0x0167,TM32,TMs,,7
 1025,0x0401,Hitmonchan Candy,,Let's Go,7
 194,0x00C2,Tanga Berry,Berries,,4
 492,0x01EC,Fast Ball,Poké Balls,"HeartGold, SoulSilver",4
@@ -5647,6 +5645,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 237,0x00ED,unknown,,Colosseum,3
 368,0x0170,TM41,,Let's Go,7
 619,0x026B,TM94,TMs and HMs,"Omega Ruby, Alpha Sapphire",6
+336,0x0150,TM09,TMs,,7
 435,0x01B3,Fashion Case,Key items,,7
 5,0x0005,Safari Ball,Items,,7
 389,0x0185,unknown,,XD,3
@@ -5658,6 +5657,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 668,0x029C,Banettite,Items,,6
 433,0x01B1,Journal,Key items,,4
 370,0x0172,unknown,,XD,3
+383,0x017F,TM56,TMs,,7
 905,0x0389,Flying Memory,Items,,7
 58,0x3A,Dire Hit,,,1
 445,0x01BD,Old Rod,Key items,,6
@@ -5727,7 +5727,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 268,0x010C,unknown,,XD,3
 433,0x01B1,Journal,Key items,,6
 351,0x015F,unknown,,Colosseum,3
-398,0x018E,TM71,TMs,,7
 410,0x019A,TM83,,Let's Go,7
 696,0x02B8,Mega Ring,,Let's Go,7
 595,0x0253,X Sp. Def 2,,Let's Go,7
@@ -5774,12 +5773,11 @@ ID,Hex,Name,Pokcet,Game,Gen
 153,0x0099,Aspear Berry,Berries,,7
 378,0x017A,unknown,,Colosseum,3
 0,0x0000,Nothing,,Colosseum,3
-337,0x0151,TM10,TMs,,7
+345,0x0159,TM18,TMs,,7
 308,0x0134,Insect Plate,Items,,7
 293,0x0125,Power Anklet,,Let's Go,7
 138,0x008A,Favored Mail,Items,,5
 322,0x0142,TM34,TMs and HMs,,3
-351,0x015F,TM24,TMs,,7
 767,0x02FF,Cameruptite,Items,,7
 211,0xD3,TM11,,,1
 59,0x3B,Good Rod,Key items,,2
@@ -5820,6 +5818,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 175,0x00AF,Enigma Berry,Berries,,3
 940,0x03AC,Purple Petal,,Let's Go,7
 183,0xB7,Portraitmail,Items,,2
+333,0x014D,TM06,TMs,,7
 309,0x0135,TM21,TMs and HMs,XD,3
 911,0x038F,Steel Memory,Items,,7
 813,0x032D,Fightinium Z,Z-Crystals,,7
@@ -5840,6 +5839,7 @@ ID,Hex,Name,Pokcet,Game,Gen
 936,0x03A8,Blue Petal,,Let's Go,7
 4,0x0004,Poké Ball,Poké Balls,,4
 68,0x0044,Black Flute,Items,,6
+347,0x015B,TM20,TMs,,7
 57,0x0039,X Attack,Items,,7
 194,0x00C2,Smoke Ball,Items,XD,3
 578,0x0242,Battle CD 45,,XD,3
@@ -5853,7 +5853,6 @@ ID,Hex,Name,Pokcet,Game,Gen
 946,0x03B2,N-Lunarizer,Key items,"Ultra Sun, Ultra Moon",7
 185,0x00B9,Passho Berry,Berries,,6
 322,0x0142,Electirizer,Items,,7
-394,0x018A,TM67,TMs,,7
 943,0x03AF,N-Solarizer,Key items,"Ultra Sun, Ultra Moon",7
 447,0x01BF,unknown,,Colosseum,3
 476,0x01DC,Basement Key,Key items,"HeartGold, SoulSilver",4
@@ -5907,12 +5906,13 @@ ID,Hex,Name,Pokcet,Game,Gen
 517,0x0205,DNA Sample,Key items,Colosseum,3
 202,0xCA,TM11,TMs and HMs,,2
 536,0x0218,Battle CD 03,,XD,3
-371,0x0173,TM44,TMs,,7
+334,0x014E,TM07,TMs,,7
 193,0x00C1,DeepSeaScale,Items,XD,3
 244,0x00F4,Sharp Beak,Items,,4
 381,0x017D,TM54,,Let's Go,7
 236,0xEC,TM44,TMs and HMs,,2
 351,0x015F,Secret Key,Key items,"FireRed, LeefGreen, Emerald",3
+510,0x01FE,Data Card 06,Items,"HeartGold, SoulSilver",4
 953,0x03B9,Roto Friendship,,Let's Go,7
 762,0x02FA,Pidgeotite,Items,"Omega Ruby, Alpha Sapphire",6
 752,0x02F0,Swampertite,Items,"Omega Ruby, Alpha Sapphire",6
