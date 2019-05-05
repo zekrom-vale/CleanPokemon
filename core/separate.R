@@ -57,6 +57,14 @@ pokemon%>%
 	arrange(Name);
 # Only duplicates are ones that have no ldex
 
+pokemon%>%
+	not_distinct(Name)%>%
+	arrange(Name);
+# Some pokemon are not assigned a group in that specific row
+# Can't just filter out that row, as some are not ever assined
+
+
+
 pokemon%<>%
 	distinct();
 
@@ -66,6 +74,14 @@ pokemon%<>%
 		pokemon%>%
 			not_distinct(Name, Dex)%>%
 			filter_not_na(LDex)
+	);
+
+pokemon%<>%
+	only_distinct(Name, Dex)%>%
+	union(
+		pokemon%>%
+			not_distinct(Name, Dex)%>%
+			filter_not_na(Group)
 	);
 
 write_csv(pokemon, path="datasets/pokemon.csv",na="");
