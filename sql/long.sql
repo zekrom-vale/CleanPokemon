@@ -6192,7 +6192,7 @@ insert into SPECIES( DEX, CLASS , EGGGROUP1 , TYPE, TYPE2, BODY, COLOR , STAR, G
 values( 711, q'|Large Size|' , 'Amorphous' , 'Ghost', 'Grass', q'{Head and a base}', 'Brown' , 0, '1:1', 20, 'Pickup', 'Frisk', 'Insomnia', 14, 30.9, 1.1, 3, 7 );
 --=REGEXREPLACE(JOIN(", ",A2:A17),"(\w+)","items.$0 ITEM_$0")
 create or replace view mix as(
-	select pokemon.NAME, pokemon.DEX, species.CLASS, species.DEX_SUFFIX,
+	select pokemon.NAME, pokemon.DEX, species.CLASS, species.DEX_SUFFIX, species.COLOR, species.CALL_RATE_SM, species.CALL_RATE_USUM, species.STAR, species.CYCLES, species.WEIGHTKG, species.WEIGHTLBS, species.HEIGHT_M, species.HEIGHT_FT, species.HEIGHT_IN,
 		--body.*,
 body.BODY BODY_BODY, body.PARENT BODY_PARENT, body.DESCRIPTION BODY_DESCRIPTION, body.ID BODY_ID,
 		--items.*,
