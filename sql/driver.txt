@@ -3,5 +3,5 @@ ability.sql
 item.sql
 #itemIDs.sql # 8 Nulls
 pokemon.sql
-species.sql
+species.sql # 150 and 6 missing items
 mix.sql
