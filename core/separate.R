@@ -73,7 +73,7 @@ pokemon%<>%
 	union(
 		pokemon%>%
 			not_distinct(Name, Dex)%>%
-			filter_not_na(LDex)
+			filter_not_na(Group)
 	);
 
 pokemon%<>%
@@ -81,7 +81,7 @@ pokemon%<>%
 	union(
 		pokemon%>%
 			not_distinct(Name, Dex)%>%
-			filter_not_na(Group)
+			filter_not_na(LDex)
 	);
 
 write_csv(pokemon, path="datasets/pokemon.csv",na="");
