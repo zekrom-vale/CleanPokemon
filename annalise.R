@@ -360,7 +360,7 @@ species%>%
 	);
 
 # Count megas per gen
-species%>%
+long%>% # Species doen't have Gen
 	group_by(
 		Gen
 	)%>%
@@ -372,7 +372,7 @@ species%>%
 	);
 
 # Alternative way with reduce
-species%>%
+long%>%
 	group_by(
 		Gen
 	)%>%
