@@ -9,7 +9,7 @@ files=read_csv("sql/driver.txt", col_names="File", comment="#")$File;
 write_file("", "sql/long.sql"); # Write nothing to the file
 # For all strings in files
 for(file in files){
-	print.noquote(paste0("> Processing ", "sql/", file));
+	print.noquote(paste0("Processing ", "sql/", file));
 	# Read the contents of sql/<file>
 	text=read_file(paste0("sql/",file));
 	# Use technique to do nothing on capture 1 to prevent modification
@@ -27,5 +27,7 @@ for(file in files){
 		append=TRUE # Don't overite the file, append it
 	);
 	write_file("\n","sql/long.sql", append=TRUE);# add a return to separate files
+	rm(text);#Prevent global polution
 }
+rm(files,file); # R does not clean up it's loops
 print.noquote("--DONE--");
