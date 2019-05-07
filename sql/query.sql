@@ -41,12 +41,12 @@ select NAME, DEX, STAR
 
 --For each pokemon what item(s) do they use to mega/primal evolve
 
-select NAME, DEX, JSON_ARRAYAGG(ITEM_NAME absent on null) as items
+select NAME, DEX, JSON_ARRAYAGG(ITEM absent on null) as items
 	from mix
 	group by NAME, DEX;
 
 --What pokemon have item(s) to mega/primal evolve and what are they?
-select NAME, DEX, JSON_ARRAYAGG(ITEM_NAME absent on null) as items
+select NAME, DEX, JSON_ARRAYAGG(ITEM absent on null) as items
 	from mix
 	group by NAME, DEX
-	having count(ITEM_NAME)>0;
+	having count(ITEM)>0;
