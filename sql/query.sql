@@ -5,7 +5,7 @@ select count(*)
 
 --What is the DEX of Charizard?
 select DEX
-	from mix
+	from pokemon
 	where NAME='Charizard';
 
 --What types are weak against Dragon attacks?
@@ -40,13 +40,26 @@ select NAME, DEX, STAR
 	where BitAnd(8,STAR)!=0;
 
 --For each pokemon what item(s) do they use to mega/primal evolve
-
 select NAME, DEX, JSON_ARRAYAGG(ITEM absent on null) as items
 	from mix
 	group by NAME, DEX;
+--Missing 6 and 150, they have items missing
 
 --What pokemon have item(s) to mega/primal evolve and what are they?
 select NAME, DEX, JSON_ARRAYAGG(ITEM absent on null) as items
 	from mix
 	group by NAME, DEX
 	having count(ITEM)>0;
+
+--What species are Dragons and Black?
+select *
+    from mix
+    where COLOR='Black' and TYPE='Dragon';
+
+
+--What pokemon are not within their GENERATION_DEX range
+select NAME, DEX, GENERATION_GEN, GENERATION_DEX_MIN, GENERATION_DEX_MAX
+    from mix
+    where not DEX between GENERATION_DEX_MIN and GENERATION_DEX_MAX
+    group by NAME, DEX, GENERATION_GEN, GENERATION_DEX_MIN, GENERATION_DEX_MAX;
+--This expected to be empty, but it is not, so there are likely data bugs
