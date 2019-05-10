@@ -29,18 +29,9 @@ make_cross_folds <- function(table, nfolds, times=1){
 }
 
 
-predict_knn=function(df, formula, k=10, nfold=10){
-	y=sym(as.character(formula[[2]]));
-	x=syms(str_split(as.character(formula[3]), "\\s*\\+\\s*")[[1]]);
-	vars=enquos(x);
-	color=enquo(y);
-	# Fix NA's
-	df=df%>%
-		mutate(
-			!!color:=factor(
-				if_else(is.na(!!color),"",as.character(!!color))
-			)
-		);
+predict_knn=function(df, ..., color,k=10, nfold=10){
+	vars=enquos(...);
+	color=enquo(color);
 	cross_fold=make_cross_folds(df, nfold);
 	train_rows=cross_fold[[1]][[1]];
 	test_rows=cross_fold[[1]][[2]];
@@ -93,13 +84,8 @@ predict_knn_error=function(df, folds, ..., color,k=10){
 }
 
 plot_knn_err=function(df, ..., color,k=1:50, nfold=10, times=1){
-
-	formula=as.character(formula);
-	y=sym(as.character(formula)[2]);
-	x=syms(strsplit(as.character(formula)[3], "\\s*\\+\\s*")[[1]]);
-	print(x);
-	vars=enquos(x);
-	color=enquo(y);
+	vars=enquos(...);
+	color=enquo(color);
 	folds=make_cross_folds(df, nfold, times=times);
 	err=c();
 	min_k=min(k)-1;
@@ -154,7 +140,7 @@ predict_knn_errors=function(df, folds, ..., color,k=10){
 }
 
 
-plot_knn_errbar=function(df, formula, k=1:200, nfold=10, times=10){
+plot_knn_errbar=function(df, ..., color,k=1:200, nfold=10, times=10){
 	# Bad setings warning
 	if(max(k)-min(k)<=30){
 		warning("Best k value may be inacurate due to limited checks");
@@ -168,20 +154,8 @@ plot_knn_errbar=function(df, formula, k=1:200, nfold=10, times=10){
 	else if(nfold>=20){
 		warning("nfold is high, consider decreasing nfold to 10 (Few test values)");
 	}
-	y=lhs(formula);
-	x=syms(rhs.vars(formula));
-	vars=enquos(x);
-	color=enquo(y);
-	print(vars);
-
-	# Fix NA's
-	df=df%>%
-		mutate(
-			!!color:=factor(
-				if_else(is.na(!!color),"",as.character(!!color))
-			)
-		);
-
+	vars=enquos(...);
+	color=enquo(color);
 	folds=make_cross_folds(df, nfold, times=times);
 	err=tibble(k=integer(), err=double());
 	for(i in k){
