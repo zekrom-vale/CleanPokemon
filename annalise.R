@@ -166,7 +166,14 @@ species%>%
 # Now there is not enough data to use for some, some don't even have
 # pokemon
 
+# Can we pedict Type with weight and height?
+species%>%
+	plot_knn_errbar(WeightKg, HeightM, color=Type, nfold=10, times=20, k=1:350);
+# Good, knn is quite good at predicting Type~Weight+HeightM
+# Best k-value: 206 @ 14.3% error
 
+species%>%
+	plot_knn_errbar(WeightKg, HeightM, color=Type2, nfold=10, times=20, k=1:350);
 
 ############
 # Egg Group
@@ -707,19 +714,6 @@ long%>%
 	geom_point()+
 	geom_smooth(method="lm", se=FALSE);
 # Appers to be no significant relationship
-
-#################################################################
-# # Try kkn
-# class::knn(
-# 	long%>%
-# 		filter(!is.na(Group)),
-# 	long%>%
-# 		filter(is.na(Group))%>%
-# 		select(-Group),
-#
-# );
-# # Nope, can only use a true fator
-# # I don't like the class package, it is lacking in support
 
 
 #################################################################
