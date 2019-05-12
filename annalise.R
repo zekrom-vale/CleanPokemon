@@ -166,15 +166,6 @@ species%>%
 # Now there is not enough data to use for some, some don't even have
 # pokemon
 
-# Can we pedict Type with weight and height?
-species%>%
-	knn_cv(WeightKg, HeightM, color=Type, nfold=10, times=20, k=1:350);
-# Good, knn is quite good at predicting Type~Weight+HeightM
-# Best k-value: 206 @ 14.3% error
-
-species%>%
-	knn_cv(WeightKg, HeightM, color=Type2, nfold=10, times=20, k=1:350);
-
 ############
 # Egg Group
 species%>%
