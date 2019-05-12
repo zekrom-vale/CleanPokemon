@@ -168,12 +168,12 @@ species%>%
 
 # Can we pedict Type with weight and height?
 species%>%
-	plot_knn_errbar(WeightKg, HeightM, color=Type, nfold=10, times=20, k=1:350);
+	knn_cv(WeightKg, HeightM, color=Type, nfold=10, times=20, k=1:350);
 # Good, knn is quite good at predicting Type~Weight+HeightM
 # Best k-value: 206 @ 14.3% error
 
 species%>%
-	plot_knn_errbar(WeightKg, HeightM, color=Type2, nfold=10, times=20, k=1:350);
+	knn_cv(WeightKg, HeightM, color=Type2, nfold=10, times=20, k=1:350);
 
 ############
 # Egg Group
