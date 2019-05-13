@@ -2,6 +2,13 @@
 source("import.R");
 if(flag)file.edit("import.R");
 
+# See the functions I created to automaticaly handle the
+# knn cross validation (Based off of some of your functions)
+# I would have made it parallel, but parallel:: is not automatic
+View(zUtil::knn_cv);
+View(zUtil::predict_knn);
+
+
 # Can we pedict Type with weight and height?
 species%>%
 	ggplot()+
@@ -23,6 +30,10 @@ species%>%
 	knn_cv(WeightKg, HeightM, color=Type, nfold=10, times=20, k=1:350);
 # Good, knn is quite good at predicting Type~Weight+HeightM
 # Best k-value: 206 @ 14.3% error
+
+# species%>%
+#		knn_fill(WeightKg, HeightM, color=Type, k=206);
+# # Code for this is off, returns an unamed list
 
 species%>%
 	knn_cv(WeightKg, HeightM, color=Type2, nfold=10, times=20, k=1:350);
