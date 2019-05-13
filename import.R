@@ -10,25 +10,25 @@ gender_ratio=read_csv(
 	"datasets/gender_ratio.csv",
 	col_types=cols(
 		KEY=col_factor(),
-		MALE = col_integer(),
-		FEMALE = col_integer()
+		MALE=col_integer(),
+		FEMALE=col_integer()
 	)
 );
 generations=read_csv(
 	"datasets/generations.csv",
 	col_types=cols(
-		DEX_MIN = col_integer(),
-		DEX_MAX = col_integer(),
-		LDEX_MIN = col_integer(),
-		LDEX_MAX = col_integer()
+		DEX_MIN=col_integer(),
+		DEX_MAX=col_integer(),
+		LDEX_MIN=col_integer(),
+		LDEX_MAX=col_integer()
 	)
 );
 eggGroups=read_csv(
 	"datasets/eggGroups.csv",
 	col_types=cols(
-		NAME = col_factor(),
-		TYPE_ALIAS = col_factor(),
-		URL = col_character()
+		NAME=col_factor(),
+		TYPE_ALIAS=col_factor(),
+		URL=col_character()
 	)
 );
 body=read_csv(
@@ -53,9 +53,9 @@ abilityKey=read_csv(
 items=read_csv(
 	"datasets/items.csv",
 	col_types=cols(
-		Gen = col_double(),
-		Gen2 = col_double(),
-		Star = col_integer()
+		Gen=col_double(),
+		Gen2=col_double(),
+		Star=col_integer()
 	)
 );
 itemsIDs=read_csv(
@@ -71,81 +71,81 @@ itemsIDs=read_csv(
 pokemon=read_csv(
 	"datasets/pokemon.csv",
 	col_types=cols(
-		Dex = col_integer(),
-		Page = col_integer(),
-		Habitat = col_factor(),
-		LDex = col_integer(),
-		LDex_Suffix = col_character(),
-		Gen = col_integer()
+		Dex=col_integer(),
+		Page=col_integer(),
+		Habitat=col_factor(),
+		LDex=col_integer(),
+		LDex_Suffix=col_character(),
+		Gen=col_integer()
 	)
 );
 species=read_csv(
 	"datasets/species.csv",
 	col_types=cols(
-		Dex = col_integer(),
-		Class = col_character(),
-		`Egg Group 1` = col_factor(),
-		`Egg Group 2` = col_factor(),
-		Type = col_factor(),
-		Type2 = col_factor(),
-		Body = col_factor(),
-		Color = col_factor(),
-		Call_Rate_SM = col_integer(),
-		Call_Rate_USUM = col_integer(),
-		Star = col_integer(),
-		Gender_Ratio = col_factor(),
-		Cycles = col_integer(),
-		`Ability 1` = col_factor(),
-		`Ability 2` = col_factor(),
-		Hidden = col_factor(),
-		WeightKg = col_double(),
-		WeightLbs = col_double(),
-		HeightM = col_double(),
-		Ft = col_integer(),
-		In = col_integer()
+		Dex=col_integer(),
+		Class=col_character(),
+		`Egg Group 1`=col_factor(),
+		`Egg Group 2`=col_factor(),
+		Type=col_factor(),
+		Type2=col_factor(),
+		Body=col_factor(),
+		Color=col_factor(),
+		Call_Rate_SM=col_integer(),
+		Call_Rate_USUM=col_integer(),
+		Star=col_integer(),
+		Gender_Ratio=col_factor(),
+		Cycles=col_integer(),
+		`Ability 1`=col_factor(),
+		`Ability 2`=col_factor(),
+		Hidden=col_factor(),
+		WeightKg=col_double(),
+		WeightLbs=col_double(),
+		HeightM=col_double(),
+		Ft=col_integer(),
+		In=col_integer()
 	)
 );
 pokemonLang=read_csv(
 	"datasets/pokemonLang.csv",
 	col_types=cols(
-		ID = col_integer()
+		ID=col_integer()
 	)
 );
 base=read_csv(
 	"datasets/base.csv",
 	col_types=cols(
-		ID = col_integer(),
-		ID_EXT = col_character(),
-		Base_HP = col_integer(),
-		Base_Attack = col_integer(),
-		Base_Defense = col_integer(),
-		Base_Sp_Attack = col_integer(),
-		Base_Sp_Defense = col_integer(),
-		Base_Speed = col_integer(),
-		Base_Total = col_integer(),
-		Base_Average = col_double(),
-		GEN = col_integer(),
-		GEN2 = col_integer()
+		ID=col_integer(),
+		ID_EXT=col_character(),
+		Base_HP=col_integer(),
+		Base_Attack=col_integer(),
+		Base_Defense=col_integer(),
+		Base_Sp_Attack=col_integer(),
+		Base_Sp_Defense=col_integer(),
+		Base_Speed=col_integer(),
+		Base_Total=col_integer(),
+		Base_Average=col_double(),
+		GEN=col_integer(),
+		GEN2=col_integer()
 	)
 );
 evolutions=read_csv(
 	"datasets/evolutions.csv",
 	col_types=cols(
-		Dex = col_integer(),
-		Class = col_character(),
-		Condition = col_character(),
-		Sub_Condition = col_character(),
-		Level = col_integer(),
-		Next_Dex = col_integer(),
-		Next_Name = col_character(),
-		Stage = col_integer()
+		Dex=col_integer(),
+		Class=col_character(),
+		Condition=col_character(),
+		Sub_Condition=col_character(),
+		Level=col_integer(),
+		Next_Dex=col_integer(),
+		Next_Name=col_character(),
+		Stage=col_integer()
 	)
 );
 family=read_csv(
 	"datasets/family.csv",
 	col_types=cols(
-		Dex = col_integer(),
-		Dex_Suffix = col_character()
+		Dex=col_integer(),
+		Dex_Suffix=col_character()
 	)
 );
 
