@@ -30,7 +30,7 @@ NE=types%>%
 	);
 
 # Write as CSV
-write_csv(SE, "type/SE.csv");
-write_csv(NVE, "type/NVE.csv");
-write_csv(NE, "type/NE.csv");
-write_csv(typeDes, "type/type.csv");
+write_csv(SE, "datasets/type/SE.csv", na="");
+write_csv(NVE, "datasets/type/NVE.csv", na="");
+write_csv(NE, "datasets/type/NE.csv", na="");
+write_csv(typeDes, "datasets/type/type.csv", na="");
