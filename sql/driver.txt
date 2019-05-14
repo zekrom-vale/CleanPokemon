@@ -1,4 +1,5 @@
 type.sql
+other.sql
 ability.sql
 item.sql
 #itemIDs.sql # 8 Nulls

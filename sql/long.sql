@@ -1,14 +1,302 @@
 create table Types(
 TYPE varchar2(15 byte)primary key,--The name of the type
-DESCRIPTION clob check(DESCRIPTION is JSON),--The description of the type
-ATK_SE varchar2(300)check(ATK_SE is JSON),--Supper effective when atacking the folowing types
-ATK_NVE varchar2(300)check(ATK_NVE is JSON),--Not very effective when atacking the folowing types
-ATK_NE varchar2(300)check(ATK_NE is JSON),--Not effective when atacking the folowing types
-DEF_SE varchar2(300)check(DEF_SE is JSON),--Supper effective when defending with the folowing types
-DEF_NVE varchar2(300)check(DEF_NVE is JSON),--Not very effective when defending with the folowing types
-DEF_NE varchar2(300)check(DEF_NE is JSON),--Not effective when defending with the folowing types
+DESCRIPTION clob,--The description of the type
 URL varchar2(200 byte)--The link to see more about the type
 );
+create table SE(
+DEF varchar2(15 byte)references Types(TYPE),--Supper effective when defending with the folowing type (Bad)
+ATK varchar2(15 byte)references Types(TYPE),--Supper effective when atacking the folowing type (Good)
+CONSTRAINT pk_SE primary key(ATK,DEF)--Ensure no duplicates exist and no nulls exist too
+);
+create table NVE(
+DEF varchar2(15 byte)references Types(TYPE),--Not very effective when defending with the folowing type (Good)
+ATK varchar2(15 byte)references Types(TYPE),--Not very effective when atacking the folowing type (Bad)
+CONSTRAINT pk_NVE primary key(ATK,DEF)--Ensure no duplicates exist and no nulls exist too
+);
+create table NE(
+DEF varchar2(15 byte)references Types(TYPE),--Not effective when defending with the folowing type (Best)
+ATK varchar2(15 byte)references Types(TYPE),--Not effective when atacking the folowing type (Worst)
+CONSTRAINT pk_NE primary key(ATK,DEF)--Ensure no duplicates exist and no nulls exist too
+);
+
+
+insert into Types(TYPE,URL)
+values('Normal',q'|https://bulbapedia.bulbagarden.net/wiki/Normal_(type)|');
+insert into Types(TYPE,URL)
+values('Fighting',q'|https://bulbapedia.bulbagarden.net/wiki/Fighting_(type)|');
+insert into Types(TYPE,URL)
+values('Flying',q'|https://bulbapedia.bulbagarden.net/wiki/Flying_(type)|');
+insert into Types(TYPE,URL)
+values('Poison',q'|https://bulbapedia.bulbagarden.net/wiki/Poison_(type)|');
+insert into Types(TYPE,URL)
+values('Ground',q'|https://bulbapedia.bulbagarden.net/wiki/Ground_(type)|');
+insert into Types(TYPE,URL)
+values('Rock',q'|https://bulbapedia.bulbagarden.net/wiki/Rock_(type)|');
+insert into Types(TYPE,URL)
+values('Bug',q'|https://bulbapedia.bulbagarden.net/wiki/Bug_(type)|');
+insert into Types(TYPE,URL)
+values('Ghost',q'|https://bulbapedia.bulbagarden.net/wiki/Ghost_(type)|');
+insert into Types(TYPE,URL)
+values('Steel',q'|https://bulbapedia.bulbagarden.net/wiki/Steel_(type)|');
+insert into Types(TYPE,URL)
+values('Fire',q'|https://bulbapedia.bulbagarden.net/wiki/Fire_(type)|');
+insert into Types(TYPE,URL)
+values('Water',q'|https://bulbapedia.bulbagarden.net/wiki/Water_(type)|');
+insert into Types(TYPE,URL)
+values('Grass',q'|https://bulbapedia.bulbagarden.net/wiki/Grass_(type)|');
+insert into Types(TYPE,URL)
+values('Electric',q'|https://bulbapedia.bulbagarden.net/wiki/Electric_(type)|');
+insert into Types(TYPE,URL)
+values('Psychic',q'|https://bulbapedia.bulbagarden.net/wiki/Psychic_(type)|');
+insert into Types(TYPE,URL)
+values('Ice',q'|https://bulbapedia.bulbagarden.net/wiki/Ice_(type)|');
+insert into Types(TYPE,URL)
+values('Dragon',q'|https://bulbapedia.bulbagarden.net/wiki/Dragon_(type)|');
+insert into Types(TYPE,URL)
+values('Dark',q'|https://bulbapedia.bulbagarden.net/wiki/Dark_(type)|');
+insert into Types(TYPE,URL)
+values('Fairy',q'|https://bulbapedia.bulbagarden.net/wiki/Fairy_(type)|');
+
+insert into SE(DEF,ATK)
+values('Dark','Fighting');
+insert into SE(DEF,ATK)
+values('Ice','Fighting');
+insert into SE(DEF,ATK)
+values('Normal','Fighting');
+insert into SE(DEF,ATK)
+values('Rock','Fighting');
+insert into SE(DEF,ATK)
+values('Steel','Fighting');
+insert into SE(DEF,ATK)
+values('Bug','Flying');
+insert into SE(DEF,ATK)
+values('Fighting','Flying');
+insert into SE(DEF,ATK)
+values('Grass','Flying');
+insert into SE(DEF,ATK)
+values('Fairy','Poison');
+insert into SE(DEF,ATK)
+values('Grass','Poison');
+insert into SE(DEF,ATK)
+values('Electric','Ground');
+insert into SE(DEF,ATK)
+values('Fire','Ground');
+insert into SE(DEF,ATK)
+values('Poison','Ground');
+insert into SE(DEF,ATK)
+values('Rock','Ground');
+insert into SE(DEF,ATK)
+values('Steel','Ground');
+insert into SE(DEF,ATK)
+values('Bug','Rock');
+insert into SE(DEF,ATK)
+values('Fire','Rock');
+insert into SE(DEF,ATK)
+values('Flying','Rock');
+insert into SE(DEF,ATK)
+values('Ice','Rock');
+insert into SE(DEF,ATK)
+values('Dark','Bug');
+insert into SE(DEF,ATK)
+values('Grass','Bug');
+insert into SE(DEF,ATK)
+values('Psychic','Bug');
+insert into SE(DEF,ATK)
+values('Ghost','Ghost');
+insert into SE(DEF,ATK)
+values('Psychic','Ghost');
+insert into SE(DEF,ATK)
+values('Fairy','Steel');
+insert into SE(DEF,ATK)
+values('Ice','Steel');
+insert into SE(DEF,ATK)
+values('Rock','Steel');
+insert into SE(DEF,ATK)
+values('Bug','Fire');
+insert into SE(DEF,ATK)
+values('Grass','Fire');
+insert into SE(DEF,ATK)
+values('Ice','Fire');
+insert into SE(DEF,ATK)
+values('Steel','Fire');
+insert into SE(DEF,ATK)
+values('Fire','Water');
+insert into SE(DEF,ATK)
+values('Ground','Water');
+insert into SE(DEF,ATK)
+values('Rock','Water');
+insert into SE(DEF,ATK)
+values('Ground','Grass');
+insert into SE(DEF,ATK)
+values('Rock','Grass');
+insert into SE(DEF,ATK)
+values('Water','Grass');
+insert into SE(DEF,ATK)
+values('Flying','Electric');
+insert into SE(DEF,ATK)
+values('Water','Electric');
+insert into SE(DEF,ATK)
+values('Fighting','Psychic');
+insert into SE(DEF,ATK)
+values('Poison','Psychic');
+insert into SE(DEF,ATK)
+values('Dragon','Ice');
+insert into SE(DEF,ATK)
+values('Flying','Ice');
+insert into SE(DEF,ATK)
+values('Grass','Ice');
+insert into SE(DEF,ATK)
+values('Ground','Ice');
+insert into SE(DEF,ATK)
+values('Dragon','Dragon');
+insert into SE(DEF,ATK)
+values('Ghost','Dark');
+insert into SE(DEF,ATK)
+values('Psychic','Dark');
+insert into SE(DEF,ATK)
+values('Dark','Fairy');
+insert into SE(DEF,ATK)
+values('Dragon','Fairy');
+insert into SE(DEF,ATK)
+values('Fighting','Fairy');
+
+insert into NVE(DEF,ATK)
+values('Rock','Normal');
+insert into NVE(DEF,ATK)
+values('Steel','Normal');
+insert into NVE(DEF,ATK)
+values('Bug','Fighting');
+insert into NVE(DEF,ATK)
+values('Fairy','Fighting');
+insert into NVE(DEF,ATK)
+values('Flying','Fighting');
+insert into NVE(DEF,ATK)
+values('Poison','Fighting');
+insert into NVE(DEF,ATK)
+values('Psychic','Fighting');
+insert into NVE(DEF,ATK)
+values('Electric','Flying');
+insert into NVE(DEF,ATK)
+values('Rock','Flying');
+insert into NVE(DEF,ATK)
+values('Steel','Flying');
+insert into NVE(DEF,ATK)
+values('Poison','Poison');
+insert into NVE(DEF,ATK)
+values('Ground','Poison');
+insert into NVE(DEF,ATK)
+values('Rock','Poison');
+insert into NVE(DEF,ATK)
+values('Ghost','Poison');
+insert into NVE(DEF,ATK)
+values('Bug','Ground');
+insert into NVE(DEF,ATK)
+values('Grass','Ground');
+insert into NVE(DEF,ATK)
+values('Fighting','Rock');
+insert into NVE(DEF,ATK)
+values('Ground','Rock');
+insert into NVE(DEF,ATK)
+values('Fairy','Bug');
+insert into NVE(DEF,ATK)
+values('Fighting','Bug');
+insert into NVE(DEF,ATK)
+values('Fire','Bug');
+insert into NVE(DEF,ATK)
+values('Flying','Bug');
+insert into NVE(DEF,ATK)
+values('Ghost','Bug');
+insert into NVE(DEF,ATK)
+values('Poison','Bug');
+insert into NVE(DEF,ATK)
+values('Steel','Bug');
+insert into NVE(DEF,ATK)
+values('Dark','Ghost');
+insert into NVE(DEF,ATK)
+values('Electric','Steel');
+insert into NVE(DEF,ATK)
+values('Fire','Steel');
+insert into NVE(DEF,ATK)
+values('Steel','Steel');
+insert into NVE(DEF,ATK)
+values('Rock','Steel');
+insert into NVE(DEF,ATK)
+values('Dragon','Fire');
+insert into NVE(DEF,ATK)
+values('Fire','Fire');
+insert into NVE(DEF,ATK)
+values('Rock','Fire');
+insert into NVE(DEF,ATK)
+values('Water','Fire');
+insert into NVE(DEF,ATK)
+values('Dragon','Water');
+insert into NVE(DEF,ATK)
+values('Grass','Water');
+insert into NVE(DEF,ATK)
+values('Water','Water');
+insert into NVE(DEF,ATK)
+values('Bug','Grass');
+insert into NVE(DEF,ATK)
+values('Dragon','Grass');
+insert into NVE(DEF,ATK)
+values('Fire','Grass');
+insert into NVE(DEF,ATK)
+values('Flying','Grass');
+insert into NVE(DEF,ATK)
+values('Grass','Grass');
+insert into NVE(DEF,ATK)
+values('Poison','Grass');
+insert into NVE(DEF,ATK)
+values('Steel','Grass');
+insert into NVE(DEF,ATK)
+values('Dragon','Electric');
+insert into NVE(DEF,ATK)
+values('Electric','Electric');
+insert into NVE(DEF,ATK)
+values('Grass','Electric');
+insert into NVE(DEF,ATK)
+values('Psychic','Psychic');
+insert into NVE(DEF,ATK)
+values('Steel','Psychic');
+insert into NVE(DEF,ATK)
+values('Fire','Ice');
+insert into NVE(DEF,ATK)
+values('Ice','Ice');
+insert into NVE(DEF,ATK)
+values('Steel','Ice');
+insert into NVE(DEF,ATK)
+values('Water','Ice');
+insert into NVE(DEF,ATK)
+values('Steel','Dragon');
+insert into NVE(DEF,ATK)
+values('Dark','Dark');
+insert into NVE(DEF,ATK)
+values('Fairy','Dark');
+insert into NVE(DEF,ATK)
+values('Fighting','Dark');
+insert into NVE(DEF,ATK)
+values('Fire','Fairy');
+insert into NVE(DEF,ATK)
+values('Poison','Fairy');
+insert into NVE(DEF,ATK)
+values('Steel','Fairy');
+
+insert into NE(DEF,ATK)
+values('Ghost','Normal');
+insert into NE(DEF,ATK)
+values('Ghost','Fighting');
+insert into NE(DEF,ATK)
+values('Steel','Poison');
+insert into NE(DEF,ATK)
+values('Flying','Ground');
+insert into NE(DEF,ATK)
+values('Normal','Ghost');
+insert into NE(DEF,ATK)
+values('Ground','Electric');
+insert into NE(DEF,ATK)
+values('Dark','Psychic');
+insert into NE(DEF,ATK)
+values('Fairy','Dragon');
 create table eggGroups(
 NAME varchar2(30 byte)primary key,--The name of the group
 TYPE_ALIAS varchar2(15 byte)references TYPES(TYPE),--The type the group belongs to if any
@@ -37,90 +325,6 @@ FEMALE number(2,0),--The female part of the ratio
 UNBREEDABLE char(1)default on null 'F' check(unbreedable in('T','F','*')),--Indicates if they are unbreeadable
 CONSTRAINT un_KEY unique(MALE,FEMALE,UNBREEDABLE)--Ensure Key will produce a valid primary key
 );
-
-
-
--- BEGIN TYPE PL/SQL
-create or replace trigger TYPE_URL_TRG
-before insert or update on TYPES
-for each row when(new.URL is null)
-begin --Create the URL
-:new.URL:='https://bulbapedia.bulbagarden.net/wiki/'||REGEXP_REPLACE(:new.TYPE,'\s','_')||'_(type)';
-end;
-/
-
-create TYPE arr_type is varray(3)of varchar2(300);
-/
-
-create or replace FUNCTION GET_DEF(
-GET_TYPE in varchar2
-)RETURN arr_type
-is
-JSON arr_type:=arr_type(null,null,null);
-begin
-select JSON_ARRAYAGG(t.type RETURNING VARCHAR2(300))
-into JSON(1)
-from types t,
-json_table(t.ATK_SE,'$[*]' COLUMNS(COL PATH '$'))as JT
-where JT.COL=GET_TYPE;
-
-select JSON_ARRAYAGG(t.type RETURNING VARCHAR2(300))
-into JSON(2)
-from types t,
-json_table(t.ATK_NVE,'$[*]' COLUMNS(COL PATH '$'))as JT
-where JT.COL=GET_TYPE;
-
-select JSON_ARRAYAGG(t.type RETURNING VARCHAR2(300))
-into JSON(3)
-from types t,
-json_table(t.ATK_NE,'$[*]' COLUMNS(COL PATH '$'))as JT
-where JT.COL=GET_TYPE;
-
-RETURN JSON;
-END GET_DEF;
-/
-
-create or replace FUNCTION GET_ATK(
-GET_TYPE in varchar2
-)RETURN arr_type
-is
-JSON arr_type:=arr_type(null,null,null);
-begin
-select JSON_ARRAYAGG(t.type RETURNING VARCHAR2(300))
-into JSON(1)
-from types t,
-json_table(t.DEF_SE,'$[*]' COLUMNS(COL PATH '$'))as JT
-where JT.COL=GET_TYPE;
-
-select JSON_ARRAYAGG(t.type RETURNING VARCHAR2(300))
-into JSON(2)
-from types t,
-json_table(t.DEF_NVE,'$[*]' COLUMNS(COL PATH '$'))as JT
-where JT.COL=GET_TYPE;
-
-select JSON_ARRAYAGG(t.type RETURNING VARCHAR2(300))
-into JSON(3)
-from types t,
-json_table(t.DEF_NE,'$[*]' COLUMNS(COL PATH '$'))as JT
-where JT.COL=GET_TYPE;
-
-RETURN JSON;
-END GET_ATK;
-/
-
-
-create or replace PROCEDURE TYPE_FINAL as
-JSON arr_type;
-begin
-for cTYPE in(select TYPE from TYPES)loop
-DBMS_OUTPUT.PUT_LINE(cTYPE.TYPE);
-JSON:=GET_DEF(cTYPE.TYPE);
-update TYPES
-set DEF_SE=JSON(1),DEF_NVE=JSON(2),DEF_NE=JSON(3)
-where TYPE=cTYPE.TYPE;
-end loop;
-end;
-/
 -- BEGIN EGGGROUP PL/SQL
 create or replace trigger EGGGROUP_URL_TRG
 before insert or update on eggGroups
@@ -151,43 +355,6 @@ else ''
 end;
 end;
 /
-
-insert into Types(TYPE,ATK_NVE,ATK_NE)
-values('Normal',q'|["Rock", "Steel"]|',q'|["Ghost"]|');
-insert into Types(TYPE,ATK_SE,ATK_NVE,ATK_NE)
-values('Fighting',q'|["Dark", "Ice", "Normal", "Rock", "Steel"]|',q'|["Bug", "Fairy", "Flying", "Poison", "Psychic"]|',q'|["Ghost"]|');
-insert into Types(TYPE,ATK_SE,ATK_NVE)
-values('Flying',q'|["Bug", "Fighting", "Grass"]|',q'|["Electric", "Rock", "Steel"]|');
-insert into Types(TYPE,ATK_SE,ATK_NVE,ATK_NE)
-values('Poison',q'|["Fairy", "Grass"]|',q'|["Poison", "Ground", "Rock", "Ghost"]|',q'|["Steel"]|');
-insert into Types(TYPE,ATK_SE,ATK_NVE,ATK_NE)
-values('Ground',q'|["Electric", "Fire", "Poison", "Rock", "Steel"]|',q'|["Bug", "Grass"]|',q'|["Flying"]|');
-insert into Types(TYPE,ATK_SE,ATK_NVE)
-values('Rock',q'|["Bug", "Fire", "Flying", "Ice"]|',q'|["Fighting", "Ground"]|');
-insert into Types(TYPE,ATK_SE,ATK_NVE)
-values('Bug',q'|["Dark", "Grass", "Psychic"]|',q'|["Fairy", "Fighting", "Fire", "Flying", "Ghost", "Poison", "Steel"]|');
-insert into Types(TYPE,ATK_SE,ATK_NVE,ATK_NE)
-values('Ghost',q'|["Ghost", "Psychic"]|',q'|["Dark"]|',q'|["Normal"]|');
-insert into Types(TYPE,ATK_SE,ATK_NVE)
-values('Steel',q'|["Fairy", "Ice", "Rock"]|',q'|["Electric", "Fire", "Steel", "Rock"]|');
-insert into Types(TYPE,ATK_SE,ATK_NVE)
-values('Fire',q'|["Bug", "Grass", "Ice", "Steel"]|',q'|["Dragon", "Fire", "Rock", "Water"]|');
-insert into Types(TYPE,ATK_SE,ATK_NVE)
-values('Water',q'|["Fire", "Ground", "Rock"]|',q'|["Dragon", "Grass", "Water"]|');
-insert into Types(TYPE,ATK_SE,ATK_NVE)
-values('Grass',q'|["Ground", "Rock", "Water"]|',q'|["Bug", "Dragon", "Fire", "Flying", "Grass", "Poison", "Steel"]|');
-insert into Types(TYPE,ATK_SE,ATK_NVE,ATK_NE)
-values('Electric',q'|["Flying", "Water"]|',q'|["Dragon", "Electric", "Grass"]|',q'|["Ground"]|');
-insert into Types(TYPE,ATK_SE,ATK_NVE,ATK_NE)
-values('Psychic',q'|["Fighting", "Poison"]|',q'|["Psychic", "Steel"]|',q'|["Dark"]|');
-insert into Types(TYPE,ATK_SE,ATK_NVE)
-values('Ice',q'|["Dragon", "Flying", "Grass", "Ground"]|',q'|["Fire", "Ice", "Steel", "Water"]|');
-insert into Types(TYPE,ATK_SE,ATK_NVE,ATK_NE)
-values('Dragon',q'|["Dragon"]|',q'|["Steel"]|',q'|["Fairy"]|');
-insert into Types(TYPE,ATK_SE,ATK_NVE)
-values('Dark',q'|["Ghost", "Psychic"]|',q'|["Dark", "Fairy", "Fighting"]|');
-insert into Types(TYPE,ATK_SE,ATK_NVE)
-values('Fairy',q'|["Dark", "Dragon", "Fighting"]|',q'|["Fire", "Poison", "Steel"]|');
 
 insert into eggGroups(NAME)
 values('Monster');
