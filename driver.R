@@ -37,10 +37,15 @@ source("items/cleanItems.R", encoding="UTF-8");
 
 # Evolution
 if(flag)file.edit("evolution/clean.R");
-source("evolution/clean.R", encoding="UTF-8"); # Must use \u2192 and not
+source("evolution/clean.R", encoding="UTF-8"); # Must use \u2192 and not right arrow (UTF-8 removed due to execution anomoly)
 
 # IV and Base
 if(flag)file.edit("IV/clean.R");
 source("IV/clean.R", encoding="UTF-8");
+
+# Redo type to convert to better format
+# Now easy to understand and no duplicate relationships
+if(flag)file.edit("type/expand.R");
+source("type/expand.R");
 
 file.edit("annalise.R");
