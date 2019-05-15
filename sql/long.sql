@@ -6358,6 +6358,9 @@ values(669,q'|Yellow Flower|','Fairy','Fairy',q'{Head and arms}','White',15,0,'1
 insert into SPECIES(DEX,CLASS,EGGGROUP1,TYPE,TYPE2,BODY,COLOR,STAR,GENDER_RATIO,CYCLES,ABILITY1,ABILITY2,HIDDEN_ABILITY,WEIGHTKG,HEIGHT_M)
 values(711,q'|Large Size|','Amorphous','Ghost','Grass',q'{Head and a base}','Brown',0,'1:1',20,'Pickup','Frisk','Insomnia',14,1.1);
 --=REGEXREPLACE(JOIN(", ",A2:A17),"(\w+)","items.$0 ITEM_$0")
+/*
+This view contains most information about Species
+*/
 create or replace view mix as(
 	select pokemon.NAME,pokemon.DEX,species.CLASS,species.DEX_SUFFIX,species.COLOR,species.CALL_RATE_SM,species.CALL_RATE_USUM,species.STAR,species.CYCLES,species.WEIGHTKG,species.WEIGHTKG*2.20462 as WEIGHTLBS,species.HEIGHT_M,floor(species.HEIGHT_M*3.28084)as HEIGHT_FT,mod(species.HEIGHT_M*39.3701,12)as HEIGHT_IN,
 		--body.*,
@@ -6368,10 +6371,6 @@ items.NAME ITEM,items.GEN ITEM_GEN,items.GEN2 ITEM_GEN2,items.DESCRIPTION ITEM_D
 eggGroups.NAME EGG_GROUP,eggGroups.TYPE_ALIAS EGG_GROUP_TYPE_ALIAS,eggGroups.URL EGG_GROUP_URL,
 		--eggGroups2.*,
 eggGroups2.NAME EGG_GROUP2,eggGroups2.TYPE_ALIAS EGG_GROUP2_TYPE_ALIAS,eggGroups2.URL EGG_GROUP2_URL,
-		--types.*,
-types.TYPE TYPE,types.DESCRIPTION TYPE_DESCRIPTION,types.ATK_SE TYPE_ATK_SE,types.ATK_NVE TYPE_ATK_NVE,types.ATK_NE TYPE_ATK_NE,types.DEF_SE TYPE_DEF_SE,types.DEF_NVE TYPE_DEF_NVE,types.DEF_NE TYPE_DEF_NE,types.URL TYPE_URL,
-		--types2.*,
-types2.TYPE TYPE2,types2.DESCRIPTION TYPE2_DESCRIPTION,types2.ATK_SE TYPE2_ATK_SE,types2.ATK_NVE TYPE2_ATK_NVE,types2.ATK_NE TYPE2_ATK_NE,types2.DEF_SE TYPE2_DEF_SE,types2.DEF_NVE TYPE2_DEF_NVE,types2.DEF_NE TYPE2_DEF_NE,types2.URL TYPE2_URL,
 		--gender_ratio.*,
 gender_ratio.KEY GENDER_RATIO_KEY,gender_ratio.MALE GENDER_RATIO_MALE,gender_ratio.FEMALE GENDER_RATIO_FEMALE,gender_ratio.UNBREEDABLE GENDER_RATIO_UNBREEDABLE,
 		--ability.*,
@@ -6390,10 +6389,6 @@ generation.GEN GENERATION,generation.REGION GENERATION_REGION,generation.DEX_MIN
 		on species.EGGGROUP1=eggGroups.NAME
 	left join eggGroups eggGroups2
 		on species.EGGGROUP2=eggGroups2.NAME
-	left join types
-		on species.TYPE=types.TYPE
-	left join types types2
-		on species.TYPE2=types2.TYPE
 	left join body
 		on species.BODY=body.BODY
 	inner join gender_ratio
@@ -6409,4 +6404,127 @@ generation.GEN GENERATION,generation.REGION GENERATION_REGION,generation.DEX_MIN
 	left join items
 		on species.ITEM=items.NAME
 );
+/*
+This table contains JSON arrays of Super Effective,Not Very Effective,and Not Effective
+moves for each defending type
+*/
+create or replace view typeDEF as(
+	select Types.TYPE DEF,SE.ATK SE,NVE.ATK NVE,NE.ATK NE
+	from
+		Types
+		full outer join
+(
+			select json_arrayagg(ATK)
+			from SE
+			group by DEF
+)SE
+			on Types.TYPE=SE.DEF
+		full outer join
+(
+			select json_arrayagg(ATK)
+			from NVE
+			group by DEF
+)NVE
+			on Types.TYPE=NVE.DEF
+		full outer join
+(
+			select json_arrayagg(ATK)
+			from NE
+			group by DEF
+)NE
+			on Types.TYPE=NE.DEF
+);
 
+/*
+This table contains JSON arrays of Super Effective,Not Very Effective,and Not Effective
+moves for each attacking type
+*/
+create or replace view typeATK as(
+	select Types.TYPE ATK,SE.DEF SE,NVE.DEF NVE,NE.DEF NE
+	from
+		Types
+		full outer join
+(
+			select json_arrayagg(DEF)
+			from SE
+			group by ATK
+)SE
+			on Types.TYPE=SE.ATK
+		full outer join
+(
+			select json_arrayagg(DEF)
+			from NVE
+			group by ATK
+)NVE
+			on Types.TYPE=NVE.ATK
+		full outer join
+(
+			select json_arrayagg(DEF)
+			from NE
+			group by ATK
+)NE
+			on Types.TYPE=NE.ATK
+);
+
+/*
+Union SE,NVE,and NE together and create a column called effect(SE 2,NVE .5,NE 0)
+*/
+create or replace view longType as(
+	select ATK,DEF,2 as effect
+	from SE
+	UNION
+	select ATK,DEF,.5 as effect
+	from NVE
+	UNION
+	select ATK,DEF,0 as effect
+	from NE
+);
+/*
+Union longType and the following sub-query together
+	Intersect the following sub-query and longType
+		select DEF and ATK
+		from the cross of Type with itself
+*/
+create or replace view longTypeAll as(
+	select ATK,DEF,effect
+	from longType
+	UNION
+	select ATK,DEF,1 as effect
+	from(
+		select DEF.TYPE DEF,ATK.TYPE ATK
+		from Types DEF cross join Types ATK
+		INTERSECT
+		select ATK,DEF
+		from longType
+)
+);
+
+/*
+Create a utility table determining dule type interactions
+This is intended to be static and therefore is a table
+*/
+create table typeInt(
+	T1 number(1,3),
+	T2 number(1,3),
+	R number(1,3),
+	CONSTANT pk_typeInt primary key(T1,T2)
+);
+insert into typeInt(T1,T2,R)values(0,0,0);
+insert into typeInt(T1,T2,R)values(0,.5,0);
+insert into typeInt(T1,T2,R)values(0,2,0);
+insert into typeInt(T1,T2,R)values(.5,0,0);
+insert into typeInt(T1,T2,R)values(.5,.5,.25);
+insert into typeInt(T1,T2,R)values(.5,2,1);
+insert into typeInt(T1,T2,R)values(2,0,0);
+insert into typeInt(T1,T2,R)values(2,.5,1);
+insert into typeInt(T1,T2,R)values(2,2,4);
+
+create or replace view duleTypeDEF as(
+	select longType.ATK,longType.DEF TYPE1 TYPE1,longType2.DEF TYPE2,typeInt.R effect
+	from
+		longType inner join longType longType2 on longType.ATK=longType2.ATK
+		inner join typeInt
+			on longType.effect=typeInt.T1 and longType2.effect=typeInt.T2
+	where longType.DEF!=longType2.DEF
+	-- Need make sure no Pokemon has duplicate types
+);
