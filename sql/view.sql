@@ -1,4 +1,7 @@
 --=REGEXREPLACE(JOIN(", ",A2:A17),"(\w+)","items.$0 ITEM_$0")
+/*
+This view contains most information about Species
+*/
 create or replace view mix as(
 	select pokemon.NAME, pokemon.DEX, species.CLASS, species.DEX_SUFFIX, species.COLOR, species.CALL_RATE_SM, species.CALL_RATE_USUM, species.STAR, species.CYCLES, species.WEIGHTKG, species.WEIGHTKG*2.20462 as WEIGHTLBS, species.HEIGHT_M, floor(species.HEIGHT_M*3.28084) as HEIGHT_FT, mod(species.HEIGHT_M*39.3701, 12) as HEIGHT_IN,
 		--body.*,
@@ -42,7 +45,10 @@ generation.GEN GENERATION, generation.REGION GENERATION_REGION, generation.DEX_M
 	left join items
 		on species.ITEM=items.NAME
 );
-
+/*
+This table contains JSON arrays of Super Effective, Not Very Effective, and Not Effective
+moves for each defending type
+*/
 create or replace view typeDEF as(
 	select Types.TYPE DEF, SE.ATK SE, NVE.ATK NVE, NE.ATK NE
 	from
@@ -70,6 +76,10 @@ create or replace view typeDEF as(
 			on Types.TYPE=NE.DEF
 );
 
+/*
+This table contains JSON arrays of Super Effective, Not Very Effective, and Not Effective
+moves for each attacking type
+*/
 create or replace view typeATK as(
 	select Types.TYPE ATK, SE.DEF SE, NVE.DEF NVE, NE.DEF NE
 	from
@@ -97,6 +107,9 @@ create or replace view typeATK as(
 			on Types.TYPE=NE.ATK
 );
 
+/*
+Union SE, NVE, and NE together and create a column called effect (SE 2, NVE .5, NE 0)
+*/
 create or replace view longType as(
 	select ATK, DEF, 2 as effect
 	from SE
@@ -107,7 +120,30 @@ create or replace view longType as(
 	select ATK, DEF, 0 as effect
 	from NE
 );
+/*
+Union longType and the following sub-query together
+	Intersect the following sub-query and longType
+		select DEF and ATK
+		from the cross of Type with itself
+*/
+create or replace view longTypeAll as(
+	select ATK, DEF, effect
+	from longType
+	UNION
+	select ATK, DEF, 1 as effect
+	from(
+		select DEF.TYPE DEF, ATK.TYPE ATK
+		from Types DEF cross join Types ATK
+		INTERSECT
+		select ATK, DEF
+		from longType
+	)
+);
 
+/*
+Create a utility table determining dule type interactions
+This is intended to be static and therefore is a table
+*/
 create table typeInt(
 	T1 number(1,3),
 	T2 number(1,3),
@@ -127,10 +163,9 @@ insert into typeInt(T1, T2, R)values(2,2,4);
 create or replace view duleTypeDEF as(
 	select longType.ATK, longType.DEF TYPE1 TYPE1, longType2.DEF TYPE2, typeInt.R effect
 	from
-		longType cross join longType longType2
+		longType inner join longType longType2 on longType.ATK=longType2.ATK
 		inner join typeInt
 			on longType.effect=typeInt.T1 and longType2.effect=typeInt.T2
-	where longType.DEF!=longType2.DEF and longType.ATK=longType2.ATK
+	where longType.DEF!=longType2.DEF
 	-- Need make sure no Pokemon has duplicate types
-	-- And make sure it is the same attack type
-)
+);
