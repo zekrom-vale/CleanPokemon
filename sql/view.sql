@@ -55,21 +55,21 @@ create or replace view typeDEF as(
 		Types
 		full outer join
 		(
-			select json_arrayagg(ATK)
+			select DEF, json_arrayagg(ATK) ATK
 			from SE
 			group by DEF
 		) SE
 			on Types.TYPE=SE.DEF
 		full outer join
 		(
-			select json_arrayagg(ATK)
+			select DEF, json_arrayagg(ATK) ATK
 			from NVE
 			group by DEF
 		) NVE
 			on Types.TYPE=NVE.DEF
 		full outer join
 		(
-			select json_arrayagg(ATK)
+			select DEF, json_arrayagg(ATK) ATK
 			from NE
 			group by DEF
 		) NE
@@ -86,21 +86,21 @@ create or replace view typeATK as(
 		Types
 		full outer join
 		(
-			select json_arrayagg(DEF)
+			select ATK, json_arrayagg(DEF) DEF
 			from SE
 			group by ATK
 		) SE
 			on Types.TYPE=SE.ATK
 		full outer join
 		(
-			select json_arrayagg(DEF)
+			select ATK, json_arrayagg(DEF) DEF
 			from NVE
 			group by ATK
 		) NVE
 			on Types.TYPE=NVE.ATK
 		full outer join
 		(
-			select json_arrayagg(DEF)
+			select ATK, json_arrayagg(DEF) DEF
 			from NE
 			group by ATK
 		) NE
@@ -148,7 +148,7 @@ create table typeInt(
 	T1 number(1,3),
 	T2 number(1,3),
 	R number(1,3),
-	CONSTANT pk_typeInt primary key(T1, T2)
+	CONSTRAINT pk_typeInt primary key(T1, T2)
 );
 insert into typeInt(T1, T2, R)values(0,0,0);
 insert into typeInt(T1, T2, R)values(0,.5,0);
@@ -161,7 +161,7 @@ insert into typeInt(T1, T2, R)values(2,.5,1);
 insert into typeInt(T1, T2, R)values(2,2,4);
 
 create or replace view duleTypeDEF as(
-	select longType.ATK, longType.DEF TYPE1 TYPE1, longType2.DEF TYPE2, typeInt.R effect
+	select longType.ATK, longType.DEF TYPE1, longType2.DEF TYPE2, typeInt.R effect
 	from
 		longType inner join longType longType2 on longType.ATK=longType2.ATK
 		inner join typeInt
