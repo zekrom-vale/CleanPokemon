@@ -4332,39 +4332,6 @@ CONSTRAINT ck_Egg check(EggGroup1!=EggGroup2),--Make sure that egg groups don't 
 CONSTRAINT un_Dex_Class unique(Dex,Class)--Ensure that no class has duplicates
 );
 
-
-
-
-create or replace trigger species_pk_trg
-before insert or update of(DEX,CLASS,DEX_SUFFIX)
-on species
-for each row
-when(new.CLASS is null or new.DEX_SUFFIX is null)
-declare
-n number;
-begin
-select count(*)
-into n
-from species
-where :new.DEX=species.DEX
-and(
-(
-:new.CLASS is null and species.CLASS is null and :new.DEX_SUFFIX=species.DEX_SUFFIX
-)or(
-:new.DEX_SUFFIX is null and species.DEX_SUFFIX is null and :new.CLASS=species.CLASS
-)or(
-:new.CLASS is null and species.CLASS is null
-and
-:new.DEX_SUFFIX is null and species.DEX_SUFFIX is null
-)
-);
-if n>0 and INSERTING or n>1 and UPDATING then
-raise_application_error(-2000,'Can not insert duplicate rows for DEX, CLASS, and DEX_SUFFIX');
-end if;
-end;
-/
-
-
 insert into SPECIES(DEX,EGGGROUP1,TYPE,TYPE2,BODY,COLOR,STAR,GENDER_RATIO,CYCLES,ABILITY1,HIDDEN_ABILITY,WEIGHTKG,HEIGHT_M)
 values(787,'Undiscovered','Grass','Fairy',q'{Head and arms}','Red',0,'GU',15,'Grassy Surge','Telepathy',45.5,1.9);
 insert into SPECIES(DEX,EGGGROUP1,TYPE,BODY,COLOR,STAR,GENDER_RATIO,CYCLES,ABILITY1,HIDDEN_ABILITY,WEIGHTKG,HEIGHT_M)
