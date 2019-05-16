@@ -1,4 +1,9 @@
 /*
+NOTE: Some queries return many rows, Use where or order by to select ones to see.
+You can also download the CSV file or set the maximum rows settings under `Actions` to see more
+*/
+
+/*
 Requires only one table
 */
 --Count the alolans
@@ -18,10 +23,9 @@ select effect, count(*)
 	order by effect;
 
 --What types are weak against Dragon attacks?
-select TYPE DEFFENDER, json.DEF_SE ATTACKER
-	from types cross join
-		json_table(types.DEF_SE, '$[*]' COLUMNS(DEF_SE PATH '$')) as json
-	where json.DEF_SE='Dragon';
+select *
+    from duleTypeDEF
+    where ATK='Dragon' and EFFECT>=2;
 
 --This value already exists but this is the reverse of the procedure that gathers the DEF_* values
 --See TYPE_FINAL and GET_DEF and GET_ATK
@@ -60,10 +64,10 @@ select *
     where COLOR='Black' and TYPE='Dragon';
 
 --What pokemon are not within their GENERATION_DEX range
-select NAME, DEX, GENERATION_GEN, GENERATION_DEX_MIN, GENERATION_DEX_MAX
+select NAME, DEX, GENERATION, GENERATION_DEX_MIN, GENERATION_DEX_MAX
     from mix
     where not DEX between GENERATION_DEX_MIN and GENERATION_DEX_MAX
-    group by NAME, DEX, GENERATION_GEN, GENERATION_DEX_MIN, GENERATION_DEX_MAX;
+    group by NAME, DEX, GENERATION, GENERATION_DEX_MIN, GENERATION_DEX_MAX;
 --This expected to be empty, but it is not, so there are likely data bugs
 
 /*
@@ -83,6 +87,7 @@ select NAME, DEX, DEX_SUFFIX, CLASS
 	--Don't need mix
 
 --For all species how weak are they against dragon types?
+--NOTE: This returns around 1000 rows
 select *
 	from mix inner join duleTypeDEF
 		on duleTypeDEF.TYPE=mix.TYPE
@@ -106,17 +111,15 @@ with ability as(
 )
 select *
 	from ability
-	where count=(select max(count) from count);
+	where count=(select max(count) from ability);
 
+	--FULL and CROSS
 --For all types how many species have those types?
-select *
+select num.TYPE, num.TYPE2, COUNT
 	from
 		(
 			select Types.TYPE TYPE, Types2.TYPE TYPE2
 				from Types cross join Types Types2
-			UNION
-			select Types.TYPE TYPE, NULL TYPE2
-				from Types
 		) typeConstruct
 		full outer join
 		(
@@ -126,6 +129,4 @@ select *
 		) num
 			on typeConstruct.TYPE=num.TYPE and (
 				typeConstruct.TYPE2=num.TYPE2
-				or
-				typeConstruct.TYPE2 is null and num.TYPE2 is null
 			);
