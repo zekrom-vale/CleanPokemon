@@ -6,7 +6,7 @@ You can also download the CSV file or set the maximum rows settings under `Actio
 /*
 Requires only one table
 */
---Count the alolans
+--Count the Alolans
 select count(*)
 	from species
 	where DEX_SUFFIX='A';
@@ -70,6 +70,16 @@ select NAME, DEX, GENERATION, GENERATION_DEX_MIN, GENERATION_DEX_MAX
 	group by NAME, DEX, GENERATION, GENERATION_DEX_MIN, GENERATION_DEX_MAX;
 --This expected to be empty, but it is not, so there are likely data bugs
 
+	--LEFT JOIN
+--mix view
+select *
+	from mix;
+
+	--RIGHT JOIN
+--For all species what does their second ability do?
+select *
+	from eggGroups right join species on eggGroups.NAME=species.EGGGROUP2;
+
 /*
 Uses sub-queries
 */
@@ -113,7 +123,7 @@ select *
 	from ability
 	where count=(select max(count) from ability);
 
-	--FULL and CROSS
+	--FULL and CROSS JOIN
 --For all types how many species have those types?
 select num.TYPE, num.TYPE2, COUNT
 	from
