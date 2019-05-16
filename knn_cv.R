@@ -2,14 +2,42 @@
 source("import.R");
 if(flag)file.edit("import.R");
 
+# Some plots take some time, as there are many values
+# Others may not display unless zoomed in
+# Many plots need to be zoomed in to see,
+# others you nned to maximise the window to re-render
+# Others don't render the legend correctoly, if at all,
+# zomming in fixes that
+# Resolution may differ as I use a 4K monitor
+
+# See the tibbles
+types;
+gender_ratio;
+generations;
+eggGroups;
+body;
+abilityKey;
+items;
+itemsIDs;
+
+pokemon;
+species;
+pokemonLang;
+base;
+evolutions;
+family;
+# Long is the table that is joined together
+long;
+
 # See the functions I created to automaticaly handle the
 # knn cross validation (Based off of some of your functions)
 # I would have made it parallel, but parallel:: is not automatic
-View(zUtil::knn_cv);
-View(zUtil::predict_knn);
+# See at
+browseURL("https://github.com/zekrom-vale/zUtil.R/blob/master/R/cfknn.R");
 
 
 # Can we pedict Type with weight and height?
+# As there is a corelation between Type and Height and Weight
 species%>%
 	ggplot()+
 	geom_point(aes(WeightKg, HeightM, color=Type))+
@@ -26,10 +54,28 @@ species%>%
 # Type
 # The problem is that we don't need to pridict that ever
 
+# There appers to be a corelation between Weight and Height
+# that can predict Type by knn.
+# This is that graph.
+species%>%
+	ggplot(aes(WeightKg, HeightM, color=Type))+
+	geom_point()+
+	geom_smooth(se=FALSE);
+
+# Use the log to improve loess and graphing
+species%>%
+	ggplot(aes(log(WeightKg), log(HeightM), color=Type))+
+	geom_point()+
+	geom_smooth(se=FALSE);
+
 species%>%
 	knn_cv(WeightKg, HeightM, color=Type, nfold=10, times=20, k=1:350);
 # Good, knn is quite good at predicting Type~Weight+HeightM
 # Best k-value: 206 @ 14.3% error
+# This shows that 206nn is quite good for predicting the first type
+# of a species.  This would make sence as the first typpe is the
+# primary type and that species of rock or steel would be heaver
+# and shorter than species of say flying or normal.
 
 # species%>%
 #		knn_fill(WeightKg, HeightM, color=Type, k=206);
@@ -38,6 +84,9 @@ species%>%
 species%>%
 	knn_cv(WeightKg, HeightM, color=Type2, nfold=10, times=20, k=1:350);
 # Not as good to predict
+# This is likely less acurate as the second type is less of a
+# factor in weight and height.  Why else would there be pokemon
+# with the same types but in a different order?
 
 # The only data that we do not have for all species is Group
 # this is because Groups were introduced in 3rd generation
@@ -57,6 +106,7 @@ long%>%
 # k-284 @18.8% error is not that bad
 # Still, it would be nice to use other descreet varables
 # such as Type
+# I would increase the knn k-value, but class::knn gives out around 400 to 600
 
 long%>%
 	knn_cv(Type, color=Group, na.action="remove");
