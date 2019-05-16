@@ -24,15 +24,15 @@ select effect, count(*)
 
 --What types are weak against Dragon attacks?
 select *
-    from duleTypeDEF
-    where ATK='Dragon' and EFFECT>=2;
+	from duleTypeDEF
+	where ATK='Dragon' and EFFECT>=2;
 
 --This value already exists but this is the reverse of the procedure that gathers the DEF_* values
 --See TYPE_FINAL and GET_DEF and GET_ATK
 
 /*
 Requires multiple tables and joining
-NOTE: The view mix is a massive joined table
+NOTE: The view mix is a massive joined table and there are other views declared in view.sql
 */
 
 --For each pokemon how many forms do they have?
@@ -60,14 +60,14 @@ select NAME, DEX, JSON_ARRAYAGG(ITEM absent on null) as items
 
 --What species are Dragons and Black?
 select *
-    from mix
-    where COLOR='Black' and TYPE='Dragon';
+	from mix
+	where COLOR='Black' and TYPE='Dragon';
 
 --What pokemon are not within their GENERATION_DEX range
 select NAME, DEX, GENERATION, GENERATION_DEX_MIN, GENERATION_DEX_MAX
-    from mix
-    where not DEX between GENERATION_DEX_MIN and GENERATION_DEX_MAX
-    group by NAME, DEX, GENERATION, GENERATION_DEX_MIN, GENERATION_DEX_MAX;
+	from mix
+	where not DEX between GENERATION_DEX_MIN and GENERATION_DEX_MAX
+	group by NAME, DEX, GENERATION, GENERATION_DEX_MIN, GENERATION_DEX_MAX;
 --This expected to be empty, but it is not, so there are likely data bugs
 
 /*
