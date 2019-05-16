@@ -3,7 +3,7 @@
 This view contains most information about Species
 */
 create or replace view mix as(
-	select pokemon.NAME, pokemon.DEX, species.CLASS, species.DEX_SUFFIX, species.COLOR, species.CALL_RATE_SM, species.CALL_RATE_USUM, species.STAR, species.CYCLES, species.WEIGHTKG, species.WEIGHTKG*2.20462 as WEIGHTLBS, species.HEIGHT_M, floor(species.HEIGHT_M*3.28084) as HEIGHT_FT, mod(species.HEIGHT_M*39.3701, 12) as HEIGHT_IN,
+	select pokemon.NAME, pokemon.DEX, species.CLASS, species.DEX_SUFFIX, species.TYPE, species.TYPE2, species.COLOR, species.CALL_RATE_SM, species.CALL_RATE_USUM, species.STAR, species.CYCLES, species.WEIGHTKG, species.WEIGHTKG*2.20462 as WEIGHTLBS, species.HEIGHT_M, floor(species.HEIGHT_M*3.28084) as HEIGHT_FT, mod(species.HEIGHT_M*39.3701, 12) as HEIGHT_IN,
 		--body.*,
 body.BODY BODY, body.PARENT BODY_PARENT, body.DESCRIPTION BODY_DESCRIPTION, body.ID BODY_ID,
 		--items.*,
@@ -145,27 +145,40 @@ Create a utility table determining dule type interactions
 This is intended to be static and therefore is a table
 */
 create table typeInt(
-	T1 number(1,3),
-	T2 number(1,3),
-	R number(1,3),
+	T1 number,
+	T2 number,
+	R number,
 	CONSTRAINT pk_typeInt primary key(T1, T2)
 );
 insert into typeInt(T1, T2, R)values(0,0,0);
 insert into typeInt(T1, T2, R)values(0,.5,0);
+insert into typeInt(T1, T2, R)values(0,1,0);
 insert into typeInt(T1, T2, R)values(0,2,0);
+
 insert into typeInt(T1, T2, R)values(.5,0,0);
+insert into typeInt(T1, T2, R)values(.5,1,.25);
 insert into typeInt(T1, T2, R)values(.5,.5,.25);
 insert into typeInt(T1, T2, R)values(.5,2,1);
+
+insert into typeInt(T1, T2, R)values(1,0,0);
+insert into typeInt(T1, T2, R)values(1,.5,.25);
+insert into typeInt(T1, T2, R)values(1,2,2);
+insert into typeInt(T1, T2, R)values(1,1,1);
+
 insert into typeInt(T1, T2, R)values(2,0,0);
+insert into typeInt(T1, T2, R)values(2,1,2);
 insert into typeInt(T1, T2, R)values(2,.5,1);
 insert into typeInt(T1, T2, R)values(2,2,4);
 
 create or replace view duleTypeDEF as(
-	select longType.ATK, longType.DEF TYPE1, longType2.DEF TYPE2, typeInt.R effect
+	select longTypeALL.ATK, longTypeALL.DEF TYPE, longTypeALL2.DEF TYPE2, typeInt.R effect
 	from
-		longType inner join longType longType2 on longType.ATK=longType2.ATK
+		longTypeALL inner join longTypeALL longTypeALL2 on longTypeALL.ATK=longTypeALL2.ATK
 		inner join typeInt
-			on longType.effect=typeInt.T1 and longType2.effect=typeInt.T2
-	where longType.DEF!=longType2.DEF
+			on longTypeALL.effect=typeInt.T1 and longTypeALL2.effect=typeInt.T2
+	where longTypeALL.DEF!=longTypeALL2.DEF
 	-- Need make sure no Pokemon has duplicate types
+	UNION
+	select longTypeALL.ATK, longTypeALL.DEF TYPE, NULL TYPE2, 1 effect
+	from longTypeALL
 );
