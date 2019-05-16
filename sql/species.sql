@@ -1,5 +1,5 @@
 create table SPECIES(
-DEX number(4,0) CONSTRAINT ck_DEX_PosZero2 check(DEX>=0), --Pokedex number of the Pokemon
+DEX number(4,0) not null CONSTRAINT ck_DEX_PosZero2 check(DEX>=0), --Pokedex number of the Pokemon
 CLASS varchar2(100 char) , --Discribing the form or type diffirence
 DEX_SUFFIX varchar2(2 byte) CONSTRAINT ck_DEX_SUFFIX_Cap check(regexp_like(DEX_SUFFIX, '[A-Z][a-zA-Z]?')), --Dex Suffix of the Pokemon to distinguish between types
 ITEM varchar2(50) references ITEMS(NAME), --The item used to get the form
@@ -28,6 +28,35 @@ CONSTRAINT un_Dex_Class unique(Dex, Class) --Ensure that no class has duplicates
 
 
 
+
+create or replace trigger species_pk_trg
+before insert or update of (DEX, CLASS, DEX_SUFFIX)
+on species
+for each row
+when(new.CLASS is null or new.DEX_SUFFIX is null)
+declare
+n number;
+begin
+select count(*)
+into n
+from species
+where :new.DEX=species.DEX
+and(
+(
+:new.CLASS is null and species.CLASS is null and :new.DEX_SUFFIX=species.DEX_SUFFIX
+)or(
+:new.DEX_SUFFIX is null and species.DEX_SUFFIX is null and :new.CLASS=species.CLASS
+)or(
+:new.CLASS is null and species.CLASS is null
+and
+:new.DEX_SUFFIX is null and species.DEX_SUFFIX is null
+)
+);
+if n>0 and INSERTING or n>1 and UPDATING then
+raise_application_error(-2000, 'Can not insert duplicate rows for DEX, CLASS, and DEX_SUFFIX');
+end if;
+end;
+/
 
 
 insert into SPECIES( DEX , EGGGROUP1 , TYPE, TYPE2, BODY, COLOR , STAR, GENDER_RATIO, CYCLES, ABILITY1 , HIDDEN_ABILITY, WEIGHTKG, HEIGHT_M )
