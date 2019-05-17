@@ -1,3 +1,10 @@
+####################################################################
+#															Intro
+####################################################################
+# Do note that I have more code and documentation on other files
+# as well as the utility package I made (I have included that in
+# counting the code requierments)
+
 # Import the data
 source("import.R");
 if(flag)file.edit("import.R");
@@ -34,7 +41,12 @@ long;
 # I would have made it parallel, but parallel:: is not automatic
 # See at
 browseURL("https://github.com/zekrom-vale/zUtil.R/blob/master/R/cfknn.R");
+# Documentation included for
+?zUtil::knn_cv
 
+####################################################################
+#															Type
+####################################################################
 
 # Can we pedict Type with weight and height?
 # As there is a corelation between Type and Height and Weight
@@ -53,6 +65,7 @@ species%>%
 # So we should be able to as there is a different line for each
 # Type
 # The problem is that we don't need to pridict that ever
+# as they don't give a species without Type
 
 # There appers to be a corelation between Weight and Height
 # that can predict Type by knn.
@@ -88,6 +101,10 @@ species%>%
 # factor in weight and height.  Why else would there be pokemon
 # with the same types but in a different order?
 
+####################################################################
+#															Group
+####################################################################
+
 # The only data that we do not have for all species is Group
 # this is because Groups were introduced in 3rd generation
 # and have not been used since.
@@ -108,6 +125,16 @@ long%>%
 # such as Type
 # I would increase the knn k-value, but class::knn gives out around 400 to 600
 
+
+####################################################################
+#															Body
+####################################################################
+
+long%>%
+	ggplot()+
+	geom_point(aes(WeightKg, HeightM, color=Body))+
+	geom_smooth(aes(WeightKg, HeightM));
+
 long%>%
 	knn_cv(Type, color=Group, na.action="remove");
 # Yep, knn does not accept factors and converting them into numbers
@@ -118,6 +145,8 @@ long%>%
 long%>%
 	knn_cv(WeightKg, HeightM, color=Body, k=1:390, times=20);
 # Best k value 204 at 22.2%
-# Not that bad of a prediction for body
+# Not that bad of a prediction for body.  This makes sence as
+# a head body type would weigh less than a bipedaled tailed
+# creture and be taller.
 # Still, it should be based off of more than just Weight and
 # Height
